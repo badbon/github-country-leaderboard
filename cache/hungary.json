@@ -43656,25 +43656,13 @@
     "createdAt": "2019-06-17T14:32:15Z"
   },
   {
-    "login": "amjad-mahfoud",
-    "name": "Amjad Mahfoud",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53599153?s=72&u=598d3d194d5324b0cd0c4e81480b8c6bb3f6cf56&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-08-02T07:33:38Z"
-  },
-  {
     "login": "padi48",
     "name": "Máté Pados",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46728419?s=72&u=0725dae8cf97c0e34c374850877935396a2c3f5c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46728419?s=72&u=1445220a8c0cab07997d71f431d9f63081d0758a&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-15T21:21:13Z"
@@ -43687,7 +43675,7 @@
     "company": "MSCI Inc.",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2019-06-19T16:01:44Z"
   },
@@ -43698,9 +43686,9 @@
     "location": "Budapest, Hungary",
     "company": "Arm",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 160,
     "createdAt": "2019-05-16T12:06:47Z"
   },
   {
@@ -43723,8 +43711,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 28,
-    "publicContributions": 86,
+    "privateContributions": 34,
+    "publicContributions": 95,
     "createdAt": "2019-05-31T05:33:17Z"
   },
   {
@@ -43736,7 +43724,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 74,
     "createdAt": "2019-09-30T15:30:02Z"
   },
   {
@@ -43784,7 +43772,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 374,
     "createdAt": "2019-08-20T01:03:22Z"
   },
   {
@@ -43796,7 +43784,7 @@
     "twitterUsername": "RSzaboDesign",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 97,
     "createdAt": "2019-06-22T22:32:30Z"
   },
   {
@@ -43806,7 +43794,7 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-01T20:26:08Z"
@@ -43818,9 +43806,9 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 262,
-    "publicContributions": 40,
+    "followers": 6,
+    "privateContributions": 461,
+    "publicContributions": 48,
     "createdAt": "2019-10-27T21:40:25Z"
   },
   {
@@ -43830,9 +43818,9 @@
     "location": "Budapest / Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 963,
-    "publicContributions": 11,
+    "followers": 5,
+    "privateContributions": 1022,
+    "publicContributions": 4,
     "createdAt": "2019-02-27T09:07:42Z"
   },
   {
@@ -43856,7 +43844,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 50,
     "createdAt": "2019-10-04T19:58:12Z"
   },
   {
@@ -43882,18 +43870,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-07-29T14:27:47Z"
-  },
-  {
-    "login": "daniel-dpsi",
-    "name": "Daniel G.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51021466?s=72&v=4",
-    "location": "Budapest, Hungary",
-    "company": "Freelance Developer",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-05-25T11:09:02Z"
   },
   {
     "login": "kferenc3",

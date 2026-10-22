@@ -43782,7 +43782,7 @@
     "location": "Mexico City",
     "company": "Freelance",
     "twitterUsername": "binucci04",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 43,
     "publicContributions": 0,
     "createdAt": "2022-05-06T18:55:29Z"
@@ -43794,7 +43794,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 1,
     "publicContributions": 30,
     "createdAt": "2022-02-15T03:03:15Z"
@@ -43806,7 +43806,7 @@
     "location": "Guadalajara, Mexico.",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 156,
     "createdAt": "2022-04-06T15:25:31Z"
@@ -43830,7 +43830,7 @@
     "location": "Guadalajara, Mexico",
     "company": "Roboto Games",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2022-02-02T21:05:59Z"
@@ -43842,7 +43842,7 @@
     "location": "Mexico City ",
     "company": "Faculty of Sciences, UNAM",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-04-29T02:55:23Z"
@@ -43854,9 +43854,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 13,
-    "publicContributions": 0,
+    "followers": 10,
+    "privateContributions": 49,
+    "publicContributions": 1,
     "createdAt": "2022-01-20T21:28:19Z"
   },
   {
@@ -43868,7 +43868,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 291,
+    "publicContributions": 240,
     "createdAt": "2022-02-01T01:00:28Z"
   },
   {
@@ -43890,9 +43890,9 @@
     "location": "Mexico",
     "company": "Thayrov",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 2481,
-    "publicContributions": 431,
+    "followers": 10,
+    "privateContributions": 2548,
+    "publicContributions": 427,
     "createdAt": "2022-05-10T19:53:08Z"
   },
   {
@@ -43914,9 +43914,9 @@
     "location": "Monterrey Nuevo Leon, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 40,
     "createdAt": "2022-02-20T01:50:37Z"
   },
   {
@@ -43938,7 +43938,7 @@
     "location": "Mexico City, Mexico",
     "company": "National University of Mexico",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-04-21T20:19:25Z"
@@ -43963,8 +43963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 27,
-    "publicContributions": 244,
+    "privateContributions": 23,
+    "publicContributions": 140,
     "createdAt": "2022-02-25T03:22:50Z"
   },
   {
@@ -43980,18 +43980,6 @@
     "createdAt": "2022-01-11T18:05:24Z"
   },
   {
-    "login": "ryan-sdjr",
-    "name": "ryamsdjr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99209926?s=72&u=d66948b857df7b741d6cddb09cd28dad879426a0&v=4",
-    "location": "Mexico ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 103,
-    "createdAt": "2022-02-07T18:29:56Z"
-  },
-  {
     "login": "tavodevcode",
     "name": "Gustavo Hernandez Hidalgo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102698710?s=72&u=478237069c3ddb9bc92b530ebd6a643bc71e0689&v=4",
@@ -43999,8 +43987,8 @@
     "company": "Grupo Salinas",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 514,
-    "publicContributions": 112,
+    "privateContributions": 525,
+    "publicContributions": 114,
     "createdAt": "2022-03-30T20:59:55Z"
   },
   {
@@ -44011,7 +43999,7 @@
     "company": "",
     "twitterUsername": "jcarlostoso",
     "followers": 10,
-    "privateContributions": 180,
+    "privateContributions": 309,
     "publicContributions": 0,
     "createdAt": "2022-02-05T13:23:36Z"
   },

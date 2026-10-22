@@ -588046,5 +588046,77 @@
     "privateContributions": 8292,
     "publicContributions": 1,
     "createdAt": "2008-06-17T02:59:50Z"
+  },
+  {
+    "login": "guelfoweb",
+    "name": "Gianni Amato",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41558?s=72&u=ff95ee4f3496699975a4b2ae4ccfd3011d860d58&v=4",
+    "location": "Roma",
+    "company": "",
+    "twitterUsername": "guelfoweb",
+    "followers": 874,
+    "privateContributions": 0,
+    "publicContributions": 1274,
+    "createdAt": "2008-12-19T11:05:46Z"
+  },
+  {
+    "login": "lleirborras",
+    "name": "Lleïr Borràs Metje",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34919?s=72&u=40fc9802014dde7df05e0d2771b2f79ee2e8c896&v=4",
+    "location": "Roma",
+    "company": "IFAD",
+    "twitterUsername": "",
+    "followers": 26,
+    "privateContributions": 1613,
+    "publicContributions": 96,
+    "createdAt": "2008-11-17T08:50:58Z"
+  },
+  {
+    "login": "Nightmare",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8202?s=72&u=6dabf9bfa3a2cb041b70d29da50eeec4528d675e&v=4",
+    "location": "Roma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2008-04-22T19:28:21Z"
+  },
+  {
+    "login": "simone",
+    "name": "Simone Federici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/29262?s=72&v=4",
+    "location": "Roma",
+    "company": "Geniusbytes",
+    "twitterUsername": "",
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2008-10-16T12:22:32Z"
+  },
+  {
+    "login": "cfiorini",
+    "name": "Claudio Fiorini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/25423?s=72&u=83a4bce7be733781c1e62a030673d3b58033097b&v=4",
+    "location": "Roma, IT",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 206,
+    "publicContributions": 0,
+    "createdAt": "2008-09-19T20:41:14Z"
+  },
+  {
+    "login": "uamuamuam",
+    "name": "Maurizio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39959?s=72&v=4",
+    "location": "Roma",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2008-12-12T00:03:26Z"
   }
 ]

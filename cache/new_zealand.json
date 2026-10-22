@@ -44011,7 +44011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 341,
+    "privateContributions": 83,
     "publicContributions": 1,
     "createdAt": "2019-05-12T22:28:49Z"
   },
@@ -44046,7 +44046,7 @@
     "location": "Wellington",
     "company": "@metocean @MetServiceDev ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-07T21:58:48Z"
@@ -44058,7 +44058,7 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2019-03-20T04:33:46Z"
@@ -44071,21 +44071,9 @@
     "company": "Xero",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 97,
+    "privateContributions": 96,
     "publicContributions": 0,
     "createdAt": "2019-05-08T23:20:48Z"
-  },
-  {
-    "login": "kylema-8",
-    "name": "Kyle Martin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58274895?s=72&u=83172e797d4cc391422e3eae9d6ae9333e6518b9&v=4",
-    "location": "Wellington",
-    "company": "@Trimble-Technology ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2019-11-27T21:36:16Z"
   },
   {
     "login": "NathanRomanos",
@@ -44107,7 +44095,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 971,
+    "privateContributions": 1188,
     "publicContributions": 0,
     "createdAt": "2019-11-03T20:58:36Z"
   },
@@ -44118,7 +44106,7 @@
     "location": "Wellington",
     "company": "JDY",
     "twitterUsername": "davidyao2011",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-12T08:46:54Z"
@@ -44132,7 +44120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 220,
+    "publicContributions": 83,
     "createdAt": "2019-01-16T21:55:02Z"
   },
   {
@@ -44144,7 +44132,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-04-20T05:59:19Z"
   },
   {

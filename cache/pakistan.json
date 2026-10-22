@@ -43220,7 +43220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 98,
     "createdAt": "2025-09-16T09:35:57Z"
   },
   {
@@ -43231,8 +43231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 27,
+    "privateContributions": 6,
+    "publicContributions": 28,
     "createdAt": "2025-09-12T12:31:15Z"
   },
   {
@@ -43244,19 +43244,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2025-09-04T21:49:55Z"
   },
   {
     "login": "sadafmashorihyd-cmd",
     "name": "sadaf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231920869?s=72&u=d7a4a8996d83d07a35f85a78078cd8904c74edf9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231920869?s=72&u=c0b3c3c8e217b328e97a9b0a811e72f39202fbbe&v=4",
     "location": "pakistan ",
     "company": "microsoft",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 278,
     "createdAt": "2025-09-12T14:54:41Z"
   },
   {
@@ -43268,7 +43268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 4,
     "createdAt": "2025-08-14T11:52:59Z"
   },
   {
@@ -43280,7 +43280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 29,
     "createdAt": "2025-08-13T17:31:00Z"
   },
   {
@@ -43291,8 +43291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 148,
-    "publicContributions": 1,
+    "privateContributions": 139,
+    "publicContributions": 6,
     "createdAt": "2025-08-20T07:34:48Z"
   },
   {
@@ -43304,7 +43304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-27T06:22:42Z"
   },
   {
@@ -43316,7 +43316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-09-10T11:13:51Z"
   },
   {
@@ -43328,7 +43328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 462,
+    "publicContributions": 586,
     "createdAt": "2025-08-30T12:35:41Z"
   },
   {
@@ -43340,7 +43340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2025-08-26T14:45:09Z"
   },
   {
@@ -43352,7 +43352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 131,
     "createdAt": "2025-08-29T16:27:29Z"
   },
   {
@@ -43364,20 +43364,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-09T08:17:27Z"
-  },
-  {
-    "login": "syedaaliyanx",
-    "name": "Aaliyan Shah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234180632?s=72&u=9ee8d64a7ed0cba638bc79060346ed5f8924eb59&v=4",
-    "location": "Pakistan",
-    "company": "",
-    "twitterUsername": "syedaaliyanx",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2025-09-24T11:26:30Z"
   },
   {
     "login": "ayanayaz-webdev",
@@ -43388,7 +43376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 86,
     "createdAt": "2025-09-08T17:09:54Z"
   },
   {
@@ -43396,24 +43384,12 @@
     "name": "Ameer Hamza",
     "avatarUrl": "https://avatars.githubusercontent.com/u/228708411?s=72&u=77761cd1835701bc01d10730bdeaefc4772d2b92&v=4",
     "location": "Peshawar,Pakistan",
-    "company": "Cecos University ",
+    "company": "Cecos University Peshawar",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 27,
     "createdAt": "2025-08-26T10:57:21Z"
-  },
-  {
-    "login": "rgilani18",
-    "name": "Rabiya Gilani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229190161?s=72&v=4",
-    "location": "Karachi, Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 67,
-    "createdAt": "2025-08-28T18:17:50Z"
   },
   {
     "login": "Shayan787",
@@ -43424,7 +43400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 44,
     "createdAt": "2025-09-24T06:18:06Z"
   },
   {
@@ -43436,7 +43412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-09-03T17:38:55Z"
   },
   {
@@ -43447,8 +43423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1543,
-    "publicContributions": 72,
+    "privateContributions": 1289,
+    "publicContributions": 71,
     "createdAt": "2025-09-22T15:06:11Z"
   },
   {
@@ -410286,9 +410262,9 @@
     "location": "Lahore, Pakistan (open to relocation - Germany/EU)",
     "company": "Gateway Technologies",
     "twitterUsername": "naqvishah582",
-    "followers": 29,
-    "privateContributions": 113,
-    "publicContributions": 18,
+    "followers": 28,
+    "privateContributions": 103,
+    "publicContributions": 16,
     "createdAt": "2018-07-02T12:52:54Z"
   },
   {

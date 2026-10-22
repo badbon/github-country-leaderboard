@@ -763878,7 +763878,7 @@
     "location": "Moscow, Russia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-27T10:24:07Z"
@@ -764970,9 +764970,9 @@
     "location": "Russia, Moscow",
     "company": "ETG",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 115,
     "createdAt": "2014-10-25T16:58:02Z"
   },
   {
@@ -765571,7 +765571,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 24,
+    "privateContributions": 33,
     "publicContributions": 0,
     "createdAt": "2014-10-25T17:58:46Z"
   },
@@ -765907,8 +765907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4646,
-    "publicContributions": 0,
+    "privateContributions": 11497,
+    "publicContributions": 2,
     "createdAt": "2014-10-28T16:41:34Z"
   },
   {
@@ -769388,7 +769388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2014-10-26T20:30:35Z"
   },
   {
@@ -780274,5 +780274,89 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2019-05-26T21:24:07Z"
+  },
+  {
+    "login": "GSench",
+    "name": "GSench",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9394127?s=72&u=ba809cbed6cab30d194453a76461a8b251519960&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-25T13:49:13Z"
+  },
+  {
+    "login": "eXqxqxq",
+    "name": "Stepan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9395374?s=72&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-25T15:53:44Z"
+  },
+  {
+    "login": "angelskieglazki",
+    "name": "angel eyes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9413534?s=72&u=e021f92540de32215364a8e7d0337582d6ca0655&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 60,
+    "publicContributions": 330,
+    "createdAt": "2014-10-27T08:27:58Z"
+  },
+  {
+    "login": "ndgo",
+    "name": "Maxim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9401563?s=72&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2014-10-26T06:59:33Z"
+  },
+  {
+    "login": "ddovod",
+    "name": "David Dovodov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9406025?s=72&u=732a7394a71fe0a219c79dc73e175978d8274f29&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 19,
+    "privateContributions": 486,
+    "publicContributions": 3,
+    "createdAt": "2014-10-26T17:11:47Z"
+  },
+  {
+    "login": "iliakonnov",
+    "name": "Ilia Konnov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9402179?s=72&u=29afa959359a486c7547edc46124e90226f7a4ca&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 14,
+    "privateContributions": 87,
+    "publicContributions": 129,
+    "createdAt": "2014-10-26T08:53:31Z"
+  },
+  {
+    "login": "passportradio",
+    "name": "Andrey Esin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9428769?s=72&u=384caf5a946f026e8510711ebe9b0b8df3d7fb17&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 12,
+    "publicContributions": 1,
+    "createdAt": "2014-10-28T07:58:34Z"
   }
 ]

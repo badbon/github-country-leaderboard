@@ -13939,7 +13939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 679,
+    "privateContributions": 725,
     "publicContributions": 29,
     "createdAt": "2012-10-11T14:52:19Z"
   },
@@ -13975,7 +13975,7 @@
     "company": "Outliers",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 5613,
+    "privateContributions": 5814,
     "publicContributions": 0,
     "createdAt": "2012-08-16T12:05:11Z"
   },
@@ -13988,7 +13988,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2012-05-01T17:51:44Z"
   },
   {
@@ -14028,18 +14028,6 @@
     "createdAt": "2012-08-15T20:07:38Z"
   },
   {
-    "login": "DavidAlejandro",
-    "name": "David Porcel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1631978?s=72&u=edb82eb1637e5ad58463520c754b2346cb3ec92f&v=4",
-    "location": "Tegucigalpa, Honduras",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 338,
-    "publicContributions": 0,
-    "createdAt": "2012-04-11T06:02:42Z"
-  },
-  {
     "login": "jamthebest",
     "name": "Javier Midence",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1633774?s=72&u=4f4c48af92bac9144eaea30742f664a3b38386a5&v=4",
@@ -14048,7 +14036,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 67,
     "createdAt": "2012-04-11T16:24:36Z"
   },
   {
@@ -14058,7 +14046,7 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2012-10-30T20:08:13Z"
@@ -14119,7 +14107,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 284,
+    "privateContributions": 277,
     "publicContributions": 0,
     "createdAt": "2012-10-29T04:38:42Z"
   },

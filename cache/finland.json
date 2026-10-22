@@ -43675,8 +43675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 72,
+    "privateContributions": 0,
+    "publicContributions": 52,
     "createdAt": "2021-08-21T07:01:06Z"
   },
   {
@@ -43712,7 +43712,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-12-12T09:10:56Z"
   },
   {
@@ -43723,7 +43723,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 412,
+    "privateContributions": 272,
     "publicContributions": 0,
     "createdAt": "2021-03-15T14:53:44Z"
   },
@@ -43747,8 +43747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 883,
-    "publicContributions": 50,
+    "privateContributions": 1249,
+    "publicContributions": 144,
     "createdAt": "2021-09-22T07:31:34Z"
   },
   {
@@ -43759,8 +43759,8 @@
     "company": "Metropolia",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2021-05-12T09:35:27Z"
   },
   {
@@ -43783,8 +43783,8 @@
     "company": "Aalto University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 31,
-    "publicContributions": 2,
+    "privateContributions": 70,
+    "publicContributions": 3,
     "createdAt": "2021-05-08T14:30:11Z"
   },
   {
@@ -43792,11 +43792,11 @@
     "name": "Florian Griffon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91675110?s=72&u=3bcb7f4013308220c68ae4d3410b919be15b6888&v=4",
     "location": "Helsinki",
-    "company": "Slush",
+    "company": "Slush Oy",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 29,
-    "publicContributions": 127,
+    "privateContributions": 26,
+    "publicContributions": 97,
     "createdAt": "2021-09-30T12:49:37Z"
   },
   {
@@ -43808,7 +43808,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 25,
     "createdAt": "2021-06-10T01:13:20Z"
   },
   {
@@ -43819,21 +43819,9 @@
     "company": "Finnish Meteorological Institute",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 283,
-    "publicContributions": 0,
+    "privateContributions": 221,
+    "publicContributions": 134,
     "createdAt": "2021-08-18T06:54:55Z"
-  },
-  {
-    "login": "qian-27",
-    "name": "Liuwei Luo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83451817?s=72&u=58df6c69d30bc1981c16f1c9a844506f3df4548c&v=4",
-    "location": "Helsinki",
-    "company": "@haagahelia",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 145,
-    "publicContributions": 11,
-    "createdAt": "2021-04-30T10:31:58Z"
   },
   {
     "login": "aleksnamaniuk",
@@ -43844,7 +43832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2021-04-07T09:56:22Z"
   },
   {

@@ -43884,18 +43884,6 @@
     "createdAt": "2021-09-15T12:12:22Z"
   },
   {
-    "login": "alexandruCarp",
-    "name": "Alexandru Carp",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94040488?s=72&v=4",
-    "location": "Bucharest, Romania",
-    "company": "University POLITEHNICA of Bucharest",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2021-11-10T07:49:01Z"
-  },
-  {
     "login": "Oktavian25",
     "name": "Octavian Udrea",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89202834?s=72&u=90b947445a89393d9e846e68f42345bab8529f0e&v=4",
@@ -43904,7 +43892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 0,
     "createdAt": "2021-08-19T13:16:19Z"
   },
   {
@@ -43932,18 +43920,6 @@
     "createdAt": "2021-09-28T10:34:02Z"
   },
   {
-    "login": "BilacNicu",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91589891?s=72&u=0443bffc5fa9c413efd4123d12ac61e0f0e32653&v=4",
-    "location": "Targu-Mures, Romania",
-    "company": "AROBS",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-09-29T06:31:31Z"
-  },
-  {
     "login": "gabriela3422",
     "name": "Gabriela Emilia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91592379?s=72&u=7b32ace8c78089e68171026ab7e156db5b6d1c13&v=4",
@@ -43951,7 +43927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-29T07:20:32Z"
   },
@@ -43974,9 +43950,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 75,
     "createdAt": "2021-07-21T12:50:06Z"
   },
   {
@@ -43999,8 +43975,8 @@
     "company": "",
     "twitterUsername": "GoKoding",
     "followers": 1,
-    "privateContributions": 30,
-    "publicContributions": 121,
+    "privateContributions": 29,
+    "publicContributions": 96,
     "createdAt": "2021-07-31T16:51:44Z"
   },
   {
@@ -44024,19 +44000,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 607,
+    "publicContributions": 590,
     "createdAt": "2021-10-27T13:50:57Z"
   },
   {
     "login": "bv21bbg",
     "name": "BBG",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95435466?s=72&u=d53db3e358be92c49802f60adda9f77f2859199e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95435466?s=72&u=6453c993f94bb3775ee5c8063449546a9d897e9a&v=4",
     "location": "Brasov, Romania",
     "company": "BitVice Studio",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 19,
     "createdAt": "2021-12-02T16:51:34Z"
   },
   {
@@ -44048,7 +44024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 51,
     "createdAt": "2021-12-20T22:02:27Z"
   },
   {
@@ -44119,8 +44095,8 @@
     "company": "Adbless",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 126,
-    "publicContributions": 0,
+    "privateContributions": 174,
+    "publicContributions": 36,
     "createdAt": "2021-10-13T18:14:51Z"
   },
   {

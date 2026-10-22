@@ -706147,8 +706147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 97,
-    "publicContributions": 5,
+    "privateContributions": 277,
+    "publicContributions": 10,
     "createdAt": "2018-07-10T18:44:39Z"
   },
   {
@@ -1015338,7 +1015338,7 @@
     "location": "London Ontario, Canada.",
     "company": "Western University. ",
     "twitterUsername": "sanjaykharche",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 104,
     "createdAt": "2016-11-18T14:58:03Z"
@@ -1020686,13 +1020686,13 @@
   {
     "login": "LyndeCS",
     "name": "Christopher Lynde",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24695714?s=72&u=ea738620d8a3fb616d9efe6869b1015a25f5651b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24695714?s=72&u=bf497216d88dc6629399b3ef9b1b21205bffc760&v=4",
     "location": "London, Ontario, Canada",
     "company": "",
     "twitterUsername": "lynde_chris",
     "followers": 5,
     "privateContributions": 1,
-    "publicContributions": 6,
+    "publicContributions": 49,
     "createdAt": "2016-12-21T10:13:26Z"
   },
   {
@@ -1427878,5 +1427878,29 @@
     "privateContributions": 1631,
     "publicContributions": 92,
     "createdAt": "2013-05-15T20:19:43Z"
+  },
+  {
+    "login": "amjad-mahfoud",
+    "name": "Amjad Mahfoud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53599153?s=72&u=598d3d194d5324b0cd0c4e81480b8c6bb3f6cf56&v=4",
+    "location": "Calgary, AB",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2019-08-02T07:33:38Z"
+  },
+  {
+    "login": "talha-sayed",
+    "name": "Talha Sayed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30216145?s=72&v=4",
+    "location": "Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 368,
+    "publicContributions": 0,
+    "createdAt": "2017-07-16T16:57:43Z"
   }
 ]

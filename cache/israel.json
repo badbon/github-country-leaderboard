@@ -43915,8 +43915,8 @@
     "company": "Red Hat",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 9,
-    "publicContributions": 616,
+    "privateContributions": 78,
+    "publicContributions": 509,
     "createdAt": "2020-12-08T21:14:54Z"
   },
   {
@@ -43926,7 +43926,7 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2020-10-09T11:39:48Z"
@@ -43940,7 +43940,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 112,
     "createdAt": "2020-10-02T10:19:25Z"
   },
   {
@@ -43962,9 +43962,9 @@
     "location": "Israel",
     "company": "Red Hat",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 317,
+    "publicContributions": 469,
     "createdAt": "2020-12-23T08:58:28Z"
   },
   {
@@ -43988,7 +43988,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2020-10-07T09:18:38Z"
   },
   {
@@ -44010,7 +44010,7 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-13T15:37:10Z"
@@ -44034,7 +44034,7 @@
     "location": "Tel-Aviv, Israel",
     "company": "NetNut Proxy Network",
     "twitterUsername": "netnut_io",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-20T07:16:17Z"
@@ -44047,7 +44047,7 @@
     "company": "IDF",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 40,
+    "privateContributions": 41,
     "publicContributions": 1,
     "createdAt": "2020-08-07T17:24:54Z"
   },
@@ -44060,7 +44060,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-07-03T09:55:31Z"
   },
   {
@@ -44078,13 +44078,13 @@
   {
     "login": "Alonkopilov",
     "name": "Alonkopilov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68990342?s=72&u=a68f97efe4f2bb595a63ec6d879805429ecc3a37&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68990342?s=72&u=e906bc9ac8d8bb7b24f3013acea211e2f5e1decb&v=4",
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 63,
     "createdAt": "2020-07-30T08:16:21Z"
   },
   {
