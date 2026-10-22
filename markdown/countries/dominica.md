@@ -19,7 +19,7 @@ Indexed users: 18
 | 5 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 44 |
 | 6 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 28 |
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 26 |
-| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 20 |
+| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 21 |
 | 9 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 11 |
 | 10 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 8 |
 | 11 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Dominica | 4 |
@@ -38,8 +38,8 @@ Indexed users: 18
 | 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 218 |
 | 2 | [jozreel](https://github.com/jozreel) | Jozreel Laurent | Roseau, Dominica | 44 |
 | 3 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 28 |
-| 4 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 20 |
-| 5 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 20 |
+| 4 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Dominica | 21 |
+| 5 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 20 |
 | 6 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 14 |
 | 7 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 11 |
 | 8 | [bowetech](https://github.com/bowetech) | Clive Stewart |  Dominica | 8 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 1 |
 | 18 | [theode](https://github.com/theode) | Derrick Theophille | Dominica | 1 |
 
-Generated: 2026-10-22T01:43:36.831Z
+Generated: 2026-10-22T03:22:48.651Z

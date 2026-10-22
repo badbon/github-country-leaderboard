@@ -1,13 +1,13 @@
 # Total Contributions - Aruba
 
-Generated: 2026-10-22T01:29:08.493Z
+Generated: 2026-10-22T03:01:42.493Z
 
 Users: 37
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent |  |  | Aruba | 1737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 851 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 847 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 568 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 557 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 496 |
@@ -20,7 +20,7 @@ Users: 37
 | 12 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 36 |
 | 13 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 17 |
 | 14 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 11 |
-| 15 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman |  |  | Aruba | 8 |
+| 15 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman |  |  | Aruba | 7 |
 | 16 | [Antoine0823](https://github.com/Antoine0823) | N21 | Brittec | BrittenAntoine | Aruba | 3 |
 | 17 | [aarends](https://github.com/aarends) | Alan A. | Erelis Digital Marketing & Web Design |  | Aruba | 2 |
 | 18 | [piedraplat](https://github.com/piedraplat) |  | Lacle&Partners |  | Aruba | 2 |

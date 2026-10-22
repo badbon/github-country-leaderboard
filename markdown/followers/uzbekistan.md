@@ -1,6 +1,6 @@
 # Followers - Uzbekistan
 
-Generated: 2026-10-22T01:20:38.486Z
+Generated: 2026-10-22T02:54:48.565Z
 
 Users: 9512
 

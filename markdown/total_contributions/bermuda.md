@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-22T01:33:35.905Z
+Generated: 2026-10-22T03:08:29.630Z
 
 Users: 898
 
@@ -12,8 +12,8 @@ Users: 898
 | 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 10750 |
 | 5 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 10513 |
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Shopify |  | Hamilton, Ontario | 7703 |
-| 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 7402 |
-| 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7383 |
+| 7 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7413 |
+| 8 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 7402 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 6681 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6659 |
 | 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 6280 |
@@ -24,5 +24,5 @@ Users: 898
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4542 |
 | 17 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | @fankave  | osamaaamer | Hamilton, NZ | 4479 |
 | 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4428 |
-| 19 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4362 |
-| 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene |  | stieneee | Hamilton, Ontario | 4168 |
+| 19 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4353 |
+| 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene |  | stieneee | Hamilton, Ontario | 4265 |

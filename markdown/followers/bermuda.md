@@ -1,12 +1,12 @@
 # Followers - Bermuda
 
-Generated: 2026-10-22T01:33:35.905Z
+Generated: 2026-10-22T03:08:29.630Z
 
 Users: 898
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [wesbos](https://github.com/wesbos) | Wes Bos | me | wesbos | Hamilton, Ontario | 36084 |
+| 1 | [wesbos](https://github.com/wesbos) | Wes Bos | me | wesbos | Hamilton, Ontario | 36102 |
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 927 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | @architect-co | augustoproiete | Bermuda | 331 |
 | 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | @USS-CALLISTER @angxlpraize ₊˚⊹ ᰔ ͟͟͞͞➳❥ bums ‧₊˚ ┊ (๑-﹏-๑) 𓂃 i ♡ all of my oomfs!! ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ i follow everyone back on my spam accs!!  ₊˚⊹♡  20+ dniuf  ִֶָpls  ഒ·˚ ⊹ ࣪ ˖ alt accs : @yasuhirohagakure @johnsoapmactavish @deartheodosia |  | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 275 |

@@ -13,7 +13,7 @@ Indexed users: 37
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 851 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 847 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 568 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 557 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
@@ -26,7 +26,7 @@ Indexed users: 37
 | 12 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 36 |
 | 13 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 14 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 11 |
-| 15 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman | Aruba | 8 |
+| 15 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman | Aruba | 7 |
 | 16 | [Antoine0823](https://github.com/Antoine0823) | N21 | Aruba | 3 |
 | 17 | [aarends](https://github.com/aarends) | Alan A. | Aruba | 2 |
 | 18 | [piedraplat](https://github.com/piedraplat) |  | Aruba | 2 |
@@ -49,7 +49,7 @@ Indexed users: 37
 | 10 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 30 |
 | 11 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 12 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 11 |
-| 13 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman | Aruba | 8 |
+| 13 | [AyrtonAG](https://github.com/AyrtonAG) | Ayrton Geerman | Aruba | 7 |
 | 14 | [Antoine0823](https://github.com/Antoine0823) | N21 | Aruba | 3 |
 | 15 | [aarends](https://github.com/aarends) | Alan A. | Aruba | 2 |
 | 16 | [piedraplat](https://github.com/piedraplat) |  | Aruba | 2 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 | 20 | [JunyEngelhart](https://github.com/JunyEngelhart) | JunTech  (AWS Aruba) | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-22T01:29:08.493Z
+Generated: 2026-10-22T03:01:42.493Z

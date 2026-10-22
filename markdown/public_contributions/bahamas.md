@@ -1,6 +1,6 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-22T01:29:49.929Z
+Generated: 2026-10-22T03:03:35.634Z
 
 Users: 236
 
@@ -10,7 +10,7 @@ Users: 236
 | 2 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | FrankLabs |  | Nassau, Bahamas | 343 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 297 |
 | 4 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 262 |
-| 5 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 193 |
+| 5 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 188 |
 | 6 | [zotz](https://github.com/zotz) | drew Roberts |  |  | Nassau, Bahamas | 148 |
 | 7 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 146 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 108 |
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
 | 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Ministry of Innovation and National Development |  | Nassau, Bahamas | 48 |
 | 18 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |
-| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 38 |
-| 20 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 38 |
+| 19 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 38 |
+| 20 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 36 |

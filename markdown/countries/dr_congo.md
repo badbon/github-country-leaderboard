@@ -56,7 +56,7 @@ Indexed users: 701
 | 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 861 |
 | 18 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 739 |
 | 19 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 697 |
-| 20 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 669 |
+| 20 | [BlanchardIlela](https://github.com/BlanchardIlela) | @blanchard | Kinshasa | 686 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-22T01:44:19.356Z
+Generated: 2026-10-22T03:23:26.687Z
