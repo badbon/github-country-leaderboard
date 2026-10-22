@@ -17780,7 +17780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 175,
+    "publicContributions": 184,
     "createdAt": "2020-11-27T18:51:46Z"
   },
   {
@@ -17820,18 +17820,6 @@
     "createdAt": "2020-04-16T19:45:13Z"
   },
   {
-    "login": "waleedalmasri",
-    "name": "Waleed Almasri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67055177?s=72&v=4",
-    "location": "Palestine",
-    "company": "Exalt PS",
-    "twitterUsername": "WaleedAlmasr1",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-06-17T11:49:53Z"
-  },
-  {
     "login": "danazagha23",
     "name": "Dana Zagha",
     "avatarUrl": "https://avatars.githubusercontent.com/u/71370317?s=72&v=4",
@@ -17864,7 +17852,7 @@
     "twitterUsername": "AhmadGhnnam5",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 116,
     "createdAt": "2020-12-11T14:04:16Z"
   },
   {
@@ -17924,7 +17912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 128,
     "createdAt": "2020-06-23T09:17:37Z"
   },
   {
@@ -17934,7 +17922,7 @@
     "location": "Palestine",
     "company": "@NVIDIA",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 1310,
     "publicContributions": 44,
     "createdAt": "2020-12-14T23:06:56Z"

@@ -43992,18 +43992,6 @@
     "createdAt": "2020-12-29T19:30:03Z"
   },
   {
-    "login": "oskarmichalowski",
-    "name": "Oskar Michalowski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83536182?s=72&u=b4fcd5fda5ba150fba10592b76aed649d369538d&v=4",
-    "location": "Oslo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-05-02T10:04:13Z"
-  },
-  {
     "login": "malinsalehjan",
     "name": "Malin Saleh Jan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94189751?s=72&v=4",
@@ -44036,7 +44024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 20,
     "createdAt": "2021-10-24T17:05:37Z"
   },
   {
@@ -44068,11 +44056,11 @@
     "name": "Line Spongsveen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93183220?s=72&v=4",
     "location": "Oslo",
-    "company": "",
+    "company": "Oslo kommune",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-10-26T07:15:43Z"
   },
   {
@@ -44083,7 +44071,7 @@
     "company": "University of Oslo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
+    "privateContributions": 30,
     "publicContributions": 9,
     "createdAt": "2021-09-12T20:58:58Z"
   },
@@ -44155,8 +44143,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 263,
-    "publicContributions": 401,
+    "privateContributions": 326,
+    "publicContributions": 384,
     "createdAt": "2021-03-22T08:28:36Z"
   },
   {
@@ -44168,7 +44156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 10,
     "createdAt": "2021-09-06T09:53:13Z"
   },
   {
@@ -44180,7 +44168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 157,
     "createdAt": "2021-11-29T15:42:19Z"
   },
   {

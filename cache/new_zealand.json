@@ -43770,9 +43770,9 @@
     "location": "Wellington",
     "company": "Dev Academy ",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 29,
     "createdAt": "2019-03-05T19:36:14Z"
   },
   {
@@ -43782,7 +43782,7 @@
     "location": "Wellington",
     "company": "Yoobee School of Design",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-07-29T02:51:47Z"
@@ -43808,7 +43808,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2019-08-25T04:18:29Z"
   },
   {
@@ -43830,7 +43830,7 @@
     "location": "Wellington",
     "company": "Spectrum Efficiency",
     "twitterUsername": "RadioSpectrumEf",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2019-02-15T03:57:52Z"
@@ -43844,7 +43844,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 1,
     "createdAt": "2019-05-25T09:46:30Z"
   },
   {
@@ -43855,21 +43855,9 @@
     "company": "SpaceZ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 39,
-    "publicContributions": 0,
+    "privateContributions": 31,
+    "publicContributions": 22,
     "createdAt": "2019-08-06T06:11:05Z"
-  },
-  {
-    "login": "JonnySaito",
-    "name": "John Bretherton",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47838957?s=72&u=a622c36c17ab36a4d6286a42c9721ce2fe51856d&v=4",
-    "location": "Wellington, NZ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-02-21T02:10:22Z"
   },
   {
     "login": "andfield",
@@ -43879,13 +43867,13 @@
     "company": "@educationperfect",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 446,
+    "privateContributions": 466,
     "publicContributions": 0,
     "createdAt": "2019-06-25T08:16:13Z"
   },
   {
     "login": "RyPatZ",
-    "name": "Patrick Zhang",
+    "name": "PatrickStar15",
     "avatarUrl": "https://avatars.githubusercontent.com/u/54138190?s=72&v=4",
     "location": "Wellington",
     "company": "",
@@ -43903,7 +43891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 243,
+    "privateContributions": 455,
     "publicContributions": 0,
     "createdAt": "2019-11-06T21:54:29Z"
   },
@@ -43915,7 +43903,7 @@
     "company": "Aider.ai",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 737,
+    "privateContributions": 888,
     "publicContributions": 25,
     "createdAt": "2019-04-16T04:43:38Z"
   },
@@ -43975,8 +43963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1428,
-    "publicContributions": 363,
+    "privateContributions": 1394,
+    "publicContributions": 393,
     "createdAt": "2019-01-13T16:34:10Z"
   },
   {
@@ -43988,7 +43976,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 71,
     "createdAt": "2019-09-20T06:29:13Z"
   },
   {
