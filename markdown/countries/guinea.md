@@ -12,8 +12,8 @@ Indexed users: 263
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,899 |
-| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,249 |
+| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,932 |
+| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,714 |
 | 3 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 6,495 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 6,492 |
 | 5 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 4,233 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-22T14:27:23.585Z
+Generated: 2026-10-22T15:43:51.347Z

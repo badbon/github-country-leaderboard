@@ -1,6 +1,6 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-22T14:24:13.988Z
+Generated: 2026-10-22T15:41:31.495Z
 
 Users: 93
 
@@ -25,4 +25,4 @@ Users: 93
 | 17 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 412 |
 | 18 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 405 |
 | 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk |  |  | Gibraltar | 403 |
-| 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 258 |
+| 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 259 |

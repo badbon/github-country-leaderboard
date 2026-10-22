@@ -1,8 +1,8 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-22T14:18:36.001Z
+Generated: 2026-10-22T15:39:51.892Z
 
-Users: 6667
+Users: 6666
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
