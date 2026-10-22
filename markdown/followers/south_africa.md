@@ -1,6 +1,6 @@
 # Followers - South Africa
 
-Generated: 2026-10-22T06:11:39.846Z
+Generated: 2026-10-22T07:50:54.166Z
 
 Users: 17921
 
@@ -20,8 +20,8 @@ Users: 17921
 | 12 | [alexmojaki](https://github.com/alexmojaki) | Alex Hall | @pydantic |  | South Africa | 929 |
 | 13 | [rebelchris](https://github.com/rebelchris) | Chris Bongers | daily.dev | DailyDevTips1 | Cape Town | 887 |
 | 14 | [leonjza](https://github.com/leonjza) | Leon Jacobs | @SensePost  | leonjza | South Africa | 737 |
-| 15 | [leonvanzyl](https://github.com/leonvanzyl) | Leon van Zyl |  |  | Mosselbay, South Africa | 730 |
-| 16 | [jackson951](https://github.com/jackson951) | Jackson Khuto |  |  | Pretoria  | 721 |
+| 15 | [jackson951](https://github.com/jackson951) | Jackson Khuto |  |  | Pretoria  | 734 |
+| 16 | [leonvanzyl](https://github.com/leonvanzyl) | Leon van Zyl |  |  | Mosselbay, South Africa | 730 |
 | 17 | [nophora](https://github.com/nophora) | Siphosethu Nongwe |  |  | South Africa, Cape Town | 667 |
 | 18 | [Trixarian](https://github.com/Trixarian) | Trixarian |  |  | South Africa | 653 |
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | @redwoodjs | appfactory | South Africa | 639 |

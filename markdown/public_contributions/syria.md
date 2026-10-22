@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-22T06:15:02.364Z
+Generated: 2026-10-22T07:54:50.653Z
 
 Users: 1478
 
@@ -9,7 +9,7 @@ Users: 1478
 | 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares |  |  | Aleppo/Syria | 4653 |
 | 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2836 |
 | 3 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2060 |
-| 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1654 |
+| 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1633 |
 | 5 | [M7MMAD-OMAR](https://github.com/M7MMAD-OMAR) | Muhmad | Sbarah |  | Syria | 1601 |
 | 6 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | رؤيَة رقَميَّة |  | Syria | 1588 |
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1498 |

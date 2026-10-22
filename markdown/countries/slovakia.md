@@ -78,9 +78,9 @@ Indexed users: 4,657
 | 14 | [MatejBendik](https://github.com/MatejBendik) | Matej Bendík | Slovakia | 333 |
 | 15 | [vlady0712](https://github.com/vlady0712) | Vlady | Košice, Slovakia | 321 |
 | 16 | [xhyrom](https://github.com/xhyrom) | Jozef Steinhübl | Slovakia | 321 |
-| 17 | [ckissi](https://github.com/ckissi) | Csaba Kissi | Slovakia | 314 |
+| 17 | [ckissi](https://github.com/ckissi) | Csaba Kissi | Slovakia | 319 |
 | 18 | [darsain](https://github.com/darsain) |  | Slovakia | 299 |
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-22T06:09:58.006Z
+Generated: 2026-10-22T07:50:16.023Z
