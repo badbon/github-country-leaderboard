@@ -43242,9 +43242,9 @@
     "location": "Greece",
     "company": "@Microsoft",
     "twitterUsername": "",
-    "followers": 79,
-    "privateContributions": 1154,
-    "publicContributions": 235,
+    "followers": 81,
+    "privateContributions": 1710,
+    "publicContributions": 346,
     "createdAt": "2021-09-04T07:54:22Z"
   },
   {
@@ -43254,9 +43254,9 @@
     "location": "Greece",
     "company": "Goldsmiths, University of London",
     "twitterUsername": "",
-    "followers": 75,
+    "followers": 76,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 26,
     "createdAt": "2021-12-06T09:47:33Z"
   },
   {
@@ -43266,9 +43266,9 @@
     "location": "Ioannina, Greece",
     "company": "University of Ioannina",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 68,
-    "publicContributions": 13,
+    "followers": 40,
+    "privateContributions": 64,
+    "publicContributions": 12,
     "createdAt": "2021-10-28T16:17:25Z"
   },
   {
@@ -43278,9 +43278,9 @@
     "location": "Athens, Greece",
     "company": "Multimedia Analysis Group (@magcil) of the Computational Intelligence Laboratory, NCSR-Demokritos",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 180,
-    "publicContributions": 447,
+    "followers": 39,
+    "privateContributions": 213,
+    "publicContributions": 426,
     "createdAt": "2021-10-05T11:34:33Z"
   },
   {
@@ -43302,9 +43302,9 @@
     "location": "Athens, Greece",
     "company": "@typesense",
     "twitterUsername": "ftharropulos",
-    "followers": 37,
-    "privateContributions": 12,
-    "publicContributions": 1036,
+    "followers": 38,
+    "privateContributions": 179,
+    "publicContributions": 1102,
     "createdAt": "2021-10-28T16:06:40Z"
   },
   {
@@ -43315,8 +43315,8 @@
     "company": "",
     "twitterUsername": "mikemolfetas1",
     "followers": 37,
-    "privateContributions": 144,
-    "publicContributions": 624,
+    "privateContributions": 141,
+    "publicContributions": 1075,
     "createdAt": "2021-09-20T09:02:53Z"
   },
   {
@@ -43326,9 +43326,9 @@
     "location": "Greece",
     "company": "University of Thessaly",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 0,
-    "publicContributions": 191,
+    "followers": 34,
+    "privateContributions": 1,
+    "publicContributions": 323,
     "createdAt": "2021-09-04T07:02:41Z"
   },
   {
@@ -43351,8 +43351,8 @@
     "company": "AUEB, Accenture",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 1,
-    "publicContributions": 3,
+    "privateContributions": 5,
+    "publicContributions": 135,
     "createdAt": "2021-09-14T15:01:30Z"
   },
   {
@@ -43360,11 +43360,11 @@
     "name": "Nikolaos Bermparis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93055498?s=72&u=58593f9b35c8186ed7ab5200811caaf0814a9e08&v=4",
     "location": "Greece",
-    "company": "",
+    "company": "Industrial Systems Institute | Athena Research Center",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 314,
-    "publicContributions": 192,
+    "followers": 34,
+    "privateContributions": 498,
+    "publicContributions": 279,
     "createdAt": "2021-10-23T19:45:52Z"
   },
   {
@@ -43374,7 +43374,7 @@
     "location": "Athens Greece",
     "company": "Grant Thornton GR",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2021-10-23T14:26:25Z"
@@ -43384,11 +43384,11 @@
     "name": "Omid",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86771298?s=72&u=4732b88e91feeb3519b85b23cef0a004ced8ccb5&v=4",
     "location": "Greece",
-    "company": "Core Decentralized Technologies",
+    "company": "BestWallet - Memex - CoinPoker",
     "twitterUsername": "OmidTheTechGuy",
-    "followers": 30,
-    "privateContributions": 667,
-    "publicContributions": 742,
+    "followers": 29,
+    "privateContributions": 898,
+    "publicContributions": 1491,
     "createdAt": "2021-07-01T08:24:55Z"
   },
   {
@@ -43398,9 +43398,9 @@
     "location": "Thessaloniki, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 90,
-    "publicContributions": 284,
+    "followers": 30,
+    "privateContributions": 87,
+    "publicContributions": 458,
     "createdAt": "2021-11-03T22:25:18Z"
   },
   {
@@ -43412,7 +43412,7 @@
     "twitterUsername": "bullrungenius",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 3,
     "createdAt": "2021-07-07T15:30:47Z"
   },
   {
@@ -43423,21 +43423,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 69,
+    "privateContributions": 64,
     "publicContributions": 0,
     "createdAt": "2021-10-26T18:41:03Z"
-  },
-  {
-    "login": "gabstancu",
-    "name": "Gabriela Stancu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87585067?s=72&u=c48cefbb92f45901336f4a07e939fdc0481da070&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 0,
-    "publicContributions": 110,
-    "createdAt": "2021-07-17T21:05:07Z"
   },
   {
     "login": "karidasd",
@@ -43446,9 +43434,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 517,
+    "publicContributions": 759,
     "createdAt": "2021-12-11T19:15:30Z"
   },
   {
@@ -43470,9 +43458,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 45,
     "createdAt": "2021-10-15T14:22:48Z"
   },
   {

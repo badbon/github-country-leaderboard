@@ -43196,7 +43196,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 3,
     "createdAt": "2019-04-16T10:41:59Z"
   },
   {
@@ -43231,21 +43231,9 @@
     "company": "BCA Hungary",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 5,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2019-05-29T15:36:36Z"
-  },
-  {
-    "login": "AlparslanAbdikoglu",
-    "name": "Alpii",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47214204?s=72&u=289cb3e833d014c954b50e98181f9bd3c83da6ea&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 249,
-    "publicContributions": 159,
-    "createdAt": "2019-01-31T12:28:34Z"
   },
   {
     "login": "KatinkaFekete",
@@ -43278,7 +43266,7 @@
     "location": "Budapest, Hungary",
     "company": "Green Aqua",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-04T16:54:40Z"
@@ -43303,8 +43291,8 @@
     "company": "Hyperplane - Gamax",
     "twitterUsername": "TakacsJanos7",
     "followers": 5,
-    "privateContributions": 90,
-    "publicContributions": 0,
+    "privateContributions": 1155,
+    "publicContributions": 3,
     "createdAt": "2019-09-12T19:18:11Z"
   },
   {
@@ -43314,9 +43302,9 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2019-07-17T12:47:15Z"
   },
   {
@@ -43327,8 +43315,8 @@
     "company": "Siemens Mobility",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 99,
-    "publicContributions": 38,
+    "privateContributions": 91,
+    "publicContributions": 41,
     "createdAt": "2019-07-06T20:13:00Z"
   },
   {
@@ -43351,7 +43339,7 @@
     "company": "@avolantis",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1264,
+    "privateContributions": 1857,
     "publicContributions": 0,
     "createdAt": "2019-11-18T11:57:08Z"
   },
@@ -43363,7 +43351,7 @@
     "company": "EPAM Systems",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 39,
+    "privateContributions": 244,
     "publicContributions": 100,
     "createdAt": "2019-12-06T17:06:25Z"
   },
@@ -43375,8 +43363,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 43,
-    "publicContributions": 3,
+    "privateContributions": 39,
+    "publicContributions": 0,
     "createdAt": "2019-07-09T23:06:13Z"
   },
   {
@@ -43412,7 +43400,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2019-06-18T16:07:11Z"
   },
   {
@@ -43424,7 +43412,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 26,
     "createdAt": "2019-03-26T10:32:23Z"
   },
   {
