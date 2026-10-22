@@ -43232,7 +43232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 90,
     "createdAt": "2023-02-23T18:53:52Z"
   },
   {
@@ -43256,7 +43256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 13,
     "createdAt": "2023-03-11T13:07:09Z"
   },
   {
@@ -43280,7 +43280,7 @@
     "twitterUsername": "jonathanhans1",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 31,
     "createdAt": "2023-02-08T02:38:03Z"
   },
   {
@@ -43303,8 +43303,8 @@
     "company": "Universidad EIA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 10,
+    "privateContributions": 2,
+    "publicContributions": 2,
     "createdAt": "2023-02-11T17:51:57Z"
   },
   {
@@ -43315,8 +43315,8 @@
     "company": "Dantex agency",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 67,
+    "privateContributions": 21,
+    "publicContributions": 71,
     "createdAt": "2023-02-06T21:42:33Z"
   },
   {
@@ -43364,13 +43364,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 29,
     "createdAt": "2023-03-25T01:49:56Z"
   },
   {
     "login": "thursdaywhataconcept",
-    "name": "Alejandra Alfonso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123204015?s=72&u=a136703f8b2501195e69963cd31fd953298ebde1&v=4",
+    "name": "alfonso alfaro",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123204015?s=72&u=0b8f58a4e9f556433124a334d7a388fc01bb78f8&v=4",
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
@@ -43386,7 +43386,7 @@
     "location": "Bucaramanga, Colombia",
     "company": "",
     "twitterUsername": "DiegoUribenavar",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-29T05:17:50Z"
@@ -43447,7 +43447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 66,
+    "privateContributions": 146,
     "publicContributions": 9,
     "createdAt": "2023-03-05T13:44:06Z"
   },

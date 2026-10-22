@@ -43466,13 +43466,13 @@
   {
     "login": "RaoufGhrissi",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64937092?s=72&u=fd3e21978ccc307ba0a80ba367167b7fc7ca12ee&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64937092?s=72&u=fbd2012dc23f04696fec4abcfe4f1ffc219cd86a&v=4",
     "location": "belgium",
     "company": "odoo",
     "twitterUsername": "",
-    "followers": 368,
-    "privateContributions": 321,
-    "publicContributions": 52,
+    "followers": 371,
+    "privateContributions": 713,
+    "publicContributions": 45,
     "createdAt": "2020-05-07T00:50:45Z"
   },
   {
@@ -43482,21 +43482,21 @@
     "location": "Leuven, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 362,
+    "followers": 361,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-02-10T17:00:44Z"
   },
   {
     "login": "duggytuxy",
-    "name": "🔐Laurent M🔐",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61513268?s=72&u=956bfa3fb9fa679bce95725646b58df1aaea43aa&v=4",
+    "name": "Laurent Minne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61513268?s=72&u=33c31977d253f154db0cf2e6328eb52ad9534cdb&v=4",
     "location": "Brussels, Belgium",
     "company": "SysWarden",
     "twitterUsername": "",
-    "followers": 360,
-    "privateContributions": 72,
-    "publicContributions": 7238,
+    "followers": 370,
+    "privateContributions": 228,
+    "publicContributions": 8601,
     "createdAt": "2020-02-26T16:51:14Z"
   },
   {
@@ -43506,9 +43506,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "Prince_krampah",
-    "followers": 324,
-    "privateContributions": 2015,
-    "publicContributions": 28,
+    "followers": 327,
+    "privateContributions": 2033,
+    "publicContributions": 29,
     "createdAt": "2020-06-19T09:03:10Z"
   },
   {
@@ -43518,9 +43518,9 @@
     "location": "Leuven, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 198,
-    "privateContributions": 731,
-    "publicContributions": 15,
+    "followers": 193,
+    "privateContributions": 1321,
+    "publicContributions": 14,
     "createdAt": "2020-03-08T16:50:13Z"
   },
   {
@@ -43530,9 +43530,9 @@
     "location": "Antwerp, Belgium",
     "company": "@Particular",
     "twitterUsername": "noctovis",
-    "followers": 195,
-    "privateContributions": 551,
-    "publicContributions": 46,
+    "followers": 196,
+    "privateContributions": 420,
+    "publicContributions": 96,
     "createdAt": "2020-04-20T10:50:07Z"
   },
   {
@@ -43542,22 +43542,10 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 99,
-    "privateContributions": 3066,
-    "publicContributions": 4,
+    "followers": 101,
+    "privateContributions": 2734,
+    "publicContributions": 3,
     "createdAt": "2020-03-18T19:48:37Z"
-  },
-  {
-    "login": "parhamoyan",
-    "name": "Parham Oyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62795984?s=72&u=89fbbdd0c0cf76bcd19d2e35be56104f8f84fe6b&v=4",
-    "location": "Brussels, Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 64,
-    "privateContributions": 75,
-    "publicContributions": 109,
-    "createdAt": "2020-03-28T11:46:51Z"
   },
   {
     "login": "almeidasilvaf",
@@ -43566,9 +43554,9 @@
     "location": "Technologiepark 71, Ghent, Belgium",
     "company": "VIB-UGent Center for Plant Systems Biology",
     "twitterUsername": "",
-    "followers": 64,
-    "privateContributions": 91,
-    "publicContributions": 88,
+    "followers": 65,
+    "privateContributions": 64,
+    "publicContributions": 95,
     "createdAt": "2020-02-17T14:34:53Z"
   },
   {
@@ -43578,9 +43566,9 @@
     "location": "Belgium",
     "company": "@Daisy-Games",
     "twitterUsername": "ProzillaDev",
-    "followers": 60,
-    "privateContributions": 419,
-    "publicContributions": 418,
+    "followers": 63,
+    "privateContributions": 374,
+    "publicContributions": 341,
     "createdAt": "2020-04-13T07:57:40Z"
   },
   {
@@ -43590,7 +43578,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "wmatthyssen",
-    "followers": 54,
+    "followers": 53,
     "privateContributions": 0,
     "publicContributions": 45,
     "createdAt": "2020-03-10T09:02:41Z"
@@ -43614,9 +43602,9 @@
     "location": "Belgium",
     "company": "42 Belgium",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 53,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 54,
     "createdAt": "2020-03-05T08:55:44Z"
   },
   {
@@ -43627,8 +43615,8 @@
     "company": "KU Leuven",
     "twitterUsername": "JaydevSR",
     "followers": 49,
-    "privateContributions": 250,
-    "publicContributions": 13,
+    "privateContributions": 193,
+    "publicContributions": 54,
     "createdAt": "2020-01-03T11:42:20Z"
   },
   {
@@ -43639,7 +43627,7 @@
     "company": "Your Azure Coach",
     "twitterUsername": "azurecoach",
     "followers": 49,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2020-05-30T19:32:02Z"
   },

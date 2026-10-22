@@ -43651,7 +43651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 587,
+    "privateContributions": 593,
     "publicContributions": 8,
     "createdAt": "2013-07-22T17:50:22Z"
   },
@@ -43662,7 +43662,7 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2013-01-04T09:38:02Z"
@@ -43675,7 +43675,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 53,
+    "privateContributions": 486,
     "publicContributions": 0,
     "createdAt": "2013-02-21T04:09:08Z"
   },
@@ -43688,7 +43688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 69,
     "createdAt": "2012-12-30T16:54:36Z"
   },
   {
@@ -43734,9 +43734,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 172,
-    "publicContributions": 2,
+    "followers": 3,
+    "privateContributions": 187,
+    "publicContributions": 17,
     "createdAt": "2013-09-12T23:08:53Z"
   },
   {
@@ -43760,7 +43760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 32,
     "createdAt": "2013-10-05T09:48:57Z"
   },
   {
@@ -43772,7 +43772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2013-09-07T06:42:10Z"
   },
   {
@@ -43782,7 +43782,7 @@
     "location": "Yerevan",
     "company": "@modularcode",
     "twitterUsername": "ModularCoder",
-    "followers": 124,
+    "followers": 127,
     "privateContributions": 269,
     "publicContributions": 41,
     "createdAt": "2013-03-24T23:01:48Z"
@@ -43795,20 +43795,20 @@
     "company": "@CoinStatsHQ",
     "twitterUsername": "",
     "followers": 103,
-    "privateContributions": 2106,
-    "publicContributions": 84,
+    "privateContributions": 3283,
+    "publicContributions": 90,
     "createdAt": "2013-12-26T09:56:54Z"
   },
   {
     "login": "thalidzhokov",
     "name": "Albert Thalidzhokov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5680364?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5680364?s=72&u=22bc7ef5ce036df9e300519e39f0ffdc4f82c147&v=4",
     "location": "Yerevan",
     "company": "@brlabrussia",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 1130,
-    "publicContributions": 110,
+    "followers": 37,
+    "privateContributions": 1835,
+    "publicContributions": 211,
     "createdAt": "2013-10-14T06:41:42Z"
   },
   {
@@ -43820,7 +43820,7 @@
     "twitterUsername": "",
     "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 419,
     "createdAt": "2013-05-04T09:30:38Z"
   },
   {
@@ -43831,7 +43831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 1171,
+    "privateContributions": 1829,
     "publicContributions": 2,
     "createdAt": "2013-09-29T10:57:25Z"
   },
@@ -43844,19 +43844,19 @@
     "twitterUsername": "",
     "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2013-09-04T09:00:19Z"
   },
   {
     "login": "pavelnikonorov",
     "name": "Pavel Nikonorov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4646953?s=72&u=3aa34d20e40f6b62033297d51aac4b4fcbe6845b&v=4",
-    "location": "Yerevan / Cambridge",
+    "location": "Yerevan / Hinxton",
     "company": "@genxnetwork",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 2,
-    "publicContributions": 6,
+    "followers": 25,
+    "privateContributions": 3,
+    "publicContributions": 16,
     "createdAt": "2013-06-08T09:25:44Z"
   },
   {

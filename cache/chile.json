@@ -43530,9 +43530,9 @@
     "location": "Santiago",
     "company": "Universidad diego portales",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 18,
     "createdAt": "2023-01-31T15:53:03Z"
   },
   {
@@ -43542,9 +43542,9 @@
     "location": "Santiago",
     "company": "Design Graphic - Desarrollador en Formación",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 45,
-    "publicContributions": 288,
+    "followers": 7,
+    "privateContributions": 35,
+    "publicContributions": 264,
     "createdAt": "2023-05-12T00:43:23Z"
   },
   {
@@ -43567,8 +43567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 61,
-    "publicContributions": 298,
+    "privateContributions": 414,
+    "publicContributions": 541,
     "createdAt": "2023-02-23T10:52:36Z"
   },
   {
@@ -43579,7 +43579,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 79,
+    "privateContributions": 782,
     "publicContributions": 198,
     "createdAt": "2023-08-12T11:02:29Z"
   },
@@ -43591,8 +43591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 379,
-    "publicContributions": 32,
+    "privateContributions": 405,
+    "publicContributions": 48,
     "createdAt": "2023-08-24T03:35:04Z"
   },
   {
@@ -43602,9 +43602,9 @@
     "location": "Santiago",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 24,
-    "publicContributions": 181,
+    "publicContributions": 260,
     "createdAt": "2023-01-31T23:43:35Z"
   },
   {
@@ -43638,9 +43638,9 @@
     "location": "Santiago de Compostela",
     "company": "@Eutika ",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "followers": 7,
+    "privateContributions": 238,
+    "publicContributions": 14,
     "createdAt": "2023-01-05T08:57:29Z"
   },
   {
@@ -43650,9 +43650,9 @@
     "location": "Santiago de Compostela",
     "company": "Universidad de la Coruña",
     "twitterUsername": "ismabrea",
-    "followers": 6,
-    "privateContributions": 203,
-    "publicContributions": 1225,
+    "followers": 9,
+    "privateContributions": 67,
+    "publicContributions": 889,
     "createdAt": "2023-10-05T07:23:04Z"
   },
   {
@@ -43664,19 +43664,19 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 22,
     "createdAt": "2023-12-20T10:16:20Z"
   },
   {
     "login": "astrojorgeluis",
-    "name": "Jorge Luis",
+    "name": "Jorge Luis Guzman-Lazo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144159564?s=72&u=0336d51754379458b251460fb87c740c2efb867b&v=4",
     "location": "Santiago",
     "company": "USACH",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 136,
     "createdAt": "2023-09-05T17:18:28Z"
   },
   {
@@ -43700,7 +43700,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2023-04-26T08:43:48Z"
   },
   {
@@ -43712,7 +43712,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2023-09-28T20:57:05Z"
   },
   {
@@ -43724,19 +43724,19 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 50,
     "createdAt": "2023-03-28T22:37:56Z"
   },
   {
     "login": "ppazosp",
     "name": "Pablo Pazos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153506485?s=72&u=7a8f00c5f3559d3b8df94325f00705e07a8d798d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153506485?s=72&u=ada222588b2946082f6f7f24d07eb8e089edde29&v=4",
     "location": "Santiago de Compostela",
     "company": "Universidade Santiago de Compostela",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 1581,
+    "privateContributions": 4039,
+    "publicContributions": 1880,
     "createdAt": "2023-12-11T10:25:47Z"
   },
   {
@@ -232474,5 +232474,29 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-07-02T03:19:13Z"
+  },
+  {
+    "login": "lastajneuxronoj",
+    "name": "Lastaj Neŭronoj",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299689188?s=72&u=3f6a34b2c571574c63f6e1b2d5b2ce25cfcb0ea7&v=4",
+    "location": "Santiago, Chile",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2026-07-03T23:30:42Z"
+  },
+  {
+    "login": "GABUTTICORSE",
+    "name": "ANDREA GABUTTI ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299631530?s=72&v=4",
+    "location": "CHILE ",
+    "company": "GABUTTI CORSE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 100,
+    "createdAt": "2026-07-03T18:33:16Z"
   }
 ]

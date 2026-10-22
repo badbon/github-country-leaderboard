@@ -43484,7 +43484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 29,
     "createdAt": "2021-08-15T19:50:50Z"
   },
   {
@@ -43496,7 +43496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 36,
     "createdAt": "2021-10-07T15:43:27Z"
   },
   {
@@ -43506,7 +43506,7 @@
     "location": "Vienna, Austria",
     "company": "Vienna University of Economics and Business (WU)",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-16T13:57:57Z"
@@ -43519,7 +43519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 660,
+    "privateContributions": 1771,
     "publicContributions": 0,
     "createdAt": "2021-11-09T18:42:30Z"
   },
@@ -43530,9 +43530,9 @@
     "location": "Hungary/Austria",
     "company": "",
     "twitterUsername": "K_Marci599",
-    "followers": 9,
-    "privateContributions": 132,
-    "publicContributions": 178,
+    "followers": 7,
+    "privateContributions": 99,
+    "publicContributions": 303,
     "createdAt": "2018-06-27T17:17:20Z"
   },
   {
@@ -43554,9 +43554,9 @@
     "location": "Macedonia, Austria",
     "company": "@non-stopdogwear @subolproducts ",
     "twitterUsername": "dameradev",
-    "followers": 24,
-    "privateContributions": 2708,
-    "publicContributions": 6,
+    "followers": 26,
+    "privateContributions": 3794,
+    "publicContributions": 2,
     "createdAt": "2018-10-17T11:40:06Z"
   },
   {
@@ -43590,7 +43590,7 @@
     "location": "Vienna",
     "company": "AIT - Austrian Institute of Technology",
     "twitterUsername": "",
-    "followers": 77,
+    "followers": 63,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-05T11:11:35Z"
@@ -43603,8 +43603,8 @@
     "company": "RBI",
     "twitterUsername": "",
     "followers": 61,
-    "privateContributions": 616,
-    "publicContributions": 12,
+    "privateContributions": 280,
+    "publicContributions": 1,
     "createdAt": "2021-12-03T12:31:20Z"
   },
   {
@@ -43626,9 +43626,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "LucaVanFeinsten",
-    "followers": 57,
-    "privateContributions": 48,
-    "publicContributions": 19,
+    "followers": 55,
+    "privateContributions": 32,
+    "publicContributions": 0,
     "createdAt": "2021-03-16T08:00:57Z"
   },
   {
@@ -43640,20 +43640,8 @@
     "twitterUsername": "",
     "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 39,
     "createdAt": "2021-03-15T20:35:43Z"
-  },
-  {
-    "login": "MisakiTaro0414",
-    "name": "Ayhan Suleymanzade",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82378138?s=72&u=1a722f261c68d1dd8fd016fc2fb4181b32846eb9&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2021-04-12T10:26:01Z"
   },
   {
     "login": "fragtex-eth",
@@ -43662,7 +43650,7 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 40,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-09T11:26:54Z"
@@ -43674,9 +43662,9 @@
     "location": "Vienna",
     "company": "42 Vienna",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 465,
-    "publicContributions": 1056,
+    "followers": 41,
+    "privateContributions": 576,
+    "publicContributions": 1157,
     "createdAt": "2021-11-12T16:50:38Z"
   },
   {
@@ -43687,8 +43675,8 @@
     "company": "@vendurehq",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 2651,
-    "publicContributions": 807,
+    "privateContributions": 3557,
+    "publicContributions": 623,
     "createdAt": "2020-12-28T12:01:07Z"
   },
   {
@@ -43698,9 +43686,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 4,
-    "publicContributions": 173,
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 151,
     "createdAt": "2021-03-19T20:24:18Z"
   },
   {
