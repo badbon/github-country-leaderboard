@@ -44484,18 +44484,6 @@
     "createdAt": "2021-01-18T13:15:44Z"
   },
   {
-    "login": "scottbarcomb",
-    "name": "Scott Barcomb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80728773?s=72&v=4",
-    "location": "Basel, BS, Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 28,
-    "createdAt": "2021-03-16T01:13:15Z"
-  },
-  {
     "login": "tommy1641",
     "name": "Yes",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81860329?s=72&v=4",
@@ -44528,7 +44516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 30,
     "createdAt": "2021-06-22T19:18:34Z"
   },
   {
@@ -44540,7 +44528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 14,
     "createdAt": "2021-05-22T11:57:54Z"
   },
   {
@@ -44551,7 +44539,7 @@
     "company": "Lumind",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2111,
+    "privateContributions": 4061,
     "publicContributions": 1,
     "createdAt": "2021-03-20T15:07:00Z"
   },
@@ -44576,7 +44564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 63,
     "createdAt": "2021-05-16T02:31:34Z"
   },
   {
@@ -44636,7 +44624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 121,
     "createdAt": "2021-05-24T09:44:35Z"
   },
   {
@@ -44648,7 +44636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 32,
     "createdAt": "2021-06-11T12:20:14Z"
   },
   {
@@ -44670,9 +44658,9 @@
     "location": "Switzerland",
     "company": "ETH Zurich & WSL Sion",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-03-31T16:27:34Z"
   },
   {
@@ -44683,8 +44671,8 @@
     "company": "@CMInformatik ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3778,
-    "publicContributions": 20,
+    "privateContributions": 6320,
+    "publicContributions": 33,
     "createdAt": "2021-04-01T13:07:48Z"
   },
   {

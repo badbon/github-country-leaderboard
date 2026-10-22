@@ -44660,7 +44660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-11-04T04:37:58Z"
   },
   {
@@ -44672,7 +44672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 60,
     "createdAt": "2024-12-01T09:45:51Z"
   },
   {
@@ -44684,7 +44684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-12-02T18:00:48Z"
   },
   {
@@ -44707,8 +44707,8 @@
     "company": "University of Moratuwa",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 745,
-    "publicContributions": 440,
+    "privateContributions": 703,
+    "publicContributions": 262,
     "createdAt": "2024-10-03T15:39:32Z"
   },
   {
@@ -44718,9 +44718,9 @@
     "location": "Matara, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 120,
     "createdAt": "2024-10-03T16:23:07Z"
   },
   {
@@ -44731,7 +44731,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-12T16:54:58Z"
   },
@@ -44755,8 +44755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 49,
-    "publicContributions": 70,
+    "privateContributions": 4,
+    "publicContributions": 61,
     "createdAt": "2024-12-01T06:33:40Z"
   },
   {
@@ -44768,7 +44768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 431,
+    "publicContributions": 347,
     "createdAt": "2024-12-07T11:21:06Z"
   },
   {
@@ -44780,7 +44780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 37,
     "createdAt": "2024-12-02T12:49:34Z"
   },
   {
@@ -44790,7 +44790,7 @@
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-10-16T09:12:30Z"
@@ -44803,8 +44803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 93,
+    "privateContributions": 8,
+    "publicContributions": 92,
     "createdAt": "2024-12-03T10:07:31Z"
   },
   {
@@ -44816,19 +44816,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 54,
     "createdAt": "2024-12-05T13:06:39Z"
   },
   {
     "login": "Maheeshasamarasinhe",
     "name": "Maheesha samarasinhe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190947241?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190947241?s=72&u=210f44afde72a6e6215c60574a2dbadd36f94d47&v=4",
     "location": "Galle, Sri Lanka",
     "company": "Faculty of Engineering, University of Ruhuna",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 391,
+    "publicContributions": 337,
     "createdAt": "2024-12-07T14:05:23Z"
   },
   {
@@ -44838,9 +44838,9 @@
     "location": "Hatton, Sri Lanka",
     "company": "@cepdnaclk ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 237,
+    "publicContributions": 296,
     "createdAt": "2024-11-26T10:12:59Z"
   },
   {
@@ -44852,7 +44852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 5,
     "createdAt": "2024-11-16T11:22:19Z"
   },
   {
@@ -44864,19 +44864,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 55,
     "createdAt": "2024-11-06T09:56:12Z"
   },
   {
     "login": "hashanoz",
     "name": "Hashan Madhura",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187476217?s=72&u=7c74678f9e5bb95ee7194fe88e724838d0abe7a1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187476217?s=72&u=caeea7e63f35636ec6f3e42b87552bb284cd842a&v=4",
     "location": "Badulla, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "followers": 5,
+    "privateContributions": 1,
+    "publicContributions": 53,
     "createdAt": "2024-11-06T04:09:48Z"
   },
   {
