@@ -194,7 +194,7 @@ Published countries: 234
 | Singapore | 24,707 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,657 | [View](./slovakia.md) |
-| Slovenia | 3,095 | [View](./slovenia.md) |
+| Slovenia | 3,094 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,921 | [View](./south_africa.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T02:38:03.448Z
+Generated: 2026-10-22T02:47:42.309Z

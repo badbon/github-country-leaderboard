@@ -13,7 +13,7 @@ Indexed users: 123
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 44,964 |
-| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,774 |
+| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 13,785 |
 | 3 | [doctorneon](https://github.com/doctorneon) | Fabian Jacott | Suriname | 6,405 |
 | 4 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 2,840 |
 | 5 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 1,862 |
@@ -23,7 +23,7 @@ Indexed users: 123
 | 9 | [jairseedorf](https://github.com/jairseedorf) | Jaïr Seedorf  | Suriname | 1,126 |
 | 10 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 867 |
 | 11 | [nerkarso](https://github.com/nerkarso) | Ner Karso | Paramaribo, Suriname | 809 |
-| 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 727 |
+| 12 | [dmoed](https://github.com/dmoed) | <Don/> | Paramaribo, Suriname | 722 |
 | 13 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 712 |
 | 14 | [SantoshDevX](https://github.com/SantoshDevX) | Vishant Ramratan | Suriname | 661 |
 | 15 | [devbravo](https://github.com/devbravo) | Diego Sabajo | Paramaribo, Suriname | 633 |
@@ -38,7 +38,7 @@ Indexed users: 123
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rafageist](https://github.com/rafageist) | Rafa Rodríguez | Paramaribo, Suriname | 21,576 |
-| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,824 |
+| 2 | [ragnarok22](https://github.com/ragnarok22) | Reinier Hernández | Suriname | 2,815 |
 | 3 | [giannisanni](https://github.com/giannisanni) | Gianni Sanrochman | Paramaribo, Suriname | 611 |
 | 4 | [JustinDouglas16](https://github.com/JustinDouglas16) | Justin Douglas | Paramaribo | 252 |
 | 5 | [pawiromitchel](https://github.com/pawiromitchel) | Mitchel | Suriname | 194 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 17 |
 
-Generated: 2026-10-22T01:10:18.293Z
+Generated: 2026-10-22T02:45:12.382Z
