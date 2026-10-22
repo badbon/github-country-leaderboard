@@ -43148,7 +43148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 129,
     "createdAt": "2022-09-27T09:34:44Z"
   },
   {
@@ -43160,7 +43160,7 @@
     "twitterUsername": "Identitybaba",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 153,
     "createdAt": "2022-03-18T10:48:08Z"
   },
   {
@@ -43219,8 +43219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 125,
+    "privateContributions": 0,
+    "publicContributions": 52,
     "createdAt": "2022-02-14T14:30:31Z"
   },
   {
@@ -43236,18 +43236,6 @@
     "createdAt": "2022-04-13T10:58:51Z"
   },
   {
-    "login": "Natibelay",
-    "name": "Natnael Belayneh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104524889?s=72&u=40af88a9cac8fba9622782f8a2262f1b640dbbf4&v=4",
-    "location": "Addis Ababa, Ethiopia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2022-04-27T18:15:32Z"
-  },
-  {
     "login": "davegerim",
     "name": "Dawit Gerim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103284693?s=72&u=ffde11a559d84904fa1d764bf0f4b5beb4ac6a19&v=4",
@@ -43255,32 +43243,32 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 30,
+    "privateContributions": 5,
+    "publicContributions": 22,
     "createdAt": "2022-04-08T19:26:56Z"
   },
   {
     "login": "naol-zewdie",
     "name": "Naol Zewdie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98470769?s=72&v=4",
-    "location": "Adama, Ethiopia",
-    "company": "ASTU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98470769?s=72&u=00f10354fbe2a012a044a76d0ecc87d414eded4c&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "Skywin Aeronautics",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
+    "privateContributions": 13,
+    "publicContributions": 50,
     "createdAt": "2022-01-26T14:23:17Z"
   },
   {
     "login": "Samri2",
     "name": "samrawit worku",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116596805?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116596805?s=72&u=ec298ebd04f820a09d6afbf6747e5964b780223a&v=4",
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 254,
+    "publicContributions": 266,
     "createdAt": "2022-10-24T19:52:45Z"
   },
   {
@@ -43297,14 +43285,14 @@
   },
   {
     "login": "zeroNhatty",
-    "name": "Natnael Netsanet",
+    "name": "Nhatty",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113287252?s=72&u=efb3bb92f9db5387a536a9672cff7072b34643c6&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 202,
+    "publicContributions": 258,
     "createdAt": "2022-09-11T10:24:07Z"
   },
   {
@@ -43315,7 +43303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-15T05:30:07Z"
   },

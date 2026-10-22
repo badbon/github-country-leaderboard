@@ -42768,18 +42768,6 @@
     "createdAt": "2020-09-26T03:18:15Z"
   },
   {
-    "login": "Juice-zhi",
-    "name": "Guo Zhi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72299557?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 53,
-    "createdAt": "2020-10-03T09:34:57Z"
-  },
-  {
     "login": "kshuiroy",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/68235872?s=72&v=4",
@@ -42800,7 +42788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2020-11-13T03:53:37Z"
   },
   {
@@ -42810,8 +42798,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
+    "followers": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-10T08:40:58Z"
   },
@@ -42836,7 +42824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 100,
     "createdAt": "2020-12-26T06:57:17Z"
   },
   {
@@ -42848,7 +42836,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 5,
     "createdAt": "2020-12-21T02:44:14Z"
   },
   {
@@ -42860,7 +42848,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 22,
     "createdAt": "2020-08-10T08:39:55Z"
   },
   {
@@ -42871,8 +42859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 455,
-    "publicContributions": 160,
+    "privateContributions": 466,
+    "publicContributions": 216,
     "createdAt": "2020-09-28T06:13:35Z"
   },
   {
@@ -42895,8 +42883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 55,
-    "publicContributions": 989,
+    "privateContributions": 65,
+    "publicContributions": 1876,
     "createdAt": "2020-10-09T10:18:42Z"
   },
   {
@@ -42939,12 +42927,12 @@
     "login": "Planeson",
     "name": "Planeson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/68603654?s=72&u=d580cc47d2355ee6abdb0ada9d3f49b1ee2f5a7f&v=4",
-    "location": "Hong Kong, United Kingdom",
-    "company": "",
+    "location": "Hong Kong",
+    "company": "Red Bird Racing",
     "twitterUsername": "Planeson",
-    "followers": 2,
-    "privateContributions": 17,
-    "publicContributions": 274,
+    "followers": 3,
+    "privateContributions": 24,
+    "publicContributions": 265,
     "createdAt": "2020-07-21T15:07:39Z"
   },
   {
@@ -42967,7 +42955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 135,
+    "privateContributions": 59,
     "publicContributions": 0,
     "createdAt": "2020-09-29T17:46:40Z"
   },
@@ -42978,7 +42966,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-15T14:20:53Z"
@@ -42990,7 +42978,7 @@
     "location": "Hong Kong",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-13T04:32:45Z"

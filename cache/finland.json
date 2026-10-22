@@ -42942,7 +42942,7 @@
     "location": "SYK, Helsinki",
     "company": "SYK, Helsinki",
     "twitterUsername": "hoodarm7",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2021-12-01T11:21:23Z"
@@ -42956,7 +42956,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-11T18:19:21Z"
   },
   {
@@ -42967,8 +42967,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 324,
-    "publicContributions": 96,
+    "privateContributions": 333,
+    "publicContributions": 121,
     "createdAt": "2021-11-23T12:27:20Z"
   },
   {
@@ -42979,8 +42979,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 911,
-    "publicContributions": 2,
+    "privateContributions": 1260,
+    "publicContributions": 1,
     "createdAt": "2021-09-08T06:46:30Z"
   },
   {
@@ -43003,8 +43003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 675,
-    "publicContributions": 71,
+    "privateContributions": 629,
+    "publicContributions": 46,
     "createdAt": "2021-02-15T09:03:45Z"
   },
   {
@@ -43040,14 +43040,14 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-17T09:10:33Z"
   },
   {
     "login": "TeemuHarinen",
     "name": "Teemu Harinen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89666686?s=72&u=fe6fb7fd67330aa0b445b9e7eb9c2608007510ea&v=4",
-    "location": "Helsinki/Lappeenranta",
+    "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
@@ -43070,11 +43070,11 @@
   {
     "login": "DegaZZZ",
     "name": "Platon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90562356?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90562356?s=72&u=cb217251d8123d6e4dbdd6c09f702adc16c41dbf&v=4",
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2021-09-12T13:55:57Z"
@@ -43087,8 +43087,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2926,
-    "publicContributions": 201,
+    "privateContributions": 3597,
+    "publicContributions": 88,
     "createdAt": "2021-03-04T10:41:18Z"
   },
   {
@@ -43099,7 +43099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 627,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-03T14:28:27Z"
   },
@@ -43110,9 +43110,9 @@
     "location": "Helsinki",
     "company": "@Green-Factory-AI ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 137,
-    "publicContributions": 29,
+    "followers": 6,
+    "privateContributions": 272,
+    "publicContributions": 35,
     "createdAt": "2021-03-31T14:49:36Z"
   },
   {
@@ -43136,7 +43136,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 246,
     "createdAt": "2021-09-21T11:12:34Z"
   },
   {
@@ -43159,7 +43159,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 195,
+    "privateContributions": 197,
     "publicContributions": 0,
     "createdAt": "2021-01-15T10:47:06Z"
   },
@@ -43170,7 +43170,7 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-11-14T23:55:27Z"

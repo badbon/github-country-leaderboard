@@ -43076,7 +43076,7 @@
     "twitterUsername": "DaveChong07",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-02-05T04:15:09Z"
   },
   {
@@ -43098,9 +43098,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 44,
     "createdAt": "2022-02-05T03:03:03Z"
   },
   {
@@ -43118,12 +43118,12 @@
   {
     "login": "WanderTheWeeb",
     "name": "José Francisco Santes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100863314?s=72&u=4f5d8cbc491322d9318bd1987b28a364eb442af0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100863314?s=72&u=96569d55521f45d1fff498f908d2d84ae927615a&v=4",
     "location": "Veracruz, Mexico.",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 82,
+    "followers": 20,
+    "privateContributions": 422,
     "publicContributions": 34,
     "createdAt": "2022-03-03T16:29:33Z"
   },
@@ -43132,11 +43132,11 @@
     "name": "Gabriel Ramírez-Vilchis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100377756?s=72&u=936cb4b6fd88200b2070b278ad0a73a588a24715&v=4",
     "location": "Mexico City",
-    "company": "@morenolab",
+    "company": "@morenolab | @LieberInstitute",
     "twitterUsername": "GabrielRamV",
-    "followers": 21,
-    "privateContributions": 243,
-    "publicContributions": 70,
+    "followers": 25,
+    "privateContributions": 547,
+    "publicContributions": 84,
     "createdAt": "2022-02-24T18:49:12Z"
   },
   {
@@ -43148,7 +43148,7 @@
     "twitterUsername": "LuisDavid5048",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 12,
     "createdAt": "2022-05-06T19:44:10Z"
   },
   {
@@ -43158,7 +43158,7 @@
     "location": "Mexico",
     "company": "@ElectronicCats ",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 1,
     "publicContributions": 8,
     "createdAt": "2022-06-16T16:23:05Z"
@@ -43170,9 +43170,9 @@
     "location": "Mexico City",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 158,
-    "publicContributions": 12,
+    "followers": 22,
+    "privateContributions": 138,
+    "publicContributions": 48,
     "createdAt": "2022-02-12T18:49:36Z"
   },
   {
@@ -43184,7 +43184,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 2,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-06-15T00:43:43Z"
   },
   {
@@ -43194,7 +43194,7 @@
     "location": "Mexico City",
     "company": "VASS",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2022-03-19T04:33:45Z"
@@ -43208,7 +43208,7 @@
     "twitterUsername": "alephwithbeth",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2022-02-01T01:38:52Z"
   },
   {
@@ -43218,9 +43218,9 @@
     "location": "Mexico",
     "company": "UASLP",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 59,
     "createdAt": "2022-03-11T02:12:56Z"
   },
   {
@@ -43231,21 +43231,9 @@
     "company": "artmichel",
     "twitterUsername": "artmichel_eth",
     "followers": 17,
-    "privateContributions": 1055,
-    "publicContributions": 48,
+    "privateContributions": 1866,
+    "publicContributions": 31,
     "createdAt": "2022-01-28T02:29:46Z"
-  },
-  {
-    "login": "tstarkdev",
-    "name": "T. Stark",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99743288?s=72&u=2812fd830ec2528bd53b038fe79e51ede59267c7&v=4",
-    "location": "Mexico",
-    "company": "@PocketMine-School",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 136,
-    "publicContributions": 27,
-    "createdAt": "2022-02-15T14:42:19Z"
   },
   {
     "login": "mazerman03",
@@ -43254,9 +43242,9 @@
     "location": "Nuevo León, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 58,
-    "publicContributions": 49,
+    "followers": 15,
+    "privateContributions": 52,
+    "publicContributions": 48,
     "createdAt": "2022-05-17T20:38:38Z"
   },
   {
@@ -43266,7 +43254,7 @@
     "location": "Mexico city",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 12,
     "privateContributions": 4,
     "publicContributions": 4,
     "createdAt": "2022-04-14T03:55:16Z"
@@ -43280,7 +43268,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 274,
+    "publicContributions": 252,
     "createdAt": "2022-01-05T16:24:59Z"
   },
   {
@@ -43290,9 +43278,9 @@
     "location": "Mexico",
     "company": "@adobly @sunshinelaborok",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 761,
-    "publicContributions": 138,
+    "followers": 18,
+    "privateContributions": 921,
+    "publicContributions": 51,
     "createdAt": "2022-01-03T18:51:45Z"
   },
   {
@@ -43300,11 +43288,11 @@
     "name": "Dimitry",
     "avatarUrl": "https://avatars.githubusercontent.com/u/106350465?s=72&u=8e6877e9de8d42f2b188406f366a9967481497a4&v=4",
     "location": "Mexico",
-    "company": "COSMOS",
+    "company": "CONTROL",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 829,
-    "publicContributions": 2,
+    "privateContributions": 803,
+    "publicContributions": 3,
     "createdAt": "2022-05-26T20:32:15Z"
   },
   {

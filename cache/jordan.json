@@ -43338,7 +43338,7 @@
     "location": "Jordan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2015-12-26T18:04:32Z"
@@ -43351,8 +43351,8 @@
     "company": "SESAME Synchrotron-light",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 74,
-    "publicContributions": 21,
+    "privateContributions": 21,
+    "publicContributions": 11,
     "createdAt": "2015-01-19T09:41:22Z"
   },
   {
@@ -43363,7 +43363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 48,
+    "privateContributions": 71,
     "publicContributions": 1,
     "createdAt": "2015-03-28T14:02:26Z"
   },
@@ -43376,7 +43376,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 143,
     "createdAt": "2015-06-26T22:47:31Z"
   },
   {
@@ -43387,7 +43387,7 @@
     "company": "Astel Ventures",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 55,
+    "privateContributions": 106,
     "publicContributions": 1,
     "createdAt": "2015-10-11T11:46:30Z"
   },
@@ -43412,7 +43412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 56,
     "createdAt": "2015-08-23T16:58:19Z"
   },
   {
@@ -43488,18 +43488,6 @@
     "createdAt": "2015-09-26T22:19:34Z"
   },
   {
-    "login": "emadzedan80",
-    "name": "Emad Morris Zedan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15039337?s=72&u=9b3e292b14094d31fd18f8cf9fd95bb92d6222e9&v=4",
-    "location": "Amman, Jordan",
-    "company": "Emad Zedan",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-10-08T20:13:26Z"
-  },
-  {
     "login": "digat",
     "name": "Tareq Saleh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/12469924?s=72&u=6d95d1963890f65b739452bdc4fbcee398cf2255&v=4",
@@ -43555,7 +43543,7 @@
     "company": "YamART Design",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 47,
     "publicContributions": 0,
     "createdAt": "2015-04-21T17:03:34Z"
   },

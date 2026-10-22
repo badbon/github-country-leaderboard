@@ -43496,20 +43496,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 17,
     "createdAt": "2021-09-29T15:57:20Z"
-  },
-  {
-    "login": "edvardgjerald",
-    "name": "Edvard Gjerald",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91955335?s=72&u=f3c0948ab2c84699f38166321fb35153b578e66e&v=4",
-    "location": "Oslo",
-    "company": "Norsk helsenett",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2021-10-05T11:42:31Z"
   },
   {
     "login": "2rekl",
@@ -43531,7 +43519,7 @@
     "company": "Kindly",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 266,
+    "privateContributions": 1212,
     "publicContributions": 0,
     "createdAt": "2021-03-22T21:08:27Z"
   },
@@ -43580,7 +43568,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 79,
     "createdAt": "2021-08-26T17:43:40Z"
   },
   {
@@ -43590,8 +43578,8 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 173,
+    "followers": 3,
+    "privateContributions": 162,
     "publicContributions": 7,
     "createdAt": "2021-10-15T09:36:00Z"
   },
@@ -43615,8 +43603,8 @@
     "company": "NoA Ignite",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 735,
-    "publicContributions": 235,
+    "privateContributions": 861,
+    "publicContributions": 190,
     "createdAt": "2021-06-08T08:58:02Z"
   },
   {
@@ -43639,8 +43627,8 @@
     "company": "",
     "twitterUsername": "GRvanderPloeg",
     "followers": 2,
-    "privateContributions": 856,
-    "publicContributions": 238,
+    "privateContributions": 223,
+    "publicContributions": 223,
     "createdAt": "2021-08-24T12:15:34Z"
   },
   {
@@ -43651,8 +43639,8 @@
     "company": "",
     "twitterUsername": "Ragchomp",
     "followers": 2,
-    "privateContributions": 276,
-    "publicContributions": 106,
+    "privateContributions": 288,
+    "publicContributions": 60,
     "createdAt": "2021-03-05T23:35:37Z"
   },
   {
@@ -43662,9 +43650,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 13,
-    "publicContributions": 217,
+    "followers": 3,
+    "privateContributions": 7,
+    "publicContributions": 219,
     "createdAt": "2021-04-16T18:23:43Z"
   },
   {
@@ -43687,8 +43675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 430,
-    "publicContributions": 110,
+    "privateContributions": 523,
+    "publicContributions": 103,
     "createdAt": "2021-02-10T11:06:17Z"
   },
   {
@@ -43711,7 +43699,7 @@
     "company": "Agens AS",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 990,
+    "privateContributions": 615,
     "publicContributions": 6,
     "createdAt": "2021-03-18T15:23:38Z"
   },

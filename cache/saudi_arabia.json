@@ -43088,7 +43088,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-07-07T14:26:20Z"
   },
   {
@@ -43110,7 +43110,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-31T15:18:53Z"
@@ -43123,7 +43123,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 8,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2020-01-03T03:55:05Z"
   },
@@ -43147,8 +43147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1612,
-    "publicContributions": 41,
+    "privateContributions": 1599,
+    "publicContributions": 37,
     "createdAt": "2020-05-30T21:02:29Z"
   },
   {
@@ -43158,7 +43158,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-12T14:03:37Z"
@@ -43170,22 +43170,10 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "dbukhari_",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-15T06:31:35Z"
-  },
-  {
-    "login": "AlBrmagawi",
-    "name": "AlBrmagawi | البرمجاوي",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73772628?s=72&u=082771fb11f87e87be95197614e6f5b4203885bc&v=4",
-    "location": "Saudi Arabia",
-    "company": "Amerna | آمرنا ",
-    "twitterUsername": "albrmagawi",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-11-01T07:32:08Z"
   },
   {
     "login": "mabedd",
@@ -43208,7 +43196,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2020-09-05T15:56:51Z"
   },
   {
@@ -43219,7 +43207,7 @@
     "company": "",
     "twitterUsername": "ObadaAli_",
     "followers": 4,
-    "privateContributions": 596,
+    "privateContributions": 932,
     "publicContributions": 0,
     "createdAt": "2020-04-29T23:54:50Z"
   },
@@ -43255,7 +43243,7 @@
     "company": "@mrsool",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 279,
+    "privateContributions": 198,
     "publicContributions": 0,
     "createdAt": "2020-09-09T19:21:50Z"
   },
@@ -43268,7 +43256,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 152,
     "createdAt": "2020-10-11T17:07:26Z"
   },
   {
@@ -43314,7 +43302,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2020-07-17T04:46:39Z"

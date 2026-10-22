@@ -43111,7 +43111,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 2,
     "publicContributions": 356,
     "createdAt": "2023-08-05T10:12:23Z"
   },
@@ -43126,30 +43126,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-11T09:59:18Z"
-  },
-  {
-    "login": "RitaLovesRock",
-    "name": "Rita Dias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138589915?s=72&u=4dcdb35e415406bd0bdaa87a1fc53d3896c36e8d&v=4",
-    "location": "Porto, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 19,
-    "publicContributions": 0,
-    "createdAt": "2023-07-04T12:23:16Z"
-  },
-  {
-    "login": "HenriqueVM8",
-    "name": "Henrique Marcos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152103881?s=72&u=0149308a3daceb96e3d61040d27fbde09f7c98dc&v=4",
-    "location": "Aveiro, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 42,
-    "createdAt": "2023-11-26T21:31:18Z"
   },
   {
     "login": "Spingamii",
@@ -43170,7 +43146,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-29T14:07:03Z"
@@ -43178,7 +43154,7 @@
   {
     "login": "pedromiguelpcoelho",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151852864?s=72&u=56b7f8c4b2a3711e13e460a2cde900cda9763333&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151852864?s=72&v=4",
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
@@ -43208,7 +43184,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 0,
     "createdAt": "2023-08-28T22:01:20Z"
   },
   {
@@ -43232,7 +43208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 90,
     "createdAt": "2023-07-10T17:32:37Z"
   },
   {
@@ -43243,7 +43219,7 @@
     "company": "FEUP",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 366,
+    "privateContributions": 341,
     "publicContributions": 0,
     "createdAt": "2023-09-22T10:46:26Z"
   },
@@ -43267,8 +43243,8 @@
     "company": "Checkmarx",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1064,
-    "publicContributions": 26,
+    "privateContributions": 1011,
+    "publicContributions": 23,
     "createdAt": "2023-08-09T16:27:50Z"
   },
   {
@@ -43291,7 +43267,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 943,
+    "privateContributions": 837,
     "publicContributions": 0,
     "createdAt": "2023-08-15T20:16:52Z"
   },
@@ -43302,9 +43278,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 482,
-    "publicContributions": 228,
+    "followers": 5,
+    "privateContributions": 195,
+    "publicContributions": 330,
     "createdAt": "2023-08-30T00:41:30Z"
   },
   {
