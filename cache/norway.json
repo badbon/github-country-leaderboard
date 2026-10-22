@@ -42812,7 +42812,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 18,
     "createdAt": "2021-01-13T08:24:08Z"
   },
   {
@@ -42835,7 +42835,7 @@
     "company": "UiO",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 62,
+    "privateContributions": 60,
     "publicContributions": 0,
     "createdAt": "2021-10-01T13:33:31Z"
   },
@@ -42896,7 +42896,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 420,
+    "publicContributions": 379,
     "createdAt": "2021-08-26T19:57:10Z"
   },
   {
@@ -42906,9 +42906,9 @@
     "location": "Oslo",
     "company": "University of Oslo",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2021-09-16T08:00:37Z"
   },
   {
@@ -42938,13 +42938,13 @@
   {
     "login": "FabianMyrvang",
     "name": "Fabian Myrvang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79159572?s=72&u=fd38f63f64055f36588fb8f743dd108d34d54358&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79159572?s=72&v=4",
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 9,
-    "publicContributions": 45,
+    "privateContributions": 31,
+    "publicContributions": 61,
     "createdAt": "2021-02-16T16:37:09Z"
   },
   {
@@ -42968,7 +42968,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 118,
     "createdAt": "2021-06-08T14:48:33Z"
   },
   {
@@ -42979,7 +42979,7 @@
     "company": "Tet Digital",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 8,
+    "privateContributions": 514,
     "publicContributions": 0,
     "createdAt": "2021-08-26T10:46:00Z"
   },
@@ -42991,7 +42991,7 @@
     "company": "Dignio AS",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4,
+    "privateContributions": 14,
     "publicContributions": 4,
     "createdAt": "2021-02-26T12:28:28Z"
   },
