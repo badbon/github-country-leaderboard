@@ -16,7 +16,7 @@ Indexed users: 1,180
 | 2 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 9,961 |
 | 3 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Tirana | 8,968 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,673 |
-| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,136 |
+| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,198 |
 | 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 7,331 |
 | 7 | [orges](https://github.com/orges) | orges | Albania | 6,768 |
 | 8 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 6,688 |
@@ -28,7 +28,7 @@ Indexed users: 1,180
 | 14 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,719 |
 | 15 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 4,656 |
 | 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,643 |
-| 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,540 |
+| 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,609 |
 | 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,530 |
 | 19 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
 | 20 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka | Tirane, Albania | 4,282 |
@@ -67,7 +67,7 @@ Indexed users: 1,180
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 772 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 722 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 461 |
-| 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 236 |
+| 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 234 |
 | 7 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 157 |
 | 8 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 157 |
 | 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj | Tirana, Albania | 142 |
@@ -83,4 +83,4 @@ Indexed users: 1,180
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-22T22:25:19.207Z
+Generated: 2026-10-22T23:26:42.637Z

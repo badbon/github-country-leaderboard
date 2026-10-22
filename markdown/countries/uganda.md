@@ -40,7 +40,7 @@ Indexed users: 3,864
 | 1 | [rmkasendwa](https://github.com/rmkasendwa) | Ronald M. Kasendwa | Kampala, Uganda | 11,876 |
 | 2 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 | 3 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,929 |
-| 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
+| 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 4,918 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,890 |
 | 6 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 4,261 |
 | 7 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,685 |
@@ -83,4 +83,4 @@ Indexed users: 3,864
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-22T22:20:06.631Z
+Generated: 2026-10-22T23:22:56.767Z

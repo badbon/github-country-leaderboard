@@ -20,18 +20,18 @@ Indexed users: 5,417
 | 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 10,662 |
 | 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Zagreb, Croatia | 9,779 |
 | 8 | [dabodamjan](https://github.com/dabodamjan) | Damjan Dabo | Zagreb | 9,744 |
-| 9 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 9,634 |
-| 10 | [markoboras0712](https://github.com/markoboras0712) | mboras | Osijek, Croatia | 9,003 |
-| 11 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
-| 12 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Pula, Croatia | 8,428 |
-| 13 | [Norgul](https://github.com/Norgul) | Marko Dupor | Rijeka, Croatia | 8,372 |
-| 14 | [lbagic](https://github.com/lbagic) | Luka Bagic | Croatia | 8,198 |
-| 15 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
-| 16 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | Croatia | 8,044 |
-| 17 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
-| 18 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
-| 19 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
-| 20 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
+| 9 | [vuki656](https://github.com/vuki656) | Domagoj Vukovic | Croatia | 9,689 |
+| 10 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 9,634 |
+| 11 | [markoboras0712](https://github.com/markoboras0712) | mboras | Osijek, Croatia | 9,003 |
+| 12 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
+| 13 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Pula, Croatia | 8,428 |
+| 14 | [Norgul](https://github.com/Norgul) | Marko Dupor | Rijeka, Croatia | 8,372 |
+| 15 | [lbagic](https://github.com/lbagic) | Luka Bagic | Croatia | 8,198 |
+| 16 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
+| 17 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | Croatia | 8,044 |
+| 18 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
+| 19 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
+| 20 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,417
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-22T22:36:06.122Z
+Generated: 2026-10-22T23:38:14.460Z

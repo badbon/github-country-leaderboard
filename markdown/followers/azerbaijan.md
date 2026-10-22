@@ -1,6 +1,6 @@
 # Followers - Azerbaijan
 
-Generated: 2026-10-22T22:27:25.423Z
+Generated: 2026-10-22T23:29:37.249Z
 
 Users: 5045
 
@@ -13,13 +13,13 @@ Users: 5045
 | 5 | [EminHaziyev](https://github.com/EminHaziyev) | emin |  |  | Baku | 598 |
 | 6 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | FULL-STACK DEVELOPER  | Isazde_Murad | Baku, Azerbaijan | 527 |
 | 7 | [orkhan-muradov-dev](https://github.com/orkhan-muradov-dev) | Orkhan |  |  | Baku, Azerbaijan | 525 |
-| 8 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | ITF Group |  | Baku | 471 |
-| 9 | [khanjanov](https://github.com/khanjanov) | Karim |  |  | Azerbaijan, Baku | 442 |
-| 10 | [hasanbakhtiar](https://github.com/hasanbakhtiar) | Hasan  | Webluna Software |  | Azerbaijan, Baku | 436 |
+| 8 | [hasanbakhtiar](https://github.com/hasanbakhtiar) | Hasan  | Webluna Software |  | Azerbaijan, Baku | 472 |
+| 9 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | ITF Group |  | Baku | 471 |
+| 10 | [khanjanov](https://github.com/khanjanov) | Karim |  |  | Azerbaijan, Baku | 442 |
 | 11 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 424 |
 | 12 | [sarkhanrasullu](https://github.com/sarkhanrasullu) | Sarkhan Rasullu | www.sarkhanrasullu.com |  | Azerbaijan | 408 |
 | 13 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | PeerStack |  | Azerbaijan,Baku | 365 |
-| 14 | [KhanbalaRashidov](https://github.com/KhanbalaRashidov) | Khanbala Rashidov | EManat  | Rashidov_Kh | Baku/Azerbaijan | 358 |
+| 14 | [KhanbalaRashidov](https://github.com/KhanbalaRashidov) | Khanbala Rashidov | EManat  | Rashidov_Kh | Baku/Azerbaijan | 361 |
 | 15 | [NijatZeynalov](https://github.com/NijatZeynalov) | Nijat Zeynalov | Azerconnect LLC |  | Azerbaijan | 331 |
 | 16 | [hmd37](https://github.com/hmd37) | Ahmad Allahverdiyev |  |  | Azerbaijan, Baku | 320 |
 | 17 | [samirkarimov](https://github.com/samirkarimov) | Samir Karimov |  |  | Azerbaijan | 308 |

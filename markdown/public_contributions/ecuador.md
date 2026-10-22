@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-22T22:38:36.387Z
+Generated: 2026-10-22T23:41:25.140Z
 
 Users: 4874
 
@@ -19,8 +19,8 @@ Users: 4874
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia |  |  | Ecuador | 2429 |
 | 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez |  |  | Ambato, Ecuador  | 2376 |
 | 13 | [MigelAngelEC](https://github.com/MigelAngelEC) | Miguel Angel Esparza |  | MigelAngel_ec | Ecuador | 2083 |
-| 14 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
-| 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
+| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 2051 |
+| 15 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
 | 16 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
 | 17 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde |  |  | Ecuador | 1812 |
 | 18 | [DavidAucancela](https://github.com/DavidAucancela) |  | Here and there |  | Quito, Ecuador | 1742 |

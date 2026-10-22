@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-22T22:27:29.442Z
+Generated: 2026-10-22T23:29:39.349Z
 
 Users: 236
 
@@ -14,7 +14,7 @@ Users: 236
 | 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 42 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 37 |
 | 8 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 37 |
-| 9 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Travis Miller Web |  | Bahamas | 29 |
+| 9 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Travis Miller Web |  | Bahamas | 31 |
 | 10 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | CEO @token21 @yepa | lucayepa | Nassau, Bahamas | 28 |
 | 11 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated |  |  | Bahamas  | 22 |
 | 12 | [Azure2020](https://github.com/Azure2020) |  | Azure Group of Companies Ltd  | Azuregold242 | Bahamas  | 21 |

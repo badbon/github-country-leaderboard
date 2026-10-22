@@ -50,8 +50,8 @@ Indexed users: 4,874
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,429 |
 | 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 2,376 |
 | 13 | [MigelAngelEC](https://github.com/MigelAngelEC) | Miguel Angel Esparza | Ecuador | 2,083 |
-| 14 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
-| 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
+| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 2,051 |
+| 15 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
 | 16 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
 | 17 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde | Ecuador | 1,812 |
 | 18 | [DavidAucancela](https://github.com/DavidAucancela) |  | Quito, Ecuador | 1,742 |
@@ -83,4 +83,4 @@ Indexed users: 4,874
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-22T22:38:36.387Z
+Generated: 2026-10-22T23:41:25.140Z

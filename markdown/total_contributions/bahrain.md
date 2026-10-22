@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-22T22:27:32.858Z
+Generated: 2026-10-22T23:29:42.249Z
 
 Users: 726
 
@@ -25,4 +25,4 @@ Users: 726
 | 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3711 |
 | 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3585 |
 | 19 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3548 |
-| 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 3202 |
+| 20 | [amali01](https://github.com/amali01) | Amjad Ali |  |  | Bahrain | 3291 |

@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-22T22:48:16.349Z
+Generated: 2026-10-22T23:42:01.722Z
 
 Users: 2378
 
@@ -24,5 +24,5 @@ Users: 2378
 | 16 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 5044 |
 | 17 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4964 |
 | 18 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4934 |
-| 19 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4824 |
-| 20 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 4603 |
+| 19 | [gbumanzordev](https://github.com/gbumanzordev) | Gerson Umanzor |  | gbumanzordev | El Salvador | 4922 |
+| 20 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4824 |

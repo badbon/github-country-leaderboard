@@ -56,7 +56,7 @@ Indexed users: 2,038
 | 17 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,466 |
 | 18 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,438 |
 | 19 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,385 |
-| 20 | [Gideonamani](https://github.com/Gideonamani) | Gideonamani A. Marress | Dar es Salaam, Tanzania | 1,318 |
+| 20 | [Gideonamani](https://github.com/Gideonamani) | Gideonamani A. Marress | Dar es Salaam, Tanzania | 1,372 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-22T22:16:06.700Z
+Generated: 2026-10-22T23:21:00.663Z

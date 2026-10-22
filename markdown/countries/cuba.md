@@ -12,7 +12,7 @@ Indexed users: 1,273
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 18,982 |
+| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 20,503 |
 | 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 18,542 |
 | 3 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 15,902 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,349 |
@@ -39,7 +39,7 @@ Indexed users: 1,273
 |---:|---|---|---|---:|
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 10,007 |
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,105 |
-| 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 7,904 |
+| 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 8,604 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,487 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,212 |
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,401 |
@@ -62,7 +62,7 @@ Indexed users: 1,273
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 456 |
+| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 458 |
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 391 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 217 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 144 |
@@ -83,4 +83,4 @@ Indexed users: 1,273
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-22T22:36:09.321Z
+Generated: 2026-10-22T23:38:18.547Z

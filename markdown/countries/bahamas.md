@@ -49,7 +49,7 @@ Indexed users: 236
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 92 |
 | 11 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 91 |
 | 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 90 |
-| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 62 |
+| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 63 |
 | 14 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 60 |
 | 15 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
 | 16 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | Nassau, The Bahamas | 50 |
@@ -70,7 +70,7 @@ Indexed users: 236
 | 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 42 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
 | 8 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 37 |
-| 9 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Bahamas | 29 |
+| 9 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Bahamas | 31 |
 | 10 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | Nassau, Bahamas | 28 |
 | 11 | [M3gaPixel](https://github.com/M3gaPixel) | Pixelated | Bahamas  | 22 |
 | 12 | [Azure2020](https://github.com/Azure2020) |  | Bahamas  | 21 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-22T22:27:29.442Z
+Generated: 2026-10-22T23:29:39.349Z

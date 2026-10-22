@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,775
+Indexed users: 5,774
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,775
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-22T22:25:23.743Z
+Generated: 2026-10-22T23:26:45.945Z

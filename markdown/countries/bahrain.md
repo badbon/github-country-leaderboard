@@ -31,7 +31,7 @@ Indexed users: 726
 | 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,711 |
 | 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,585 |
 | 19 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,548 |
-| 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,202 |
+| 20 | [amali01](https://github.com/amali01) | Amjad Ali | Bahrain | 3,291 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 726
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-22T22:27:32.858Z
+Generated: 2026-10-22T23:29:42.249Z

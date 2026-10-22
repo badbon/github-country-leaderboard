@@ -17,7 +17,7 @@ Indexed users: 132
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,215 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,330 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 3,078 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,845 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,851 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 2,211 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,752 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,563 |
@@ -30,7 +30,7 @@ Indexed users: 132
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
 | 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 593 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 442 |
-| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 433 |
+| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 435 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-22T22:28:23.925Z
+Generated: 2026-10-22T23:30:29.575Z
