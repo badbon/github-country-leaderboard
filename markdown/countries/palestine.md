@@ -13,7 +13,7 @@ Indexed users: 2,196
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [TareqK](https://github.com/TareqK) | Tareq Kirresh طارق قرش | Jerusalem, Palestine | 85,702 |
-| 2 | [prxgma](https://github.com/prxgma) |  | Gaza, Palestine | 17,930 |
+| 2 | [prxgma](https://github.com/prxgma) |  | Gaza, Palestine | 18,341 |
 | 3 | [mahmoudps](https://github.com/mahmoudps) | Mahmoud Matar | Palestine | 15,545 |
 | 4 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Palestine | 13,149 |
 | 5 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 12,358 |
@@ -83,4 +83,4 @@ Indexed users: 2,196
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-22T13:17:02.068Z
+Generated: 2026-10-22T14:56:31.600Z

@@ -42,10 +42,10 @@ Indexed users: 360
 | 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 1,018 |
 | 4 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG | Vientiane Capital, Laos | 624 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 442 |
-| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 406 |
+| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 413 |
 | 7 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Vientiane, Laos | 390 |
 | 8 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly | Vientiane, Laos | 385 |
-| 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 302 |
+| 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 303 |
 | 10 | [KT246](https://github.com/KT246) | khamtay kongmanh | Vientiane, Laos | 259 |
 | 11 | [nirankoon](https://github.com/nirankoon) |  | Vientiane | 174 |
 | 12 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | Vientiane, Lao P.D.R. | 157 |
@@ -55,8 +55,8 @@ Indexed users: 360
 | 16 | [bytoum](https://github.com/bytoum) | Toum Nanthavath | Laos | 121 |
 | 17 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | Vientiane, Laos | 120 |
 | 18 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | Laos, Vientiane | 116 |
-| 19 | [Billion101](https://github.com/Billion101) | Billion101 | Laos | 112 |
-| 20 | [Yingyony0097](https://github.com/Yingyony0097) | Saimond | Vientaine, Laos | 112 |
+| 19 | [Yingyony0097](https://github.com/Yingyony0097) | Saimond | Vientaine, Laos | 112 |
+| 20 | [BigguyPapsi](https://github.com/BigguyPapsi) | ThanouPap | Vangvieng, Vientiane, Laos | 111 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-22T12:57:39.605Z
+Generated: 2026-10-22T14:38:11.195Z

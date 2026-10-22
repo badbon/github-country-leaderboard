@@ -1,12 +1,12 @@
 # Followers - Malta
 
-Generated: 2026-10-22T13:05:02.129Z
+Generated: 2026-10-22T14:43:50.644Z
 
 Users: 1223
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3940 |
+| 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3941 |
 | 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja |  | BugejaCarl | Malta | 659 |
 | 3 | [nothingismagick](https://github.com/nothingismagick) |  | @tauri-apps |  | Malta | 606 |
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | Ethernity Cloud Ltd | Ethernity_cloud | St. Julians, Malta | 524 |

@@ -1,18 +1,18 @@
 # Total Contributions - Morocco
 
-Generated: 2026-10-22T13:08:08.870Z
+Generated: 2026-10-22T14:49:42.715Z
 
 Users: 9614
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [xDweeb](https://github.com/xDweeb) | Taibi EL Yakouti |  | elyakoutiweb | Morocco | 18901 |
+| 1 | [xDweeb](https://github.com/xDweeb) | Taibi EL Yakouti |  | elyakoutiweb | Morocco | 23763 |
 | 2 | [youssef-imlyhen](https://github.com/youssef-imlyhen) | usf |  |  | morocco | 16489 |
 | 3 | [haytamnajim](https://github.com/haytamnajim) | Haitam Najim  |  |  | Casablanca, Morocco | 14657 |
-| 4 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | 01 Talent |  | Morocco | 12236 |
+| 4 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | 01 Talent |  | Morocco | 12618 |
 | 5 | [said-ait-ouakour](https://github.com/said-ait-ouakour) | sid__ |  |  | Morocco | 10582 |
 | 6 | [gl1tch496](https://github.com/gl1tch496) | GL1TCH |  |  | Based in Rabat, Morocco | 9916 |
-| 7 | [fahdaguenouz](https://github.com/fahdaguenouz) | Fahd Aguenouz | 01 Talent  | yoofahdagchill | Morocco | 9398 |
+| 7 | [fahdaguenouz](https://github.com/fahdaguenouz) | Fahd Aguenouz | 01 Talent  | yoofahdagchill | Morocco | 8956 |
 | 8 | [Afnisse](https://github.com/Afnisse) | Yassine Afnisse | Hsabati | Yassine_Afnisse | Casablanca, Morocco | 8258 |
 | 9 | [mohaelmrabet](https://github.com/mohaelmrabet) | Mohamed El Mrabet | CleatSquad | Mohamed45007130 | Rabat | 8159 |
 | 10 | [moa-digitalagency](https://github.com/moa-digitalagency) | My One Art - Digital Agency |  |  | Marrakesh, Morocco | 7926 |

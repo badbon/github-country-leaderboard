@@ -12,13 +12,13 @@ Indexed users: 9,614
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [xDweeb](https://github.com/xDweeb) | Taibi EL Yakouti | Morocco | 18,901 |
+| 1 | [xDweeb](https://github.com/xDweeb) | Taibi EL Yakouti | Morocco | 23,763 |
 | 2 | [youssef-imlyhen](https://github.com/youssef-imlyhen) | usf | morocco | 16,489 |
 | 3 | [haytamnajim](https://github.com/haytamnajim) | Haitam Najim  | Casablanca, Morocco | 14,657 |
-| 4 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,236 |
+| 4 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,618 |
 | 5 | [said-ait-ouakour](https://github.com/said-ait-ouakour) | sid__ | Morocco | 10,582 |
 | 6 | [gl1tch496](https://github.com/gl1tch496) | GL1TCH | Based in Rabat, Morocco | 9,916 |
-| 7 | [fahdaguenouz](https://github.com/fahdaguenouz) | Fahd Aguenouz | Morocco | 9,398 |
+| 7 | [fahdaguenouz](https://github.com/fahdaguenouz) | Fahd Aguenouz | Morocco | 8,956 |
 | 8 | [Afnisse](https://github.com/Afnisse) | Yassine Afnisse | Casablanca, Morocco | 8,258 |
 | 9 | [mohaelmrabet](https://github.com/mohaelmrabet) | Mohamed El Mrabet | Rabat | 8,159 |
 | 10 | [moa-digitalagency](https://github.com/moa-digitalagency) | My One Art - Digital Agency | Marrakesh, Morocco | 7,926 |
@@ -38,7 +38,7 @@ Indexed users: 9,614
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [haytamnajim](https://github.com/haytamnajim) | Haitam Najim  | Casablanca, Morocco | 14,216 |
-| 2 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,216 |
+| 2 | [lfarssi](https://github.com/lfarssi) | MOHAMED EL FARSSI  | Morocco | 12,567 |
 | 3 | [hsinidev](https://github.com/hsinidev) | hsini mohamed  | morocco | 4,393 |
 | 4 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 3,669 |
 | 5 | [Ismail-elkorchi](https://github.com/Ismail-elkorchi) | Ismail El Korchi | Morocco | 3,218 |
@@ -83,4 +83,4 @@ Indexed users: 9,614
 | 19 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 818 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 738 |
 
-Generated: 2026-10-22T13:08:08.870Z
+Generated: 2026-10-22T14:49:42.715Z

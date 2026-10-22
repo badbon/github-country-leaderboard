@@ -47,16 +47,16 @@ Indexed users: 14,971
 | 8 | [hmlendea](https://github.com/hmlendea) | Horațiu Mlendea | Romania 🇷🇴 | 5,888 |
 | 9 | [ExtremeXT](https://github.com/ExtremeXT) |  | Romania | 5,609 |
 | 10 | [Prekzursil](https://github.com/Prekzursil) | Andrei Mihai Visalon | Romania | 5,592 |
-| 11 | [Gzeu](https://github.com/Gzeu) | George Pricop | București, Romania | 5,458 |
-| 12 | [alexjercan](https://github.com/alexjercan) | Alexandru Jercan | Bucharest, Romania | 4,833 |
-| 13 | [arolariu](https://github.com/arolariu) | Alexandru-Razvan Olariu | Romania | 4,381 |
-| 14 | [joahn3](https://github.com/joahn3) | Ionuț Francisc | Bucharest | 4,325 |
-| 15 | [shaftoe](https://github.com/shaftoe) | Alexander Fortin | Bucharest, Romania | 3,935 |
-| 16 | [marius-bughiu](https://github.com/marius-bughiu) | Marius Bughiu | Bucharest, Romania | 3,908 |
-| 17 | [mircea-pavel-anton](https://github.com/mircea-pavel-anton) | Mircea-Pavel Anton | Bucharest, Romania | 3,896 |
-| 18 | [tibtof](https://github.com/tibtof) | Tiberiu Tofan | Bucharest, Romania | 3,584 |
-| 19 | [iostpa](https://github.com/iostpa) | iostpa | Romania | 3,569 |
-| 20 | [geodro](https://github.com/geodro) | George Dumitrescu | Bucharest, Romania | 3,514 |
+| 11 | [alexjercan](https://github.com/alexjercan) | Alexandru Jercan | Bucharest, Romania | 4,833 |
+| 12 | [arolariu](https://github.com/arolariu) | Alexandru-Razvan Olariu | Romania | 4,381 |
+| 13 | [joahn3](https://github.com/joahn3) | Ionuț Francisc | Bucharest | 4,325 |
+| 14 | [shaftoe](https://github.com/shaftoe) | Alexander Fortin | Bucharest, Romania | 3,935 |
+| 15 | [marius-bughiu](https://github.com/marius-bughiu) | Marius Bughiu | Bucharest, Romania | 3,908 |
+| 16 | [mircea-pavel-anton](https://github.com/mircea-pavel-anton) | Mircea-Pavel Anton | Bucharest, Romania | 3,896 |
+| 17 | [tibtof](https://github.com/tibtof) | Tiberiu Tofan | Bucharest, Romania | 3,584 |
+| 18 | [iostpa](https://github.com/iostpa) | iostpa | Romania | 3,569 |
+| 19 | [geodro](https://github.com/geodro) | George Dumitrescu | Bucharest, Romania | 3,514 |
+| 20 | [ilg-ul](https://github.com/ilg-ul) | Liviu Grigore Ionescu | Bucharest, Romania | 3,446 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 14,971
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-22T13:21:28.871Z
+Generated: 2026-10-22T15:00:14.943Z

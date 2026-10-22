@@ -27,11 +27,11 @@ Indexed users: 4,000
 | 13 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 6,922 |
 | 14 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 6,753 |
 | 15 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | Jordan | 6,492 |
-| 16 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa | Jordan-Amman | 6,204 |
-| 17 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 6,128 |
-| 18 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,804 |
-| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 5,777 |
-| 20 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,440 |
+| 16 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 6,238 |
+| 17 | [Hashem-Tabbaa](https://github.com/Hashem-Tabbaa) | Hashem Altabbaa | Jordan-Amman | 6,204 |
+| 18 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 6,128 |
+| 19 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,804 |
+| 20 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 5,777 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,000
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 196 |
 
-Generated: 2026-10-22T12:55:29.907Z
+Generated: 2026-10-22T14:35:09.812Z

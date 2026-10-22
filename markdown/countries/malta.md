@@ -17,8 +17,8 @@ Indexed users: 1,223
 | 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 12,700 |
 | 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,520 |
 | 5 | [exori90](https://github.com/exori90) | exori | Malta | 11,706 |
-| 6 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 11,070 |
-| 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 11,031 |
+| 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 11,351 |
+| 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 11,070 |
 | 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 9,541 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,511 |
 | 10 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 9,119 |
@@ -39,7 +39,7 @@ Indexed users: 1,223
 |---:|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,045 |
-| 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,872 |
+| 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,888 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,548 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,198 |
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,134 |
@@ -52,7 +52,7 @@ Indexed users: 1,223
 | 13 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,532 |
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 15 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 2,071 |
-| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,980 |
+| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,990 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,922 |
 | 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,899 |
 | 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,331 |
@@ -62,7 +62,7 @@ Indexed users: 1,223
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,940 |
+| 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,941 |
 | 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja | Malta | 659 |
 | 3 | [nothingismagick](https://github.com/nothingismagick) |  | Malta | 606 |
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 524 |
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-22T13:05:02.129Z
+Generated: 2026-10-22T14:43:50.644Z

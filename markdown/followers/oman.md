@@ -1,6 +1,6 @@
 # Followers - Oman
 
-Generated: 2026-10-22T13:16:14.682Z
+Generated: 2026-10-22T14:56:15.081Z
 
 Users: 990
 
@@ -13,11 +13,11 @@ Users: 990
 | 5 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | @thedevclass  | thedevclass | Oman | 227 |
 | 6 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Tech Mahindra | ahmedtechm | Muscat, Oman | 200 |
 | 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir |  | Peaceful_0 | Oman | 195 |
-| 8 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar |  |  | Oman, Muscat | 188 |
+| 8 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar |  |  | Oman, Muscat | 191 |
 | 9 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r |  |  | Oman, Muscat | 175 |
 | 10 | [sajadevo](https://github.com/sajadevo) | Sajad |  | sajadevo_ | Muscat, Oman | 174 |
-| 11 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani |  |  | Salalah, Oman | 153 |
-| 12 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | commonAI |  | Muscat, Oman | 152 |
+| 11 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | commonAI |  | Muscat, Oman | 153 |
+| 12 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani |  |  | Salalah, Oman | 153 |
 | 13 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | opencomply.io |  | Muscat, Oman | 143 |
 | 14 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 132 |
 | 15 | [byteab](https://github.com/byteab) | Ehsan sarshar | Send | byteab | Muscat Oman | 109 |

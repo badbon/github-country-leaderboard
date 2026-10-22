@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-22T13:05:02.129Z
+Generated: 2026-10-22T14:43:50.644Z
 
 Users: 1223
 
@@ -11,8 +11,8 @@ Users: 1223
 | 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 12700 |
 | 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12520 |
 | 5 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11706 |
-| 6 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 11070 |
-| 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 11031 |
+| 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 11351 |
+| 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 11070 |
 | 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9541 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9511 |
 | 10 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 9119 |

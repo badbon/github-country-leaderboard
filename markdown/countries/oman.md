@@ -19,7 +19,7 @@ Indexed users: 990
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 14,078 |
 | 6 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 13,171 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,687 |
-| 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,459 |
+| 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,679 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,065 |
 | 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 9,036 |
 | 11 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,678 |
@@ -69,11 +69,11 @@ Indexed users: 990
 | 5 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
 | 6 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 200 |
 | 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 195 |
-| 8 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 188 |
+| 8 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 191 |
 | 9 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 175 |
 | 10 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 174 |
-| 11 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 153 |
-| 12 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 152 |
+| 11 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 153 |
+| 12 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 153 |
 | 13 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | Muscat, Oman | 143 |
 | 14 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 132 |
 | 15 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 109 |
@@ -83,4 +83,4 @@ Indexed users: 990
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-22T13:16:14.682Z
+Generated: 2026-10-22T14:56:15.081Z

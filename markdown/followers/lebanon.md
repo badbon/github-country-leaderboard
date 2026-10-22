@@ -1,6 +1,6 @@
 # Followers - Lebanon
 
-Generated: 2026-10-22T12:58:29.025Z
+Generated: 2026-10-22T14:38:20.321Z
 
 Users: 2557
 
@@ -10,7 +10,7 @@ Users: 2557
 | 2 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2891 |
 | 3 | [FouadRaheb](https://github.com/FouadRaheb) | Fouad Raheb |  | FouadRaheb | Lebanon | 1562 |
 | 4 | [Danyseifedine](https://github.com/Danyseifedine) | Dany Seifeddine  |  |  | lebanon | 1163 |
-| 5 | [anasty17](https://github.com/anasty17) | Anas Tayyar |  | anas_ty | Saida, Lebanon | 682 |
+| 5 | [anasty17](https://github.com/anasty17) | Anas Tayyar |  | anas_ty | Saida, Lebanon | 684 |
 | 6 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 410 |
 | 7 | [mhdhaidarah](https://github.com/mhdhaidarah) | Mohammed Haidar | SecuryTik |  | Beirut Lebanon | 307 |
 | 8 | [MuhamadCheaito](https://github.com/MuhamadCheaito) | Muhamad Cheaito |  |  | Beirut,Lebanon | 287 |

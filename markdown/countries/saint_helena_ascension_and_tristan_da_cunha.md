@@ -69,7 +69,7 @@ Indexed users: 25
 | 5 | [JaredBrown138](https://github.com/JaredBrown138) | Jared Brown | Jamestown, NY | 11 |
 | 6 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 10 |
 | 7 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 6 |
-| 8 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 5 |
+| 8 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 4 |
 | 9 | [ryan-k-anderson](https://github.com/ryan-k-anderson) | Ryan Kristopher Anderson | Jamestown, NY | 4 |
 | 10 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 3 |
 | 11 | [jmoreno3d](https://github.com/jmoreno3d) | Johnny Moreno | Jamestown, NC | 3 |
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 1 |
 | 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 
-Generated: 2026-10-22T13:22:52.971Z
+Generated: 2026-10-22T15:00:53.496Z

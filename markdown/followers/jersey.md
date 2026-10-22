@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-22T12:55:26.517Z
+Generated: 2026-10-22T14:34:23.094Z
 
 Users: 139
 
@@ -17,12 +17,12 @@ Users: 139
 | 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 38 |
 | 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 36 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 35 |
-| 12 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 29 |
-| 13 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 28 |
-| 14 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 27 |
+| 12 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 29 |
+| 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 29 |
+| 14 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 28 |
 | 15 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 24 |
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 22 |
-| 17 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 22 |
-| 18 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 22 |
-| 19 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 22 |
+| 17 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 22 |
+| 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 22 |
+| 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale |  |  | Jersey, Channel Islands | 20 |

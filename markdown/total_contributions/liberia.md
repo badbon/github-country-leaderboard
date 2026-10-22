@@ -1,18 +1,18 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-22T12:59:36.571Z
+Generated: 2026-10-22T14:39:10.648Z
 
 Users: 210
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7903 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5382 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5361 |
 | 3 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe |  | CrusoeHenrique | Paynesville, Liberia | 4412 |
 | 4 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3312 |
 | 5 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Cable Consortium of Liberia |  | Monrovia, Liberia | 2958 |
 | 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2397 |
-| 7 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 1570 |
+| 7 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 1642 |
 | 8 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1517 |
 | 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1429 |
 | 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1410 |
@@ -25,4 +25,4 @@ Users: 210
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 763 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 719 |
 | 19 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Smart Liberia |  | Monrovia, Liberia | 635 |
-| 20 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 620 |
+| 20 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 626 |

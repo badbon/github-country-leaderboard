@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-22T13:05:02.129Z
+Generated: 2026-10-22T14:43:50.644Z
 
 Users: 1223
 
@@ -8,7 +8,7 @@ Users: 1223
 |---:|---|---|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6252 |
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 4045 |
-| 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3872 |
+| 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3888 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3548 |
 | 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3198 |
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3134 |
@@ -21,7 +21,7 @@ Users: 1223
 | 13 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2532 |
 | 14 | [marian2js](https://github.com/marian2js) | Mariano Pardo | BullAware | marian2js | Malta | 2336 |
 | 15 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 2071 |
-| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1980 |
+| 16 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 1990 |
 | 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1922 |
 | 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1899 |
 | 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1331 |

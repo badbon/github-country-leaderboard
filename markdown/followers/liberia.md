@@ -1,6 +1,6 @@
 # Followers - Liberia
 
-Generated: 2026-10-22T12:59:36.571Z
+Generated: 2026-10-22T14:39:10.648Z
 
 Users: 210
 
@@ -8,7 +8,7 @@ Users: 210
 |---:|---|---|---|---|---|---:|
 | 1 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 309 |
 | 2 | [BugHunter-SN](https://github.com/BugHunter-SN) | Samuel E. H. Nimely | @SparkSolutionsLib \| @JesTech-Liberia | nimelythegreat |  Monrovia Liberia. West Africa | 172 |
-| 3 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 155 |
+| 3 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 154 |
 | 4 | [Massaquoi716](https://github.com/Massaquoi716) | Massaquoi L Dehmie |  | developer_mass | Liberia | 152 |
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 129 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 101 |

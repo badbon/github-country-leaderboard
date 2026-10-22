@@ -104,7 +104,7 @@ Published countries: 234
 | Iraq | 2,230 | [View](./iraq.md) |
 | Ireland | 19,485 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,418 | [View](./israel.md) |
+| Israel | 12,417 | [View](./israel.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -115,7 +115,7 @@ Published countries: 234
 | Kuwait | 796 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
 | Laos | 360 | [View](./laos.md) |
-| Latvia | 3,248 | [View](./latvia.md) |
+| Latvia | 3,247 | [View](./latvia.md) |
 | Lebanon | 2,557 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
@@ -126,7 +126,7 @@ Published countries: 234
 | Macau | 438 | [View](./macau.md) |
 | Madagascar | 1,901 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
-| Malaysia | 11,782 | [View](./malaysia.md) |
+| Malaysia | 11,780 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 347 | [View](./mali.md) |
 | Malta | 1,223 | [View](./malta.md) |
@@ -167,7 +167,7 @@ Published countries: 234
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,013 | [View](./paraguay.md) |
 | Peru | 9,765 | [View](./peru.md) |
-| Philippines | 19,745 | [View](./philippines.md) |
+| Philippines | 19,744 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,427 | [View](./portugal.md) |
 | Puerto Rico | 1,531 | [View](./puerto_rico.md) |
@@ -228,7 +228,7 @@ Published countries: 234
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,602 | [View](./uruguay.md) |
-| Uzbekistan | 9,512 | [View](./uzbekistan.md) |
+| Uzbekistan | 9,513 | [View](./uzbekistan.md) |
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,613 | [View](./venezuela.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T14:31:03.512Z
+Generated: 2026-10-22T15:06:19.413Z

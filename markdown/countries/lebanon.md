@@ -66,7 +66,7 @@ Indexed users: 2,557
 | 2 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,891 |
 | 3 | [FouadRaheb](https://github.com/FouadRaheb) | Fouad Raheb | Lebanon | 1,562 |
 | 4 | [Danyseifedine](https://github.com/Danyseifedine) | Dany Seifeddine  | lebanon | 1,163 |
-| 5 | [anasty17](https://github.com/anasty17) | Anas Tayyar | Saida, Lebanon | 682 |
+| 5 | [anasty17](https://github.com/anasty17) | Anas Tayyar | Saida, Lebanon | 684 |
 | 6 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 410 |
 | 7 | [mhdhaidarah](https://github.com/mhdhaidarah) | Mohammed Haidar | Beirut Lebanon | 307 |
 | 8 | [MuhamadCheaito](https://github.com/MuhamadCheaito) | Muhamad Cheaito | Beirut,Lebanon | 287 |
@@ -83,4 +83,4 @@ Indexed users: 2,557
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-22T12:58:29.025Z
+Generated: 2026-10-22T14:38:20.321Z
