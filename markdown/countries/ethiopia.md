@@ -63,10 +63,10 @@ Indexed users: 6,666
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [yonana-sahile](https://github.com/yonana-sahile) | Yonas Sahile | Addis Ababa, Ethiopia | 3,726 |
-| 2 | [Ambesawi](https://github.com/Ambesawi) | Aman Brhane | Addis Ababa | 3,632 |
+| 2 | [Ambesawi](https://github.com/Ambesawi) | Aman Brhane | Addis Ababa | 3,606 |
 | 3 | [Makitey](https://github.com/Makitey) | Makda Abraham | Addis Ababa | 2,858 |
 | 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom | Addis Ababa | 2,585 |
-| 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Addis Ababa  | 2,239 |
+| 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Addis Ababa  | 2,231 |
 | 6 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 1,567 |
 | 7 | [devefy](https://github.com/devefy) | Abdulkerim Hamid | Ethiopia, Adama | 1,523 |
 | 8 | [Yonatankinfe](https://github.com/Yonatankinfe) | Yonatan Kinfe | Ethiopia/Addis Ababa | 1,157 |
@@ -83,4 +83,4 @@ Indexed users: 6,666
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-22T18:32:46.135Z
+Generated: 2026-10-22T19:26:21.184Z

@@ -26,7 +26,7 @@ Indexed users: 1,271
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,287 |
 | 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 6,247 |
 | 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,470 |
-| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,636 |
+| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,651 |
 | 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,533 |
 | 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,532 |
 | 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,429 |
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 95 |
 
-Generated: 2026-10-22T18:38:39.067Z
+Generated: 2026-10-22T19:33:13.070Z

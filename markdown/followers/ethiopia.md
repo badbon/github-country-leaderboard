@@ -1,16 +1,16 @@
 # Followers - Ethiopia
 
-Generated: 2026-10-22T18:32:46.135Z
+Generated: 2026-10-22T19:26:21.184Z
 
 Users: 6666
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [yonana-sahile](https://github.com/yonana-sahile) | Yonas Sahile | Freelance / Open to Opportunities | sahile_yon2056 | Addis Ababa, Ethiopia | 3726 |
-| 2 | [Ambesawi](https://github.com/Ambesawi) | Aman Brhane |  | AmanAmbes | Addis Ababa | 3632 |
+| 2 | [Ambesawi](https://github.com/Ambesawi) | Aman Brhane |  | AmanAmbes | Addis Ababa | 3606 |
 | 3 | [Makitey](https://github.com/Makitey) | Makda Abraham |  | Maki_Weldem | Addis Ababa | 2858 |
 | 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom |  | AmanKflom | Addis Ababa | 2585 |
-| 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Freelancer |  | Addis Ababa  | 2239 |
+| 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Freelancer |  | Addis Ababa  | 2231 |
 | 6 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 1567 |
 | 7 | [devefy](https://github.com/devefy) | Abdulkerim Hamid |  |  | Ethiopia, Adama | 1523 |
 | 8 | [Yonatankinfe](https://github.com/Yonatankinfe) | Yonatan Kinfe | Tekhaf Trading PLC | Yonatankinfe_B | Ethiopia/Addis Ababa | 1157 |

@@ -21,8 +21,8 @@ Indexed users: 339
 | 7 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 2,349 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,275 |
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,178 |
-| 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,920 |
-| 11 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,901 |
+| 10 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,943 |
+| 11 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,920 |
 | 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,827 |
 | 13 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,766 |
 | 14 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,745 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 31 |
 
-Generated: 2026-10-22T18:35:56.989Z
+Generated: 2026-10-22T19:29:45.798Z

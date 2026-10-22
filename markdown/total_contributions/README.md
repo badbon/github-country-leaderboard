@@ -81,9 +81,9 @@ Published countries: 235
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,869 | [View](./georgia.md) |
-| Ghana | 7,076 | [View](./ghana.md) |
+| Ghana | 7,075 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,531 | [View](./greece.md) |
+| Greece | 15,530 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
 | Grenada | 37 | [View](./grenada.md) |
 | Guadeloupe | 86 | [View](./guadeloupe.md) |
@@ -105,7 +105,7 @@ Published countries: 235
 | Ireland | 19,485 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,417 | [View](./israel.md) |
-| Italy | 49,017 | [View](./italy.md) |
+| Italy | 49,016 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -209,7 +209,7 @@ Published countries: 235
 | Sweden | 39,025 | [View](./sweden.md) |
 | Switzerland | 24,074 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
-| Taiwan | 21,993 | [View](./taiwan.md) |
+| Taiwan | 21,992 | [View](./taiwan.md) |
 | Tajikistan | 708 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
 | Thailand | 14,980 | [View](./thailand.md) |
@@ -240,4 +240,4 @@ Published countries: 235
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-22T19:25:39.080Z
+Generated: 2026-10-22T19:34:26.769Z
