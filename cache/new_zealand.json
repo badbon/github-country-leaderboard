@@ -42415,7 +42415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 27,
     "publicContributions": 21,
     "createdAt": "2019-09-25T02:57:25Z"
   },
@@ -42439,7 +42439,7 @@
     "company": "@Umajin ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2019-08-25T04:05:58Z"
   },
@@ -42451,8 +42451,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 8,
+    "privateContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2019-01-14T07:22:12Z"
   },
   {
@@ -42466,18 +42466,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2019-05-24T04:49:56Z"
-  },
-  {
-    "login": "x1w",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51528070?s=72&u=647dfc745b1687a9743ec36ccb40a3d902aaaff6&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2019-06-09T09:02:18Z"
   },
   {
     "login": "WibblyGhost",
@@ -42512,19 +42500,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-01-23T21:50:09Z"
   },
   {
     "login": "Misterdynamite",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51722780?s=72&u=d34d2c8dcd9956015ea8907b8f83397f795c28b9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51722780?s=72&u=e7a80c738504e1f62393e3f32ed1b75d976477b3&v=4",
     "location": "New Zealand",
-    "company": "",
+    "company": "Lapis Meta",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 642,
-    "publicContributions": 45,
+    "privateContributions": 857,
+    "publicContributions": 47,
     "createdAt": "2019-06-11T20:41:32Z"
   },
   {

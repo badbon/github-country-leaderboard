@@ -41936,7 +41936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 191,
     "createdAt": "2024-05-06T08:46:47Z"
   },
   {
@@ -41948,7 +41948,7 @@
     "twitterUsername": "mbivutech",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2024-05-21T19:18:06Z"
   },
   {
@@ -41995,8 +41995,8 @@
     "company": "w agency",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 848,
-    "publicContributions": 144,
+    "privateContributions": 1035,
+    "publicContributions": 153,
     "createdAt": "2024-05-05T10:36:42Z"
   },
   {
@@ -42018,7 +42018,7 @@
     "location": "Nairobi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-02-16T18:15:59Z"
@@ -42056,7 +42056,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 136,
+    "publicContributions": 123,
     "createdAt": "2024-06-04T07:40:18Z"
   },
   {
@@ -42066,7 +42066,7 @@
     "location": "Nairobi",
     "company": "Four_Surge",
     "twitterUsername": "MutukuK04",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2024-02-16T09:41:53Z"
@@ -42116,7 +42116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2024-06-18T12:43:51Z"
   },
   {
@@ -42126,8 +42126,8 @@
     "location": "Nairobi",
     "company": "KambaWorx Technologies.",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2024-01-31T14:25:25Z"
   },
@@ -42140,7 +42140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 44,
     "createdAt": "2024-04-25T05:50:32Z"
   },
   {
@@ -288094,5 +288094,17 @@
     "privateContributions": 109,
     "publicContributions": 131,
     "createdAt": "2026-07-02T01:17:35Z"
+  },
+  {
+    "login": "xobriq",
+    "name": "Xobriq Technologies Limited",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299099314?s=72&v=4",
+    "location": "Nairobi",
+    "company": "Xobriq.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1448,
+    "publicContributions": 1,
+    "createdAt": "2026-07-02T11:32:29Z"
   }
 ]

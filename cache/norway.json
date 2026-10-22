@@ -42536,7 +42536,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2021-08-25T12:53:54Z"
   },
   {
@@ -42547,7 +42547,7 @@
     "company": "Pango Consulting",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 104,
+    "privateContributions": 103,
     "publicContributions": 297,
     "createdAt": "2021-12-18T11:50:05Z"
   },
@@ -42583,8 +42583,8 @@
     "company": "University of Oslo",
     "twitterUsername": "boelstad",
     "followers": 5,
-    "privateContributions": 266,
-    "publicContributions": 27,
+    "privateContributions": 274,
+    "publicContributions": 43,
     "createdAt": "2021-05-09T21:42:28Z"
   },
   {
@@ -42595,8 +42595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 157,
-    "publicContributions": 18,
+    "privateContributions": 134,
+    "publicContributions": 16,
     "createdAt": "2021-09-15T09:20:41Z"
   },
   {
@@ -42620,7 +42620,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 134,
     "createdAt": "2021-05-11T18:31:11Z"
   },
   {
@@ -42630,9 +42630,9 @@
     "location": "Oslo",
     "company": "BISO Invest Capital Management",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 194,
+    "publicContributions": 124,
     "createdAt": "2021-09-18T11:01:56Z"
   },
   {
@@ -42642,9 +42642,9 @@
     "location": "Oslo",
     "company": "@navikt ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 194,
-    "publicContributions": 845,
+    "followers": 6,
+    "privateContributions": 345,
+    "publicContributions": 847,
     "createdAt": "2021-04-15T09:49:08Z"
   },
   {
@@ -42656,7 +42656,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 157,
     "createdAt": "2021-08-17T11:19:11Z"
   },
   {
@@ -42666,7 +42666,7 @@
     "location": "Oslo",
     "company": "LINK Arkitektur",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-01T08:55:54Z"
@@ -42715,8 +42715,8 @@
     "company": "Mikon AS",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 104,
-    "publicContributions": 30,
+    "privateContributions": 38,
+    "publicContributions": 2,
     "createdAt": "2021-12-06T14:09:35Z"
   },
   {
@@ -42738,7 +42738,7 @@
     "location": "Oslo",
     "company": "BaneNOR",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-18T11:41:44Z"

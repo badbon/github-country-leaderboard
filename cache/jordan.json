@@ -42426,7 +42426,7 @@
     "location": "Jeddah-Amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-01T18:02:35Z"
@@ -42440,7 +42440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2016-04-20T16:28:30Z"
   },
   {
@@ -42450,9 +42450,9 @@
     "location": "Amman Jordan / Innopolis Russia ",
     "company": "I can do push-up on One Arm 3 fingers",
     "twitterUsername": "enghamzasalem",
-    "followers": 924,
-    "privateContributions": 301,
-    "publicContributions": 61,
+    "followers": 929,
+    "privateContributions": 277,
+    "publicContributions": 52,
     "createdAt": "2015-09-23T07:17:46Z"
   },
   {
@@ -42462,9 +42462,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "omardulaimidev",
-    "followers": 192,
-    "privateContributions": 1450,
-    "publicContributions": 3065,
+    "followers": 196,
+    "privateContributions": 1559,
+    "publicContributions": 2095,
     "createdAt": "2015-03-31T20:08:45Z"
   },
   {
@@ -42474,9 +42474,9 @@
     "location": "Amman, Jordan, ME",
     "company": "@B12Company",
     "twitterUsername": "josephwasily",
-    "followers": 104,
+    "followers": 92,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 151,
     "createdAt": "2015-07-10T10:27:48Z"
   },
   {
@@ -42487,8 +42487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 77,
-    "privateContributions": 37,
-    "publicContributions": 108,
+    "privateContributions": 30,
+    "publicContributions": 154,
     "createdAt": "2015-02-13T15:00:34Z"
   },
   {
@@ -42498,8 +42498,8 @@
     "location": "Jordan",
     "company": "@OpenSooq ",
     "twitterUsername": "",
-    "followers": 71,
-    "privateContributions": 26,
+    "followers": 76,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2015-02-14T13:52:12Z"
   },
@@ -42511,8 +42511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 67,
-    "privateContributions": 509,
-    "publicContributions": 2,
+    "privateContributions": 506,
+    "publicContributions": 0,
     "createdAt": "2015-03-03T12:41:35Z"
   },
   {
@@ -42522,8 +42522,8 @@
     "location": "Amman/Jordan",
     "company": "@rezefy-Engineering",
     "twitterUsername": "",
-    "followers": 63,
-    "privateContributions": 1015,
+    "followers": 66,
+    "privateContributions": 1293,
     "publicContributions": 0,
     "createdAt": "2015-01-22T11:03:19Z"
   },
@@ -42534,9 +42534,9 @@
     "location": "Amman, Jordan",
     "company": "@zidsa ",
     "twitterUsername": "ammardev",
-    "followers": 51,
-    "privateContributions": 1775,
-    "publicContributions": 26,
+    "followers": 52,
+    "privateContributions": 2231,
+    "publicContributions": 23,
     "createdAt": "2015-11-30T18:21:03Z"
   },
   {
@@ -42559,7 +42559,7 @@
     "company": "Winfooz",
     "twitterUsername": "almasri_ahmed",
     "followers": 46,
-    "privateContributions": 1072,
+    "privateContributions": 1994,
     "publicContributions": 17,
     "createdAt": "2015-09-29T11:29:54Z"
   },
@@ -42570,9 +42570,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "AyatKhrisat",
-    "followers": 43,
+    "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2015-08-10T18:09:14Z"
   },
   {
@@ -42582,22 +42582,10 @@
     "location": "Amman,Jordan",
     "company": "steercampaign.com",
     "twitterUsername": "MohammadAbuMusa",
-    "followers": 42,
-    "privateContributions": 1232,
-    "publicContributions": 984,
+    "followers": 43,
+    "privateContributions": 2580,
+    "publicContributions": 870,
     "createdAt": "2015-05-27T13:49:29Z"
-  },
-  {
-    "login": "rafatahmed",
-    "name": "Rafat A. Al Khashan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11280478?s=72&u=07e57aceb563fb256a97291afe3ded4660655c1a&v=4",
-    "location": "Jordan",
-    "company": "National Agriculture Research Center NARC ",
-    "twitterUsername": "Rafatahmed",
-    "followers": 38,
-    "privateContributions": 510,
-    "publicContributions": 137,
-    "createdAt": "2015-03-02T21:47:21Z"
   },
   {
     "login": "ahmadjd94",
@@ -42607,7 +42595,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 150,
+    "privateContributions": 192,
     "publicContributions": 2,
     "createdAt": "2015-12-25T23:24:10Z"
   },

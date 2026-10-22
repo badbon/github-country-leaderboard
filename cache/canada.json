@@ -322572,18 +322572,6 @@
     "createdAt": "2021-11-18T00:13:01Z"
   },
   {
-    "login": "Naeem1144",
-    "name": "Naeem Nagori",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95996321?s=72&v=4",
-    "location": "Toronto, Canada",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 79,
-    "createdAt": "2021-12-12T06:37:19Z"
-  },
-  {
     "login": "Sorihiko",
     "name": "Sorihiko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95963836?s=72&u=69da7c4ece6812b545b789f7841039a015e25c5f&v=4",
@@ -1344451,8 +1344439,8 @@
     "company": "@posthog",
     "twitterUsername": "",
     "followers": 112,
-    "privateContributions": 519,
-    "publicContributions": 8169,
+    "privateContributions": 521,
+    "publicContributions": 8170,
     "createdAt": "2013-01-11T19:27:18Z"
   },
   {
@@ -1354831,7 +1354819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 23245,
+    "privateContributions": 23248,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1379983,7 +1379971,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 8464,
+    "privateContributions": 8467,
     "publicContributions": 136,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1424791,7 +1424779,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 3401,
+    "privateContributions": 3410,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1425007,7 +1424995,7 @@
     "company": "CNN @ WBD",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 837,
+    "privateContributions": 838,
     "publicContributions": 0,
     "createdAt": "2013-01-31T19:33:00Z"
   },

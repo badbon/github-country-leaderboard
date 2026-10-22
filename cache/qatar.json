@@ -3968,7 +3968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 74,
     "createdAt": "2022-03-23T08:58:53Z"
   },
   {
@@ -4063,8 +4063,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 865,
-    "publicContributions": 745,
+    "privateContributions": 863,
+    "publicContributions": 780,
     "createdAt": "2022-01-17T12:37:49Z"
   },
   {
@@ -12862,5 +12862,17 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2017-01-13T17:34:10Z"
+  },
+  {
+    "login": "rafatahmed",
+    "name": "Rafat A. Al Khashan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11280478?s=72&u=07e57aceb563fb256a97291afe3ded4660655c1a&v=4",
+    "location": "Qatar",
+    "company": "Flaha Agri Tech",
+    "twitterUsername": "Rafatahmed",
+    "followers": 40,
+    "privateContributions": 1211,
+    "publicContributions": 614,
+    "createdAt": "2015-03-02T21:47:21Z"
   }
 ]

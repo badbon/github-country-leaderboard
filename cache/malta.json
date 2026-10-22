@@ -13182,7 +13182,7 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 3,
     "publicContributions": 81,
     "createdAt": "2012-03-20T09:22:24Z"
@@ -13220,7 +13220,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 78,
     "createdAt": "2012-03-07T13:01:41Z"
   },
   {
@@ -13231,7 +13231,7 @@
     "company": "Loiaging",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1530,
+    "privateContributions": 1550,
     "publicContributions": 7,
     "createdAt": "2012-12-11T17:27:57Z"
   },
@@ -13246,18 +13246,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-01T10:57:27Z"
-  },
-  {
-    "login": "kfi",
-    "name": "Kian Foroodi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2392672?s=72&u=c1c33706879ab7e7f9c3e8b5c05e566c1c233bbf&v=4",
-    "location": "Santa Venera, Malta",
-    "company": "@alkima ",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2012-09-21T10:15:13Z"
   },
   {
     "login": "briantheuma",
@@ -13315,7 +13303,7 @@
     "company": "Paul Portelli",
     "twitterUsername": "polp6880",
     "followers": 2,
-    "privateContributions": 9022,
+    "privateContributions": 9091,
     "publicContributions": 0,
     "createdAt": "2012-05-04T17:15:50Z"
   },
@@ -13351,7 +13339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 534,
+    "privateContributions": 1038,
     "publicContributions": 0,
     "createdAt": "2012-07-06T16:02:10Z"
   },

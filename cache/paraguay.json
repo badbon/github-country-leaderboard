@@ -18500,7 +18500,7 @@
     "twitterUsername": "",
     "followers": 89,
     "privateContributions": 93,
-    "publicContributions": 75,
+    "publicContributions": 76,
     "createdAt": "2014-09-29T16:08:49Z"
   },
   {
@@ -18511,8 +18511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 86,
-    "privateContributions": 2078,
-    "publicContributions": 584,
+    "privateContributions": 2088,
+    "publicContributions": 622,
     "createdAt": "2014-02-13T17:53:45Z"
   },
   {
@@ -18524,7 +18524,7 @@
     "twitterUsername": "",
     "followers": 79,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 45,
     "createdAt": "2014-12-23T18:02:46Z"
   },
   {
@@ -18536,7 +18536,7 @@
     "twitterUsername": "cabuvallejos",
     "followers": 78,
     "privateContributions": 2041,
-    "publicContributions": 127,
+    "publicContributions": 126,
     "createdAt": "2014-02-22T15:50:05Z"
   },
   {
@@ -18546,9 +18546,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 71,
-    "privateContributions": 181,
-    "publicContributions": 159,
+    "followers": 72,
+    "privateContributions": 180,
+    "publicContributions": 158,
     "createdAt": "2014-02-12T02:11:21Z"
   },
   {
@@ -18559,7 +18559,7 @@
     "company": "",
     "twitterUsername": "mariogyd",
     "followers": 60,
-    "privateContributions": 199,
+    "privateContributions": 184,
     "publicContributions": 28,
     "createdAt": "2014-11-23T17:03:02Z"
   },
@@ -18570,9 +18570,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 317,
-    "publicContributions": 229,
+    "followers": 43,
+    "privateContributions": 311,
+    "publicContributions": 238,
     "createdAt": "2014-03-13T22:40:25Z"
   },
   {
@@ -18582,9 +18582,9 @@
     "location": "Paraguay",
     "company": "Ministerio de Educación",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 36,
     "privateContributions": 165,
-    "publicContributions": 218,
+    "publicContributions": 205,
     "createdAt": "2014-04-03T23:06:26Z"
   },
   {
@@ -18594,22 +18594,10 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "blasfernac",
-    "followers": 49,
-    "privateContributions": 2324,
-    "publicContributions": 93,
+    "followers": 48,
+    "privateContributions": 2236,
+    "publicContributions": 92,
     "createdAt": "2014-08-07T14:38:24Z"
-  },
-  {
-    "login": "jmayalag",
-    "name": "Jordan Ayala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6710350?s=72&u=50105ed1163b1b58a55192aef88cad63ff86bcca&v=4",
-    "location": "Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 49,
-    "privateContributions": 1570,
-    "publicContributions": 111,
-    "createdAt": "2014-02-17T23:59:42Z"
   },
   {
     "login": "jcadrg",
@@ -18618,7 +18606,7 @@
     "location": "Asuncion, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 41,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2014-08-22T01:54:14Z"
@@ -18631,8 +18619,8 @@
     "company": "TEKI Solutions",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 3,
-    "publicContributions": 221,
+    "privateContributions": 2,
+    "publicContributions": 216,
     "createdAt": "2014-02-28T17:09:22Z"
   },
   {
@@ -18643,7 +18631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 2238,
+    "privateContributions": 2208,
     "publicContributions": 0,
     "createdAt": "2014-10-21T01:38:37Z"
   },
@@ -18654,7 +18642,7 @@
     "location": "Paraguay",
     "company": "SYSCOR",
     "twitterUsername": "",
-    "followers": 39,
+    "followers": 38,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2014-09-04T15:24:17Z"
@@ -18666,8 +18654,8 @@
     "location": "Asunción, Paraguay",
     "company": "",
     "twitterUsername": "9andresc",
-    "followers": 41,
-    "privateContributions": 1989,
+    "followers": 42,
+    "privateContributions": 2027,
     "publicContributions": 1,
     "createdAt": "2014-03-17T13:03:12Z"
   },
@@ -18679,8 +18667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 1360,
-    "publicContributions": 24,
+    "privateContributions": 1386,
+    "publicContributions": 16,
     "createdAt": "2014-07-31T05:16:23Z"
   },
   {
@@ -18692,7 +18680,7 @@
     "twitterUsername": "yohalisnichuk",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 257,
+    "publicContributions": 266,
     "createdAt": "2014-03-02T22:49:32Z"
   },
   {

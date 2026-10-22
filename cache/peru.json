@@ -42210,22 +42210,10 @@
     "location": "Lima, Perú",
     "company": "University of Engineering and Technology",
     "twitterUsername": "CHjavieromar",
-    "followers": 683,
-    "privateContributions": 92,
-    "publicContributions": 123,
+    "followers": 672,
+    "privateContributions": 102,
+    "publicContributions": 131,
     "createdAt": "2021-09-23T05:06:48Z"
-  },
-  {
-    "login": "DaniCodex",
-    "name": "DaniCodex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85034795?s=72&u=a11803641b1383fd1e80a3dbdf6914dc4879bad9&v=4",
-    "location": "Lima",
-    "company": "",
-    "twitterUsername": "danicodex",
-    "followers": 169,
-    "privateContributions": 0,
-    "publicContributions": 55,
-    "createdAt": "2021-05-29T18:21:28Z"
   },
   {
     "login": "luiscorrea8",
@@ -42234,7 +42222,7 @@
     "location": "Cercado Lima - Lima - Perú",
     "company": "",
     "twitterUsername": "ProgramacionPa1",
-    "followers": 135,
+    "followers": 128,
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2021-10-30T15:57:25Z"
@@ -42242,13 +42230,13 @@
   {
     "login": "cuevaio",
     "name": "anthony",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83598208?s=72&u=d1f8b189cbc525c4b39026275dd4c894e62eba97&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83598208?s=72&u=944de05661eb57ec7f6cebbb8f716bc0a8bf595d&v=4",
     "location": "Lima",
     "company": "Humanity",
     "twitterUsername": "cuevaio",
-    "followers": 123,
-    "privateContributions": 1430,
-    "publicContributions": 4911,
+    "followers": 125,
+    "privateContributions": 1985,
+    "publicContributions": 5464,
     "createdAt": "2021-05-03T15:20:35Z"
   },
   {
@@ -42258,7 +42246,7 @@
     "location": "Av. Brg. Faria Lima, 2055 - Pinheiros",
     "company": "Matrix Comercializadora de Energia Eletrica",
     "twitterUsername": "",
-    "followers": 86,
+    "followers": 88,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-02-22T14:27:23Z"
@@ -42266,13 +42254,13 @@
   {
     "login": "josephmatheus",
     "name": "Joseph Matheus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89085971?s=72&u=c9ca1d5e61705fa225a61489f00b356aa8d90871&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89085971?s=72&u=f7ce551f4630416abf43fc8d828d7fac20904e67&v=4",
     "location": "Abreu e Lima, PE",
     "company": "",
     "twitterUsername": "",
-    "followers": 69,
-    "privateContributions": 36,
-    "publicContributions": 143,
+    "followers": 70,
+    "privateContributions": 94,
+    "publicContributions": 110,
     "createdAt": "2021-08-17T13:50:39Z"
   },
   {
@@ -42282,9 +42270,9 @@
     "location": "Lima, Perú",
     "company": "Universidad de Ingeniería y Tecnología",
     "twitterUsername": "",
-    "followers": 59,
+    "followers": 58,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 138,
     "createdAt": "2021-02-15T21:28:25Z"
   },
   {
@@ -42294,7 +42282,7 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-19T04:38:33Z"
@@ -42302,13 +42290,13 @@
   {
     "login": "SegundoRP",
     "name": "Segundo Rebaza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81438006?s=72&u=6ae372cb90de8e86efe8a7f434ddc601c30cac18&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81438006?s=72&u=a25387e418313790b3129cd5dc177467355a5ce9&v=4",
     "location": "Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 1455,
-    "publicContributions": 83,
+    "followers": 49,
+    "privateContributions": 2283,
+    "publicContributions": 75,
     "createdAt": "2021-03-26T18:04:41Z"
   },
   {
@@ -42319,8 +42307,8 @@
     "company": "UPC",
     "twitterUsername": "",
     "followers": 44,
-    "privateContributions": 18,
-    "publicContributions": 57,
+    "privateContributions": 2,
+    "publicContributions": 54,
     "createdAt": "2021-08-16T17:10:35Z"
   },
   {
@@ -42330,9 +42318,9 @@
     "location": "Lima",
     "company": "AcidLabs",
     "twitterUsername": "",
-    "followers": 43,
+    "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2021-01-08T14:35:31Z"
   },
   {
@@ -42342,9 +42330,9 @@
     "location": "Lima, Perú",
     "company": "UTEC",
     "twitterUsername": "",
-    "followers": 39,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2021-07-06T22:54:07Z"
   },
   {
@@ -42354,9 +42342,9 @@
     "location": "Abreu e Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 36,
     "privateContributions": 3,
-    "publicContributions": 185,
+    "publicContributions": 201,
     "createdAt": "2021-09-11T04:44:30Z"
   },
   {
@@ -42378,9 +42366,9 @@
     "location": "Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 106,
     "createdAt": "2021-04-25T00:34:07Z"
   },
   {
@@ -42403,8 +42391,8 @@
     "company": "America televisión",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "privateContributions": 2,
+    "publicContributions": 20,
     "createdAt": "2021-05-28T16:33:16Z"
   },
   {
@@ -42414,9 +42402,9 @@
     "location": "Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 0,
-    "publicContributions": 122,
+    "followers": 29,
+    "privateContributions": 253,
+    "publicContributions": 442,
     "createdAt": "2021-05-15T02:14:17Z"
   },
   {
