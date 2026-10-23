@@ -1,6 +1,6 @@
 # Followers - Eswatini
 
-Generated: 2026-10-23T14:08:13.306Z
+Generated: 2026-10-23T18:35:58.942Z
 
 Users: 108
 
@@ -16,7 +16,7 @@ Users: 108
 | 8 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 20 |
 | 9 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 17 |
 | 10 | [adekunleowolabi](https://github.com/adekunleowolabi) | Adekunle Owolabi |  | iamkstunt | Mbabane, Eswatini | 14 |
-| 11 | [Milly801](https://github.com/Milly801) | Gcwalisile Matse |  | Zuzu_Nkhosi | Mbabane, Eswatini | 13 |
+| 11 | [Milly801](https://github.com/Milly801) | Gcwalisile Matse |  | Zuzu_Nkhosi | Mbabane, Eswatini | 14 |
 | 12 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 11 |
 | 13 | [Annis-Monadjem](https://github.com/Annis-Monadjem) | Annis Monadjem |  |  | Swaziland | 10 |
 | 14 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 10 |

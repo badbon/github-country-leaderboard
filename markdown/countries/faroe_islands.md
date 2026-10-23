@@ -12,24 +12,24 @@ Indexed users: 68
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 16,046 |
+| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 16,057 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,652 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,318 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,452 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,829 |
-| 6 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,451 |
+| 6 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,583 |
 | 7 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,380 |
 | 8 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,368 |
-| 9 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,178 |
-| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,041 |
+| 9 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,186 |
+| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,059 |
 | 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Faroe Islands | 1,906 |
 | 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,550 |
 | 13 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,536 |
 | 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,045 |
 | 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 1,019 |
-| 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 874 |
+| 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 920 |
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 689 |
-| 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 650 |
+| 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 652 |
 | 19 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 495 |
 | 20 | [krvi](https://github.com/krvi) |  | Faroe Islands | 466 |
 
@@ -83,4 +83,4 @@ Indexed users: 68
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
 | 20 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-23T14:08:52.599Z
+Generated: 2026-10-23T18:36:14.807Z
