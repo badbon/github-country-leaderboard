@@ -833770,5 +833770,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-27T02:03:26Z"
+  },
+  {
+    "login": "tka4ev",
+    "name": "tka4ev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4060840?s=72&v=4",
+    "location": "St.-Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-04T16:20:07Z"
+  },
+  {
+    "login": "brianberg",
+    "name": "Brian Berg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5121741?s=72&u=dc7a3969385452a8406da8920fdd64dc488d5b1c&v=4",
+    "location": "St Petersburg, FL",
+    "company": "@akitabox",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 904,
+    "publicContributions": 2,
+    "createdAt": "2013-07-30T14:19:20Z"
+  },
+  {
+    "login": "sug4rok",
+    "name": "Maxim Vasilev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5044553?s=72&v=4",
+    "location": "St.-Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2013-07-19T04:51:05Z"
+  },
+  {
+    "login": "Dustincassiday",
+    "name": "Dustin Cassiday",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4155048?s=72&v=4",
+    "location": "St. Petersburg, FL",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 80,
+    "publicContributions": 61,
+    "createdAt": "2013-04-14T22:15:16Z"
+  },
+  {
+    "login": "scriptfuture",
+    "name": "Nikolaj R.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5058923?s=72&v=4",
+    "location": "St. Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2013-07-21T14:59:22Z"
+  },
+  {
+    "login": "pashaandsik",
+    "name": "Pavel Peryakin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4101949?s=72&v=4",
+    "location": "St. Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-04-09T08:45:14Z"
+  },
+  {
+    "login": "smdmitry",
+    "name": "Smirnov Dmitry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4281767?s=72&u=214d9d2f9d093c8e39c6574d906b150db9ed5dd2&v=4",
+    "location": "St. Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2013-04-28T15:07:12Z"
+  },
+  {
+    "login": "seosova",
+    "name": "Denis Savenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6066771?s=72&v=4",
+    "location": "St. Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2013-11-29T13:09:53Z"
   }
 ]
