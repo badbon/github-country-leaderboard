@@ -46110,7 +46110,7 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "asramirezr",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-23T17:43:32Z"
@@ -46134,7 +46134,7 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 136,
     "createdAt": "2018-02-18T18:09:47Z"
@@ -46146,7 +46146,7 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "carlos_lvm",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-18T01:42:33Z"
@@ -46170,8 +46170,8 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "deminsantana",
-    "followers": 9,
-    "privateContributions": 406,
+    "followers": 12,
+    "privateContributions": 763,
     "publicContributions": 15,
     "createdAt": "2018-05-13T03:37:50Z"
   },
@@ -46183,7 +46183,7 @@
     "company": "@Bacan-App ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1125,
+    "privateContributions": 1108,
     "publicContributions": 3,
     "createdAt": "2018-12-26T21:22:34Z"
   },
@@ -46206,9 +46206,9 @@
     "location": "Venezuela, Caracas",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 60,
     "createdAt": "2018-12-12T14:49:06Z"
   },
   {
@@ -46218,9 +46218,9 @@
     "location": "Venezuela",
     "company": "@buckler-dev ",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 16,
-    "publicContributions": 9,
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2018-12-19T20:33:02Z"
   },
   {
@@ -46230,8 +46230,8 @@
     "location": "Valencia/Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 529,
+    "followers": 14,
+    "privateContributions": 1133,
     "publicContributions": 25,
     "createdAt": "2018-04-04T17:21:22Z"
   },
@@ -46242,21 +46242,21 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "mirlu_exe",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 46,
     "createdAt": "2018-02-18T22:24:28Z"
   },
   {
-    "login": "JonLemOfficial",
-    "name": "JonLem",
+    "login": "jonlemofficial",
+    "name": "Jonathan Lemos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38771842?s=72&u=7cd43cc845b3efea42b051060477270d27d9227b&v=4",
     "location": "Maracay, Aragua, Venezuela",
     "company": "",
     "twitterUsername": "JonLemOfficial",
-    "followers": 8,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 86,
     "createdAt": "2018-04-27T00:32:28Z"
   },
   {
@@ -46291,7 +46291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 108,
+    "privateContributions": 229,
     "publicContributions": 2,
     "createdAt": "2018-01-24T17:27:39Z"
   },
@@ -46302,22 +46302,10 @@
     "location": "Caracas, Venezuela",
     "company": "Factored AI",
     "twitterUsername": "SaulOviedoLeon",
-    "followers": 8,
-    "privateContributions": 363,
+    "followers": 7,
+    "privateContributions": 350,
     "publicContributions": 10,
     "createdAt": "2018-12-11T00:40:37Z"
-  },
-  {
-    "login": "jhosnodev",
-    "name": "Jhosno",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41442347?s=72&u=04a5bd8b4cfe1eb30eed4e99f9ce5eeaed424c22&v=4",
-    "location": "Caracas, Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 117,
-    "publicContributions": 43,
-    "createdAt": "2018-07-19T15:06:34Z"
   },
   {
     "login": "Samuelab2",
