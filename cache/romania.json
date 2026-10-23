@@ -45314,13 +45314,13 @@
   {
     "login": "Twaxxr",
     "name": "Twaxx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86660583?s=72&u=9fcab5e6130e8fce50f20e03586ba60f2d7bb100&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86660583?s=72&u=4a4fce4c6dce32010f02a05be274c45f590d2285&v=4",
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 34,
+    "publicContributions": 24,
     "createdAt": "2021-06-29T10:43:54Z"
   },
   {
@@ -45354,9 +45354,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 56,
-    "privateContributions": 50,
-    "publicContributions": 47,
+    "followers": 37,
+    "privateContributions": 94,
+    "publicContributions": 20,
     "createdAt": "2021-08-16T06:03:27Z"
   },
   {
@@ -45366,9 +45366,9 @@
     "location": "Bucharest",
     "company": "Vodafone",
     "twitterUsername": "",
-    "followers": 48,
+    "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 221,
     "createdAt": "2021-03-22T20:08:36Z"
   },
   {
@@ -45378,9 +45378,9 @@
     "location": "Bucharest",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 40,
+    "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 26,
     "createdAt": "2021-07-30T15:53:23Z"
   },
   {
@@ -45388,24 +45388,12 @@
     "name": "Sorin-Andrei Tudose",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93950240?s=72&u=4819acd4ddb610c20a9a07d619578769ab07146d&v=4",
     "location": "Bucharest",
-    "company": "Aerospace Engineering student at UPB",
+    "company": "National University of Science and Technology POLITEHNICA Bucharest",
     "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 18,
-    "publicContributions": 79,
+    "followers": 33,
+    "privateContributions": 23,
+    "publicContributions": 109,
     "createdAt": "2021-11-08T21:34:30Z"
-  },
-  {
-    "login": "raulvidis",
-    "name": "Raul",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77628552?s=72&u=8b35b18982e5de6b6ebe29af8f22ae64a3991fbf&v=4",
-    "location": "Bucharest",
-    "company": "PGL eSports",
-    "twitterUsername": "raulvidis",
-    "followers": 32,
-    "privateContributions": 2809,
-    "publicContributions": 785,
-    "createdAt": "2021-01-18T14:53:37Z"
   },
   {
     "login": "SorinAlexB",
@@ -45414,9 +45402,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 22,
-    "publicContributions": 113,
+    "followers": 34,
+    "privateContributions": 26,
+    "publicContributions": 91,
     "createdAt": "2021-05-19T15:10:53Z"
   },
   {
@@ -45440,7 +45428,7 @@
     "twitterUsername": "",
     "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 16,
     "createdAt": "2021-01-13T23:17:10Z"
   },
   {
@@ -45450,9 +45438,9 @@
     "location": "Bucharest, RO",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 2156,
-    "publicContributions": 117,
+    "followers": 8,
+    "privateContributions": 2590,
+    "publicContributions": 109,
     "createdAt": "2021-10-31T23:34:18Z"
   },
   {
@@ -45464,7 +45452,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 35,
     "createdAt": "2021-10-15T18:22:43Z"
   },
   {
@@ -45474,9 +45462,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 8,
     "createdAt": "2021-02-24T16:35:09Z"
   },
   {
@@ -45486,9 +45474,9 @@
     "location": "Bucharest",
     "company": "University Politehnica of Bucharest ",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 192,
     "createdAt": "2021-10-27T13:50:09Z"
   },
   {

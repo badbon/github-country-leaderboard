@@ -704,7 +704,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 130,
     "createdAt": "2026-03-22T11:21:54Z"
   },
   {
@@ -713,10 +713,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/255217703?s=72&u=c14059bf7af132cc44005838564ac998b02a480c&v=4",
     "location": "Poland",
     "company": "@exaeeth ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 40,
-    "publicContributions": 161,
+    "twitterUsername": "EXAEETH",
+    "followers": 9,
+    "privateContributions": 159,
+    "publicContributions": 368,
     "createdAt": "2026-01-15T22:13:59Z"
   },
   {
@@ -728,7 +728,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 79,
     "createdAt": "2026-01-31T10:53:16Z"
   },
   {
@@ -740,7 +740,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 56,
     "createdAt": "2026-03-17T15:04:44Z"
   },
   {
@@ -750,7 +750,7 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-17T10:00:18Z"
@@ -762,9 +762,9 @@
     "location": "Poland",
     "company": "Hex-Rays",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 159,
     "createdAt": "2026-01-20T09:12:08Z"
   },
   {
@@ -788,7 +788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2026-04-17T14:57:34Z"
   },
   {
@@ -816,18 +816,6 @@
     "createdAt": "2026-02-23T12:45:49Z"
   },
   {
-    "login": "stzhuk",
-    "name": "Petro Storozhuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/260530642?s=72&v=4",
-    "location": "Szczecin, Poland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-09T22:11:52Z"
-  },
-  {
     "login": "future-services-tech",
     "name": "FST Massimo Dovere",
     "avatarUrl": "https://avatars.githubusercontent.com/u/261982137?s=72&u=1289dda7433931b361e29d3c8199511a16b66668&v=4",
@@ -836,19 +824,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 27,
     "createdAt": "2026-02-16T18:28:28Z"
   },
   {
     "login": "Arisadevcute",
     "name": "Aris",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282287673?s=72&u=97567bdf974ecb05bf5526755270306dd15e5928&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282287673?s=72&u=7c03f1576f13f33ce003eecace37c8845de0e9b3&v=4",
     "location": "Poland",
     "company": "freelance",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "followers": 3,
+    "privateContributions": 1,
+    "publicContributions": 50,
     "createdAt": "2026-05-06T14:46:44Z"
   },
   {
@@ -892,11 +880,11 @@
     "name": "Wiktor Szymanik",
     "avatarUrl": "https://avatars.githubusercontent.com/u/254664641?s=72&u=63503a21c6faa5ee6b1c0161df3979dc7432ca14&v=4",
     "location": "Poland",
-    "company": "",
+    "company": "Securitum / LionSec",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 19,
     "createdAt": "2026-01-13T11:08:34Z"
   },
   {
@@ -920,7 +908,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 24,
     "createdAt": "2026-03-28T11:09:49Z"
   },
   {
@@ -931,8 +919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 84,
-    "publicContributions": 179,
+    "privateContributions": 87,
+    "publicContributions": 186,
     "createdAt": "2026-02-26T10:52:05Z"
   },
   {

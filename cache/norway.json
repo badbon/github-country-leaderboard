@@ -45631,7 +45631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2020-01-04T16:20:33Z"
   },
@@ -45643,8 +45643,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 470,
-    "publicContributions": 0,
+    "privateContributions": 285,
+    "publicContributions": 2,
     "createdAt": "2020-02-27T08:15:43Z"
   },
   {
@@ -45654,9 +45654,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "aishahthedev",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 39,
     "createdAt": "2020-05-16T12:16:39Z"
   },
   {
@@ -45679,8 +45679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 3064,
-    "publicContributions": 372,
+    "privateContributions": 3682,
+    "publicContributions": 384,
     "createdAt": "2020-01-07T17:32:38Z"
   },
   {
@@ -45690,9 +45690,9 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 16,
     "createdAt": "2020-01-01T09:01:53Z"
   },
   {
@@ -45716,7 +45716,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-05-21T22:26:44Z"
   },
   {
@@ -45727,7 +45727,7 @@
     "company": "Pascal Technologies",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 65,
+    "privateContributions": 73,
     "publicContributions": 0,
     "createdAt": "2020-06-15T13:05:57Z"
   },
@@ -45738,9 +45738,9 @@
     "location": "Moelv, Norway",
     "company": "Dyplink AS",
     "twitterUsername": "LukasOlsen9",
-    "followers": 10,
-    "privateContributions": 74,
-    "publicContributions": 51,
+    "followers": 13,
+    "privateContributions": 0,
+    "publicContributions": 248,
     "createdAt": "2020-02-20T10:10:12Z"
   },
   {
@@ -45757,14 +45757,14 @@
   },
   {
     "login": "astrotaca",
-    "name": "taca",
+    "name": "Tor Alvar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59736579?s=72&v=4",
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 485,
-    "publicContributions": 70,
+    "followers": 16,
+    "privateContributions": 833,
+    "publicContributions": 92,
     "createdAt": "2020-01-10T14:17:22Z"
   },
   {
@@ -45786,9 +45786,9 @@
     "location": "Oslo, Norway",
     "company": "National Library of Norway",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 230,
-    "publicContributions": 140,
+    "followers": 13,
+    "privateContributions": 177,
+    "publicContributions": 187,
     "createdAt": "2020-02-11T09:37:41Z"
   },
   {
@@ -45800,7 +45800,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2020-03-20T13:21:51Z"
   },
   {
@@ -45810,9 +45810,9 @@
     "location": "Trondheim, Norway",
     "company": "@bouvet",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1320,
-    "publicContributions": 263,
+    "followers": 13,
+    "privateContributions": 1198,
+    "publicContributions": 223,
     "createdAt": "2020-02-12T17:19:48Z"
   },
   {
@@ -45848,7 +45848,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2020-01-30T09:35:06Z"
   },
   {

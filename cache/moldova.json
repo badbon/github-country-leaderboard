@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 71,
     "createdAt": "2022-05-29T15:06:56Z"
   },
   {
@@ -3198,7 +3198,7 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2022-09-21T05:56:04Z"
@@ -3210,7 +3210,7 @@
     "location": "Moldova",
     "company": "@ionplaton-com",
     "twitterUsername": "ionplaton_com",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2022-09-07T10:51:52Z"
@@ -3259,8 +3259,8 @@
     "company": "The Noughty Fox",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 397,
-    "publicContributions": 8,
+    "privateContributions": 461,
+    "publicContributions": 5,
     "createdAt": "2022-09-03T05:54:01Z"
   },
   {
@@ -3308,7 +3308,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1023,
+    "publicContributions": 1046,
     "createdAt": "2022-12-13T09:57:26Z"
   },
   {
@@ -3331,7 +3331,7 @@
     "company": "University Alecu Russo Balti",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 80,
+    "privateContributions": 65,
     "publicContributions": 2,
     "createdAt": "2022-06-23T16:19:38Z"
   },
@@ -3346,18 +3346,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-07T23:10:12Z"
-  },
-  {
-    "login": "denis-96",
-    "name": "Denis Bargan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117027884?s=72&u=e88017e942023bc0a97f3e1abeaf6f4a6c6e975c&v=4",
-    "location": "Moldova",
-    "company": "Higher School of Economics",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2022-10-30T15:17:40Z"
   },
   {
     "login": "maximpavliuc",
