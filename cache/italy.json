@@ -1604,20 +1604,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 67,
     "createdAt": "2026-03-23T15:26:02Z"
-  },
-  {
-    "login": "vmarinoweb",
-    "name": "Vincenzo Marino",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/265261009?s=72&u=6d87bf402b3c693faca6587468339bf3aa437059&v=4",
-    "location": "Pisa, Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-03T11:26:37Z"
   },
   {
     "login": "Emanuele0303",
@@ -1674,9 +1662,9 @@
     "location": "Italy",
     "company": "Pixell",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 62,
-    "publicContributions": 30,
+    "publicContributions": 45,
     "createdAt": "2026-01-08T11:04:32Z"
   },
   {
@@ -1698,7 +1686,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-05-07T12:30:07Z"
@@ -1711,7 +1699,7 @@
     "company": "IFOA IFTS Software Developer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 40,
+    "privateContributions": 39,
     "publicContributions": 23,
     "createdAt": "2026-01-07T09:19:25Z"
   },
@@ -1724,7 +1712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 33,
     "createdAt": "2025-12-30T15:57:29Z"
   },
   {
@@ -1794,7 +1782,7 @@
     "location": "Italy",
     "company": "Corveth",
     "twitterUsername": "holdex.io",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 58,
     "createdAt": "2026-01-05T10:14:57Z"
@@ -1820,7 +1808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 195,
     "createdAt": "2026-04-14T10:16:33Z"
   },
   {
