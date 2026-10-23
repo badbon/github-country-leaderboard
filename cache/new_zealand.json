@@ -47335,7 +47335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 954,
+    "privateContributions": 1062,
     "publicContributions": 0,
     "createdAt": "2018-08-19T06:22:54Z"
   },
@@ -47358,9 +47358,9 @@
     "location": "Wellington, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 123,
-    "publicContributions": 52,
+    "publicContributions": 46,
     "createdAt": "2018-05-01T08:11:37Z"
   },
   {
@@ -47383,7 +47383,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 319,
+    "privateContributions": 531,
     "publicContributions": 2,
     "createdAt": "2018-08-26T04:54:51Z"
   },
@@ -47395,8 +47395,8 @@
     "company": "Acker Analytics",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 89,
-    "publicContributions": 22,
+    "privateContributions": 167,
+    "publicContributions": 9,
     "createdAt": "2018-01-04T03:44:14Z"
   },
   {
@@ -47406,9 +47406,9 @@
     "location": "Wellington, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 290,
+    "publicContributions": 330,
     "createdAt": "2018-12-26T07:33:38Z"
   },
   {
@@ -47420,7 +47420,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 2,
-    "publicContributions": 225,
+    "publicContributions": 199,
     "createdAt": "2018-05-28T23:01:22Z"
   },
   {
@@ -47430,7 +47430,7 @@
     "location": "Christchurch, New Zealand",
     "company": "University of Canterbury",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 53,
     "publicContributions": 33,
     "createdAt": "2018-02-23T20:58:18Z"
@@ -47444,20 +47444,8 @@
     "twitterUsername": "ohitshammy",
     "followers": 5,
     "privateContributions": 2,
-    "publicContributions": 99,
+    "publicContributions": 106,
     "createdAt": "2018-06-06T07:03:02Z"
-  },
-  {
-    "login": "officialchengyud",
-    "name": "Cheng-Yu Dong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39908329?s=72&u=ee9f85afbaba857697cf48b19dad89f3c67fc5df&v=4",
-    "location": "New Zealand | New York City",
-    "company": "@fun-xyz",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 991,
-    "publicContributions": 34,
-    "createdAt": "2018-06-04T11:37:43Z"
   },
   {
     "login": "Zasheus",
@@ -47467,7 +47455,7 @@
     "company": "Sandfield",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 427,
+    "privateContributions": 688,
     "publicContributions": 0,
     "createdAt": "2018-02-23T09:15:07Z"
   },
@@ -47490,9 +47478,9 @@
     "location": "New Zealand",
     "company": "Zappie Labs",
     "twitterUsername": "zappie08",
-    "followers": 5,
-    "privateContributions": 103,
-    "publicContributions": 4,
+    "followers": 6,
+    "privateContributions": 166,
+    "publicContributions": 0,
     "createdAt": "2018-05-17T10:23:18Z"
   },
   {
@@ -47528,7 +47516,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 28,
     "createdAt": "2018-06-10T20:12:33Z"
   },
   {
@@ -47563,8 +47551,8 @@
     "company": "Epi-interactive",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 64,
-    "publicContributions": 56,
+    "privateContributions": 89,
+    "publicContributions": 27,
     "createdAt": "2018-03-19T01:02:53Z"
   },
   {
