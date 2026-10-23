@@ -2659,7 +2659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 424,
+    "privateContributions": 421,
     "publicContributions": 23,
     "createdAt": "2021-05-23T11:04:47Z"
   },
@@ -2796,18 +2796,6 @@
     "createdAt": "2021-02-05T17:27:26Z"
   },
   {
-    "login": "musabalradi-dev",
-    "name": "Musab Alradi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78719015?s=72&u=85d52abe22ef6fb34b5b3983a6d63dca7c2e7d42&v=4",
-    "location": "Sudan",
-    "company": "Donors ICT",
-    "twitterUsername": "MusabAlradi",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2021-02-08T06:04:54Z"
-  },
-  {
     "login": "Alhusseindaw",
     "name": "Alhussein eldaw mohammed",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95942288?s=72&v=4",
@@ -2851,7 +2839,7 @@
     "company": "Hakkil System Design ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 92,
+    "privateContributions": 95,
     "publicContributions": 80,
     "createdAt": "2021-11-21T16:54:14Z"
   },
@@ -2862,7 +2850,7 @@
     "location": "sudan",
     "company": "",
     "twitterUsername": "r0_fes",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-06-16T15:55:11Z"
