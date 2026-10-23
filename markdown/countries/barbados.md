@@ -12,8 +12,8 @@ Indexed users: 132
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,660 |
-| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,461 |
+| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,667 |
+| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,464 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,219 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,335 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 3,078 |
@@ -24,7 +24,7 @@ Indexed users: 132
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,383 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,373 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,235 |
-| 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 990 |
+| 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 986 |
 | 14 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 727 |
 | 15 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 670 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
@@ -44,7 +44,7 @@ Indexed users: 132
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne | Bridgetown, Barbados | 305 |
 | 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley | Barbados | 286 |
 | 7 | [BlueRoyy](https://github.com/BlueRoyy) | Kenroy Ronnie Roach | Barbados | 226 |
-| 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 220 |
+| 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 219 |
 | 9 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 175 |
 | 10 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 150 |
 | 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 141 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-23T06:43:48.609Z
+Generated: 2026-10-23T07:54:51.150Z

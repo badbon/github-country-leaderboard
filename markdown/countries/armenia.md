@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,024
+Indexed users: 4,023
 
 | Leaderboard | Link |
 |---|---|
@@ -70,7 +70,7 @@ Indexed users: 4,024
 | 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad | Yerevan, Armenia | 622 |
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 609 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has | Yerevan, Armenia | 578 |
-| 9 | [noptrix](https://github.com/noptrix) | noptrix | Armenia, Cyprus, Stack, Heap | 546 |
+| 9 | [noptrix](https://github.com/noptrix) | noptrix | Armenia, Cyprus, Stack, Heap | 547 |
 | 10 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | Armenia | 479 |
 | 11 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Yerevan, Armenia | 475 |
 | 12 | [Aramayis331](https://github.com/Aramayis331) | Aramayis Araqelyan | Armenia | 455 |
@@ -83,4 +83,4 @@ Indexed users: 4,024
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-23T06:42:31.059Z
+Generated: 2026-10-23T07:53:01.143Z

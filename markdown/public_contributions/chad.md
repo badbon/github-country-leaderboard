@@ -1,8 +1,8 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-23T06:48:57.662Z
+Generated: 2026-10-23T08:00:26.568Z
 
-Users: 201
+Users: 200
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 201
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 680 |
 | 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 437 |
 | 4 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 267 |
-| 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 237 |
+| 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 236 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 180 |
 | 8 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 163 |

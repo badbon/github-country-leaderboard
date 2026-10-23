@@ -1,6 +1,6 @@
 # Followers - Zimbabwe
 
-Generated: 2026-10-23T06:39:21.941Z
+Generated: 2026-10-23T07:48:47.334Z
 
 Users: 1656
 
@@ -22,7 +22,7 @@ Users: 1656
 | 14 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | @Infixus | Elisvobs | Harare, Zimbabwe | 151 |
 | 15 | [michaeldera](https://github.com/michaeldera) | Michael |  |  | Bulawayo, Zimbabwe  | 129 |
 | 16 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 125 |
-| 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  |  |  | Harare | 116 |
+| 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  |  |  | Harare | 117 |
 | 18 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi |  | Ju99ern4ut | Zimbabwe | 111 |
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zim-bot | Aizimbot | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Zimbabwe Revenue Authority |  | Harare | 105 |

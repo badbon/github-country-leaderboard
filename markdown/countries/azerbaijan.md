@@ -28,10 +28,10 @@ Indexed users: 5,045
 | 14 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Azerbaijan, Baku | 6,193 |
 | 15 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,891 |
 | 16 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
-| 17 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
-| 18 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
-| 19 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
-| 20 | [frddl](https://github.com/frddl) | Farid M. | Baku, Azerbaijan | 4,667 |
+| 17 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Baku, Azerbaijan | 5,561 |
+| 18 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
+| 19 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
+| 20 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
 
 ## Public Contributions
 
@@ -41,13 +41,13 @@ Indexed users: 5,045
 | 2 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 9,279 |
 | 3 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 6,494 |
 | 4 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam | Azerbaijan | 5,510 |
-| 5 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 5,197 |
-| 6 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Azerbaijan | 4,093 |
-| 7 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | Azerbaijan,Baku | 3,937 |
-| 8 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade | Baku, Azerbaijan | 3,668 |
-| 9 | [theyali](https://github.com/theyali) | Ali Hajiyev | Azerbaijan | 3,342 |
-| 10 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada | Azerbaijan | 3,195 |
-| 11 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Baku, Azerbaijan | 2,988 |
+| 5 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Baku, Azerbaijan | 5,424 |
+| 6 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 5,197 |
+| 7 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Azerbaijan | 4,093 |
+| 8 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | Azerbaijan,Baku | 3,937 |
+| 9 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade | Baku, Azerbaijan | 3,668 |
+| 10 | [theyali](https://github.com/theyali) | Ali Hajiyev | Azerbaijan | 3,342 |
+| 11 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada | Azerbaijan | 3,195 |
 | 12 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev | Baku | 2,729 |
 | 13 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | Azerbaijan , Baku . | 2,508 |
 | 14 | [kenanqafarov](https://github.com/kenanqafarov) | Kenan Qafarov | Baku, Azerbaijan | 2,493 |
@@ -83,4 +83,4 @@ Indexed users: 5,045
 | 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 255 |
 | 20 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 
-Generated: 2026-10-23T06:43:35.505Z
+Generated: 2026-10-23T07:53:11.716Z

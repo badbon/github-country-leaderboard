@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-23T06:43:35.505Z
+Generated: 2026-10-23T07:53:11.716Z
 
 Users: 5045
 
@@ -22,7 +22,7 @@ Users: 5045
 | 14 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Chevveek LLC |  | Azerbaijan, Baku | 6193 |
 | 15 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5891 |
 | 16 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
-| 17 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
-| 18 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin |  |  | Baku, Azerbaijan | 5267 |
-| 19 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5262 |
-| 20 | [frddl](https://github.com/frddl) | Farid M. |  | FaridCodes | Baku, Azerbaijan | 4667 |
+| 17 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Personal |  | Baku, Azerbaijan | 5561 |
+| 18 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
+| 19 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin |  |  | Baku, Azerbaijan | 5267 |
+| 20 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5262 |

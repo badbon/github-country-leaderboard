@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-23T06:43:41.038Z
+Generated: 2026-10-23T07:53:17.768Z
 
 Users: 726
 
@@ -14,9 +14,9 @@ Users: 726
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | @ov-studio |  | Amwaj, Bahrain | 2115 |
 | 7 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 1566 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 1255 |
-| 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Foulad | Fouladtm | Bahrain | 893 |
-| 10 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |
-| 11 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 877 |
+| 9 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 986 |
+| 10 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Foulad | Fouladtm | Bahrain | 893 |
+| 11 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |
 | 12 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 828 |
 | 13 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 788 |
 | 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 765 |

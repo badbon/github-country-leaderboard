@@ -1,8 +1,8 @@
 # Followers - Armenia
 
-Generated: 2026-10-23T06:42:31.059Z
+Generated: 2026-10-23T07:53:01.143Z
 
-Users: 4024
+Users: 4023
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 4024
 | 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad |  |  | Yerevan, Armenia | 622 |
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 609 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has |  |  | Yerevan, Armenia | 578 |
-| 9 | [noptrix](https://github.com/noptrix) | noptrix | nullsecurity, nullsecurity labs, blackarch linux | noptrix | Armenia, Cyprus, Stack, Heap | 546 |
+| 9 | [noptrix](https://github.com/noptrix) | noptrix | nullsecurity, nullsecurity labs, blackarch linux | noptrix | Armenia, Cyprus, Stack, Heap | 547 |
 | 10 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | nopCommerce team |  | Armenia | 479 |
 | 11 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Optimum Partners | _vahan_sahakyan | Yerevan, Armenia | 475 |
 | 12 | [Aramayis331](https://github.com/Aramayis331) | Aramayis Araqelyan |  |  | Armenia | 455 |

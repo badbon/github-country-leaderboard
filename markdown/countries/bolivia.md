@@ -1,6 +1,6 @@
 # Bolivia
 
-Indexed users: 1,783
+Indexed users: 1,782
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,783
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 119 |
 
-Generated: 2026-10-23T06:45:34.522Z
+Generated: 2026-10-23T07:57:03.492Z

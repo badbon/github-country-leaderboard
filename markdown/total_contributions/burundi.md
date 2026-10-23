@@ -1,12 +1,12 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-23T06:48:08.493Z
+Generated: 2026-10-23T07:58:49.861Z
 
 Users: 235
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | HOGI |  | Bujumbura, Burundi | 6235 |
+| 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | HOGI |  | Bujumbura, Burundi | 6234 |
 | 2 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 5143 |
 | 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2972 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2492 |
@@ -25,4 +25,4 @@ Users: 235
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 923 |
 | 18 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | @meezeedevelopers  | vangoethe_iy | Burundi, Bujumbura | 921 |
 | 19 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | @ksquad | ArtcalO97 | Bujumbura, BURUNDI | 909 |
-| 20 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 904 |
+| 20 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 892 |

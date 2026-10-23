@@ -12,7 +12,7 @@ Indexed users: 235
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,235 |
+| 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,234 |
 | 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 5,143 |
 | 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,972 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,492 |
@@ -31,7 +31,7 @@ Indexed users: 235
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 923 |
 | 18 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | Burundi, Bujumbura | 921 |
 | 19 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | Bujumbura, BURUNDI | 909 |
-| 20 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 904 |
+| 20 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 892 |
 
 ## Public Contributions
 
@@ -66,7 +66,7 @@ Indexed users: 235
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 148 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 103 |
-| 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | bujumbura, burundi | 88 |
+| 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | bujumbura, burundi | 89 |
 | 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 87 |
 | 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Burundi | 82 |
 | 8 | [ndikumanaisaie](https://github.com/ndikumanaisaie) | Ndikumana Isaie | Burundi | 78 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-23T06:48:08.493Z
+Generated: 2026-10-23T07:58:49.861Z

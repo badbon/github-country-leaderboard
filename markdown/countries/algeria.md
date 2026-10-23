@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,773
+Indexed users: 5,772
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 5,773
 | 11 | [sedaradji](https://github.com/sedaradji) | Sdj | Algeria | 6,781 |
 | 12 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | Algeria  | 6,425 |
 | 13 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | Algeria | 6,389 |
-| 14 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Algeria | 6,072 |
-| 15 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 5,978 |
-| 16 | [rofkk](https://github.com/rofkk) | Rafik Bentabet | Algeria | 5,284 |
-| 17 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 5,098 |
-| 18 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 5,049 |
-| 19 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir | Algeria | 4,989 |
-| 20 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
+| 14 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 6,239 |
+| 15 | [aimen08](https://github.com/aimen08) | Aymen Hamza | Algeria | 6,072 |
+| 16 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 5,978 |
+| 17 | [rofkk](https://github.com/rofkk) | Rafik Bentabet | Algeria | 5,284 |
+| 18 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 5,098 |
+| 19 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 5,049 |
+| 20 | [issam-seghir](https://github.com/issam-seghir) | Issam Seghir | Algeria | 4,989 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,773
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-23T06:39:49.061Z
+Generated: 2026-10-23T07:50:14.987Z

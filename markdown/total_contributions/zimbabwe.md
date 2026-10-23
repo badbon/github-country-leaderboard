@@ -1,17 +1,17 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-23T06:39:21.941Z
+Generated: 2026-10-23T07:48:47.334Z
 
 Users: 1656
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 30856 |
-| 2 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 9569 |
-| 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Bit Studio |  | Borrowdale, Harare | 9569 |
+| 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Bit Studio |  | Borrowdale, Harare | 9686 |
+| 3 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 9569 |
 | 4 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | GroundUpMVP | codewithkin | Mutare, Zimbabwe | 9488 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 8370 |
-| 6 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 8021 |
+| 6 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 8356 |
 | 7 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7632 |
 | 8 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7387 |
 | 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7370 |

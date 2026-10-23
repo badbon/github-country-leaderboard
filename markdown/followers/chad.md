@@ -1,8 +1,8 @@
 # Followers - Chad
 
-Generated: 2026-10-23T06:48:57.662Z
+Generated: 2026-10-23T08:00:26.568Z
 
-Users: 201
+Users: 200
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

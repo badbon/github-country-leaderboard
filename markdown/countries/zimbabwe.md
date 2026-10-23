@@ -13,11 +13,11 @@ Indexed users: 1,656
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,856 |
-| 2 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 9,569 |
-| 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 9,569 |
+| 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 9,686 |
+| 3 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 9,569 |
 | 4 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,488 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 8,370 |
-| 6 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 8,021 |
+| 6 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 8,356 |
 | 7 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,632 |
 | 8 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 7,387 |
 | 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 7,370 |
@@ -39,7 +39,7 @@ Indexed users: 1,656
 |---:|---|---|---|---:|
 | 1 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,488 |
 | 2 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,241 |
-| 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 4,856 |
+| 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 4,885 |
 | 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 3,934 |
 | 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 3,598 |
 | 6 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 3,022 |
@@ -53,8 +53,8 @@ Indexed users: 1,656
 | 14 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,568 |
 | 15 | [tate2301](https://github.com/tate2301) | Atipamara | Masvingo, Zimbabwe | 1,473 |
 | 16 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,471 |
-| 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,315 |
-| 18 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,244 |
+| 17 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,348 |
+| 18 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,315 |
 | 19 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,220 |
 | 20 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,121 |
 
@@ -78,9 +78,9 @@ Indexed users: 1,656
 | 14 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | Harare, Zimbabwe | 151 |
 | 15 | [michaeldera](https://github.com/michaeldera) | Michael | Bulawayo, Zimbabwe  | 129 |
 | 16 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 125 |
-| 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  | Harare | 116 |
+| 17 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  | Harare | 117 |
 | 18 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-23T06:39:21.941Z
+Generated: 2026-10-23T07:48:47.334Z
