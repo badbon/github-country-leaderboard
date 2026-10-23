@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,555
+Indexed users: 2,554
 
 | Leaderboard | Link |
 |---|---|
@@ -25,10 +25,10 @@ Indexed users: 2,555
 | 11 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 8,237 |
 | 12 | [osmankh](https://github.com/osmankh) | Osman Taha | Zgharta District, North Governorate, Lebanon | 8,102 |
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 8,068 |
-| 14 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,397 |
-| 15 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad | Beirut - Lebanon | 6,851 |
-| 16 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,827 |
-| 17 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
+| 14 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 7,633 |
+| 15 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,397 |
+| 16 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad | Beirut - Lebanon | 6,851 |
+| 17 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,827 |
 | 18 | [SyntaxError843](https://github.com/SyntaxError843) |  | Lebanon, Beirut | 6,431 |
 | 19 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,170 |
 | 20 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 5,981 |
@@ -42,7 +42,7 @@ Indexed users: 2,555
 | 3 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 4,060 |
 | 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,196 |
 | 5 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,995 |
-| 6 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
+| 6 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,859 |
 | 7 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,295 |
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,843 |
 | 9 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,814 |
@@ -83,4 +83,4 @@ Indexed users: 2,555
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-23T18:52:15.316Z
+Generated: 2026-10-23T20:00:21.946Z

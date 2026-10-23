@@ -117,7 +117,7 @@ Published countries: 236
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
 | Laos | 359 | [View](./laos.md) |
 | Latvia | 3,245 | [View](./latvia.md) |
-| Lebanon | 2,555 | [View](./lebanon.md) |
+| Lebanon | 2,554 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 740 | [View](./libya.md) |
@@ -153,7 +153,7 @@ Published countries: 236
 | New Zealand | 12,137 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
-| Nigeria | 33,175 | [View](./nigeria.md) |
+| Nigeria | 33,174 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T19:57:34.183Z
+Generated: 2026-10-23T20:03:07.353Z

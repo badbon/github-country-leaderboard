@@ -1,8 +1,8 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-23T18:52:15.316Z
+Generated: 2026-10-23T20:00:21.946Z
 
-Users: 2555
+Users: 2554
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 2555
 | 11 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | TN Cheesecake |  | Lebanon, TN | 8237 |
 | 12 | [osmankh](https://github.com/osmankh) | Osman Taha | @uscoalitiononsustainability  |  | Zgharta District, North Governorate, Lebanon | 8102 |
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 8068 |
-| 14 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7397 |
-| 15 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad |  |  | Beirut - Lebanon | 6851 |
-| 16 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6827 |
-| 17 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
+| 14 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 7633 |
+| 15 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 7397 |
+| 16 | [bwmhamad](https://github.com/bwmhamad) | Moe Saad |  |  | Beirut - Lebanon | 6851 |
+| 17 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6827 |
 | 18 | [SyntaxError843](https://github.com/SyntaxError843) |  | @ucheed  |  | Lebanon, Beirut | 6431 |
 | 19 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6170 |
 | 20 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 5981 |

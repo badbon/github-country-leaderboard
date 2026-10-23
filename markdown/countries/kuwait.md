@@ -13,7 +13,7 @@ Indexed users: 796
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 8,059 |
-| 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,207 |
+| 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,272 |
 | 3 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 7,182 |
 | 4 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 7,012 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,274 |
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 20 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 
-Generated: 2026-10-23T18:50:25.272Z
+Generated: 2026-10-23T19:59:00.057Z

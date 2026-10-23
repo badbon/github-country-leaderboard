@@ -1,8 +1,8 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-23T18:52:15.316Z
+Generated: 2026-10-23T20:00:21.946Z
 
-Users: 2555
+Users: 2554
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 2555
 | 3 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 4060 |
 | 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 3196 |
 | 5 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2995 |
-| 6 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 2919 |
+| 6 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 2859 |
 | 7 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Omar7tech |  | Beirut | 2295 |
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun |  |  | Lebanon | 1843 |
 | 9 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom |  |  | Beirut - Lebanon | 1814 |
