@@ -21835,7 +21835,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 66,
+    "privateContributions": 96,
     "publicContributions": 0,
     "createdAt": "2014-12-14T15:08:32Z"
   },
@@ -21846,7 +21846,7 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-02T00:22:08Z"
@@ -21920,7 +21920,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 307,
+    "publicContributions": 1051,
     "createdAt": "2014-10-28T17:16:01Z"
   },
   {
@@ -21973,14 +21973,14 @@
   },
   {
     "login": "pdejan",
-    "name": "Dejan Popovic",
+    "name": "Dejan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6877976?s=72&u=2e119c8e42c217c979107dd22002168702cab0c4&v=4",
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 139,
     "createdAt": "2014-03-06T22:54:18Z"
   },
   {
@@ -22015,8 +22015,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1571,
-    "publicContributions": 41,
+    "privateContributions": 1612,
+    "publicContributions": 52,
     "createdAt": "2014-10-03T13:09:06Z"
   },
   {
@@ -22039,7 +22039,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 110,
+    "privateContributions": 146,
     "publicContributions": 10,
     "createdAt": "2014-09-19T00:26:25Z"
   },

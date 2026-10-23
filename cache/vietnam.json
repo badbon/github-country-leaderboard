@@ -46088,7 +46088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2023-07-17T06:06:38Z"
   },
   {
@@ -46099,7 +46099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 390,
+    "privateContributions": 407,
     "publicContributions": 55,
     "createdAt": "2023-09-15T00:56:12Z"
   },
@@ -46112,7 +46112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 35,
     "createdAt": "2023-09-08T14:14:50Z"
   },
   {
@@ -46136,7 +46136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2023-02-12T09:33:50Z"
   },
   {
@@ -46158,7 +46158,7 @@
     "location": "Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-08T15:34:30Z"
@@ -46195,8 +46195,8 @@
     "company": "Appota",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 202,
-    "publicContributions": 48,
+    "privateContributions": 174,
+    "publicContributions": 45,
     "createdAt": "2023-01-31T07:26:51Z"
   },
   {
@@ -46212,18 +46212,6 @@
     "createdAt": "2023-11-01T02:42:22Z"
   },
   {
-    "login": "nguyenquangtuu",
-    "name": "Nguyen Quang Tuu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128828217?s=72&v=4",
-    "location": "Viet Nam",
-    "company": "TozPie",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 28,
-    "createdAt": "2023-03-24T15:20:51Z"
-  },
-  {
     "login": "PhucHoang200",
     "name": "Vo Thanh Hoang Phuc",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130363308?s=72&u=fd8a38c782d30c41f2d01bfbca4d33c71a18002c&v=4",
@@ -46231,20 +46219,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
-    "publicContributions": 257,
+    "privateContributions": 69,
+    "publicContributions": 187,
     "createdAt": "2023-04-10T11:03:38Z"
   },
   {
     "login": "AkioCkist",
     "name": "Akio Ckist",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145124450?s=72&u=a9303ec11e89ad033bd2b7bbdbd3a5bca4ad1af7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145124450?s=72&u=1043b4f1377b3422b38bdde74b1f98c54f21e68a&v=4",
     "location": "Dien Bien Phu, Viet Nam",
     "company": "Vietnamese Editor Community",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 245,
-    "publicContributions": 390,
+    "privateContributions": 264,
+    "publicContributions": 603,
     "createdAt": "2023-09-15T11:56:44Z"
   },
   {
@@ -46266,9 +46254,9 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 305,
-    "privateContributions": 322,
-    "publicContributions": 583,
+    "followers": 286,
+    "privateContributions": 575,
+    "publicContributions": 605,
     "createdAt": "2023-06-14T10:55:09Z"
   },
   {
@@ -46278,9 +46266,9 @@
     "location": "Hanoi, Vietnam",
     "company": "Viettel Software",
     "twitterUsername": "",
-    "followers": 298,
+    "followers": 293,
     "privateContributions": 0,
-    "publicContributions": 1081,
+    "publicContributions": 1051,
     "createdAt": "2023-01-16T04:45:32Z"
   },
   {
@@ -46290,9 +46278,9 @@
     "location": "Hanoi, Vietnam",
     "company": "GPBank",
     "twitterUsername": "",
-    "followers": 263,
-    "privateContributions": 34,
-    "publicContributions": 1092,
+    "followers": 281,
+    "privateContributions": 19,
+    "publicContributions": 1330,
     "createdAt": "2023-03-13T18:02:14Z"
   },
   {
@@ -46302,7 +46290,7 @@
     "location": "vietnam",
     "company": "ama soft",
     "twitterUsername": "dongdl25",
-    "followers": 161,
+    "followers": 158,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-01-09T17:10:28Z"
@@ -46314,9 +46302,9 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 133,
-    "privateContributions": 397,
-    "publicContributions": 639,
+    "followers": 181,
+    "privateContributions": 319,
+    "publicContributions": 760,
     "createdAt": "2023-01-31T06:12:40Z"
   },
   {

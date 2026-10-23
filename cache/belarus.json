@@ -47228,7 +47228,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2020-01-11T14:39:04Z"
   },
   {
@@ -47252,7 +47252,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 20,
     "createdAt": "2020-06-15T03:40:57Z"
   },
   {
@@ -47287,7 +47287,7 @@
     "company": "Belaruskali",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 27,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-07-15T12:02:52Z"
   },
@@ -47310,7 +47310,7 @@
     "location": "Brest, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-10-13T07:50:43Z"
@@ -47384,7 +47384,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 26,
     "createdAt": "2020-08-26T12:00:13Z"
   },
   {
@@ -47396,20 +47396,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2020-09-30T08:53:11Z"
-  },
-  {
-    "login": "MightyThor-bruh",
-    "name": "Lisa Shumova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73255984?s=72&u=e0c50e613bb1a3d35a8586c844cf395b85b5d955&v=4",
-    "location": "Belarus",
-    "company": "BSTU",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2020-10-21T20:20:18Z"
   },
   {
     "login": "Nimlu-bot",
@@ -47419,8 +47407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 11,
-    "publicContributions": 50,
+    "privateContributions": 51,
+    "publicContributions": 32,
     "createdAt": "2020-03-09T06:11:32Z"
   },
   {
@@ -47430,9 +47418,9 @@
     "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 100,
     "createdAt": "2020-04-10T06:02:36Z"
   },
   {
@@ -47455,8 +47443,8 @@
     "company": "",
     "twitterUsername": "s_kurochkin",
     "followers": 3,
-    "privateContributions": 36,
-    "publicContributions": 23,
+    "privateContributions": 17,
+    "publicContributions": 90,
     "createdAt": "2020-01-21T15:46:57Z"
   },
   {

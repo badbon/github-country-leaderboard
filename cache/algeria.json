@@ -46615,7 +46615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 5,
+    "privateContributions": 6,
     "publicContributions": 11,
     "createdAt": "2019-10-10T10:45:16Z"
   },
@@ -46638,7 +46638,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "abdbichi",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-02T16:26:45Z"
@@ -46664,7 +46664,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-01-24T18:03:36Z"
   },
   {
@@ -46700,7 +46700,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 8,
-    "publicContributions": 137,
+    "publicContributions": 134,
     "createdAt": "2019-05-13T18:59:50Z"
   },
   {
@@ -46710,7 +46710,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-10T17:30:32Z"
@@ -46722,7 +46722,7 @@
     "location": "Algeria",
     "company": "TeraConnex",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-01T20:55:40Z"
@@ -46736,7 +46736,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 31,
     "createdAt": "2019-03-14T18:57:34Z"
   },
   {
@@ -46747,7 +46747,7 @@
     "company": "Yalitec",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2667,
+    "privateContributions": 650,
     "publicContributions": 12,
     "createdAt": "2019-03-27T00:01:34Z"
   },
@@ -46759,7 +46759,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 407,
+    "privateContributions": 693,
     "publicContributions": 0,
     "createdAt": "2019-05-13T13:24:58Z"
   },
@@ -46771,8 +46771,8 @@
     "company": "LabLabee",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 365,
-    "publicContributions": 52,
+    "privateContributions": 501,
+    "publicContributions": 63,
     "createdAt": "2019-02-07T20:24:19Z"
   },
   {
@@ -46794,9 +46794,9 @@
     "location": "Algeria",
     "company": "Fasa",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2019-03-19T01:04:00Z"
   },
   {

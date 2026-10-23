@@ -47131,8 +47131,8 @@
     "company": "WW inc.",
     "twitterUsername": "statistics1012",
     "followers": 4,
-    "privateContributions": 1080,
-    "publicContributions": 8,
+    "privateContributions": 1213,
+    "publicContributions": 3,
     "createdAt": "2018-01-16T05:54:42Z"
   },
   {
@@ -47143,8 +47143,8 @@
     "company": "@sweeftdigital ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 358,
-    "publicContributions": 15,
+    "privateContributions": 556,
+    "publicContributions": 16,
     "createdAt": "2018-03-16T23:20:31Z"
   },
   {
@@ -47155,7 +47155,7 @@
     "company": "Distillery",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 76,
+    "privateContributions": 83,
     "publicContributions": 9,
     "createdAt": "2018-07-23T12:19:07Z"
   },
@@ -47168,7 +47168,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 40,
     "createdAt": "2018-01-26T04:59:28Z"
   },
   {
@@ -47179,7 +47179,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
+    "privateContributions": 4,
     "publicContributions": 1,
     "createdAt": "2018-05-11T18:51:43Z"
   },
@@ -47191,7 +47191,7 @@
     "company": "Human Rights Watch",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 501,
+    "privateContributions": 711,
     "publicContributions": 0,
     "createdAt": "2018-10-09T09:39:15Z"
   },
@@ -47215,8 +47215,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 40,
-    "publicContributions": 26,
+    "privateContributions": 846,
+    "publicContributions": 1,
     "createdAt": "2018-09-17T16:10:09Z"
   },
   {
@@ -47251,8 +47251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 37,
-    "publicContributions": 0,
+    "privateContributions": 38,
+    "publicContributions": 1,
     "createdAt": "2018-11-01T16:02:48Z"
   },
   {
@@ -47263,7 +47263,7 @@
     "company": "",
     "twitterUsername": "artikot_",
     "followers": 4,
-    "privateContributions": 597,
+    "privateContributions": 542,
     "publicContributions": 1,
     "createdAt": "2018-03-06T13:59:57Z"
   },
@@ -47299,8 +47299,8 @@
     "company": "Appsulove",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 715,
-    "publicContributions": 12,
+    "privateContributions": 720,
+    "publicContributions": 10,
     "createdAt": "2018-11-27T23:06:50Z"
   },
   {
@@ -47310,9 +47310,9 @@
     "location": "Batumi, Georgia",
     "company": "Pronto",
     "twitterUsername": "prontopos",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 155,
     "createdAt": "2018-03-20T10:46:09Z"
   },
   {
@@ -47323,7 +47323,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2018-03-02T16:09:59Z"
   },
@@ -47335,7 +47335,7 @@
     "company": "ITransition Corp.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 69,
+    "privateContributions": 120,
     "publicContributions": 0,
     "createdAt": "2018-12-02T11:41:06Z"
   },
@@ -47346,7 +47346,7 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2018-05-21T18:23:56Z"
@@ -82390,5 +82390,17 @@
     "privateContributions": 4,
     "publicContributions": 55,
     "createdAt": "2012-02-01T06:55:49Z"
+  },
+  {
+    "login": "weslleyrichardc",
+    "name": "Weslley Richard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15369937?s=72&u=ebc07c6495ee543ba9fa3eab1acff8a0cee5c5fc&v=4",
+    "location": "Tbilisi, Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 5,
+    "publicContributions": 62,
+    "createdAt": "2015-10-28T21:37:29Z"
   }
 ]
