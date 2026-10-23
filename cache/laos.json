@@ -3451,7 +3451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 5256,
+    "privateContributions": 5274,
     "publicContributions": 2,
     "createdAt": "2017-02-08T06:33:06Z"
   },
@@ -3540,18 +3540,6 @@
     "createdAt": "2016-01-12T09:05:30Z"
   },
   {
-    "login": "chanthavong",
-    "name": "Jan Jao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18229355?s=72&u=d4ce6927c233adca329026f76fae0be4a91c416c&v=4",
-    "location": "Vientiane, Laos",
-    "company": "BitDigo.Ltd",
-    "twitterUsername": "janjao_space",
-    "followers": 43,
-    "privateContributions": 1310,
-    "publicContributions": 1232,
-    "createdAt": "2016-04-02T11:10:25Z"
-  },
-  {
     "login": "vanglaz",
     "name": "Somvang Laz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22347796?s=72&v=4",
@@ -3583,7 +3571,7 @@
     "company": "BCEL",
     "twitterUsername": "Pitpy",
     "followers": 7,
-    "privateContributions": 4033,
+    "privateContributions": 4008,
     "publicContributions": 13,
     "createdAt": "2016-07-18T07:46:15Z"
   },
