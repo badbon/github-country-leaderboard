@@ -14,13 +14,13 @@ Indexed users: 325
 |---:|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,023 |
 | 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,646 |
-| 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,461 |
+| 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,463 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,424 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,178 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,083 |
-| 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,032 |
+| 7 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,033 |
 | 8 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,030 |
-| 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,016 |
+| 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,018 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 949 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 941 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 798 |
@@ -37,7 +37,7 @@ Indexed users: 325
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,461 |
+| 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,463 |
 | 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 564 |
 | 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 467 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-23T13:06:20.400Z
+Generated: 2026-10-23T14:08:56.290Z
