@@ -41,8 +41,8 @@ Indexed users: 2,230
 | 2 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 3,385 |
 | 3 | [pageton](https://github.com/pageton) | Sadiq | Basra, Iraq | 2,803 |
 | 4 | [tatsumoto-ren](https://github.com/tatsumoto-ren) | Ren Tatsumoto | Baghdad | 2,715 |
-| 5 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,274 |
-| 6 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,167 |
+| 5 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,167 |
+| 6 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,128 |
 | 7 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 1,630 |
 | 8 | [mahmoodbashar08](https://github.com/mahmoodbashar08) | mahmood | iraq | 1,349 |
 | 9 | [Redo-San](https://github.com/Redo-San) | RedoSan | Iraq, Baghdad  | 1,232 |
@@ -83,4 +83,4 @@ Indexed users: 2,230
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-23T08:16:31.521Z
+Generated: 2026-10-23T13:13:51.200Z

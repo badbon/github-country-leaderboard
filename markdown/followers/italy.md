@@ -1,8 +1,8 @@
 # Followers - Italy
 
-Generated: 2026-10-23T08:16:46.627Z
+Generated: 2026-10-23T13:14:07.973Z
 
-Users: 49008
+Users: 49007
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

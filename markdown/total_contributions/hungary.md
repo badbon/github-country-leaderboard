@@ -1,8 +1,8 @@
 # Total Contributions - Hungary
 
-Generated: 2026-10-23T08:15:19.678Z
+Generated: 2026-10-23T13:12:29.360Z
 
-Users: 11156
+Users: 11155
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

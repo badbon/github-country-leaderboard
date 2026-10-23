@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-23T08:13:46.734Z
+Generated: 2026-10-23T13:11:41.806Z
 
 Users: 187
 
@@ -24,5 +24,5 @@ Users: 187
 | 16 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 29 |
 | 17 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | YETI |  | Georgetown, TX | 29 |
 | 18 | [MichaelATang](https://github.com/MichaelATang) | Michael Tang |  |  | Guyana | 25 |
-| 19 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney |  |  | Georgetown, CO | 22 |
-| 20 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | @Cassini-Technologies  | NicholasSeetar2 | South America, Guyana, Georgetown | 21 |
+| 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | @Cassini-Technologies  | NicholasSeetar2 | South America, Guyana, Georgetown | 22 |
+| 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney |  |  | Georgetown, CO | 22 |

@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-23T08:16:38.869Z
+Generated: 2026-10-23T13:13:59.209Z
 
 Users: 155
 
