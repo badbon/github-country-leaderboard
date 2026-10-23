@@ -46352,7 +46352,7 @@
     "twitterUsername": "javivisega",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-01-28T23:00:09Z"
   },
   {
@@ -46364,7 +46364,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-06-16T20:00:57Z"
   },
   {
@@ -46376,7 +46376,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 36,
     "createdAt": "2022-06-14T22:14:37Z"
   },
   {
@@ -46392,18 +46392,6 @@
     "createdAt": "2022-06-27T21:15:18Z"
   },
   {
-    "login": "davidsnjz",
-    "name": "David S. Jacquez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104923101?s=72&u=e0915a360240a21d040332228d12548ecad748b1&v=4",
-    "location": "Chihuahua, Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-05-04T16:50:13Z"
-  },
-  {
     "login": "Arielsito",
     "name": "Arielsito",
     "avatarUrl": "https://avatars.githubusercontent.com/u/104421680?s=72&u=9e8ea3b3b1a35ecd8ee12d66c7ee7f17cbf39df0&v=4",
@@ -46411,8 +46399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 135,
-    "publicContributions": 126,
+    "privateContributions": 166,
+    "publicContributions": 165,
     "createdAt": "2022-04-26T08:14:43Z"
   },
   {
@@ -46436,32 +46424,20 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 106,
     "createdAt": "2022-03-04T03:19:42Z"
   },
   {
     "login": "twodigitss",
     "name": "Enrique",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100657622?s=72&u=1da778bcf9709807bc63162ba85f570f973ff003&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100657622?s=72&u=70874e567a2cd2150009349ba148a663ef8b0fb7&v=4",
     "location": "Mexico",
     "company": "Arcelormittal Mexico",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 51,
-    "publicContributions": 121,
+    "publicContributions": 133,
     "createdAt": "2022-03-01T02:57:23Z"
-  },
-  {
-    "login": "Aram32mm",
-    "name": "Jose Aram Mendez Gomez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104022682?s=72&u=fe56f923002faeb7bb69a8e1854f7d0ade2dc776&v=4",
-    "location": "Mexico City",
-    "company": "SWE | Tec de Monterrey | HTW Saar",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 837,
-    "publicContributions": 59,
-    "createdAt": "2022-04-19T16:35:09Z"
   },
   {
     "login": "whoami030404",
@@ -46470,7 +46446,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-06T22:23:52Z"
@@ -46484,7 +46460,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2022-03-18T01:14:17Z"
   },
   {
@@ -46518,7 +46494,7 @@
     "location": "Mexico",
     "company": "UNAM",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2022-02-01T23:29:55Z"
@@ -46532,7 +46508,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 10,
     "createdAt": "2022-02-07T04:29:58Z"
   },
   {
@@ -46544,7 +46520,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 104,
     "createdAt": "2022-03-24T22:59:34Z"
   },
   {
@@ -46556,7 +46532,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 79,
     "createdAt": "2022-06-11T02:21:14Z"
   },
   {

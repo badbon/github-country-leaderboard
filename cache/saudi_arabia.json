@@ -46472,7 +46472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2020-12-18T09:23:06Z"
   },
   {
@@ -46495,7 +46495,7 @@
     "company": "Game Developer",
     "twitterUsername": "hemouz",
     "followers": 1,
-    "privateContributions": 174,
+    "privateContributions": 184,
     "publicContributions": 0,
     "createdAt": "2020-04-07T14:53:49Z"
   },
@@ -46508,7 +46508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 33,
     "createdAt": "2020-03-16T21:22:26Z"
   },
   {
@@ -46524,25 +46524,13 @@
     "createdAt": "2020-05-25T17:28:29Z"
   },
   {
-    "login": "sohaibkhaa",
-    "name": "Sohaib Khan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66300327?s=72&u=1f94231e73ecc51d520b4bbb8f3520949c11d105&v=4",
-    "location": "Riyadh, Saudi Arabia",
-    "company": "Remote",
-    "twitterUsername": "SohaibK_han",
-    "followers": 1,
-    "privateContributions": 730,
-    "publicContributions": 1,
-    "createdAt": "2020-06-02T07:47:35Z"
-  },
-  {
     "login": "rule110-math",
     "name": "Ismail ali",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69765773?s=72&u=0d410194a58676bb3f7d1700ab55c29d43c9c068&v=4",
     "location": " Saudi Arabia  in Riyadh ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-08-16T17:49:09Z"
@@ -46556,7 +46544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2020-10-11T17:40:17Z"
   },
   {
@@ -46564,10 +46552,10 @@
     "name": "Emad Aljaser",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72359912?s=72&v=4",
     "location": "Riyadh, Saudi Arabia",
-    "company": "Roche Diagnostic",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1146,
     "publicContributions": 0,
     "createdAt": "2020-10-04T20:45:20Z"
   },
@@ -46615,7 +46603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 577,
+    "privateContributions": 639,
     "publicContributions": 6,
     "createdAt": "2020-09-18T06:41:48Z"
   },
@@ -46627,7 +46615,7 @@
     "company": "Hayat National Hospital",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 79,
+    "privateContributions": 298,
     "publicContributions": 1,
     "createdAt": "2020-08-16T11:22:07Z"
   },
@@ -46638,9 +46626,9 @@
     "location": "saudi arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 66,
     "createdAt": "2020-04-12T14:36:35Z"
   },
   {

@@ -46412,7 +46412,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 98,
     "createdAt": "2020-04-23T20:55:15Z"
   },
   {
@@ -46422,9 +46422,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "shannholmberg",
-    "followers": 49,
-    "privateContributions": 1654,
-    "publicContributions": 42,
+    "followers": 57,
+    "privateContributions": 3861,
+    "publicContributions": 43,
     "createdAt": "2023-03-15T17:21:56Z"
   },
   {
@@ -46446,7 +46446,7 @@
     "location": "Lisbon",
     "company": "LNEC",
     "twitterUsername": "wildfireprotec",
-    "followers": 35,
+    "followers": 36,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-03T16:54:16Z"
@@ -46458,9 +46458,9 @@
     "location": "Lisbon",
     "company": "Instituto Superior Técnico",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2023-10-24T23:39:29Z"
   },
   {
@@ -46470,9 +46470,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 291,
-    "publicContributions": 554,
+    "followers": 32,
+    "privateContributions": 292,
+    "publicContributions": 676,
     "createdAt": "2023-01-26T19:56:59Z"
   },
   {
@@ -46483,7 +46483,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 21,
+    "privateContributions": 19,
     "publicContributions": 13,
     "createdAt": "2023-01-21T17:04:02Z"
   },
@@ -46494,9 +46494,9 @@
     "location": "Lisbon",
     "company": "42 Lisboa",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 21,
-    "publicContributions": 390,
+    "followers": 32,
+    "privateContributions": 23,
+    "publicContributions": 170,
     "createdAt": "2023-04-21T16:22:26Z"
   },
   {
@@ -46506,9 +46506,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 308,
-    "publicContributions": 125,
+    "followers": 27,
+    "privateContributions": 424,
+    "publicContributions": 113,
     "createdAt": "2022-12-31T01:42:27Z"
   },
   {
@@ -46518,22 +46518,10 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 360,
+    "followers": 29,
+    "privateContributions": 245,
     "publicContributions": 1,
     "createdAt": "2023-10-05T10:34:39Z"
-  },
-  {
-    "login": "RodrigoPerestrelo",
-    "name": "Rodrigo Perestrelo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133988160?s=72&u=6e3b0ade0023b358af6dd788e17fb7b1904a9cfd&v=4",
-    "location": "Lisbon",
-    "company": "Instituto Superior Técnico",
-    "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 0,
-    "publicContributions": 84,
-    "createdAt": "2023-05-18T14:59:27Z"
   },
   {
     "login": "stephan-lassaponari",
@@ -46544,7 +46532,7 @@
     "twitterUsername": "",
     "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 124,
     "createdAt": "2023-06-07T19:55:37Z"
   },
   {
@@ -46554,9 +46542,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 111,
     "createdAt": "2023-02-27T13:39:56Z"
   },
   {
@@ -46566,9 +46554,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 17,
     "createdAt": "2023-10-16T17:30:05Z"
   },
   {
@@ -46580,7 +46568,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 57,
-    "publicContributions": 144,
+    "publicContributions": 136,
     "createdAt": "2023-11-17T18:49:20Z"
   },
   {
@@ -46591,8 +46579,8 @@
     "company": "Card4B Systems",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 63,
-    "publicContributions": 390,
+    "privateContributions": 67,
+    "publicContributions": 309,
     "createdAt": "2023-04-04T21:19:15Z"
   },
   {
@@ -46601,10 +46589,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/148591200?s=72&u=bc2154e765b871e178942e83186d57c42e472472&v=4",
     "location": "Lisbon",
     "company": "@Kiz8",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 647,
-    "publicContributions": 12,
+    "twitterUsername": "Dorofeev",
+    "followers": 23,
+    "privateContributions": 1937,
+    "publicContributions": 15,
     "createdAt": "2023-10-20T21:31:36Z"
   },
   {
@@ -46616,7 +46604,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 62,
     "createdAt": "2023-09-27T17:50:57Z"
   },
   {
@@ -46626,7 +46614,7 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-26T18:56:00Z"
