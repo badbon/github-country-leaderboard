@@ -45968,7 +45968,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2019-09-27T11:18:21Z"
   },
   {
@@ -45982,18 +45982,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-25T15:47:24Z"
-  },
-  {
-    "login": "Rayterex",
-    "name": "Nemanja Stojanovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48988540?s=72&u=693dd45f776d5ad413e43498217558915de7dbe1&v=4",
-    "location": "Sombor, Serbia",
-    "company": "3Vial Technologies",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-03-27T11:42:54Z"
   },
   {
     "login": "DmitryYegorov",
@@ -46038,9 +46026,9 @@
     "location": "Belgrade, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 121,
-    "publicContributions": 48,
+    "followers": 6,
+    "privateContributions": 3,
+    "publicContributions": 185,
     "createdAt": "2019-06-28T14:09:13Z"
   },
   {
@@ -46063,21 +46051,9 @@
     "company": "Incode Technologies",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1054,
-    "publicContributions": 22,
+    "privateContributions": 1307,
+    "publicContributions": 25,
     "createdAt": "2019-10-29T03:16:12Z"
-  },
-  {
-    "login": "feld1meow",
-    "name": "Timofei Serikov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49448500?s=72&u=15739c9e9f1f6acb5f1019d674fc9c16fcefaf9e&v=4",
-    "location": "Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2019-04-09T15:20:58Z"
   },
   {
     "login": "askela994",
@@ -46098,9 +46074,9 @@
     "location": "Belgrade, Serbia",
     "company": "Perplexity",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 9,
-    "publicContributions": 5,
+    "followers": 7,
+    "privateContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2018-12-29T13:09:38Z"
   },
   {
@@ -46112,7 +46088,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2019-02-07T10:36:45Z"
   },
   {
@@ -46135,8 +46111,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 92,
+    "privateContributions": 102,
+    "publicContributions": 4,
     "createdAt": "2019-09-21T09:14:27Z"
   },
   {
@@ -46147,8 +46123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 287,
-    "publicContributions": 66,
+    "privateContributions": 312,
+    "publicContributions": 11,
     "createdAt": "2019-08-04T10:57:06Z"
   },
   {
