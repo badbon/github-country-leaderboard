@@ -44790,7 +44790,7 @@
     "location": "Gaziantep, Turkey.",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 149,
     "createdAt": "2024-05-04T19:58:05Z"
@@ -44816,7 +44816,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 35,
     "createdAt": "2024-05-28T09:30:05Z"
   },
   {
@@ -44827,8 +44827,8 @@
     "company": "OliveCap Studio",
     "twitterUsername": "FaresAwarik",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 93,
+    "privateContributions": 44,
+    "publicContributions": 108,
     "createdAt": "2024-02-23T16:49:53Z"
   },
   {
@@ -44840,7 +44840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 31,
     "createdAt": "2023-12-28T17:18:14Z"
   },
   {
@@ -44852,7 +44852,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2024-06-11T06:40:44Z"
   },
   {
@@ -44958,9 +44958,9 @@
     "location": "Turkey",
     "company": "Sosyal Köprü",
     "twitterUsername": "benbugraer",
-    "followers": 2,
-    "privateContributions": 545,
-    "publicContributions": 1,
+    "followers": 4,
+    "privateContributions": 608,
+    "publicContributions": 18,
     "createdAt": "2024-02-22T18:59:05Z"
   },
   {
@@ -44970,9 +44970,9 @@
     "location": "Turkey",
     "company": "MydDigital",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 383,
     "createdAt": "2024-02-23T13:33:02Z"
   },
   {
@@ -44996,7 +44996,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2024-06-15T17:53:48Z"
   },
   {
@@ -848578,18 +848578,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-27T19:49:47Z"
-  },
-  {
-    "login": "nesemutluay",
-    "name": "Neşe Mutluay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15970702?s=72&u=139efe3de94584d1dc324896466973a92aa0ae43&v=4",
-    "location": "İstanbul",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-11-22T20:23:04Z"
   },
   {
     "login": "erkanonurgulec",

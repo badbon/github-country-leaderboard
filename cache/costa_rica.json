@@ -45775,7 +45775,7 @@
     "company": "Ulacit",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1211,
+    "privateContributions": 1135,
     "publicContributions": 0,
     "createdAt": "2016-10-12T17:10:18Z"
   },
@@ -45788,7 +45788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-09-06T15:35:32Z"
   },
   {
@@ -45799,8 +45799,8 @@
     "company": "LTVco",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 977,
-    "publicContributions": 123,
+    "privateContributions": 1002,
+    "publicContributions": 82,
     "createdAt": "2016-12-19T15:38:54Z"
   },
   {
@@ -45811,8 +45811,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 17,
-    "publicContributions": 2,
+    "privateContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2016-10-10T23:14:46Z"
   },
   {
@@ -45860,7 +45860,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2016-04-21T22:35:41Z"
   },
   {
@@ -45870,9 +45870,9 @@
     "location": "San José, Costa Rica",
     "company": "@syscostaricanet",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2016-06-12T15:56:56Z"
   },
   {
@@ -45883,7 +45883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2016-10-10T16:56:58Z"
   },
@@ -45928,11 +45928,11 @@
     "name": "Rafael Montero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19507932?s=72&u=2e1e58a22b5cf80c2ac26b531a911c84c39bb748&v=4",
     "location": "Costa Rica",
-    "company": "Gorilla Logic",
+    "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 275,
     "createdAt": "2016-05-21T17:33:58Z"
   },
   {
@@ -45942,9 +45942,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 186,
     "createdAt": "2016-01-21T18:32:02Z"
   },
   {

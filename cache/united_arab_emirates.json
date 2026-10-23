@@ -44924,7 +44924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 64,
     "createdAt": "2014-09-17T05:13:26Z"
   },
   {
@@ -44935,7 +44935,7 @@
     "company": "alampk.com",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2014-07-25T12:16:09Z"
   },
@@ -44946,22 +44946,10 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2014-07-12T21:19:45Z"
-  },
-  {
-    "login": "alijoudeh",
-    "name": "Ali Joudeh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6911810?s=72&u=094413da56ff064b48c222eb6ba5e0cf686f490c&v=4",
-    "location": "Abu Dhabi, UAE",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-03-10T20:34:48Z"
   },
   {
     "login": "geridos",
@@ -44978,7 +44966,7 @@
   {
     "login": "junais66",
     "name": "Muhammed Junais Madathil Kunnu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6477977?s=72&u=8403d0b93cc46fc18088b754b7573172fac56a13&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6477977?s=72&u=fea41f27479055e1a262def5bf8390fc1b53d14c&v=4",
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
@@ -44994,8 +44982,8 @@
     "location": "United Arab Emirates",
     "company": "SadaPay",
     "twitterUsername": "",
-    "followers": 587,
-    "privateContributions": 1863,
+    "followers": 586,
+    "privateContributions": 1907,
     "publicContributions": 2,
     "createdAt": "2013-04-22T17:46:05Z"
   },
@@ -45018,9 +45006,9 @@
     "location": "Dubai, United Arab Emirates",
     "company": "Microsoft",
     "twitterUsername": "HosamKamel",
-    "followers": 70,
-    "privateContributions": 38,
-    "publicContributions": 17,
+    "followers": 72,
+    "privateContributions": 21,
+    "publicContributions": 9,
     "createdAt": "2013-07-13T13:47:55Z"
   },
   {
@@ -45031,8 +45019,8 @@
     "company": "@desertcart",
     "twitterUsername": "mohammaddohad",
     "followers": 68,
-    "privateContributions": 7290,
-    "publicContributions": 4,
+    "privateContributions": 13328,
+    "publicContributions": 3,
     "createdAt": "2013-06-06T18:18:41Z"
   },
   {
@@ -45042,9 +45030,9 @@
     "location": "Abu Dhabi United Arab Emirates",
     "company": "Mobile Developer",
     "twitterUsername": "",
-    "followers": 63,
-    "privateContributions": 552,
-    "publicContributions": 42,
+    "followers": 64,
+    "privateContributions": 807,
+    "publicContributions": 41,
     "createdAt": "2013-09-30T08:34:50Z"
   },
   {
@@ -45054,7 +45042,7 @@
     "location": "United Arab Emirates",
     "company": "DXB",
     "twitterUsername": "",
-    "followers": 54,
+    "followers": 55,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-06-28T11:29:43Z"
@@ -45066,9 +45054,9 @@
     "location": "United Arab Emirates, Dubai",
     "company": "Oracle",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 49,
     "privateContributions": 0,
-    "publicContributions": 342,
+    "publicContributions": 146,
     "createdAt": "2013-01-05T13:38:34Z"
   },
   {
@@ -45078,22 +45066,10 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 46,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-28T07:18:13Z"
-  },
-  {
-    "login": "ziasistani",
-    "name": "zia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4399507?s=72&u=598eec1080e0780e40ea0331f26c646aa0c7f7f5&v=4",
-    "location": "United Arab Emirates",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 1,
-    "publicContributions": 4,
-    "createdAt": "2013-05-10T20:07:38Z"
   },
   {
     "login": "vadymzh",
@@ -45102,9 +45078,9 @@
     "location": "Dubai, United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 30,
     "createdAt": "2013-11-13T16:44:29Z"
   },
   {
@@ -45128,7 +45104,7 @@
     "twitterUsername": "",
     "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 176,
     "createdAt": "2013-07-30T19:49:07Z"
   },
   {
@@ -45138,7 +45114,7 @@
     "location": "Dubai, United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-26T19:45:37Z"

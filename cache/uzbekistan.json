@@ -45232,11 +45232,11 @@
     "name": "Danil Khan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98831576?s=72&u=2241b187f30550985f954887ce7e54eb9d364651&v=4",
     "location": "Tashkent, Uzbekistan",
-    "company": "RED BUTTON",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 74,
-    "publicContributions": 37,
+    "privateContributions": 259,
+    "publicContributions": 69,
     "createdAt": "2022-02-01T15:37:58Z"
   },
   {
@@ -45304,7 +45304,7 @@
     "name": "Mukhriddin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103459314?s=72&v=4",
     "location": "Tashkent, Uzbekistan",
-    "company": "Open Fintech",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -45324,27 +45324,15 @@
     "createdAt": "2022-03-15T02:22:55Z"
   },
   {
-    "login": "oxaDeveloper",
-    "name": "Sukhrobjon Israelzadeh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98086989?s=72&u=77b2dbc677e152748f0c1f527b3613d19550f8c5&v=4",
-    "location": "Tashkent, Uzbekistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2022-01-20T09:21:57Z"
-  },
-  {
     "login": "PirimovUktam",
     "name": "Uktam Pirimov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102903746?s=72&u=d7ae45a47ffc93beb5534a12d870d4fd461c2efb&v=4",
     "location": "Karshi, Uzbekistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 6,
+    "followers": 22,
+    "privateContributions": 12,
+    "publicContributions": 116,
     "createdAt": "2022-04-03T10:57:10Z"
   },
   {
@@ -45428,7 +45416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 28,
     "createdAt": "2022-03-14T19:34:00Z"
   },
   {
@@ -45451,7 +45439,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 341,
+    "privateContributions": 285,
     "publicContributions": 0,
     "createdAt": "2022-05-06T20:46:50Z"
   },

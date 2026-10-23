@@ -45631,8 +45631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 2972,
-    "publicContributions": 0,
+    "privateContributions": 6516,
+    "publicContributions": 283,
     "createdAt": "2014-12-04T09:30:24Z"
   },
   {
@@ -45642,9 +45642,9 @@
     "location": "Split, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 15,
     "createdAt": "2014-03-02T21:00:47Z"
   },
   {
@@ -45678,9 +45678,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 1462,
-    "publicContributions": 229,
+    "followers": 26,
+    "privateContributions": 1431,
+    "publicContributions": 289,
     "createdAt": "2014-05-10T10:08:34Z"
   },
   {
@@ -45702,7 +45702,7 @@
     "location": "Split, Croatia",
     "company": "Merge Conflict",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-09-15T18:27:15Z"
@@ -45714,9 +45714,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2014-06-24T03:25:49Z"
   },
   {
@@ -45727,7 +45727,7 @@
     "company": "Super Technologies",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1601,
+    "privateContributions": 1686,
     "publicContributions": 2,
     "createdAt": "2014-04-08T22:29:07Z"
   },
@@ -45739,8 +45739,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 118,
-    "publicContributions": 12,
+    "privateContributions": 339,
+    "publicContributions": 5,
     "createdAt": "2014-06-28T07:23:11Z"
   },
   {
@@ -45750,9 +45750,9 @@
     "location": "Split, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 23,
-    "publicContributions": 37,
+    "publicContributions": 39,
     "createdAt": "2014-01-17T22:07:56Z"
   },
   {
@@ -45763,20 +45763,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 829,
-    "publicContributions": 2,
+    "privateContributions": 768,
+    "publicContributions": 1,
     "createdAt": "2014-12-14T23:42:33Z"
   },
   {
     "login": "matija",
     "name": "Matija Munjaković",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8150171?s=72&u=5c35c07f0fc5969ba971569b222d7b7a048f9ba4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8150171?s=72&u=10ac8a9ccb0841449b282bed9baed14be7af9ffb&v=4",
     "location": "Croatia",
-    "company": "@kodius @GetUnblock",
+    "company": "@kodius @GetUnblock @tandokuco",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 3459,
-    "publicContributions": 787,
+    "followers": 23,
+    "privateContributions": 3433,
+    "publicContributions": 1319,
     "createdAt": "2014-07-13T14:11:52Z"
   },
   {
@@ -45786,7 +45786,7 @@
     "location": "Croatia",
     "company": "@photomath ",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-01-12T13:44:44Z"
@@ -45798,8 +45798,8 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 650,
+    "followers": 22,
+    "privateContributions": 697,
     "publicContributions": 253,
     "createdAt": "2014-10-07T20:20:40Z"
   },
@@ -45810,9 +45810,9 @@
     "location": "Croatia",
     "company": "TensorPix",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 22,
+    "privateContributions": 1144,
+    "publicContributions": 7,
     "createdAt": "2014-10-23T18:49:13Z"
   },
   {
@@ -45823,7 +45823,7 @@
     "company": "SHAPE 404",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 118,
+    "privateContributions": 151,
     "publicContributions": 0,
     "createdAt": "2014-05-04T09:17:20Z"
   },
@@ -45835,7 +45835,7 @@
     "company": "@ExtensionEngine ",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 762,
+    "privateContributions": 728,
     "publicContributions": 6,
     "createdAt": "2014-03-07T15:22:03Z"
   },
@@ -45858,9 +45858,9 @@
     "location": "Croatia",
     "company": "@darksailstudio",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 893,
-    "publicContributions": 200,
+    "followers": 19,
+    "privateContributions": 744,
+    "publicContributions": 19,
     "createdAt": "2014-07-28T13:56:18Z"
   },
   {
