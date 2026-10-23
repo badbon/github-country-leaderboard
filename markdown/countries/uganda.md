@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,864
+Indexed users: 3,862
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,864
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-23T00:24:29.857Z
+Generated: 2026-10-23T05:27:19.358Z

@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,206
+Indexed users: 4,205
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 4,206
 | 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 3,114 |
 | 15 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,969 |
 | 16 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov | Dubai, United Arab Emirates | 2,900 |
-| 17 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
-| 18 | [delta6626](https://github.com/delta6626) | Delta | United Arab Emirates | 2,745 |
-| 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 2,721 |
-| 20 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
+| 17 | [delta6626](https://github.com/delta6626) | Delta | United Arab Emirates | 2,745 |
+| 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 2,721 |
+| 19 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
+| 20 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Dubai, United Arab Emirates | 2,344 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,206
 | 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-23T00:25:39.397Z
+Generated: 2026-10-23T05:28:28.957Z

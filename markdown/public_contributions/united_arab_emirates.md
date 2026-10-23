@@ -1,8 +1,8 @@
 # Public Contributions - United Arab Emirates
 
-Generated: 2026-10-23T00:25:39.397Z
+Generated: 2026-10-23T05:28:28.957Z
 
-Users: 4206
+Users: 4205
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 4206
 | 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 3114 |
 | 15 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Rockstar games | HaseebMir91 | Dubai,United Arab Emirates | 2969 |
 | 16 | [klkvr](https://github.com/klkvr) | Arsenii Kulikov |  | klkvrr | Dubai, United Arab Emirates | 2900 |
-| 17 | [aroff](https://github.com/aroff) | Alex Oliveira |  |  | United Arab Emirates | 2753 |
-| 18 | [delta6626](https://github.com/delta6626) | Delta |  | delta6626 | United Arab Emirates | 2745 |
-| 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 2721 |
-| 20 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich |  | drakulavich | Abu Dhabi, UAE | 2378 |
+| 17 | [delta6626](https://github.com/delta6626) | Delta |  | delta6626 | United Arab Emirates | 2745 |
+| 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 2721 |
+| 19 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich |  | drakulavich | Abu Dhabi, UAE | 2378 |
+| 20 | [eunwoo-levi](https://github.com/eunwoo-levi) | Eunwoo | Talabat, @deliveryhero |  | Dubai, United Arab Emirates | 2344 |
