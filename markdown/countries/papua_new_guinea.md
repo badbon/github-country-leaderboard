@@ -63,7 +63,7 @@ Indexed users: 296
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 262 |
-| 2 | [grecpt](https://github.com/grecpt) | Grecpt | Papua New Guinea | 75 |
+| 2 | [grecpt](https://github.com/grecpt) | Grecpt | Papua New Guinea | 74 |
 | 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 29 |
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 28 |
 | 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 27 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-23T13:30:27.745Z
+Generated: 2026-10-23T17:49:28.574Z

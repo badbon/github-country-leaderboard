@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-23T13:30:30.584Z
+Generated: 2026-10-23T17:49:35.370Z
 
 Users: 2013
 
@@ -13,8 +13,8 @@ Users: 2013
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 2364 |
 | 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. |  |  | Asunción, Paraguay | 2335 |
 | 7 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1906 |
-| 8 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 1680 |
-| 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1670 |
+| 8 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1692 |
+| 9 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 1680 |
 | 10 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Secretaría Técnica de Planificación del Desarrollo Económico y Social | raczajko | Paraguay | 1597 |
 | 11 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Banco Continental SAECA |  | Asunción, Paraguay | 1581 |
 | 12 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 1325 |

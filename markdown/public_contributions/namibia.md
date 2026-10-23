@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-23T13:25:34.129Z
+Generated: 2026-10-23T17:44:56.230Z
 
 Users: 474
 
@@ -15,7 +15,7 @@ Users: 474
 | 7 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 939 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 686 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 561 |
-| 10 | [Leon2332](https://github.com/Leon2332) | Leon | Venture Media |  | Namibia | 505 |
+| 10 | [Leon2332](https://github.com/Leon2332) | Leon | Venture Media |  | Namibia | 456 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | IU International University of Applied Sciences | TusneldeE | Namibia | 431 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | iNstar inc |  | Windhoek, Namibia | 394 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 322 |

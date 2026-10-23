@@ -23,8 +23,8 @@ Indexed users: 291
 | 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,763 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,379 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,346 |
-| 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,010 |
-| 13 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,927 |
+| 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 2,140 |
+| 13 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,010 |
 | 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,660 |
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,449 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,125 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-23T13:25:21.211Z
+Generated: 2026-10-23T17:44:42.426Z

@@ -1,6 +1,6 @@
 # Poland
 
-Indexed users: 58,000
+Indexed users: 57,998
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 58,000
 | 19 | [ivasik-k7](https://github.com/ivasik-k7) | Ivan | Gdansk, Poland | 1,559 |
 | 20 | [Blaizzy](https://github.com/Blaizzy) | Prince Canuma | Poland | 1,490 |
 
-Generated: 2026-10-23T13:30:41.360Z
+Generated: 2026-10-23T17:50:48.415Z

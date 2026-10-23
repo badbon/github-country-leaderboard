@@ -29,9 +29,9 @@ Indexed users: 1,073
 | 15 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,741 |
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,148 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 5,079 |
-| 18 | [abdulwaarith0](https://github.com/abdulwaarith0) | Abdulwaarith Zakariyya | Doha, Qatar | 4,347 |
-| 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,249 |
-| 20 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,229 |
+| 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,632 |
+| 19 | [abdulwaarith0](https://github.com/abdulwaarith0) | Abdulwaarith Zakariyya | Doha, Qatar | 4,347 |
+| 20 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,249 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 105 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-23T13:31:45.848Z
+Generated: 2026-10-23T17:51:38.178Z

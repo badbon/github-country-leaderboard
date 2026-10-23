@@ -47,7 +47,7 @@ Indexed users: 288
 | 8 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh | Nouakchott | 378 |
 | 9 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 301 |
 | 10 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 301 |
-| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 283 |
+| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 270 |
 | 12 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
 | 13 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
 | 14 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 215 |
@@ -83,4 +83,4 @@ Indexed users: 288
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 24 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-23T13:24:04.948Z
+Generated: 2026-10-23T17:42:29.378Z

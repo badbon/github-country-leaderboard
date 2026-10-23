@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-23T13:21:27.029Z
+Generated: 2026-10-23T17:39:42.844Z
 
 Users: 438
 
@@ -9,11 +9,11 @@ Users: 438
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam |  |  | Macau | 11973 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 9850 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  |  |  | Macau | 8142 |
-| 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 7525 |
-| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 6386 |
+| 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 7818 |
+| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 6679 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5672 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 3620 |
-| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3397 |
+| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3405 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3350 |
 | 10 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 3186 |
 | 11 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2999 |

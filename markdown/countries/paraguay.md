@@ -20,8 +20,8 @@ Indexed users: 2,013
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 10,484 |
-| 9 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 8,027 |
-| 10 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 7,889 |
+| 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 8,238 |
+| 10 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 8,027 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,868 |
 | 12 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Asunción, Paraguay | 7,351 |
 | 13 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | Asunción, Paraguay | 7,299 |
@@ -30,8 +30,8 @@ Indexed users: 2,013
 | 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
 | 17 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 6,190 |
 | 18 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 5,810 |
-| 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
-| 20 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,465 |
+| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 5,789 |
+| 20 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 5,581 |
 
 ## Public Contributions
 
@@ -44,8 +44,8 @@ Indexed users: 2,013
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,364 |
 | 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,335 |
 | 7 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,906 |
-| 8 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama | Asunción, Paraguay | 1,680 |
-| 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,670 |
+| 8 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,692 |
+| 9 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama | Asunción, Paraguay | 1,680 |
 | 10 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,597 |
 | 11 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,581 |
 | 12 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 1,325 |
@@ -74,7 +74,7 @@ Indexed users: 2,013
 | 10 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 182 |
 | 11 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 179 |
 | 12 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
-| 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 151 |
+| 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 152 |
 | 14 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 136 |
 | 15 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 129 |
 | 16 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 124 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-23T13:30:30.584Z
+Generated: 2026-10-23T17:49:35.370Z

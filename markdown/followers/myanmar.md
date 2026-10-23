@@ -1,6 +1,6 @@
 # Followers - Myanmar
 
-Generated: 2026-10-23T13:25:31.051Z
+Generated: 2026-10-23T17:44:53.547Z
 
 Users: 2055
 
@@ -11,7 +11,7 @@ Users: 2055
 | 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1068 |
 | 4 | [sailay1996](https://github.com/sailay1996) | valen |  | 404death | Myanmar | 757 |
 | 5 | [HlaingMinThan](https://github.com/HlaingMinThan) | Hlaing Min Than(Faizal) | Creative Coder | hlaingminthan4 | Yangon,Myanmar | 692 |
-| 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing |  |  | HsiHseng, Myanmar | 404 |
+| 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing |  |  | HsiHseng, Myanmar | 406 |
 | 7 | [myanmarlinks](https://github.com/myanmarlinks) | Myanmar Links | Myanmar Links |  | Yangon, Myanmar | 371 |
 | 8 | [waiferkolar](https://github.com/waiferkolar) | waiferkolar | 72CODER Software Development Co.,Ltd |  | Brighter Myanmar Computer Class, Second Top of San Yeik Nyein, Helden, Yangoon, Myanmar | 350 |
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | ZOE Crypto |  | Myanmar | 299 |

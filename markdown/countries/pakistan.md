@@ -1,6 +1,6 @@
 # Pakistan
 
-Indexed users: 41,844
+Indexed users: 41,845
 
 | Leaderboard | Link |
 |---|---|
@@ -14,7 +14,7 @@ Indexed users: 41,844
 |---:|---|---|---|---:|
 | 1 | [Afrasiab006](https://github.com/Afrasiab006) | Afrasiab Ahmad  |  Peshawar, Pakistan | 385,828 |
 | 2 | [SufiyanShahidDev](https://github.com/SufiyanShahidDev) | Sufiyan Shahid  | Karachi Sindh, Pakistan  | 140,724 |
-| 3 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  | Karachi, Pakistan | 108,964 |
+| 3 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  | Karachi, Pakistan | 108,940 |
 | 4 | [Awan](https://github.com/Awan) | Muhammad Abdullah Khabir | Islamabad, Pakistan | 95,322 |
 | 5 | [arhammaqsood-dev](https://github.com/arhammaqsood-dev) | ARHAM | Karachi, Pakistan  | 54,068 |
 | 6 | [muzammilshakir](https://github.com/muzammilshakir) | Muzammil Shakir | Islamabad | 47,418 |
@@ -38,7 +38,7 @@ Indexed users: 41,844
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [SufiyanShahidDev](https://github.com/SufiyanShahidDev) | Sufiyan Shahid  | Karachi Sindh, Pakistan  | 140,724 |
-| 2 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  | Karachi, Pakistan | 108,964 |
+| 2 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  | Karachi, Pakistan | 108,940 |
 | 3 | [Awan](https://github.com/Awan) | Muhammad Abdullah Khabir | Islamabad, Pakistan | 95,232 |
 | 4 | [arhammaqsood-dev](https://github.com/arhammaqsood-dev) | ARHAM | Karachi, Pakistan  | 54,068 |
 | 5 | [safdarayubpk](https://github.com/safdarayubpk) | Safdar Ayub | Pakistan | 37,879 |
@@ -83,4 +83,4 @@ Indexed users: 41,844
 | 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
 | 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-23T13:29:47.167Z
+Generated: 2026-10-23T17:55:30.970Z

@@ -52,8 +52,8 @@ Indexed users: 2,055
 | 13 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin | Myanmar, Yangon, Shwe Pyi Thar | 1,170 |
 | 14 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,065 |
 | 15 | [TaoMonLae](https://github.com/TaoMonLae) |  | Myanmar | 1,039 |
-| 16 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 1,019 |
-| 17 | [agrogers](https://github.com/agrogers) | Andrew Rogers | Yangon, Myanmar | 1,010 |
+| 16 | [agrogers](https://github.com/agrogers) | Andrew Rogers | Yangon, Myanmar | 1,033 |
+| 17 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 1,019 |
 | 18 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung | Myanmar | 1,007 |
 | 19 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | Muse, Shan State, Myanmar | 1,001 |
 | 20 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 980 |
@@ -67,7 +67,7 @@ Indexed users: 2,055
 | 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,068 |
 | 4 | [sailay1996](https://github.com/sailay1996) | valen | Myanmar | 757 |
 | 5 | [HlaingMinThan](https://github.com/HlaingMinThan) | Hlaing Min Than(Faizal) | Yangon,Myanmar | 692 |
-| 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing | HsiHseng, Myanmar | 404 |
+| 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing | HsiHseng, Myanmar | 406 |
 | 7 | [myanmarlinks](https://github.com/myanmarlinks) | Myanmar Links | Yangon, Myanmar | 371 |
 | 8 | [waiferkolar](https://github.com/waiferkolar) | waiferkolar | Brighter Myanmar Computer Class, Second Top of San Yeik Nyein, Helden, Yangoon, Myanmar | 350 |
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | Myanmar | 299 |
@@ -83,4 +83,4 @@ Indexed users: 2,055
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 164 |
 
-Generated: 2026-10-23T13:25:31.051Z
+Generated: 2026-10-23T17:44:53.547Z

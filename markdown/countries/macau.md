@@ -15,11 +15,11 @@ Indexed users: 438
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,973 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,850 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,142 |
-| 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,525 |
-| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,386 |
+| 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,818 |
+| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,679 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,672 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,620 |
-| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,397 |
+| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,405 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,350 |
 | 10 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 3,186 |
 | 11 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,999 |
@@ -53,10 +53,10 @@ Indexed users: 438
 | 14 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 660 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
-| 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 584 |
+| 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 583 |
 | 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 574 |
 | 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 507 |
-| 20 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 467 |
+| 20 | [weng-pang](https://github.com/weng-pang) | Weng Long Pang | Macao | 468 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-23T13:21:27.029Z
+Generated: 2026-10-23T17:39:42.844Z

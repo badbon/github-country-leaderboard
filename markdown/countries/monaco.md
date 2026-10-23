@@ -20,7 +20,7 @@ Indexed users: 142
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,721 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,271 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,143 |
-| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 949 |
+| 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 950 |
 | 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 804 |
 | 11 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 625 |
@@ -56,7 +56,7 @@ Indexed users: 142
 | 17 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
 | 18 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 49 |
 | 19 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 42 |
-| 20 | [mortii](https://github.com/mortii) |  | Monaco | 40 |
+| 20 | [mortii](https://github.com/mortii) |  | Monaco | 41 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-23T13:24:44.739Z
+Generated: 2026-10-23T17:43:34.327Z

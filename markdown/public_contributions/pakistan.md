@@ -1,13 +1,13 @@
 # Public Contributions - Pakistan
 
-Generated: 2026-10-23T13:29:47.167Z
+Generated: 2026-10-23T17:55:30.970Z
 
-Users: 41844
+Users: 41845
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [SufiyanShahidDev](https://github.com/SufiyanShahidDev) | Sufiyan Shahid  |  |  | Karachi Sindh, Pakistan  | 140724 |
-| 2 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  |  |  | Karachi, Pakistan | 108964 |
+| 2 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  |  |  | Karachi, Pakistan | 108940 |
 | 3 | [Awan](https://github.com/Awan) | Muhammad Abdullah Khabir | @abdullah-today  | AbdullahToday | Islamabad, Pakistan | 95232 |
 | 4 | [arhammaqsood-dev](https://github.com/arhammaqsood-dev) | ARHAM |  |  | Karachi, Pakistan  | 54068 |
 | 5 | [safdarayubpk](https://github.com/safdarayubpk) | Safdar Ayub | PIAIC - Air University Islamabad |  | Pakistan | 37879 |

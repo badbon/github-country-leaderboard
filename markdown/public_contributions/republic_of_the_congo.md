@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-23T13:31:49.769Z
+Generated: 2026-10-23T17:51:50.217Z
 
 Users: 297
 
@@ -11,16 +11,16 @@ Users: 297
 | 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 1173 |
 | 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 1088 |
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Hello World | kaiserstyve | Brazzaville | 764 |
-| 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 649 |
+| 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 695 |
 | 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | 125878454587877D |  | R.Congo, Brazzaville | 615 |
 | 8 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Es.Dev |  | Congo/North-kivu/Butembo | 462 |
 | 9 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | @NovenveraTech  |  | Brazzaville congo | 459 |
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 389 |
-| 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | PossaCode |  | Brazzaville | 360 |
+| 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | PossaCode |  | Brazzaville | 362 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Extravaganza |  | Congo | 354 |
 | 13 | [Kingcedloga](https://github.com/Kingcedloga) | Meced Loga | Royal Software |  | Kinshasa, Congo | 317 |
 | 14 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 311 |
-| 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 306 |
+| 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 307 |
 | 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 300 |
 | 17 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 250 |
 | 18 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 213 |

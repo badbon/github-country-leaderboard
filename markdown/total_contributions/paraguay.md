@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-23T13:30:30.584Z
+Generated: 2026-10-23T17:49:35.370Z
 
 Users: 2013
 
@@ -14,8 +14,8 @@ Users: 2013
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10793 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 10531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 10484 |
-| 9 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 8027 |
-| 10 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
+| 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 8238 |
+| 10 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 8027 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7868 |
 | 12 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 7351 |
 | 13 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | @laravel | matgrimm | Asunción, Paraguay | 7299 |
@@ -24,5 +24,5 @@ Users: 2013
 | 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6711 |
 | 17 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 6190 |
 | 18 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5810 |
-| 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
-| 20 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5465 |
+| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5789 |
+| 20 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |

@@ -40,11 +40,11 @@ Indexed users: 347
 | 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 6,380 |
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,396 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,422 |
-| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,115 |
+| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,121 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,103 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 566 |
 | 7 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 424 |
-| 8 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 409 |
+| 8 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 412 |
 | 9 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 386 |
 | 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 336 |
 | 11 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 320 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 25 |
 
-Generated: 2026-10-23T13:22:35.611Z
+Generated: 2026-10-23T17:41:21.410Z

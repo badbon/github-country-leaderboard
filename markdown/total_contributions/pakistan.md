@@ -1,14 +1,14 @@
 # Total Contributions - Pakistan
 
-Generated: 2026-10-23T13:29:47.167Z
+Generated: 2026-10-23T17:55:30.970Z
 
-Users: 41844
+Users: 41845
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Afrasiab006](https://github.com/Afrasiab006) | Afrasiab Ahmad  |  | afrasiab_ahmad |  Peshawar, Pakistan | 385828 |
 | 2 | [SufiyanShahidDev](https://github.com/SufiyanShahidDev) | Sufiyan Shahid  |  |  | Karachi Sindh, Pakistan  | 140724 |
-| 3 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  |  |  | Karachi, Pakistan | 108964 |
+| 3 | [NehalAtiq-dev](https://github.com/NehalAtiq-dev) | Nehal Atiq  |  |  | Karachi, Pakistan | 108940 |
 | 4 | [Awan](https://github.com/Awan) | Muhammad Abdullah Khabir | @abdullah-today  | AbdullahToday | Islamabad, Pakistan | 95322 |
 | 5 | [arhammaqsood-dev](https://github.com/arhammaqsood-dev) | ARHAM |  |  | Karachi, Pakistan  | 54068 |
 | 6 | [muzammilshakir](https://github.com/muzammilshakir) | Muzammil Shakir | @ZAM-Technologies  |  | Islamabad | 47418 |

@@ -1,19 +1,19 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-23T13:23:23.727Z
+Generated: 2026-10-23T17:42:10.764Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5330 |
+| 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5350 |
 | 2 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 5261 |
 | 3 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5198 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4615 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3111 |
-| 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1488 |
+| 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1489 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 1104 |
-| 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel |  | R3tr8 | Martinique | 1014 |
+| 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel |  | R3tr8 | Martinique | 1024 |
 | 9 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 938 |
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit |  |  | Martinique | 806 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 790 |
