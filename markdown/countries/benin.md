@@ -21,12 +21,12 @@ Indexed users: 471
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,391 |
 | 8 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 4,649 |
 | 9 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,428 |
-| 10 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,289 |
+| 10 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,304 |
 | 11 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,063 |
 | 12 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,029 |
 | 13 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 3,978 |
-| 14 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,976 |
-| 15 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,973 |
+| 14 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,977 |
+| 15 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,976 |
 | 16 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,863 |
 | 17 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,743 |
 | 18 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,692 |
@@ -43,7 +43,7 @@ Indexed users: 471
 | 4 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 2,307 |
 | 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,742 |
 | 6 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,712 |
-| 7 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,560 |
+| 7 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,540 |
 | 8 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,487 |
 | 9 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 1,187 |
 | 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,066 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-23T19:35:23.890Z
+Generated: 2026-10-23T20:40:28.342Z

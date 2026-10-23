@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-23T19:38:11.736Z
+Generated: 2026-10-23T20:45:02.683Z
 
 Users: 562
 
@@ -15,7 +15,7 @@ Users: 562
 | 7 | [portellaa](https://github.com/portellaa) | Luís Portela Afonso | @cookiebytespt  | lportellaa | Vila Praia de Âncora | 124 |
 | 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes |  |  | Praia Grande, SP | 118 |
 | 9 | [eloisaoliveira](https://github.com/eloisaoliveira) | Eloisa de Oliveira |  | elooliveira_png | Praia Grande - SP | 116 |
-| 10 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes |  | cdfortes | Praia - Cabo Verde | 92 |
+| 10 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes |  | cdfortes | Praia - Cabo Verde | 91 |
 | 11 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Itaú Unibanco |  | Praia Grande | 91 |
 | 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES |  |  | Praia Grande - SP - Brazil | 88 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 82 |

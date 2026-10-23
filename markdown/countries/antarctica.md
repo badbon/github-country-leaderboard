@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 460
+Indexed users: 459
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 460
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
 | 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 475 |
 | 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
-| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 460 |
-| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 442 |
+| 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 442 |
+| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 435 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-23T19:31:53.444Z
+Generated: 2026-10-23T20:38:17.718Z

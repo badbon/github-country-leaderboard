@@ -1,16 +1,16 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-23T19:38:11.736Z
+Generated: 2026-10-23T20:35:51.507Z
 
-Users: 6867
+Users: 6866
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Garage IT |  | Tbilisi | 14808 |
 | 2 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister |  |  | Tbilisi | 13900 |
-| 3 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 11296 |
-| 4 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 8922 |
-| 5 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov |  |  | Georgia | 8274 |
+| 3 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov |  |  | Georgia | 12796 |
+| 4 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 11296 |
+| 5 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 8922 |
 | 6 | [Jacoba1100254352](https://github.com/Jacoba1100254352) | Jacob Anderson | @https://github.com/instruction-material | jacob1100254352 | Georgia | 7658 |
 | 7 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 7088 |
 | 8 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski |  |  | Batumi, Georgia | 4735 |

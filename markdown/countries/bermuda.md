@@ -25,7 +25,7 @@ Indexed users: 897
 | 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,659 |
 | 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,280 |
 | 13 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,051 |
-| 14 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,673 |
+| 14 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,733 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 5,055 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,542 |
 | 17 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,479 |
@@ -83,4 +83,4 @@ Indexed users: 897
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 67 |
 
-Generated: 2026-10-23T19:35:26.393Z
+Generated: 2026-10-23T20:40:31.667Z

@@ -1,8 +1,8 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-23T19:31:53.444Z
+Generated: 2026-10-23T20:38:17.718Z
 
-Users: 460
+Users: 459
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 460
 | 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
 | 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | No clue |  | Antarctica | 475 |
 | 18 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
-| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 460 |
-| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 442 |
+| 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 442 |
+| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing |  | healingdrawing | Antarctica | 435 |

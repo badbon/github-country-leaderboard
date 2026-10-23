@@ -24,13 +24,13 @@ Indexed users: 726
 | 10 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 5,036 |
 | 11 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 5,032 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,743 |
-| 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,453 |
+| 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,439 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,347 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 4,121 |
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,734 |
 | 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,711 |
-| 18 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,625 |
-| 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,585 |
+| 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,638 |
+| 19 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,625 |
 | 20 | [amali01](https://github.com/amali01) | Amjad Ali | Bahrain | 3,291 |
 
 ## Public Contributions
@@ -50,7 +50,7 @@ Indexed users: 726
 | 11 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
 | 12 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 828 |
 | 13 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 788 |
-| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 765 |
+| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 759 |
 | 15 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 733 |
 | 16 | [FahadIqbal1122](https://github.com/FahadIqbal1122) | fahad | Bahrain | 703 |
 | 17 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 678 |
@@ -83,4 +83,4 @@ Indexed users: 726
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-23T19:34:34.693Z
+Generated: 2026-10-23T20:39:51.423Z

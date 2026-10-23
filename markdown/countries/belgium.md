@@ -24,14 +24,14 @@ Indexed users: 18,369
 | 10 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 17,980 |
 | 11 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 17,488 |
 | 12 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
-| 13 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 15,383 |
-| 14 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
-| 15 | [mattiasbonte](https://github.com/mattiasbonte) | Mattias | Belgium | 14,902 |
-| 16 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
-| 17 | [artem-invoid](https://github.com/artem-invoid) | Artem | Belgium | 14,595 |
-| 18 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
-| 19 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
-| 20 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | Brussels, Belgium | 13,265 |
+| 13 | [tomsix](https://github.com/tomsix) | Tom Six | Belgium | 16,869 |
+| 14 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 15,383 |
+| 15 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
+| 16 | [mattiasbonte](https://github.com/mattiasbonte) | Mattias | Belgium | 14,902 |
+| 17 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
+| 18 | [artem-invoid](https://github.com/artem-invoid) | Artem | Belgium | 14,595 |
+| 19 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Belgium | 14,464 |
+| 20 | [semaidi](https://github.com/semaidi) | Didier | Brussels | 14,348 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,369
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-23T19:35:15.796Z
+Generated: 2026-10-23T20:40:06.156Z

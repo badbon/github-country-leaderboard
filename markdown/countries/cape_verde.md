@@ -16,7 +16,7 @@ Indexed users: 562
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 3,441 |
 | 3 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | Praia, Cabo Verde | 3,218 |
 | 4 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula | Praia Grande, SP | 2,788 |
-| 5 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 2,262 |
+| 5 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 2,318 |
 | 6 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | Praia Grande - SP | 1,936 |
 | 7 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,846 |
 | 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,774 |
@@ -43,7 +43,7 @@ Indexed users: 562
 | 4 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 727 |
 | 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 717 |
 | 6 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 557 |
-| 7 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 501 |
+| 7 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 502 |
 | 8 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Praia Grande | 406 |
 | 9 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 386 |
 | 10 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes | Praia Grande - SP | 382 |
@@ -52,7 +52,7 @@ Indexed users: 562
 | 13 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Praia Grande -SP | 301 |
 | 14 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa | Praia Grande, SP | 293 |
 | 15 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 256 |
-| 16 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 236 |
+| 16 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 240 |
 | 17 | [leviferre1ra](https://github.com/leviferre1ra) | Levi Ferreira Cunha | Praia Grande/SP | 217 |
 | 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 196 |
 | 19 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  Praia da Costa, Vila Velha - ES | 194 |
@@ -71,7 +71,7 @@ Indexed users: 562
 | 7 | [portellaa](https://github.com/portellaa) | Luís Portela Afonso | Vila Praia de Âncora | 124 |
 | 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes | Praia Grande, SP | 118 |
 | 9 | [eloisaoliveira](https://github.com/eloisaoliveira) | Eloisa de Oliveira | Praia Grande - SP | 116 |
-| 10 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes | Praia - Cabo Verde | 92 |
+| 10 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes | Praia - Cabo Verde | 91 |
 | 11 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Praia Grande | 91 |
 | 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES | Praia Grande - SP - Brazil | 88 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 82 |
@@ -83,4 +83,4 @@ Indexed users: 562
 | 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 57 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 55 |
 
-Generated: 2026-10-23T19:38:11.736Z
+Generated: 2026-10-23T20:45:02.683Z

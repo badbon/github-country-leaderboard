@@ -1,8 +1,8 @@
 # Followers - Egypt
 
-Generated: 2026-10-23T19:42:52.503Z
+Generated: 2026-10-23T20:50:33.249Z
 
-Users: 34074
+Users: 34073
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

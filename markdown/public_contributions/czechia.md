@@ -1,6 +1,6 @@
 # Public Contributions - Czechia
 
-Generated: 2026-10-23T19:41:36.165Z
+Generated: 2026-10-23T20:47:52.539Z
 
 Users: 16201
 
@@ -24,5 +24,5 @@ Users: 16201
 | 16 | [tomasmarekk](https://github.com/tomasmarekk) | Tomas Marek |  | tomasmarekk | Prague | 6620 |
 | 17 | [josef-hak](https://github.com/josef-hak) | Josef Hak | Mirantis Inc. |  | Studenec, Czech Republic | 6515 |
 | 18 | [matej21](https://github.com/matej21) | David Matějka |  |  | Prague, Czech Republic | 6330 |
-| 19 | [speakASAP](https://github.com/speakASAP) | Sergej | @speakASAP |  | Czech Republic | 6231 |
-| 20 | [sliwowitz](https://github.com/sliwowitz) | Jiří Vyskočil |  |  | Prague | 6176 |
+| 19 | [marius-patrik](https://github.com/marius-patrik) | pmarius |  |  | Prague, Czech Republic | 6277 |
+| 20 | [speakASAP](https://github.com/speakASAP) | Sergej | @speakASAP |  | Czech Republic | 6231 |

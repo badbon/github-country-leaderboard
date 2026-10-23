@@ -1,8 +1,8 @@
 # Total Contributions - Georgia
 
-Generated: 2026-10-23T19:38:11.736Z
+Generated: 2026-10-23T20:35:51.507Z
 
-Users: 6867
+Users: 6866
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 6867
 | 10 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 13102 |
 | 11 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 12903 |
 | 12 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
-| 13 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
-| 14 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
-| 15 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
-| 16 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 12412 |
-| 17 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov |  |  | Tbilisi, Georgia | 11934 |
-| 18 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili |  |  | Tbilisi, Georgia | 11858 |
-| 19 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Trifoil Trailblazer |  | Tbilisi, Georgia | 11295 |
-| 20 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 11195 |
+| 13 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov |  |  | Georgia | 12796 |
+| 14 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
+| 15 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
+| 16 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
+| 17 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 12412 |
+| 18 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov |  |  | Tbilisi, Georgia | 11934 |
+| 19 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili |  |  | Tbilisi, Georgia | 11858 |
+| 20 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Trifoil Trailblazer |  | Tbilisi, Georgia | 11295 |

@@ -55,8 +55,8 @@ Indexed users: 16,201
 | 16 | [tomasmarekk](https://github.com/tomasmarekk) | Tomas Marek | Prague | 6,620 |
 | 17 | [josef-hak](https://github.com/josef-hak) | Josef Hak | Studenec, Czech Republic | 6,515 |
 | 18 | [matej21](https://github.com/matej21) | David Matějka | Prague, Czech Republic | 6,330 |
-| 19 | [speakASAP](https://github.com/speakASAP) | Sergej | Czech Republic | 6,231 |
-| 20 | [sliwowitz](https://github.com/sliwowitz) | Jiří Vyskočil | Prague | 6,176 |
+| 19 | [marius-patrik](https://github.com/marius-patrik) | pmarius | Prague, Czech Republic | 6,277 |
+| 20 | [speakASAP](https://github.com/speakASAP) | Sergej | Czech Republic | 6,231 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 16,201
 | 19 | [wbenny](https://github.com/wbenny) | Petr Beneš | Brno, Czech Republic | 877 |
 | 20 | [ondras](https://github.com/ondras) | Ondřej Žára | Prague | 840 |
 
-Generated: 2026-10-23T19:41:36.165Z
+Generated: 2026-10-23T20:47:52.539Z

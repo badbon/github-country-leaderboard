@@ -1,6 +1,6 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-23T19:35:15.796Z
+Generated: 2026-10-23T20:40:06.156Z
 
 Users: 18369
 
@@ -18,11 +18,11 @@ Users: 18369
 | 10 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet |  |  | Waregem, Belgium | 17980 |
 | 11 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | UCLL | LauwerysLasse | Belgium | 17488 |
 | 12 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | @opp-studio  | bmichotte | Liège, Belgium | 17056 |
-| 13 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 15383 |
-| 14 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
-| 15 | [mattiasbonte](https://github.com/mattiasbonte) | Mattias | wintro.ai |  | Belgium | 14902 |
-| 16 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
-| 17 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
-| 18 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
-| 19 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |
-| 20 | [jleclanche](https://github.com/jleclanche) | Jerome Leclanche | @ingram-technologies |  | Brussels, Belgium | 13265 |
+| 13 | [tomsix](https://github.com/tomsix) | Tom Six | Webatvantage |  | Belgium | 16869 |
+| 14 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | BEAM Campus | beamologist | Leuven, Belgium | 15383 |
+| 15 | [brtdv](https://github.com/brtdv) | Bert Devriese |  |  | Ghent x Bruges, Belgium | 15360 |
+| 16 | [mattiasbonte](https://github.com/mattiasbonte) | Mattias | wintro.ai |  | Belgium | 14902 |
+| 17 | [wouterds](https://github.com/wouterds) | Wouter | @tallyforms  |  | Ghent, Belgium | 14883 |
+| 18 | [artem-invoid](https://github.com/artem-invoid) | Artem | @Invoid-Vision  | nonvoider | Belgium | 14595 |
+| 19 | [sigmadeltasoftware](https://github.com/sigmadeltasoftware) | Bojan Belic | Sigma Delta Software Solutions |  | Belgium | 14464 |
+| 20 | [semaidi](https://github.com/semaidi) | Didier | MFM Digital |  | Brussels | 14348 |

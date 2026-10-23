@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-23T19:37:18.280Z
+Generated: 2026-10-23T20:43:13.345Z
 
 Users: 486
 
@@ -18,7 +18,7 @@ Users: 486
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Theojnana Tech Solution | theobosomtwe | Burkina Faso | 93 |
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 65 |
 | 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Passionate Developer | KidChris7 | Ouagadougou, Burkina Faso | 64 |
-| 13 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 57 |
+| 13 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 58 |
 | 14 | [wendtoinissaka](https://github.com/wendtoinissaka) |  |  |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 56 |
 | 15 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 50 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE |  | FaissalGuire | Burkina Faso (Ouagadougou) | 46 |

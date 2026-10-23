@@ -1,6 +1,6 @@
 # Georgia
 
-Indexed users: 6,867
+Indexed users: 6,866
 
 | Leaderboard | Link |
 |---|---|
@@ -24,14 +24,14 @@ Indexed users: 6,867
 | 10 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 13,102 |
 | 11 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze | Georgia | 12,903 |
 | 12 | [Krut](https://github.com/Krut) | Michael Krautwald | Tbilisi, Georgia | 12,892 |
-| 13 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
-| 14 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | Tbilisi, Georgia | 12,539 |
-| 15 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
-| 16 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 12,412 |
-| 17 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov | Tbilisi, Georgia | 11,934 |
-| 18 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
-| 19 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Tbilisi, Georgia | 11,295 |
-| 20 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 11,195 |
+| 13 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov | Georgia | 12,796 |
+| 14 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
+| 15 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | Tbilisi, Georgia | 12,539 |
+| 16 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
+| 17 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 12,412 |
+| 18 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov | Tbilisi, Georgia | 11,934 |
+| 19 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
+| 20 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Tbilisi, Georgia | 11,295 |
 
 ## Public Contributions
 
@@ -39,9 +39,9 @@ Indexed users: 6,867
 |---:|---|---|---|---:|
 | 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 14,808 |
 | 2 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 13,900 |
-| 3 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 11,296 |
-| 4 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 8,922 |
-| 5 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov | Georgia | 8,274 |
+| 3 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov | Georgia | 12,796 |
+| 4 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 11,296 |
+| 5 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 8,922 |
 | 6 | [Jacoba1100254352](https://github.com/Jacoba1100254352) | Jacob Anderson | Georgia | 7,658 |
 | 7 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze | Georgia | 7,088 |
 | 8 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski | Batumi, Georgia | 4,735 |
@@ -83,4 +83,4 @@ Indexed users: 6,867
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-23T19:38:11.736Z
+Generated: 2026-10-23T20:35:51.507Z

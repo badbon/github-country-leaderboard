@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-23T19:34:34.693Z
+Generated: 2026-10-23T20:39:51.423Z
 
 Users: 726
 
@@ -19,7 +19,7 @@ Users: 726
 | 11 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |
 | 12 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 828 |
 | 13 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 788 |
-| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 765 |
+| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 759 |
 | 15 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 733 |
 | 16 | [FahadIqbal1122](https://github.com/FahadIqbal1122) | fahad |  |  | Bahrain | 703 |
 | 17 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 678 |

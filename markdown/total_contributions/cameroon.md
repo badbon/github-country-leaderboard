@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-23T19:37:34.736Z
+Generated: 2026-10-23T20:44:59.860Z
 
 Users: 1794
 
@@ -15,8 +15,8 @@ Users: 1794
 | 7 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 10041 |
 | 8 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 9960 |
 | 9 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Leshey Digital |  | Yaounde, Cameroon | 9114 |
-| 10 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 8187 |
-| 11 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 7985 |
+| 10 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 8554 |
+| 11 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 8187 |
 | 12 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | @veridyl | elroykanye | Yaoundé, Cameroon | 7877 |
 | 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 7534 |
 | 14 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 6806 |
