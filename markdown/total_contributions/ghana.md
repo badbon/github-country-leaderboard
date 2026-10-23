@@ -1,6 +1,6 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-23T13:09:06.360Z
+Generated: 2026-10-23T14:12:52.465Z
 
 Users: 7072
 
@@ -15,11 +15,11 @@ Users: 7072
 | 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 15891 |
 | 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | PragmaHealth LLC | cannymirah | Accra, Ghana | 15633 |
 | 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 14507 |
-| 10 | [bograh](https://github.com/bograh) | Bernard Ograh |  | ograh_ | Ghana | 12472 |
-| 11 | [codewithcobby](https://github.com/codewithcobby) | Frank K. Abrokwa |  | codewithcobby | Accra, Ghana | 10880 |
-| 12 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
-| 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 10581 |
-| 14 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 10142 |
+| 10 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Piply |  | Accra, Ghana | 13550 |
+| 11 | [bograh](https://github.com/bograh) | Bernard Ograh |  | ograh_ | Ghana | 12472 |
+| 12 | [codewithcobby](https://github.com/codewithcobby) | Frank K. Abrokwa |  | codewithcobby | Accra, Ghana | 10880 |
+| 13 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |
+| 14 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 10581 |
 | 15 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 9624 |
 | 16 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani |  | AliuTijani21 | Ghana | 9365 |
 | 17 | [evansachie](https://github.com/evansachie) | Evans Acheampong |  |  | Accra, Ghana | 9348 |

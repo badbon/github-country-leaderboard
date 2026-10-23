@@ -27,8 +27,8 @@ Indexed users: 2,230
 | 13 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 6,926 |
 | 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,771 |
 | 15 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,697 |
-| 16 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 6,641 |
-| 17 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,556 |
+| 16 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,556 |
+| 17 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 6,515 |
 | 18 | [NebuByte](https://github.com/NebuByte) | Ibrahim Mohammed | Baghdad | 6,246 |
 | 19 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,091 |
 | 20 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | Baghdad, Iraq | 6,013 |
@@ -43,7 +43,7 @@ Indexed users: 2,230
 | 4 | [tatsumoto-ren](https://github.com/tatsumoto-ren) | Ren Tatsumoto | Baghdad | 2,715 |
 | 5 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,167 |
 | 6 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,128 |
-| 7 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 1,630 |
+| 7 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 1,637 |
 | 8 | [mahmoodbashar08](https://github.com/mahmoodbashar08) | mahmood | iraq | 1,349 |
 | 9 | [Redo-San](https://github.com/Redo-San) | RedoSan | Iraq, Baghdad  | 1,232 |
 | 10 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Erbil, Iraq | 920 |
@@ -83,4 +83,4 @@ Indexed users: 2,230
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-23T13:13:51.200Z
+Generated: 2026-10-23T14:17:07.010Z

@@ -20,8 +20,8 @@ Indexed users: 86
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,474 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,396 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 989 |
-| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 967 |
-| 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 945 |
+| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 969 |
+| 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 946 |
 | 11 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 755 |
 | 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 707 |
 | 13 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
@@ -38,7 +38,7 @@ Indexed users: 86
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,396 |
-| 2 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 945 |
+| 2 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 946 |
 | 3 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 4 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 309 |
 | 5 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
@@ -50,7 +50,7 @@ Indexed users: 86
 | 11 | [ntxsay](https://github.com/ntxsay) | Loïc Bastaraud | Guadeloupe | 49 |
 | 12 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 48 |
 | 13 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
-| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 38 |
+| 14 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 39 |
 | 15 | [leho971](https://github.com/leho971) | ZOZO Léo | Guadeloupe | 36 |
 | 16 | [fixups](https://github.com/fixups) | Christophe Théron | Guadeloupe | 30 |
 | 17 | [Floraline](https://github.com/Floraline) | LAPITRE Anneflore | Guadeloupe | 28 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-23T13:10:00.743Z
+Generated: 2026-10-23T14:13:34.998Z

@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,271
+Indexed users: 1,270
 
 | Leaderboard | Link |
 |---|---|
@@ -52,11 +52,11 @@ Indexed users: 1,271
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 873 |
 | 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 838 |
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 747 |
-| 16 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 654 |
-| 17 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
+| 16 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 656 |
+| 17 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 654 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 635 |
 | 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
-| 20 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 616 |
+| 20 | [josephine-wolf-oberholtzer](https://github.com/josephine-wolf-oberholtzer) | Joséphine Wolf Oberholtzer | Kingston, New York | 621 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 96 |
 
-Generated: 2026-10-23T13:14:51.919Z
+Generated: 2026-10-23T14:19:18.622Z

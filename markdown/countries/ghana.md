@@ -21,11 +21,11 @@ Indexed users: 7,072
 | 7 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,891 |
 | 8 | [Gideon-Dadey](https://github.com/Gideon-Dadey) | Gideon Dadey | Accra, Ghana | 15,633 |
 | 9 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 14,507 |
-| 10 | [bograh](https://github.com/bograh) | Bernard Ograh | Ghana | 12,472 |
-| 11 | [codewithcobby](https://github.com/codewithcobby) | Frank K. Abrokwa | Accra, Ghana | 10,880 |
-| 12 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
-| 13 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 10,581 |
-| 14 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 10,142 |
+| 10 | [DreKwasi](https://github.com/DreKwasi) | Andrews Boateng | Accra, Ghana | 13,550 |
+| 11 | [bograh](https://github.com/bograh) | Bernard Ograh | Ghana | 12,472 |
+| 12 | [codewithcobby](https://github.com/codewithcobby) | Frank K. Abrokwa | Accra, Ghana | 10,880 |
+| 13 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
+| 14 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 10,581 |
 | 15 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 9,624 |
 | 16 | [Aliu2211](https://github.com/Aliu2211) | Aliu Tijani | Ghana | 9,365 |
 | 17 | [evansachie](https://github.com/evansachie) | Evans Acheampong | Accra, Ghana | 9,348 |
@@ -83,4 +83,4 @@ Indexed users: 7,072
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-23T13:09:06.360Z
+Generated: 2026-10-23T14:12:52.465Z

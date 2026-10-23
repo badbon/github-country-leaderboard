@@ -12,15 +12,15 @@ Indexed users: 36
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 3,120 |
+| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 3,123 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,221 |
-| 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 282 |
-| 4 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander | Elizabethberg, French Guiana | 206 |
+| 3 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander | Elizabethberg, French Guiana | 285 |
+| 4 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 282 |
 | 5 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 6 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 92 |
 | 7 | [drainerw](https://github.com/drainerw) |  | French Guiana | 81 |
 | 8 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 79 |
-| 9 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 74 |
+| 9 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 76 |
 | 10 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 41 |
 | 11 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
 | 12 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME |  French Guiana | 21 |
@@ -37,10 +37,10 @@ Indexed users: 36
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander | Elizabethberg, French Guiana | 206 |
+| 1 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander | Elizabethberg, French Guiana | 285 |
 | 2 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 3 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 79 |
-| 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 74 |
+| 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 76 |
 | 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 64 |
 | 6 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 41 |
 | 7 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
@@ -83,4 +83,4 @@ Indexed users: 36
 | 19 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 3 |
 | 20 | [StephaneKourou](https://github.com/StephaneKourou) | StephaneKourou | Kourou, French Guiana | 3 |
 
-Generated: 2026-10-23T13:07:59.913Z
+Generated: 2026-10-23T14:10:50.899Z

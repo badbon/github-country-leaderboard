@@ -104,10 +104,10 @@ Published countries: 236
 | Iraq | 2,230 | [View](./iraq.md) |
 | Ireland | 19,484 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,415 | [View](./israel.md) |
-| Italy | 49,015 | [View](./italy.md) |
+| Israel | 12,414 | [View](./israel.md) |
+| Italy | 49,013 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
-| Jamaica | 1,271 | [View](./jamaica.md) |
+| Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 3,995 | [View](./jordan.md) |
 | Kazakhstan | 5,619 | [View](./kazakhstan.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T14:09:45.451Z
+Generated: 2026-10-23T14:20:24.384Z

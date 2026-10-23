@@ -1,20 +1,20 @@
 # Total Contributions - French Guiana
 
-Generated: 2026-10-23T13:07:59.913Z
+Generated: 2026-10-23T14:10:50.899Z
 
 Users: 36
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto |  | randyLunetto | French Amazonia (Guyane) | 3120 |
+| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto |  | randyLunetto | French Amazonia (Guyane) | 3123 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel |  |  | Guyane  | 1221 |
-| 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | @100Devs | ludoC0de | French Guiana | 282 |
-| 4 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander |  |  | Elizabethberg, French Guiana | 206 |
+| 3 | [highotutorn](https://github.com/highotutorn) | Dawn Alexander |  |  | Elizabethberg, French Guiana | 285 |
+| 4 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | @100Devs | ludoC0de | French Guiana | 282 |
 | 5 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS |  |  | Amandafurt, French Guiana | 135 |
 | 6 | [jjcabon](https://github.com/jjcabon) | JJCABON | EDUCATION NATIONALE |  | CAYENNE | 92 |
 | 7 | [drainerw](https://github.com/drainerw) |  |  |  | French Guiana | 81 |
 | 8 | [ginimod](https://github.com/ginimod) | GIni |  |  | Cayenne | 79 |
-| 9 | [Shyrka973](https://github.com/Shyrka973) |  |  |  | Kourou / French Guiana | 74 |
+| 9 | [Shyrka973](https://github.com/Shyrka973) |  |  |  | Kourou / French Guiana | 76 |
 | 10 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | IUT de Kourou |  | French Guiana | 41 |
 | 11 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE |  |  | Guyane (Saint-laurent-du-maroni) | 25 |
 | 12 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME | université de Guyane |  |  French Guiana | 21 |

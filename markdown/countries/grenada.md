@@ -74,13 +74,13 @@ Indexed users: 37
 | 10 | [ckpd](https://github.com/ckpd) | Charlie DeRiggs | Grenada | 5 |
 | 11 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 5 |
 | 12 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 5 |
-| 13 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 4 |
-| 14 | [Tisagh](https://github.com/Tisagh) | Tisagh Chase | Grenada | 4 |
-| 15 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 3 |
-| 16 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 3 |
-| 17 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Grenada | 3 |
-| 18 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 3 |
+| 13 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 4 |
+| 14 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 4 |
+| 15 | [Tisagh](https://github.com/Tisagh) | Tisagh Chase | Grenada | 4 |
+| 16 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 3 |
+| 17 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 3 |
+| 18 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Grenada | 3 |
 | 19 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 3 |
 | 20 | [OmariCelestine](https://github.com/OmariCelestine) | Omari Celestine | Grenada | 3 |
 
-Generated: 2026-10-23T13:09:57.117Z
+Generated: 2026-10-23T14:13:08.990Z
