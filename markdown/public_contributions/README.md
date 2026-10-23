@@ -208,9 +208,9 @@ Published countries: 236
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
 | Sweden | 39,026 | [View](./sweden.md) |
-| Switzerland | 24,069 | [View](./switzerland.md) |
+| Switzerland | 24,068 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
-| Taiwan | 21,993 | [View](./taiwan.md) |
+| Taiwan | 21,992 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,037 | [View](./tanzania.md) |
 | Thailand | 14,977 | [View](./thailand.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T13:42:30.351Z
+Generated: 2026-10-23T13:49:20.091Z

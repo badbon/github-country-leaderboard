@@ -1,6 +1,6 @@
 # Taiwan
 
-Indexed users: 21,993
+Indexed users: 21,992
 
 | Leaderboard | Link |
 |---|---|
@@ -13,12 +13,12 @@ Indexed users: 21,993
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [apan1121](https://github.com/apan1121) | Byron | Taipei, Taiwan | 64,092 |
-| 2 | [yarencheng](https://github.com/yarencheng) | Aren Chen | Taiwan | 43,163 |
-| 3 | [dennislee928](https://github.com/dennislee928) | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) | taipei | 38,977 |
-| 4 | [Chisanan232](https://github.com/Chisanan232) | Bryant | Taiwan, Taipei | 37,269 |
-| 5 | [ogvl](https://github.com/ogvl) |  | Taipei | 36,574 |
-| 6 | [Jacky97s](https://github.com/Jacky97s) | Jacky Tan | Taiwan | 34,429 |
-| 7 | [daiwanwei](https://github.com/daiwanwei) | daiwanwei | Taiwan | 30,661 |
+| 2 | [daiwanwei](https://github.com/daiwanwei) | daiwanwei | Taiwan | 45,220 |
+| 3 | [yarencheng](https://github.com/yarencheng) | Aren Chen | Taiwan | 43,163 |
+| 4 | [dennislee928](https://github.com/dennislee928) | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) | taipei | 38,977 |
+| 5 | [Chisanan232](https://github.com/Chisanan232) | Bryant | Taiwan, Taipei | 37,269 |
+| 6 | [ogvl](https://github.com/ogvl) |  | Taipei | 36,574 |
+| 7 | [Jacky97s](https://github.com/Jacky97s) | Jacky Tan | Taiwan | 34,429 |
 | 8 | [BlackCat1968](https://github.com/BlackCat1968) | 玄貓 | Taipei | 25,305 |
 | 9 | [peter279k](https://github.com/peter279k) | Chun-Sheng, Li | Taipei, Taiwan | 23,987 |
 | 10 | [cyh7789](https://github.com/cyh7789) | Danny | Taiwan | 22,299 |
@@ -83,4 +83,4 @@ Indexed users: 21,993
 | 19 | [kaochenlong](https://github.com/kaochenlong) | Eddie Kao 高見龍 | Taiwan, Taipei | 1,655 |
 | 20 | [aaaddress1](https://github.com/aaaddress1) | Sheng-Hao Ma | Taiwan | 1,518 |
 
-Generated: 2026-10-22T22:22:35.407Z
+Generated: 2026-10-23T13:44:07.484Z

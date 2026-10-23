@@ -1,6 +1,6 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-23T12:43:33.720Z
+Generated: 2026-10-23T13:46:13.125Z
 
 Users: 7156
 
@@ -22,7 +22,7 @@ Users: 7156
 | 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
 | 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |
 | 16 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
-| 17 | [aliammari1](https://github.com/aliammari1) | Ali Ammari |  |  | Tunisia | 2370 |
-| 18 | [naderba69](https://github.com/naderba69) | nader bali |  | nader_bali | tunis | 2360 |
-| 19 | [Hiviexd](https://github.com/Hiviexd) | Hivie | @ppy  |  | Tunisia | 2312 |
+| 17 | [FindMalek](https://github.com/FindMalek) | Malek Gara-Hellal | @Jobflow-io | foundmalek | Tunisia, Monastir | 2385 |
+| 18 | [aliammari1](https://github.com/aliammari1) | Ali Ammari |  |  | Tunisia | 2370 |
+| 19 | [naderba69](https://github.com/naderba69) | nader bali |  | nader_bali | tunis | 2360 |
 | 20 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |

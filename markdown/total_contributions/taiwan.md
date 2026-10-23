@@ -1,18 +1,18 @@
 # Total Contributions - Taiwan
 
-Generated: 2026-10-22T22:22:35.407Z
+Generated: 2026-10-23T13:44:07.484Z
 
-Users: 21993
+Users: 21992
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [apan1121](https://github.com/apan1121) | Byron |  |  | Taipei, Taiwan | 64092 |
-| 2 | [yarencheng](https://github.com/yarencheng) | Aren Chen |  |  | Taiwan | 43163 |
-| 3 | [dennislee928](https://github.com/dennislee928) | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) | mitake.com.tw |  | taipei | 38977 |
-| 4 | [Chisanan232](https://github.com/Chisanan232) | Bryant | LINE corp. |  | Taiwan, Taipei | 37269 |
-| 5 | [ogvl](https://github.com/ogvl) |  |  |  | Taipei | 36574 |
-| 6 | [Jacky97s](https://github.com/Jacky97s) | Jacky Tan |  |  | Taiwan | 34429 |
-| 7 | [daiwanwei](https://github.com/daiwanwei) | daiwanwei |  |  | Taiwan | 30661 |
+| 2 | [daiwanwei](https://github.com/daiwanwei) | daiwanwei |  |  | Taiwan | 45220 |
+| 3 | [yarencheng](https://github.com/yarencheng) | Aren Chen |  |  | Taiwan | 43163 |
+| 4 | [dennislee928](https://github.com/dennislee928) | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) | mitake.com.tw |  | taipei | 38977 |
+| 5 | [Chisanan232](https://github.com/Chisanan232) | Bryant | LINE corp. |  | Taiwan, Taipei | 37269 |
+| 6 | [ogvl](https://github.com/ogvl) |  |  |  | Taipei | 36574 |
+| 7 | [Jacky97s](https://github.com/Jacky97s) | Jacky Tan |  |  | Taiwan | 34429 |
 | 8 | [BlackCat1968](https://github.com/BlackCat1968) | 玄貓 |  |  | Taipei | 25305 |
 | 9 | [peter279k](https://github.com/peter279k) | Chun-Sheng, Li | Institute for Information Industry | peter279k | Taipei, Taiwan | 23987 |
 | 10 | [cyh7789](https://github.com/cyh7789) | Danny |  | hcytlog | Taiwan | 22299 |

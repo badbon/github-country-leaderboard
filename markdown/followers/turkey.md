@@ -1,6 +1,6 @@
 # Followers - Turkey
 
-Generated: 2026-10-23T12:43:36.550Z
+Generated: 2026-10-23T13:46:40.504Z
 
 Users: 79159
 

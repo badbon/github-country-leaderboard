@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-23T12:40:22.896Z
+Generated: 2026-10-23T13:43:29.060Z
 
 Users: 1478
 
@@ -24,5 +24,5 @@ Users: 1478
 | 16 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 1007 |
 | 17 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout |  |  | Syria | 918 |
 | 18 | [zaher](https://github.com/zaher) | Zaher Dirkey | Creative Solutions | zaherdirkey | Damascus, Syria | 884 |
-| 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH |  |  | Syria | 825 |
-| 20 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 816 |
+| 19 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 816 |
+| 20 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH |  |  | Syria | 805 |
