@@ -14,7 +14,7 @@ Indexed users: 61
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 14,675 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 10,334 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,800 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,827 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,309 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,294 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,263 |
@@ -54,8 +54,8 @@ Indexed users: 61
 | 15 | [salugea](https://github.com/salugea) | Salugea | San Marino | 44 |
 | 16 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 38 |
 | 17 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 37 |
-| 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | San Marino | 35 |
-| 19 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 32 |
+| 18 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 36 |
+| 19 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | San Marino | 35 |
 | 20 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 29 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
 
-Generated: 2026-10-23T22:24:26.240Z
+Generated: 2026-10-23T23:35:48.098Z

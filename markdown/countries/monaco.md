@@ -16,7 +16,7 @@ Indexed users: 142
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,107 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,906 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,761 |
-| 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,926 |
+| 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,949 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,721 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,271 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,143 |
@@ -26,7 +26,7 @@ Indexed users: 142
 | 12 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 628 |
 | 13 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 579 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 557 |
-| 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 417 |
+| 15 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 432 |
 | 16 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 362 |
 | 17 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 360 |
 | 18 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 277 |
@@ -39,9 +39,9 @@ Indexed users: 142
 |---:|---|---|---|---:|
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 3,581 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,477 |
-| 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,666 |
+| 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,672 |
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 579 |
-| 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 241 |
+| 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 248 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 171 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 146 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-23T22:13:54.819Z
+Generated: 2026-10-23T23:24:15.287Z

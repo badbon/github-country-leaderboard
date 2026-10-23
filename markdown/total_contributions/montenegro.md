@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-23T22:14:01.979Z
+Generated: 2026-10-23T23:24:25.730Z
 
 Users: 887
 
@@ -17,11 +17,11 @@ Users: 887
 | 9 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 6218 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 6057 |
 | 11 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5856 |
-| 12 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 5703 |
-| 13 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5629 |
-| 14 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5564 |
-| 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 5524 |
-| 16 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic |  |  | Podgorica | 4996 |
+| 12 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic |  |  | Podgorica | 5728 |
+| 13 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 5703 |
+| 14 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5629 |
+| 15 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5564 |
+| 16 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 5524 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4970 |
 | 18 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Kayama D.O.O. |  | Montenegro | 4714 |
 | 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 4571 |

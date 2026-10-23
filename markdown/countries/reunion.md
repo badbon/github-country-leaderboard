@@ -17,7 +17,7 @@ Indexed users: 212
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,363 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 4,195 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,586 |
-| 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,955 |
+| 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 3,019 |
 | 7 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,725 |
 | 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,461 |
 | 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,417 |
@@ -25,7 +25,7 @@ Indexed users: 212
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 2,046 |
 | 12 | [John361](https://github.com/John361) | John | Réunion | 2,023 |
 | 13 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 1,961 |
-| 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,892 |
+| 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,947 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,804 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,729 |
 | 17 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,716 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-23T22:22:28.056Z
+Generated: 2026-10-23T23:33:10.424Z

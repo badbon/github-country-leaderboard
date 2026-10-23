@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-23T22:13:57.353Z
+Generated: 2026-10-23T23:24:19.816Z
 
 Users: 804
 
@@ -9,7 +9,7 @@ Users: 804
 | 1 | [themuuln](https://github.com/themuuln) | themuuln |  |  | Ulaanbaatar, Mongolia | 560205 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 92289 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 18377 |
-| 4 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 12172 |
+| 4 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 12462 |
 | 5 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs |  |  | Ulan Bator | 11863 |
 | 6 | [baysaa006](https://github.com/baysaa006) |  |  |  | Mongolia. | 11257 |
 | 7 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 10992 |
@@ -25,4 +25,4 @@ Users: 804
 | 17 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4966 |
 | 18 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
 | 19 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4739 |
-| 20 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4164 |
+| 20 | [TuguldurJ](https://github.com/TuguldurJ) | Tuguldur | Topoptin |  | Mongolia, Ulaanbaatar | 4216 |

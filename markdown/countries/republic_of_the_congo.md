@@ -12,7 +12,7 @@ Indexed users: 297
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,930 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 12,039 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,818 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,132 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 4,052 |
@@ -22,7 +22,7 @@ Indexed users: 297
 | 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 3,201 |
 | 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,990 |
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,971 |
-| 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,956 |
+| 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,952 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,487 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,356 |
 | 14 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,305 |
@@ -71,7 +71,7 @@ Indexed users: 297
 | 7 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Congo Brazzaville | 76 |
 | 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 73 |
 | 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 68 |
-| 10 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude | Brazzaville, Republic Of CONGO | 64 |
+| 10 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude | Brazzaville, Republic Of CONGO | 65 |
 | 11 | [herilion](https://github.com/herilion) | Heritier Lionge | Goma, Congo | 48 |
 | 12 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 45 |
 | 13 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 41 |
@@ -83,4 +83,4 @@ Indexed users: 297
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 26 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Congo | 23 |
 
-Generated: 2026-10-23T22:22:22.592Z
+Generated: 2026-10-23T23:33:06.304Z

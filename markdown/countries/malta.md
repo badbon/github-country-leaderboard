@@ -29,9 +29,9 @@ Indexed users: 1,223
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,041 |
 | 16 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici | Malta | 6,849 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
-| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,964 |
-| 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,827 |
-| 20 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Malta | 5,757 |
+| 18 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Malta | 6,169 |
+| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,964 |
+| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,827 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-23T22:11:38.218Z
+Generated: 2026-10-23T23:20:30.367Z

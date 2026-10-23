@@ -1,6 +1,6 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-23T22:22:22.592Z
+Generated: 2026-10-23T23:33:06.304Z
 
 Users: 297
 
@@ -15,7 +15,7 @@ Users: 297
 | 7 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Triinfinity |  | Congo Brazzaville | 76 |
 | 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 73 |
 | 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Dream of drc | RogerPatrona | Congo | 68 |
-| 10 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude |  | yethstack | Brazzaville, Republic Of CONGO | 64 |
+| 10 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude |  | yethstack | Brazzaville, Republic Of CONGO | 65 |
 | 11 | [herilion](https://github.com/herilion) | Heritier Lionge | SMICO SA | HeritierLionge | Goma, Congo | 48 |
 | 12 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Fnstack |  | Brazzaville (CONGO) | 45 |
 | 13 | [lingabo](https://github.com/lingabo) | Lingabo Junior |  | juniorlingabo1 | Congo | 41 |

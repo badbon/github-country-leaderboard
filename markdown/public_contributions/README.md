@@ -52,7 +52,7 @@ Published countries: 236
 | Colombia | 29,144 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
-| Costa Rica | 5,625 | [View](./costa_rica.md) |
+| Costa Rica | 5,626 | [View](./costa_rica.md) |
 | Croatia | 5,416 | [View](./croatia.md) |
 | Cuba | 1,272 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
@@ -68,7 +68,7 @@ Published countries: 236
 | El Salvador | 2,378 | [View](./el_salvador.md) |
 | Equatorial Guinea | 20 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
-| Estonia | 4,895 | [View](./estonia.md) |
+| Estonia | 4,896 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
 | Ethiopia | 6,664 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
@@ -143,17 +143,17 @@ Published countries: 236
 | Mongolia | 804 | [View](./mongolia.md) |
 | Montenegro | 887 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,607 | [View](./morocco.md) |
+| Morocco | 9,606 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
 | Myanmar | 2,055 | [View](./myanmar.md) |
 | Namibia | 474 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
-| Nepal | 14,090 | [View](./nepal.md) |
+| Nepal | 14,089 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
 | New Zealand | 12,135 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
-| Nigeria | 33,171 | [View](./nigeria.md) |
+| Nigeria | 33,170 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
@@ -170,7 +170,7 @@ Published countries: 236
 | Peru | 9,760 | [View](./peru.md) |
 | Philippines | 19,743 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Poland | 58,092 | [View](./poland.md) |
+| Poland | 58,091 | [View](./poland.md) |
 | Portugal | 28,428 | [View](./portugal.md) |
 | Puerto Rico | 1,530 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T23:17:05.891Z
+Generated: 2026-10-23T23:37:12.959Z

@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-23T22:11:38.218Z
+Generated: 2026-10-23T23:20:30.367Z
 
 Users: 1223
 
@@ -23,6 +23,6 @@ Users: 1223
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7041 |
 | 16 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici |  |  | Malta | 6849 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6252 |
-| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5964 |
-| 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5827 |
-| 20 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Wildz Gorup |  | Malta | 5757 |
+| 18 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Wildz Gorup |  | Malta | 6169 |
+| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5964 |
+| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5827 |

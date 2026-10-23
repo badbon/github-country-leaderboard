@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-23T22:22:28.056Z
+Generated: 2026-10-23T23:33:10.424Z
 
 Users: 212
 
@@ -11,7 +11,7 @@ Users: 212
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | DigiKaizen |  | Saint-Denis | 6363 |
 | 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 4195 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3586 |
-| 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2955 |
+| 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 3019 |
 | 7 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2725 |
 | 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2461 |
 | 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2417 |
@@ -19,7 +19,7 @@ Users: 212
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2046 |
 | 12 | [John361](https://github.com/John361) | John |  |  | Réunion | 2023 |
 | 13 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 1961 |
-| 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1892 |
+| 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1947 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1804 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1729 |
 | 17 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1716 |
