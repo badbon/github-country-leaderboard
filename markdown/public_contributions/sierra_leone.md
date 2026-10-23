@@ -1,6 +1,6 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-23T17:58:24.851Z
+Generated: 2026-10-23T19:13:43.784Z
 
 Users: 442
 
@@ -18,10 +18,10 @@ Users: 442
 | 10 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Johnny-Tech  |  | Freetown Sierra Leone  | 769 |
 | 11 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Safetysphere |  | Freetown, Sierra Leone | 533 |
 | 12 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 492 |
-| 13 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | CodeZerra | JosephLahaiKan3 | Freetown, Sierra Leone. | 417 |
-| 14 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 404 |
-| 15 | [Barrie20](https://github.com/Barrie20) | Alpha Yerroh Barrie |  | Yerrohbarrie06 | Sierra Leone , West Africa | 394 |
-| 16 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Dot Portal | SUBiango | Sierra Leone | 385 |
+| 13 | [SUBiango](https://github.com/SUBiango) | UMARU SAHR BIANGO | Dot Portal | SUBiango | Sierra Leone | 429 |
+| 14 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | CodeZerra | JosephLahaiKan3 | Freetown, Sierra Leone. | 417 |
+| 15 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 404 |
+| 16 | [Barrie20](https://github.com/Barrie20) | Alpha Yerroh Barrie |  | Yerrohbarrie06 | Sierra Leone , West Africa | 394 |
 | 17 | [konneh-hub](https://github.com/konneh-hub) | Mohamed Kortu Konneh |  |  | Sierra Leone | 359 |
 | 18 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Dev-Link  |  | Sierra Leone  | 316 |
 | 19 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh |  | _david_conteh | Freetown, SierraLeone | 252 |
