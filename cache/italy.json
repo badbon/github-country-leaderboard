@@ -2264,7 +2264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 296,
     "createdAt": "2026-03-29T17:10:54Z"
   },
   {
@@ -2276,7 +2276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 379,
+    "publicContributions": 440,
     "createdAt": "2026-03-01T13:41:28Z"
   },
   {
@@ -2298,9 +2298,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 28,
     "createdAt": "2026-04-28T19:35:58Z"
   },
   {
@@ -2316,18 +2316,6 @@
     "createdAt": "2026-04-29T08:14:39Z"
   },
   {
-    "login": "giovanni-biancoo",
-    "name": "Giovanni Bianco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264868533?s=72&u=0776c3772dd2d15d5c7be3caf8f5728ccda539bc&v=4",
-    "location": "Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2026-03-01T21:22:33Z"
-  },
-  {
     "login": "avoidquest",
     "name": "Avoid Quest",
     "avatarUrl": "https://avatars.githubusercontent.com/u/267952578?s=72&u=d5293af542f72410a4d0189d0efe1199f484ca15&v=4",
@@ -2336,7 +2324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 45,
     "createdAt": "2026-03-13T13:45:57Z"
   },
   {
@@ -2358,7 +2346,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 114,
     "publicContributions": 15,
     "createdAt": "2026-01-27T14:12:06Z"
@@ -2371,21 +2359,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 632,
+    "privateContributions": 653,
     "publicContributions": 1,
     "createdAt": "2026-01-21T17:39:13Z"
-  },
-  {
-    "login": "Microindustry",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256721587?s=72&v=4",
-    "location": "Milano, Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 664,
-    "createdAt": "2026-01-23T05:57:52Z"
   },
   {
     "login": "mxrcyhack",
@@ -2396,7 +2372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2026-01-25T12:18:08Z"
   },
   {
@@ -2406,9 +2382,9 @@
     "location": "Cagliari, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 238,
     "createdAt": "2026-03-22T13:10:05Z"
   },
   {
@@ -2450,13 +2426,13 @@
   {
     "login": "martinacssll",
     "name": "Martina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283123970?s=72&u=5b3390082de080fac8b828f773cf436b543ac065&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283123970?s=72&u=9089e2f017b1300413b5415fe2a7be89cc5e2bf6&v=4",
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 45,
     "createdAt": "2026-05-09T09:29:53Z"
   },
   {
@@ -2468,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 76,
     "createdAt": "2026-02-04T23:05:33Z"
   },
   {
@@ -2478,22 +2454,10 @@
     "location": "Italy",
     "company": "3g Innovation Technology",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 743,
+    "publicContributions": 848,
     "createdAt": "2026-04-24T13:54:16Z"
-  },
-  {
-    "login": "giorgiomorelligozzo",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264371927?s=72&v=4",
-    "location": "Torino, italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-27T09:25:18Z"
   },
   {
     "login": "madonnaLeonardoDev",

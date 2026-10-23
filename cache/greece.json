@@ -46579,7 +46579,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 212,
+    "privateContributions": 121,
     "publicContributions": 2,
     "createdAt": "2021-09-06T12:26:39Z"
   },
@@ -46592,7 +46592,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 64,
     "createdAt": "2021-12-05T15:38:14Z"
   },
   {
@@ -46603,7 +46603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2147,
+    "privateContributions": 2943,
     "publicContributions": 0,
     "createdAt": "2021-11-29T15:52:26Z"
   },
@@ -46652,7 +46652,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 18,
     "createdAt": "2021-10-23T10:19:33Z"
   },
   {
@@ -46675,8 +46675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
-    "publicContributions": 2,
+    "privateContributions": 16,
+    "publicContributions": 3,
     "createdAt": "2021-10-15T18:47:30Z"
   },
   {
@@ -46736,7 +46736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-12-11T09:19:18Z"
   },
   {
@@ -46756,11 +46756,11 @@
     "name": "Stavros Vlachakis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89769224?s=72&u=a69a5d8ea4a05af06905e66b814f90825174ab20&v=4",
     "location": "Athens, Greece",
-    "company": "Nethermind",
+    "company": "@NethermindEth",
     "twitterUsername": "svlachakis_",
-    "followers": 2,
-    "privateContributions": 426,
-    "publicContributions": 1505,
+    "followers": 4,
+    "privateContributions": 558,
+    "publicContributions": 2589,
     "createdAt": "2021-08-30T07:08:39Z"
   },
   {
