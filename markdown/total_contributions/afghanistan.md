@@ -1,6 +1,6 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-23T05:32:04.484Z
+Generated: 2026-10-23T06:39:33.780Z
 
 Users: 1489
 
@@ -17,7 +17,7 @@ Users: 1489
 | 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Baheer Group |  | Kabul, Afghanistan | 9433 |
 | 10 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 7605 |
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7541 |
-| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | @Daktilo-CMS | Mustafa_Zahedi2 | Herat, Afghanistan | 6684 |
+| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | @Daktilo-CMS | Mustafa_Zahedi2 | Herat, Afghanistan | 6630 |
 | 13 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 6534 |
 | 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 6073 |
 | 15 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri |  |  | Afghanistan | 5973 |

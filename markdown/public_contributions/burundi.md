@@ -1,6 +1,6 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-23T05:40:07.229Z
+Generated: 2026-10-23T06:48:08.493Z
 
 Users: 235
 
@@ -8,11 +8,11 @@ Users: 235
 |---:|---|---|---|---|---|---:|
 | 1 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1719 |
 | 2 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1662 |
-| 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 657 |
+| 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 656 |
 | 4 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 474 |
 | 5 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana |  | AdnesNdiku10883 | Burundi | 460 |
-| 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev |  |  | Burundi | 431 |
-| 7 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | @uhuru-Market  |  | burundi | 427 |
+| 6 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | @uhuru-Market  |  | burundi | 432 |
+| 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev |  |  | Burundi | 431 |
 | 8 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 406 |
 | 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 312 |
 | 10 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel |  | AndyHabyarimana | Gitega, Burundi  | 280 |

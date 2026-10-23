@@ -43,7 +43,7 @@ Indexed users: 3,297
 | 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 4,007 |
 | 5 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo | Dominican Republic | 3,364 |
 | 6 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega | Santo Domingo, Dominican Republic | 3,038 |
-| 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz | Dominican Republic | 2,552 |
+| 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz | Dominican Republic | 2,497 |
 | 8 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 2,275 |
 | 9 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 2,125 |
 | 10 | [XavielT](https://github.com/XavielT) | Xaviel Terrero | Dominican Republic | 2,117 |
@@ -83,4 +83,4 @@ Indexed users: 3,297
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-23T05:45:26.003Z
+Generated: 2026-10-23T06:53:08.495Z

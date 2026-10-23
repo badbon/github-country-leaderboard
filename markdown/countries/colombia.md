@@ -15,8 +15,8 @@ Indexed users: 29,148
 | 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | Colombia | 166,513 |
 | 2 | [fnsalinas](https://github.com/fnsalinas) | Fabio Nelson Salinas Moreno | Colombia | 39,516 |
 | 3 | [fbetancourtc](https://github.com/fbetancourtc) | Felipe  | Bogotá D.C. - Colombia | 27,117 |
-| 4 | [Jorge-Otalvaro](https://github.com/Jorge-Otalvaro) | Jorge Otalvaro | Colombia | 21,715 |
-| 5 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto | Bogota, Colombia | 19,198 |
+| 4 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto | Bogota, Colombia | 21,798 |
+| 5 | [Jorge-Otalvaro](https://github.com/Jorge-Otalvaro) | Jorge Otalvaro | Colombia | 21,715 |
 | 6 | [rogertovalle](https://github.com/rogertovalle) | Rogert Ovalle | Bogotá, Colombia | 17,540 |
 | 7 | [JorgitoR](https://github.com/JorgitoR) | Jorgito | Colombia | 16,142 |
 | 8 | [danyel117](https://github.com/danyel117) | Daniel Saldarriaga López | Colombia | 16,058 |
@@ -38,7 +38,7 @@ Indexed users: 29,148
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | Colombia | 36,128 |
-| 2 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto | Bogota, Colombia | 15,057 |
+| 2 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto | Bogota, Colombia | 16,263 |
 | 3 | [mikerb95](https://github.com/mikerb95) | Mike Rodriguez | Bogotá, Colombia. | 11,177 |
 | 4 | [DLozanoNavas](https://github.com/DLozanoNavas) | Daniel Lozano Navas | Medellín, Colombia | 8,644 |
 | 5 | [johnny4young](https://github.com/johnny4young) | Johnny IV Young Ospino | Medellín, Colombia | 6,626 |
@@ -83,4 +83,4 @@ Indexed users: 29,148
 | 19 | [goanpeca](https://github.com/goanpeca) | Gonzalo Peña-Castellanos | Bogotá, Colombia | 530 |
 | 20 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 529 |
 
-Generated: 2026-10-23T05:42:50.024Z
+Generated: 2026-10-23T06:50:33.579Z

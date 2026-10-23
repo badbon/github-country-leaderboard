@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-23T05:36:43.991Z
+Generated: 2026-10-23T06:45:24.070Z
 
 Users: 471
 
@@ -11,7 +11,7 @@ Users: 471
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  |  | alla_xavier | Benin 🇧🇯 | 441 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 240 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | @lixalistudio @lixalistudio-oss | elikemmedehou | Cotonou, Benin | 231 |
-| 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Xandrotech | XTech26551 | Benin | 138 |
+| 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Xandrotech | XTech26551 | Benin | 137 |
 | 7 | [florentak](https://github.com/florentak) | Florent Ayidedji |  |  | Cotonou, Littoral, Benin | 129 |
 | 8 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 113 |
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO |  |  | Benin | 110 |

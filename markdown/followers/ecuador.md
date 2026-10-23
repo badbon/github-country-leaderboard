@@ -1,6 +1,6 @@
 # Followers - Ecuador
 
-Generated: 2026-10-23T05:45:37.593Z
+Generated: 2026-10-23T06:54:30.841Z
 
 Users: 4874
 
@@ -15,7 +15,7 @@ Users: 4874
 | 7 | [danielaltamirano1993](https://github.com/danielaltamirano1993) | danielaltamiranoborja | Back-end and Front-end Developer  |  | Ecuador-Pichincha-Quito | 503 |
 | 8 | [eythaann](https://github.com/eythaann) | Eythan David | @Seelen-Corp |  | Ecuador | 396 |
 | 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano |  |  | Ecuador | 336 |
-| 10 | [darwin-morocho](https://github.com/darwin-morocho) | Darwin Morocho |  |  | Ecuador | 310 |
+| 10 | [darwin-morocho](https://github.com/darwin-morocho) | Darwin Morocho |  |  | Ecuador | 311 |
 | 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | DevCoreX | DevCoreX | Ecuador | 277 |
 | 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Cromewar |  | Ecuador | 247 |
 | 13 | [CondorCoders](https://github.com/CondorCoders) | Condor Coders |  |  | Ecuador | 224 |

@@ -12,7 +12,7 @@ Indexed users: 266
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 6,446 |
+| 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 6,880 |
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,104 |
 | 3 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 4,052 |
 | 4 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,645 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-23T05:38:23.041Z
+Generated: 2026-10-23T06:45:30.988Z

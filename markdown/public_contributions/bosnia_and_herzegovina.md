@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-23T05:38:47.842Z
+Generated: 2026-10-23T06:45:39.663Z
 
 Users: 2126
 
@@ -9,7 +9,7 @@ Users: 2126
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5608 |
 | 2 | [MaidCorbic](https://github.com/MaidCorbic) | Maid Čorbić | Foto Žunić Tuzla |  | Tuzla, Bosnia and Herzegovina | 3728 |
 | 3 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 3351 |
-| 4 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 3251 |
+| 4 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 3325 |
 | 5 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Horalix |  | Sarajevo | 2965 |
 | 6 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Circeus |  | Sarajevo / Bosnia and Herzegovina | 2805 |
 | 7 | [goran1010](https://github.com/goran1010) | Goran Jović |  |  | Banja Luka, Bosnia and Herzegovina | 2713 |
@@ -22,7 +22,7 @@ Users: 2126
 | 14 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1289 |
 | 15 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1109 |
 | 16 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1095 |
-| 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 970 |
+| 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 981 |
 | 18 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |
 | 19 | [hernad](https://github.com/hernad) | Ernad Husremović |  |  | Bosnia and Herzegovina, Sarajevo | 902 |
 | 20 | [new-AF](https://github.com/new-AF) | Abdullah Fatota |  |  | Sarajevo, BiH | 794 |

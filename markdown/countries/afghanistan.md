@@ -23,7 +23,7 @@ Indexed users: 1,489
 | 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 9,433 |
 | 10 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 7,605 |
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,541 |
-| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,684 |
+| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,630 |
 | 13 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 6,534 |
 | 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 6,073 |
 | 15 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri | Afghanistan | 5,973 |
@@ -53,7 +53,7 @@ Indexed users: 1,489
 | 14 | [MohammadNasirAriaee](https://github.com/MohammadNasirAriaee) | Mohammad Nasir Ariaee | Kabul, Afghanistan | 1,459 |
 | 15 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,273 |
 | 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,261 |
-| 17 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,259 |
+| 17 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,197 |
 | 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,106 |
 | 19 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,049 |
 | 20 | [sjdpluse](https://github.com/sjdpluse) | Sajad | Kabul, Afghanistan   | 1,020 |
@@ -83,4 +83,4 @@ Indexed users: 1,489
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-23T05:32:04.484Z
+Generated: 2026-10-23T06:39:33.780Z

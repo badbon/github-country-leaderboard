@@ -1,6 +1,6 @@
 # Total Contributions - Colombia
 
-Generated: 2026-10-23T05:42:50.024Z
+Generated: 2026-10-23T06:50:33.579Z
 
 Users: 29148
 
@@ -9,8 +9,8 @@ Users: 29148
 | 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | datasmarts.tech |  | Colombia | 166513 |
 | 2 | [fnsalinas](https://github.com/fnsalinas) | Fabio Nelson Salinas Moreno | HDI Seguros |  | Colombia | 39516 |
 | 3 | [fbetancourtc](https://github.com/fbetancourtc) | Felipe  | Liftit |  | Bogotá D.C. - Colombia | 27117 |
-| 4 | [Jorge-Otalvaro](https://github.com/Jorge-Otalvaro) | Jorge Otalvaro | Gerotac |  | Colombia | 21715 |
-| 5 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto |  |  | Bogota, Colombia | 19198 |
+| 4 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto |  |  | Bogota, Colombia | 21798 |
+| 5 | [Jorge-Otalvaro](https://github.com/Jorge-Otalvaro) | Jorge Otalvaro | Gerotac |  | Colombia | 21715 |
 | 6 | [rogertovalle](https://github.com/rogertovalle) | Rogert Ovalle | @Victoriia-co  |  | Bogotá, Colombia | 17540 |
 | 7 | [JorgitoR](https://github.com/JorgitoR) | Jorgito | DevDjango | JorgitoCode | Colombia | 16142 |
 | 8 | [danyel117](https://github.com/danyel117) | Daniel Saldarriaga López | Prevalentware |  | Colombia | 16058 |

@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-23T05:45:26.003Z
+Generated: 2026-10-23T06:53:08.495Z
 
 Users: 3297
 
@@ -12,7 +12,7 @@ Users: 3297
 | 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez |  |  | Dominican Republic | 4007 |
 | 5 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo |  |  | Dominican Republic | 3364 |
 | 6 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega |  |  | Santo Domingo, Dominican Republic | 3038 |
-| 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 2552 |
+| 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 2497 |
 | 8 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 2275 |
 | 9 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 2125 |
 | 10 | [XavielT](https://github.com/XavielT) | Xaviel Terrero |  |  | Dominican Republic | 2117 |

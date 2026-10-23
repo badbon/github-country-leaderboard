@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-23T05:39:38.029Z
+Generated: 2026-10-23T06:47:15.201Z
 
 Users: 254
 
@@ -8,11 +8,11 @@ Users: 254
 |---:|---|---|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5569 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 516 |
-| 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 339 |
-| 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 337 |
+| 3 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 337 |
+| 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 319 |
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 262 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan |  |  | Brunei | 148 |
-| 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 114 |
+| 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 112 |
 | 8 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 110 |
 | 9 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 110 |
 | 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 108 |

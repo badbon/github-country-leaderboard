@@ -31,7 +31,7 @@ Indexed users: 2,126
 | 17 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 5,332 |
 | 18 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,284 |
 | 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 4,899 |
-| 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 4,641 |
+| 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 4,750 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 2,126
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,608 |
 | 2 | [MaidCorbic](https://github.com/MaidCorbic) | Maid Čorbić | Tuzla, Bosnia and Herzegovina | 3,728 |
 | 3 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 3,351 |
-| 4 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 3,251 |
+| 4 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 3,325 |
 | 5 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Sarajevo | 2,965 |
 | 6 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 2,805 |
 | 7 | [goran1010](https://github.com/goran1010) | Goran Jović | Banja Luka, Bosnia and Herzegovina | 2,713 |
@@ -53,7 +53,7 @@ Indexed users: 2,126
 | 14 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,289 |
 | 15 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,109 |
 | 16 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,095 |
-| 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 970 |
+| 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 981 |
 | 18 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
 | 19 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 902 |
 | 20 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 794 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-23T05:38:47.842Z
+Generated: 2026-10-23T06:45:39.663Z

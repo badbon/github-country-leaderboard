@@ -1,13 +1,13 @@
 # Public Contributions - Colombia
 
-Generated: 2026-10-23T05:42:50.024Z
+Generated: 2026-10-23T06:50:33.579Z
 
 Users: 29148
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [jesus-a-martinez-v](https://github.com/jesus-a-martinez-v) | Jesús Martínez | datasmarts.tech |  | Colombia | 36128 |
-| 2 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto |  |  | Bogota, Colombia | 15057 |
+| 2 | [NietoDeveloper](https://github.com/NietoDeveloper) | Manuel Nieto |  |  | Bogota, Colombia | 16263 |
 | 3 | [mikerb95](https://github.com/mikerb95) | Mike Rodriguez | CodeByMike |  | Bogotá, Colombia. | 11177 |
 | 4 | [DLozanoNavas](https://github.com/DLozanoNavas) | Daniel Lozano Navas | @FenixAlliance | DLozanoNavas | Medellín, Colombia | 8644 |
 | 5 | [johnny4young](https://github.com/johnny4young) | Johnny IV Young Ospino |  | johnny4young | Medellín, Colombia | 6626 |

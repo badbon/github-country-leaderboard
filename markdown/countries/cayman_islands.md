@@ -14,23 +14,23 @@ Indexed users: 124
 |---:|---|---|---|---:|
 | 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,595 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | Cayman Islands | 8,010 |
-| 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 5,236 |
+| 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 5,246 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 3,765 |
 | 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | Cayman Islands | 3,419 |
-| 6 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 3,290 |
+| 6 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 3,300 |
 | 7 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Cayman Islands | 2,932 |
 | 8 | [shinchann221](https://github.com/shinchann221) | Paras Jain | Cayman Islands | 2,884 |
 | 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 2,559 |
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Cayman Islands | 2,363 |
-| 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper | Grand Cayman, Cayman Islands | 1,959 |
+| 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper | Grand Cayman, Cayman Islands | 1,966 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 1,510 |
 | 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison | Cayman Islands | 1,205 |
 | 14 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,104 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin | Cayman Islands | 1,058 |
-| 16 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,055 |
+| 16 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,049 |
 | 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 947 |
-| 18 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | Cayman Islands | 775 |
-| 19 | [alow](https://github.com/alow) | Amir | Cayman Islands | 703 |
+| 18 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | Cayman Islands | 776 |
+| 19 | [alow](https://github.com/alow) | Amir | Cayman Islands | 707 |
 | 20 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 693 |
 
 ## Public Contributions
@@ -40,7 +40,7 @@ Indexed users: 124
 | 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 1,819 |
 | 2 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 1,577 |
 | 3 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 1,065 |
-| 4 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,055 |
+| 4 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,049 |
 | 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | Cayman Islands | 793 |
 | 6 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Cayman Islands | 734 |
 | 7 | [krciga22](https://github.com/krciga22) | Andrew Forster | Cayman Islands | 462 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-23T05:41:42.461Z
+Generated: 2026-10-23T06:48:50.095Z
