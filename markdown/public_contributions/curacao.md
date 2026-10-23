@@ -1,13 +1,13 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-23T12:59:14.632Z
+Generated: 2026-10-23T14:01:00.193Z
 
 Users: 53
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3446 |
-| 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 508 |
+| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3458 |
+| 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 509 |
 | 3 | [JObersi10](https://github.com/JObersi10) |  | @Hack-Club-Curacao  |  | Willemstad, Curaçao | 508 |
 | 4 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 491 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |

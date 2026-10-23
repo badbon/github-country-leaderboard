@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-23T12:56:19.578Z
+Generated: 2026-10-23T13:58:28.053Z
 
 Users: 563
 
@@ -15,8 +15,8 @@ Users: 563
 | 7 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1846 |
 | 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1774 |
 | 9 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1432 |
-| 10 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1376 |
-| 11 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1375 |
+| 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1381 |
+| 11 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1376 |
 | 12 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1372 |
 | 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1252 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1234 |

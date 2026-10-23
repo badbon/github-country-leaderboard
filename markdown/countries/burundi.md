@@ -21,7 +21,7 @@ Indexed users: 235
 | 7 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,662 |
 | 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,576 |
 | 9 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,512 |
-| 10 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,484 |
+| 10 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,481 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,325 |
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,158 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,105 |
@@ -46,8 +46,8 @@ Indexed users: 235
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 431 |
 | 8 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 406 |
 | 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
-| 10 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 280 |
-| 11 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 266 |
+| 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 266 |
+| 11 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 246 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 229 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 201 |
 | 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 152 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-23T12:55:05.685Z
+Generated: 2026-10-23T13:57:37.132Z

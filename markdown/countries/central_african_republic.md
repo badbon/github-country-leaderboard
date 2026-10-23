@@ -12,10 +12,10 @@ Indexed users: 11
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,393 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,399 |
 | 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 1,105 |
 | 3 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 862 |
-| 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 438 |
+| 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 443 |
 | 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 227 |
 | 6 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel | Bangui, Central African Republic | 195 |
 | 7 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 42 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | Bangui, République Centrafricaine | 1 |
 | 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU | Bangui | 1 |
 
-Generated: 2026-10-23T12:56:32.099Z
+Generated: 2026-10-23T13:59:46.299Z

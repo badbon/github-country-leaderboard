@@ -29,9 +29,9 @@ Indexed users: 533
 | 15 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,034 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
 | 17 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,879 |
-| 18 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,650 |
+| 18 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,640 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,532 |
-| 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,483 |
+| 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,481 |
 
 ## Public Contributions
 
@@ -67,8 +67,8 @@ Indexed users: 533
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial | Gaborone, Botswana | 121 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 103 |
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 78 |
-| 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 75 |
-| 7 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 74 |
+| 6 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 74 |
+| 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 74 |
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. | Botswana | 68 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Palapye, Botswana | 64 |
 | 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 62 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-23T12:54:26.005Z
+Generated: 2026-10-23T13:56:59.218Z

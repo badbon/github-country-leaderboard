@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-23T12:49:27.854Z
+Generated: 2026-10-23T13:51:57.721Z
 
 Users: 1180
 
@@ -9,7 +9,7 @@ Users: 1180
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | @SisalSpA |  | Tirana, Albania | 3784 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Vibrance.al |  | Tirana, Albania | 1887 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku |  |  | Albania | 772 |
-| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker |  |  | Albania | 722 |
+| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker |  |  | Albania | 726 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Push-Based.io | enea_jahollari | Albania | 461 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara |  |  | Tirana, Albania | 234 |
 | 7 | [banago](https://github.com/banago) | Baki Goxhaj | WPlancer | banago | Vlorë, Albania | 157 |

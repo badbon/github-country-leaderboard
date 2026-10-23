@@ -21,8 +21,8 @@ Indexed users: 563
 | 7 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,846 |
 | 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,774 |
 | 9 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,432 |
-| 10 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,376 |
-| 11 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,375 |
+| 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,381 |
+| 11 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,376 |
 | 12 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,372 |
 | 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,252 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,234 |
@@ -81,6 +81,6 @@ Indexed users: 563
 | 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 61 |
 | 18 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 57 |
-| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
+| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 55 |
 
-Generated: 2026-10-23T12:56:19.578Z
+Generated: 2026-10-23T13:58:28.053Z

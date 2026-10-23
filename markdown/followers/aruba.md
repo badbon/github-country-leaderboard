@@ -1,6 +1,6 @@
 # Followers - Aruba
 
-Generated: 2026-10-23T12:51:30.302Z
+Generated: 2026-10-23T13:54:13.493Z
 
 Users: 37
 
@@ -14,8 +14,8 @@ Users: 37
 | 6 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 9 |
 | 7 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 9 |
 | 8 | [Rhynco297](https://github.com/Rhynco297) | Rhynco297 |  |  | Aruba | 9 |
-| 9 | [QVault](https://github.com/QVault) | Quincent |  |  | Aruba | 8 |
-| 10 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 7 |
+| 9 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 8 |
+| 10 | [QVault](https://github.com/QVault) | Quincent |  |  | Aruba | 8 |
 | 11 | [juntechpcaruba](https://github.com/juntechpcaruba) | Juny Engelhart (AWS Aruba) | ⟨Amazing Web Solutions Aruba⟩ | JWSARUBA | Aruba | 7 |
 | 12 | [orson1282](https://github.com/orson1282) | Orson |  |  | Aruba | 7 |
 | 13 | [ahagens](https://github.com/ahagens) | Andrew Hagens | SETAR N.V. |  | Oranjestad | 6 |

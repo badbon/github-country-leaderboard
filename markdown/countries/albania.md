@@ -27,7 +27,7 @@ Indexed users: 1,180
 | 13 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,609 |
 | 14 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,719 |
 | 15 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 4,656 |
-| 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,643 |
+| 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,633 |
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,609 |
 | 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,530 |
 | 19 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
@@ -65,7 +65,7 @@ Indexed users: 1,180
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,784 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,887 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 772 |
-| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 722 |
+| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 726 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 461 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 234 |
 | 7 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 157 |
@@ -83,4 +83,4 @@ Indexed users: 1,180
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-23T12:49:27.854Z
+Generated: 2026-10-23T13:51:57.721Z

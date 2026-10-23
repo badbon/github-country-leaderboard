@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-23T12:56:19.578Z
+Generated: 2026-10-23T13:58:28.053Z
 
 Users: 563
 
@@ -25,4 +25,4 @@ Users: 563
 | 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 61 |
 | 18 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo |  |  | Praia de Jatobá, SE - Brasil | 58 |
 | 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros |  |  | Praia, Cabo Verde | 57 |
-| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares |  |  | Cape Verde | 54 |
+| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares |  |  | Cape Verde | 55 |

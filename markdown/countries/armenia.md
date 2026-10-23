@@ -42,7 +42,7 @@ Indexed users: 4,022
 | 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Armenia | 6,295 |
 | 4 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 5,116 |
 | 5 | [i582](https://github.com/i582) | Petr Makhnev | Yerevan, Armenia | 5,084 |
-| 6 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,716 |
+| 6 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,708 |
 | 7 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 3,523 |
 | 8 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 3,378 |
 | 9 | [MikhailShostak](https://github.com/MikhailShostak) | Mikhail Shostak | Yerevan | 3,157 |
@@ -83,4 +83,4 @@ Indexed users: 4,022
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-23T12:51:26.714Z
+Generated: 2026-10-23T13:54:06.841Z

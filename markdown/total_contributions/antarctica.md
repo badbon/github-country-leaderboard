@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-23T12:50:08.103Z
+Generated: 2026-10-23T13:53:13.413Z
 
 Users: 460
 
@@ -9,8 +9,8 @@ Users: 460
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 6741 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 6404 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6032 |
-| 4 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 5534 |
-| 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 5419 |
+| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 5540 |
+| 5 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 5534 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 5129 |
 | 7 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 5113 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4789 |
@@ -21,7 +21,7 @@ Users: 460
 | 13 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3567 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3530 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3465 |
-| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3226 |
+| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 3292 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2723 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2617 |
 | 19 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2407 |

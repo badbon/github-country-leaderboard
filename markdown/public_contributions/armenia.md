@@ -1,6 +1,6 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-23T12:51:26.714Z
+Generated: 2026-10-23T13:54:06.841Z
 
 Users: 4022
 
@@ -11,7 +11,7 @@ Users: 4022
 | 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Freedx |  | Armenia | 6295 |
 | 4 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 5116 |
 | 5 | [i582](https://github.com/i582) | Petr Makhnev | TON Core | petr_makhneff | Yerevan, Armenia | 5084 |
-| 6 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov |  |  | Yerevan, Armenia | 3716 |
+| 6 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov |  |  | Yerevan, Armenia | 3708 |
 | 7 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 3523 |
 | 8 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | EasyDMARC |  | Armenia | 3378 |
 | 9 | [MikhailShostak](https://github.com/MikhailShostak) | Mikhail Shostak |  |  | Yerevan | 3157 |

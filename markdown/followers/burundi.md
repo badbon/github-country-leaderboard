@@ -1,6 +1,6 @@
 # Followers - Burundi
 
-Generated: 2026-10-23T12:55:05.685Z
+Generated: 2026-10-23T13:57:37.132Z
 
 Users: 235
 

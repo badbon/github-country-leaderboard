@@ -15,8 +15,8 @@ Indexed users: 460
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,741 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,404 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,032 |
-| 4 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
-| 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,419 |
+| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,540 |
+| 5 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,129 |
 | 7 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,113 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,789 |
@@ -27,7 +27,7 @@ Indexed users: 460
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,567 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,530 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,465 |
-| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,226 |
+| 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,292 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,723 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,617 |
 | 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,407 |
@@ -39,10 +39,10 @@ Indexed users: 460
 |---:|---|---|---|---:|
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,280 |
-| 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,544 |
+| 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,545 |
 | 4 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,245 |
-| 5 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,228 |
-| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,166 |
+| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,232 |
+| 6 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,228 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,186 |
 | 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,636 |
 | 9 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
@@ -56,7 +56,7 @@ Indexed users: 460
 | 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 475 |
 | 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 | 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 460 |
-| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 441 |
+| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 442 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-23T12:50:08.103Z
+Generated: 2026-10-23T13:53:13.413Z

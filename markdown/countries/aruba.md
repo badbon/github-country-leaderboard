@@ -70,8 +70,8 @@ Indexed users: 37
 | 6 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 9 |
 | 7 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 9 |
 | 8 | [Rhynco297](https://github.com/Rhynco297) | Rhynco297 | Aruba | 9 |
-| 9 | [QVault](https://github.com/QVault) | Quincent | Aruba | 8 |
-| 10 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 7 |
+| 9 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 8 |
+| 10 | [QVault](https://github.com/QVault) | Quincent | Aruba | 8 |
 | 11 | [juntechpcaruba](https://github.com/juntechpcaruba) | Juny Engelhart (AWS Aruba) | Aruba | 7 |
 | 12 | [orson1282](https://github.com/orson1282) | Orson | Aruba | 7 |
 | 13 | [ahagens](https://github.com/ahagens) | Andrew Hagens | Oranjestad | 6 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 | 20 | [JunyEngelhart](https://github.com/JunyEngelhart) | JunTech  (AWS Aruba) | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-23T12:51:30.302Z
+Generated: 2026-10-23T13:54:13.493Z

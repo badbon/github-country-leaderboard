@@ -13,14 +13,14 @@ Indexed users: 124
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,604 |
-| 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | Cayman Islands | 8,010 |
+| 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | Cayman Islands | 8,014 |
 | 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 5,246 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 3,765 |
 | 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | Cayman Islands | 3,419 |
 | 6 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 3,300 |
-| 7 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Cayman Islands | 2,932 |
+| 7 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Cayman Islands | 2,940 |
 | 8 | [shinchann221](https://github.com/shinchann221) | Paras Jain | Cayman Islands | 2,884 |
-| 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 2,559 |
+| 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 2,561 |
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Cayman Islands | 2,363 |
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper | Grand Cayman, Cayman Islands | 1,966 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 1,510 |
@@ -37,7 +37,7 @@ Indexed users: 124
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 1,819 |
+| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 1,821 |
 | 2 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 1,577 |
 | 3 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 1,065 |
 | 4 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,049 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-23T12:56:29.274Z
+Generated: 2026-10-23T13:59:42.937Z
