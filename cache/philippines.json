@@ -46242,9 +46242,9 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 75,
     "createdAt": "2023-05-10T15:37:49Z"
   },
   {
@@ -46255,8 +46255,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 35,
+    "privateContributions": 15,
+    "publicContributions": 104,
     "createdAt": "2023-03-25T06:49:41Z"
   },
   {
@@ -46278,7 +46278,7 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-22T06:09:07Z"
@@ -46290,9 +46290,9 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 31,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-01-16T13:26:00Z"
   },
   {
@@ -46327,8 +46327,8 @@
     "company": "Agile Data Solutions",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 9,
-    "publicContributions": 8,
+    "privateContributions": 51,
+    "publicContributions": 4,
     "createdAt": "2023-04-23T12:29:58Z"
   },
   {
@@ -46339,8 +46339,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2150,
-    "publicContributions": 298,
+    "privateContributions": 2982,
+    "publicContributions": 281,
     "createdAt": "2023-06-28T08:57:27Z"
   },
   {
@@ -46362,21 +46362,21 @@
     "location": "Philippines",
     "company": "Country Labs",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2023-04-08T14:04:47Z"
   },
   {
     "login": "hndrx67",
-    "name": "HendrixBrent",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127169300?s=72&u=10bcd5fd1f6216e58aba2eec3225d9229d5cd3e8&v=4",
+    "name": "hndrx",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127169300?s=72&u=f33a9be450197958309007ba236aad54e0d97d78&v=4",
     "location": "Philippines",
-    "company": "OPNSRC-HNDRX.org",
+    "company": "hndrx.org",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 251,
-    "publicContributions": 28,
+    "privateContributions": 203,
+    "publicContributions": 96,
     "createdAt": "2023-03-07T03:00:21Z"
   },
   {
@@ -46387,8 +46387,8 @@
     "company": "",
     "twitterUsername": "NewelleDev",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 60,
+    "privateContributions": 33,
+    "publicContributions": 103,
     "createdAt": "2023-03-10T04:23:29Z"
   },
   {
@@ -46399,8 +46399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 76,
-    "publicContributions": 162,
+    "privateContributions": 69,
+    "publicContributions": 92,
     "createdAt": "2023-02-08T00:17:58Z"
   },
   {
@@ -46411,8 +46411,8 @@
     "company": "Quezon City University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 21,
+    "privateContributions": 2,
+    "publicContributions": 131,
     "createdAt": "2023-02-13T08:06:42Z"
   },
   {
@@ -46428,18 +46428,6 @@
     "createdAt": "2015-11-27T01:59:14Z"
   },
   {
-    "login": "Lonewolfyyy",
-    "name": "Denmark Crisostomo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127328372?s=72&u=5638cd2daf7975f017eeeb4c34be4a6b51df2828&v=4",
-    "location": "Philippines",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 798,
-    "publicContributions": 0,
-    "createdAt": "2023-03-08T15:48:52Z"
-  },
-  {
     "login": "Meljiee",
     "name": "Lourenz Melge V. Sabellina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123956462?s=72&u=3643914b00dc76969abc6da6c47941e9af22a982&v=4",
@@ -46448,7 +46436,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 91,
     "createdAt": "2023-01-30T12:52:41Z"
   },
   {
@@ -46471,8 +46459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 124,
-    "publicContributions": 283,
+    "privateContributions": 174,
+    "publicContributions": 323,
     "createdAt": "2023-03-21T10:47:39Z"
   },
   {
@@ -161622,9 +161610,9 @@
     "location": "San Francisco, USA; Cebu, Philippines",
     "company": "Carnegie Mellon University",
     "twitterUsername": "gramliu",
-    "followers": 68,
-    "privateContributions": 5773,
-    "publicContributions": 226,
+    "followers": 76,
+    "privateContributions": 5468,
+    "publicContributions": 372,
     "createdAt": "2016-12-31T18:20:21Z"
   },
   {

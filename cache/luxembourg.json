@@ -20718,7 +20718,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2013-11-11T22:19:35Z"
@@ -20780,7 +20780,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 26,
     "createdAt": "2013-11-20T12:57:54Z"
   },
   {
@@ -20802,7 +20802,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-03-18T20:15:02Z"
@@ -20834,13 +20834,13 @@
   {
     "login": "tjisousa",
     "name": "Tiago Sousa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4227958?s=72&u=e4ad8e659208aa03dde4ef3c71804c7342aec160&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4227958?s=72&v=4",
     "location": "Luxembourg",
     "company": "",
-    "twitterUsername": "tjisousa",
+    "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2705,
-    "publicContributions": 18,
+    "privateContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2013-04-22T19:20:50Z"
   },
   {

@@ -14683,21 +14683,9 @@
     "company": "MSAS",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 538,
+    "privateContributions": 569,
     "publicContributions": 122,
     "createdAt": "2015-05-28T09:33:34Z"
-  },
-  {
-    "login": "mehdiayad",
-    "name": "Mehdi AYAD",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15776602?s=72&u=a7672d9c103f11bb4cdbf310aa9315baa83f2dda&v=4",
-    "location": "Dakar, Senegal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-11-10T10:37:38Z"
   },
   {
     "login": "programmerenc",
@@ -14827,7 +14815,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 1757,
+    "privateContributions": 1995,
     "publicContributions": 180,
     "createdAt": "2015-09-19T18:51:40Z"
   },
@@ -14839,7 +14827,7 @@
     "company": "Moussa Ndour",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 5768,
+    "privateContributions": 5879,
     "publicContributions": 38,
     "createdAt": "2015-07-01T12:01:32Z"
   },

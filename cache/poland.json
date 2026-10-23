@@ -2054,13 +2054,13 @@
   {
     "login": "monikazapisek",
     "name": "Monika Zapisek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256108575?s=72&u=44b210888c7e3c9a5c9986958dbdae632ec84730&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256108575?s=72&u=9ebfbc22438ff23088075b3e69de2e0a3602854b&v=4",
     "location": "Warsaw, Poland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 92,
     "createdAt": "2026-01-20T12:49:31Z"
   },
   {
@@ -2072,7 +2072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 115,
     "createdAt": "2026-04-17T23:17:16Z"
   },
   {
@@ -2106,9 +2106,9 @@
     "location": "Warsaw, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2026-02-17T19:15:56Z"
   },
   {
@@ -2186,10 +2186,10 @@
   {
     "login": "konradstachowski7",
     "name": "Konrad Stachowski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273145686?s=72&u=0b8649821be290237db6675d516d1f9067387899&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/273145686?s=72&u=88e74c30612dde25bff6595ef40162d1944f753a&v=4",
     "location": "Poland",
-    "company": "",
-    "twitterUsername": "",
+    "company": "@AEC",
+    "twitterUsername": "konradstech",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
@@ -2216,7 +2216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2025-12-30T10:46:45Z"
   },
   {
@@ -2228,7 +2228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 46,
     "createdAt": "2026-04-21T11:21:46Z"
   },
   {
@@ -2252,7 +2252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 132,
     "createdAt": "2026-03-09T17:38:06Z"
   },
   {
@@ -695974,5 +695974,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-04-08T20:22:10Z"
+  },
+  {
+    "login": "lyaciocarlia",
+    "name": "Iuliana Stecalovici",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109204977?s=72&u=51becb6dec68d834b4ef1dc45d4fd26ad4818a68&v=4",
+    "location": "Poznan",
+    "company": "Visa",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2022-07-13T07:15:47Z"
   }
 ]
