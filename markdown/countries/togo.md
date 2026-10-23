@@ -24,7 +24,7 @@ Indexed users: 677
 | 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,613 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,213 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 5,054 |
-| 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,514 |
+| 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,559 |
 | 14 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,509 |
 | 15 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 4,265 |
 | 16 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,143 |
@@ -39,7 +39,7 @@ Indexed users: 677
 |---:|---|---|---|---:|
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,345 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,645 |
-| 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,060 |
+| 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,055 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,297 |
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,184 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,944 |
@@ -83,4 +83,4 @@ Indexed users: 677
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-23T06:33:13.751Z
+Generated: 2026-10-23T07:42:03.477Z
