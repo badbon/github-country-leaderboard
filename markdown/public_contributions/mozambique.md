@@ -1,6 +1,6 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-23T19:01:23.303Z
+Generated: 2026-10-23T20:08:44.592Z
 
 Users: 1175
 
@@ -12,7 +12,7 @@ Users: 1175
 | 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 2338 |
 | 5 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | fluxosoftwares |  | Mozambique | 1473 |
 | 6 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | IPC Global Support Unit - FAO |  | Maputo | 1229 |
-| 7 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch |  | ubelloch | Mozambique, Maputo | 1075 |
+| 7 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch |  | ubelloch | Mozambique, Maputo | 1074 |
 | 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Zerosatus |  | Mozambique | 1015 |
 | 9 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | FDS | FilipeD30920066 | Mozambique | 972 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 769 |

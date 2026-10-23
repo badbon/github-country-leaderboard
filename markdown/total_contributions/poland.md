@@ -1,8 +1,8 @@
 # Total Contributions - Poland
 
-Generated: 2026-10-23T19:07:29.307Z
+Generated: 2026-10-23T20:14:13.509Z
 
-Users: 57999
+Users: 57997
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

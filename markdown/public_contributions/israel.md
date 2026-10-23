@@ -1,6 +1,6 @@
 # Public Contributions - Israel
 
-Generated: 2026-10-23T19:53:29.752Z
+Generated: 2026-10-23T20:08:31.354Z
 
 Users: 12414
 
@@ -20,7 +20,7 @@ Users: 12414
 | 12 | [veltzer](https://github.com/veltzer) | Mark Veltzer | GNU |  | Holon, Israel | 6740 |
 | 13 | [lirantal](https://github.com/lirantal) | Liran Tal | @snyk | liran_tal | Tel Aviv, Israel | 6163 |
 | 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Consultant, Trainer and Open Source developer |  | Modiin, Israel | 5823 |
-| 15 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | :( | alexander_akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 5499 |
+| 15 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | :( | alexander_akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 5560 |
 | 16 | [RonenMars](https://github.com/RonenMars) | Ronen Mars |  |  | Israel | 5228 |
 | 17 | [gkorland](https://github.com/gkorland) | Guy Korland | @FalkorDB | g_korland | Israel | 5206 |
 | 18 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel |  | kerbelp | Israel | 5166 |

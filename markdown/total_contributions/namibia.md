@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-23T19:01:31.129Z
+Generated: 2026-10-23T20:08:50.844Z
 
 Users: 474
 
@@ -24,5 +24,5 @@ Users: 474
 | 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2148 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 2143 |
 | 18 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | @ColabNam  |  | Namibia  | 2106 |
-| 19 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1940 |
+| 19 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1947 |
 | 20 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1814 |

@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-23T19:01:23.303Z
+Generated: 2026-10-23T20:08:44.592Z
 
 Users: 1175
 
@@ -22,7 +22,7 @@ Users: 1175
 | 14 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2872 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 2833 |
 | 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2822 |
-| 17 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2695 |
+| 17 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2649 |
 | 18 | [singelodux](https://github.com/singelodux) | Singelo Dux | Geek Verso |  | Maputo, Moçambique | 2596 |
 | 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2575 |
 | 20 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2530 |

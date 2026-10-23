@@ -53,8 +53,8 @@ Indexed users: 61
 | 14 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 44 |
 | 15 | [salugea](https://github.com/salugea) | Salugea | San Marino | 44 |
 | 16 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 38 |
-| 17 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | San Marino | 35 |
-| 18 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 34 |
+| 17 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 37 |
+| 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | San Marino | 35 |
 | 19 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 32 |
 | 20 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 29 |
 
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
 
-Generated: 2026-10-23T19:09:54.920Z
+Generated: 2026-10-23T20:19:03.728Z

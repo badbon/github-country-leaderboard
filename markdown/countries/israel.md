@@ -51,7 +51,7 @@ Indexed users: 12,414
 | 12 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
 | 13 | [lirantal](https://github.com/lirantal) | Liran Tal | Tel Aviv, Israel | 6,163 |
 | 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Modiin, Israel | 5,823 |
-| 15 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 5,499 |
+| 15 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 5,560 |
 | 16 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
 | 17 | [gkorland](https://github.com/gkorland) | Guy Korland | Israel | 5,206 |
 | 18 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel | Israel | 5,166 |
@@ -83,4 +83,4 @@ Indexed users: 12,414
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-23T19:53:29.752Z
+Generated: 2026-10-23T20:08:31.354Z

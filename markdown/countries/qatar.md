@@ -30,8 +30,8 @@ Indexed users: 1,073
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,148 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 5,079 |
 | 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,632 |
-| 19 | [abdulwaarith0](https://github.com/abdulwaarith0) | Abdulwaarith Zakariyya | Doha, Qatar | 4,347 |
-| 20 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,249 |
+| 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,459 |
+| 20 | [abdulwaarith0](https://github.com/abdulwaarith0) | Abdulwaarith Zakariyya | Doha, Qatar | 4,347 |
 
 ## Public Contributions
 
@@ -74,7 +74,7 @@ Indexed users: 1,073
 | 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury | Qatar | 155 |
 | 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 128 |
 | 12 | [m2ncef](https://github.com/m2ncef) | Moncef Guezzi | Qatar | 126 |
-| 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 124 |
+| 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 125 |
 | 14 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | Qatar | 113 |
 | 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil | Qatar | 110 |
 | 16 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 109 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 105 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-23T19:07:41.589Z
+Generated: 2026-10-23T20:14:26.989Z

@@ -65,7 +65,7 @@ Indexed users: 1,223
 | 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,941 |
 | 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja | Malta | 659 |
 | 3 | [nothingismagick](https://github.com/nothingismagick) |  | Malta | 606 |
-| 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 524 |
+| 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 523 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 475 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 441 |
 | 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 381 |
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-23T18:57:01.003Z
+Generated: 2026-10-23T20:04:43.618Z

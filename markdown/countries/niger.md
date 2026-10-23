@@ -51,7 +51,7 @@ Indexed users: 175
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 158 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | Niamey-Niger | 138 |
 | 14 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 127 |
-| 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 123 |
+| 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 126 |
 | 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 118 |
 | 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 104 |
 | 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
@@ -83,4 +83,4 @@ Indexed users: 175
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 18 |
 
-Generated: 2026-10-23T19:02:17.033Z
+Generated: 2026-10-23T20:11:18.032Z

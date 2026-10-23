@@ -1,6 +1,6 @@
 # Followers - Qatar
 
-Generated: 2026-10-23T19:07:41.589Z
+Generated: 2026-10-23T20:14:26.989Z
 
 Users: 1073
 
@@ -18,7 +18,7 @@ Users: 1073
 | 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury |  | zahid_choudhury | Qatar | 155 |
 | 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 128 |
 | 12 | [m2ncef](https://github.com/m2ncef) | Moncef Guezzi |  |  | Qatar | 126 |
-| 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 124 |
+| 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 125 |
 | 14 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | United Systema |  | Qatar | 113 |
 | 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil |  | akhalil_qa | Qatar | 110 |
 | 16 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman |  |  | Doha, Qatar | 109 |
