@@ -1,6 +1,6 @@
 # Followers - Gibraltar
 
-Generated: 2026-10-23T19:49:22.128Z
+Generated: 2026-10-23T21:53:44.109Z
 
 Users: 93
 
@@ -23,6 +23,6 @@ Users: 93
 | 15 | [SGarcia96](https://github.com/SGarcia96) | SGarcia |  |  | Spain/Gibraltar | 17 |
 | 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | @bazel-uk  |  | Gibraltar | 17 |
 | 17 | [baileys](https://github.com/baileys) | Stephen Bailey |  |  | Gibraltar | 15 |
-| 18 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | @ThingW  |  | Gibraltar | 13 |
-| 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | SportServe |  | Gibraltar | 13 |
-| 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | VPSServer.com |  | Gibraltar | 13 |
+| 18 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | SportServe |  | Gibraltar | 13 |
+| 19 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | VPSServer.com |  | Gibraltar | 13 |
+| 20 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | @ThingW  |  | Gibraltar | 12 |

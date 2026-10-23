@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-23T19:53:24.032Z
+Generated: 2026-10-23T22:00:08.358Z
 
 Users: 155
 
@@ -24,5 +24,5 @@ Users: 155
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1218 |
 | 17 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1200 |
 | 18 | [AshLeece](https://github.com/AshLeece) | Ash Leece |  |  | Isle of Man | 1141 |
-| 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1126 |
+| 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1128 |
 | 20 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin |  |  | Isle of Man | 1115 |

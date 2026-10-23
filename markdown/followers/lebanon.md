@@ -1,6 +1,6 @@
 # Followers - Lebanon
 
-Generated: 2026-10-23T20:00:21.946Z
+Generated: 2026-10-23T22:03:57.261Z
 
 Users: 2554
 
@@ -22,7 +22,7 @@ Users: 2554
 | 14 | [kamicut](https://github.com/kamicut) | Marc Farra | @developmentseed  |  | Beirut | 140 |
 | 15 | [rafeasaayfan](https://github.com/rafeasaayfan) | Rafeh Saayfan |  |  | lebanon | 138 |
 | 16 | [SarahMelki](https://github.com/SarahMelki) | Sarah Melki | 100Devs  | _SarahMelki | Beirut, Lebanon | 138 |
-| 17 | [Mahmoud7Osman](https://github.com/Mahmoud7Osman) | Mahmoud Osman | AMDCyberSec |  | Lebanon | 129 |
+| 17 | [Mahmoud7Osman](https://github.com/Mahmoud7Osman) | Mahmoud Osman | AMDCyberSec |  | Lebanon | 130 |
 | 18 | [saeedhalabi](https://github.com/saeedhalabi) | Saeed Halabi |  |  | Lebanon 🇱🇧 | 106 |
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | @openfga  |  | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | @Fueled | DboukHadi | Lebanon | 101 |

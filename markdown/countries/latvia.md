@@ -29,7 +29,7 @@ Indexed users: 3,245
 | 15 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 8,442 |
 | 16 | [a-sandris](https://github.com/a-sandris) |  | Latvia | 7,855 |
 | 17 | [agubarev](https://github.com/agubarev) | Andrey Gubarev | Latvia, Riga | 7,855 |
-| 18 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
+| 18 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,671 |
 | 19 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
 | 20 | [aivars](https://github.com/aivars) | Aivars | Latvia | 6,930 |
 
@@ -83,4 +83,4 @@ Indexed users: 3,245
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-23T20:00:14.643Z
+Generated: 2026-10-23T22:03:50.707Z

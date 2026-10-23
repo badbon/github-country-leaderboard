@@ -20,9 +20,9 @@ Indexed users: 210
 | 6 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,421 |
 | 7 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,643 |
 | 8 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,517 |
-| 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,429 |
+| 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,437 |
 | 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,411 |
-| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,250 |
+| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,251 |
 | 12 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 877 |
 | 14 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 863 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-23T20:00:28.499Z
+Generated: 2026-10-23T22:05:24.090Z

@@ -30,7 +30,7 @@ Indexed users: 187
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,477 |
 | 17 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,461 |
 | 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,453 |
-| 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,407 |
+| 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,408 |
 | 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,282 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 187
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-23T19:51:08.573Z
+Generated: 2026-10-23T21:54:57.265Z
