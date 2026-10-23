@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-22T23:48:05.642Z
+Generated: 2026-10-23T00:52:03.276Z
 
 Users: 187
 

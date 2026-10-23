@@ -1,12 +1,12 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-22T23:46:56.620Z
+Generated: 2026-10-23T00:48:59.983Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | AntheaConsulting |  | Gibraltar | 29103 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | AntheaConsulting |  | Gibraltar | 29127 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5656 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 5219 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz |  |  | Gibraltar | 3283 |
@@ -21,8 +21,8 @@ Users: 93
 | 13 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 597 |
 | 14 | [SGarcia96](https://github.com/SGarcia96) | SGarcia |  |  | Spain/Gibraltar | 595 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek |  |  | Gibraltar | 520 |
-| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 489 |
-| 17 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 412 |
-| 18 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 405 |
-| 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk |  |  | Gibraltar | 403 |
+| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 488 |
+| 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 413 |
+| 18 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 412 |
+| 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk |  |  | Gibraltar | 400 |
 | 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 259 |

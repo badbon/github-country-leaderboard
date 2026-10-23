@@ -81,7 +81,7 @@ Published countries: 236
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,868 | [View](./georgia.md) |
-| Ghana | 7,075 | [View](./ghana.md) |
+| Ghana | 7,074 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,529 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
@@ -100,12 +100,12 @@ Published countries: 236
 | Hungary | 11,156 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,271 | [View](./indonesia.md) |
-| Iran | 26,854 | [View](./iran.md) |
+| Iran | 26,853 | [View](./iran.md) |
 | Iraq | 2,230 | [View](./iraq.md) |
-| Ireland | 19,484 | [View](./ireland.md) |
+| Ireland | 19,483 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,417 | [View](./israel.md) |
-| Italy | 49,016 | [View](./italy.md) |
+| Italy | 49,013 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -201,7 +201,7 @@ Published countries: 236
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,920 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,901 | [View](./south_korea.md) |
+| South Korea | 56,900 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,301 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T00:45:40.454Z
+Generated: 2026-10-23T01:01:04.595Z

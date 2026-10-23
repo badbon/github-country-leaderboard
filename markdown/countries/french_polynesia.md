@@ -17,7 +17,7 @@ Indexed users: 60
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,886 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,033 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 740 |
-| 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 466 |
+| 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 474 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
 | 8 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 344 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot | Tahiti, French Polynesia | 300 |
@@ -29,7 +29,7 @@ Indexed users: 60
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 34 |
 | 16 | [teuna](https://github.com/teuna) | Teuna Ferrand | Tahiti, French Polynesia | 17 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 12 |
-| 18 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 10 |
+| 18 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 9 |
 | 19 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 7 |
 | 20 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
 
@@ -40,7 +40,7 @@ Indexed users: 60
 | 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,033 |
 | 2 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 385 |
-| 4 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 358 |
+| 4 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 366 |
 | 5 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 344 |
 | 6 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 325 |
 | 7 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 246 |
@@ -50,9 +50,9 @@ Indexed users: 60
 | 11 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 40 |
 | 12 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 34 |
 | 13 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 12 |
-| 14 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 7 |
-| 15 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 7 |
-| 16 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
+| 14 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou | French Polynesia | 7 |
+| 15 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
+| 16 | [DLTBryan](https://github.com/DLTBryan) |  | French Polynesia | 6 |
 | 17 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
 | 18 | [JDaviso1](https://github.com/JDaviso1) | John Davison | French Polynesia | 4 |
 | 19 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 3 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-22T23:45:38.844Z
+Generated: 2026-10-23T00:48:38.537Z

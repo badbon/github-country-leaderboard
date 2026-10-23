@@ -1,6 +1,6 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-22T23:45:38.844Z
+Generated: 2026-10-23T00:48:38.537Z
 
 Users: 60
 
@@ -11,7 +11,7 @@ Users: 60
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2886 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1033 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 740 |
-| 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 466 |
+| 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 474 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
 | 8 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 344 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 300 |
@@ -23,6 +23,6 @@ Users: 60
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 34 |
 | 16 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 17 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |
-| 18 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 10 |
+| 18 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 9 |
 | 19 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 7 |
 | 20 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |

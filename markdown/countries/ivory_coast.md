@@ -24,8 +24,8 @@ Indexed users: 488
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 5,482 |
 | 11 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,262 |
 | 12 | [Chris000888](https://github.com/Chris000888) | Christopher DATO | Abidjan, Côte d'Ivoire | 5,088 |
-| 13 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,597 |
-| 14 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 4,558 |
+| 13 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 4,690 |
+| 14 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,597 |
 | 15 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 4,339 |
 | 16 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev | Côte d'ivoire, Abidjan | 4,242 |
 | 17 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 4,183 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 
-Generated: 2026-10-22T23:51:04.958Z
+Generated: 2026-10-23T00:55:59.734Z

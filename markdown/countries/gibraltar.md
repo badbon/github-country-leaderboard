@@ -12,7 +12,7 @@ Indexed users: 93
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 29,103 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 29,127 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,656 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,219 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,283 |
@@ -27,10 +27,10 @@ Indexed users: 93
 | 13 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 597 |
 | 14 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 595 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 520 |
-| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 489 |
-| 17 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
-| 18 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 405 |
-| 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 403 |
+| 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 488 |
+| 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 413 |
+| 18 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
+| 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 400 |
 | 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 259 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-22T23:46:56.620Z
+Generated: 2026-10-23T00:48:59.983Z

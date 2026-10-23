@@ -68,7 +68,7 @@ Indexed users: 10,247
 | 4 | [roboticcam](https://github.com/roboticcam) | Prof Richard Xu                 徐亦达教授 | Hong Kong | 5,487 |
 | 5 | [hunkim](https://github.com/hunkim) | Sung Kim | Hong Kong | 4,054 |
 | 6 | [louislam](https://github.com/louislam) | Louis Lam | Hong Kong | 3,575 |
-| 7 | [Sjj1024](https://github.com/Sjj1024) | 1024xiaoshen | Hong Kong | 2,750 |
+| 7 | [Sjj1024](https://github.com/Sjj1024) | 1024xiaoshen | Hong Kong | 2,736 |
 | 8 | [bdamcoin](https://github.com/bdamcoin) | bdamcoin | hong kong | 2,431 |
 | 9 | [kevwan](https://github.com/kevwan) | Kevin Wan | Hong Kong, China | 2,077 |
 | 10 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | Hong Kong | 1,757 |
@@ -83,4 +83,4 @@ Indexed users: 10,247
 | 19 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 | 20 | [hszhao](https://github.com/hszhao) | Hengshuang Zhao | Hong Kong | 925 |
 
-Generated: 2026-10-23T00:02:59.134Z
+Generated: 2026-10-23T00:52:14.532Z

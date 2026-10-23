@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-22T23:51:58.478Z
+Generated: 2026-10-23T00:56:31.275Z
 
 Users: 139
 
@@ -24,5 +24,5 @@ Users: 139
 | 16 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 22 |
 | 17 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 22 |
 | 18 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 22 |
-| 19 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 21 |
-| 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale |  |  | Jersey, Channel Islands | 20 |
+| 19 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale |  |  | Jersey, Channel Islands | 21 |
+| 20 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | re.je |  | Jersey, Channel Islands | 21 |

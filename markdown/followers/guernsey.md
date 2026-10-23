@@ -1,12 +1,12 @@
 # Followers - Guernsey
 
-Generated: 2026-10-22T23:47:33.807Z
+Generated: 2026-10-23T00:51:30.537Z
 
 Users: 45
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 45 |
+| 1 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 46 |
 | 2 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 26 |
 | 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 15 |
 | 4 | [thebutler12](https://github.com/thebutler12) | Matt Ball | States of Guernsey |  | Guernsey | 14 |

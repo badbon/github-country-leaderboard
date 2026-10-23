@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-22T23:51:39.032Z
+Generated: 2026-10-23T00:56:08.428Z
 
 Users: 1271
 
@@ -15,7 +15,7 @@ Users: 1271
 | 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8674 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 8358 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 7419 |
-| 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 6515 |
+| 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 7003 |
 | 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 6392 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 6287 |
 | 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 6247 |

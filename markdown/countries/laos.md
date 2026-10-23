@@ -12,7 +12,7 @@ Indexed users: 360
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 30,160 |
+| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 29,793 |
 | 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 17,973 |
 | 3 | [Bee777](https://github.com/Bee777) | Bee | Vientiane | 5,258 |
 | 4 | [TKXDev](https://github.com/TKXDev) | TKXDev | Vientiane,Laos | 4,904 |
@@ -24,8 +24,8 @@ Indexed users: 360
 | 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai | Vientiane, Laos | 2,439 |
 | 11 | [vilasone455](https://github.com/vilasone455) |  | Laos | 2,257 |
 | 12 | [Thanakone123](https://github.com/Thanakone123) | Un | Laos | 2,100 |
-| 13 | [Anousack789](https://github.com/Anousack789) | Anousack | Vientiane | 1,816 |
-| 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | Vientiane, laos | 1,737 |
+| 13 | [Anousack789](https://github.com/Anousack789) | Anousack | Vientiane | 1,814 |
+| 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | Vientiane, laos | 1,738 |
 | 15 | [Phounn](https://github.com/Phounn) |  | Laos | 1,518 |
 | 16 | [iamlex01](https://github.com/iamlex01) | Alex Saelao | Vientiane, Laos | 1,465 |
 | 17 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa | Laos | 1,159 |
@@ -37,7 +37,7 @@ Indexed users: 360
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 4,288 |
+| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 4,380 |
 | 2 | [chanthavong](https://github.com/chanthavong) | Jan Jao | Vientiane, Laos | 1,232 |
 | 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills | Vientiane, Laos | 1,016 |
 | 4 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG | Vientiane Capital, Laos | 624 |
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Vientiane Capital, Lao PDR | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-22T23:53:50.048Z
+Generated: 2026-10-23T00:58:05.590Z

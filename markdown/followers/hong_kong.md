@@ -1,6 +1,6 @@
 # Followers - Hong Kong
 
-Generated: 2026-10-23T00:02:59.134Z
+Generated: 2026-10-23T00:52:14.532Z
 
 Users: 10247
 
@@ -12,7 +12,7 @@ Users: 10247
 | 4 | [roboticcam](https://github.com/roboticcam) | Prof Richard Xu                 徐亦达教授 | Department of Mathematics, Hong Kong Baptist University 香港浸会大学数学系 |  | Hong Kong | 5487 |
 | 5 | [hunkim](https://github.com/hunkim) | Sung Kim | HKUST  |  | Hong Kong | 4054 |
 | 6 | [louislam](https://github.com/louislam) | Louis Lam |  | louislam | Hong Kong | 3575 |
-| 7 | [Sjj1024](https://github.com/Sjj1024) | 1024xiaoshen | Free Coding |  | Hong Kong | 2750 |
+| 7 | [Sjj1024](https://github.com/Sjj1024) | 1024xiaoshen | Free Coding |  | Hong Kong | 2736 |
 | 8 | [bdamcoin](https://github.com/bdamcoin) | bdamcoin | bdam foundation |  | hong kong | 2431 |
 | 9 | [kevwan](https://github.com/kevwan) | Kevin Wan | go-zero.dev | kevwanzero | Hong Kong, China | 2077 |
 | 10 | [TianxingChen](https://github.com/TianxingChen) | Tianxing Chen (陈天行) | The University of Hong Kong | MarioChan2002 | Hong Kong | 1757 |
