@@ -45415,8 +45415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 10,
-    "publicContributions": 6,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2022-04-21T01:40:30Z"
   },
   {
@@ -45427,8 +45427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 6,
-    "publicContributions": 4,
+    "privateContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2022-03-29T23:58:13Z"
   },
   {
@@ -45476,19 +45476,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 33,
     "createdAt": "2022-03-11T00:52:45Z"
   },
   {
     "login": "SandyAstorga",
     "name": "SandyAstorga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99463040?s=72&u=2d2b1a0ad9c43fdd3087f6f68e409e138172f276&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99463040?s=72&u=535331542f0f718ec9abed3e75cb7466d4a0fe99&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 19,
-    "publicContributions": 0,
+    "followers": 5,
+    "privateContributions": 23,
+    "publicContributions": 27,
     "createdAt": "2022-02-11T05:00:42Z"
   },
   {
@@ -45511,7 +45511,7 @@
     "company": "GRUPO SALINAS",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 8,
+    "privateContributions": 10,
     "publicContributions": 13,
     "createdAt": "2022-05-03T23:32:40Z"
   },
@@ -45536,7 +45536,7 @@
     "twitterUsername": "YenLab7",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-02-22T00:36:25Z"
   },
   {
@@ -45546,7 +45546,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-22T12:23:03Z"
@@ -45560,7 +45560,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 397,
+    "publicContributions": 592,
     "createdAt": "2022-02-17T00:18:58Z"
   },
   {
@@ -45571,7 +45571,7 @@
     "company": "",
     "twitterUsername": "jackinjaxx01",
     "followers": 4,
-    "privateContributions": 1067,
+    "privateContributions": 1090,
     "publicContributions": 21,
     "createdAt": "2022-01-02T17:20:26Z"
   },
@@ -45582,9 +45582,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 76,
-    "publicContributions": 320,
+    "followers": 5,
+    "privateContributions": 54,
+    "publicContributions": 327,
     "createdAt": "2022-03-10T17:10:08Z"
   },
   {
@@ -45594,7 +45594,7 @@
     "location": "Mexico",
     "company": "IMCS Group /10 Bits",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-11T03:50:38Z"
@@ -45631,21 +45631,9 @@
     "company": "HERE Technologies",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 41,
+    "privateContributions": 40,
     "publicContributions": 35,
     "createdAt": "2022-02-02T21:34:01Z"
-  },
-  {
-    "login": "DevLunaX",
-    "name": "Gerardo ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103081177?s=72&u=b77ae079e7c7c5f8845a6aabd5b340e0f835fe21&v=4",
-    "location": "Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 149,
-    "createdAt": "2022-04-05T23:55:56Z"
   },
   {
     "login": "RamiroMM21",

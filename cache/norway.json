@@ -45864,18 +45864,6 @@
     "createdAt": "2020-04-26T21:23:24Z"
   },
   {
-    "login": "rwilliams01101",
-    "name": "R. Alan Williams",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60494157?s=72&u=35030b3c2a06f1f92613268db3639780d037a046&v=4",
-    "location": "Sauda, Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1,
-    "publicContributions": 2,
-    "createdAt": "2020-01-31T01:40:54Z"
-  },
-  {
     "login": "SaaberDev",
     "name": "Mahfuzur Rahman Saber",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60372951?s=72&u=e0fba04b10d32439173478c79e4dd9b74d415e19&v=4",
@@ -45883,21 +45871,9 @@
     "company": "",
     "twitterUsername": "SaaberDev",
     "followers": 10,
-    "privateContributions": 6,
-    "publicContributions": 13,
+    "privateContributions": 23,
+    "publicContributions": 18,
     "createdAt": "2020-01-28T01:38:20Z"
-  },
-  {
-    "login": "grcq",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66485591?s=72&u=53c16323f4c5a0548b7ac3712a5f19180483fb89&v=4",
-    "location": "Bergen, Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 139,
-    "createdAt": "2020-06-05T16:16:48Z"
   },
   {
     "login": "MarcusPred",
@@ -45906,22 +45882,10 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "Meshkezz",
-    "followers": 9,
-    "privateContributions": 2391,
+    "followers": 10,
+    "privateContributions": 1803,
     "publicContributions": 1,
     "createdAt": "2020-05-15T01:38:26Z"
-  },
-  {
-    "login": "augustsh",
-    "name": "August H.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64926058?s=72&u=c7d4171ca9173288077523b717a4e4e4bbe973d4&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 17,
-    "publicContributions": 236,
-    "createdAt": "2020-05-06T19:33:11Z"
   },
   {
     "login": "rezabmirzaei",
@@ -45932,7 +45896,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 45,
     "createdAt": "2020-04-11T13:11:14Z"
   },
   {
@@ -45954,9 +45918,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 161,
-    "publicContributions": 7,
+    "followers": 8,
+    "privateContributions": 117,
+    "publicContributions": 17,
     "createdAt": "2020-05-22T23:46:30Z"
   },
   {
@@ -45992,7 +45956,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 51,
     "createdAt": "2020-02-14T01:53:48Z"
   },
   {
@@ -46015,8 +45979,8 @@
     "company": "@navikt ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 154,
-    "publicContributions": 1677,
+    "privateContributions": 242,
+    "publicContributions": 1863,
     "createdAt": "2020-03-02T13:29:23Z"
   },
   {
@@ -46027,7 +45991,7 @@
     "company": "@rubynor ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 327,
+    "privateContributions": 520,
     "publicContributions": 0,
     "createdAt": "2020-02-15T20:54:38Z"
   },
@@ -46038,9 +46002,9 @@
     "location": "Norway",
     "company": "Autostore",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 181,
     "createdAt": "2020-01-12T20:29:41Z"
   },
   {
@@ -46051,8 +46015,8 @@
     "company": "Data Treehouse",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 61,
-    "publicContributions": 74,
+    "privateContributions": 63,
+    "publicContributions": 72,
     "createdAt": "2020-05-24T19:48:42Z"
   },
   {
@@ -46063,8 +46027,8 @@
     "company": "University of Bergen",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 4,
-    "publicContributions": 91,
+    "privateContributions": 0,
+    "publicContributions": 72,
     "createdAt": "2020-04-02T12:02:09Z"
   },
   {
@@ -46075,8 +46039,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 726,
-    "publicContributions": 381,
+    "privateContributions": 924,
+    "publicContributions": 378,
     "createdAt": "2020-04-16T11:08:48Z"
   },
   {
@@ -46098,9 +46062,9 @@
     "location": "Tønsberg, Norway",
     "company": "Universitet i Sørøst Norge",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 22,
-    "publicContributions": 28,
+    "followers": 12,
+    "privateContributions": 29,
+    "publicContributions": 30,
     "createdAt": "2020-06-28T12:16:04Z"
   },
   {

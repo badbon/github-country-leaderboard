@@ -3584,7 +3584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 93,
-    "publicContributions": 88,
+    "publicContributions": 91,
     "createdAt": "2025-07-21T11:01:27Z"
   },
   {
@@ -3607,7 +3607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 40,
     "createdAt": "2025-07-13T00:55:19Z"
   },
@@ -3630,7 +3630,7 @@
     "location": "Rwanda",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 135,
     "createdAt": "2025-01-28T15:57:06Z"
@@ -3638,13 +3638,13 @@
   {
     "login": "oca250",
     "name": "oscar ndacyayisenga ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213004313?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213004313?s=72&u=ca3e414282c14f5e4b4edf905dc5c0412a8f8ae5&v=4",
     "location": "kigali, Rwanda",
     "company": "ELEVANDA VENTURES LTD",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 41,
     "createdAt": "2025-05-23T04:57:03Z"
   },
   {
@@ -3740,7 +3740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 57,
     "createdAt": "2025-01-04T11:13:36Z"
   },
   {
@@ -3750,9 +3750,9 @@
     "location": "Rwanda",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 111,
     "createdAt": "2025-06-11T15:14:00Z"
   },
   {
@@ -3802,18 +3802,6 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2025-02-14T10:56:19Z"
-  },
-  {
-    "login": "AbobakerBashar",
-    "name": "Abobaker Yagoub Bashar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210912503?s=72&u=264030f3a9c8c399da5006263cf57023ef34a75d&v=4",
-    "location": "Rwanda Kigali",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 226,
-    "createdAt": "2025-05-08T19:47:15Z"
   },
   {
     "login": "rebeccabecky123",
