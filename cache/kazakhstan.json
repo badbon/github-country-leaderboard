@@ -46219,7 +46219,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 37,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2018-12-03T05:01:48Z"
   },
@@ -46268,7 +46268,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 17,
     "createdAt": "2018-07-21T15:49:41Z"
   },
   {
@@ -46327,7 +46327,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 235,
+    "privateContributions": 343,
     "publicContributions": 6,
     "createdAt": "2018-02-02T19:03:33Z"
   },
@@ -46340,7 +46340,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 253,
+    "publicContributions": 351,
     "createdAt": "2018-04-27T09:39:39Z"
   },
   {
@@ -46351,8 +46351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 12,
-    "publicContributions": 37,
+    "privateContributions": 36,
+    "publicContributions": 2,
     "createdAt": "2018-07-04T16:15:46Z"
   },
   {
@@ -46362,7 +46362,7 @@
     "location": "Kazakhstan",
     "company": "Quarnion",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-16T11:42:22Z"
@@ -46376,20 +46376,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 32,
     "createdAt": "2018-05-23T10:29:37Z"
-  },
-  {
-    "login": "eiler2005",
-    "name": "Denis Ermilov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45200491?s=72&u=c4ed88786cb62ab137de6665145118cb8cf8a6dc&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1217,
-    "createdAt": "2018-11-20T11:34:47Z"
   },
   {
     "login": "mron03",
@@ -46400,7 +46388,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 84,
     "createdAt": "2018-12-20T09:59:50Z"
   },
   {
@@ -46423,8 +46411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 33,
-    "publicContributions": 1,
+    "privateContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2018-05-05T14:08:41Z"
   },
   {
