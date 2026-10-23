@@ -45576,18 +45576,6 @@
     "createdAt": "2023-10-10T11:04:19Z"
   },
   {
-    "login": "treepeck",
-    "name": "Artem Bielikov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148897755?s=72&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 434,
-    "createdAt": "2023-10-24T17:12:04Z"
-  },
-  {
     "login": "Garkushaa",
     "name": "Боеслав Лапшин",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142481831?s=72&v=4",
@@ -45620,7 +45608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 10,
     "createdAt": "2023-08-07T07:44:59Z"
   },
   {
@@ -45628,11 +45616,11 @@
     "name": "Lisa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144252469?s=72&u=b62dd52bab93185c2f4f83aa3d678545fce80146&v=4",
     "location": "Ukraine",
-    "company": "",
+    "company": "RealView-UA",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 106,
     "createdAt": "2023-09-06T14:32:57Z"
   },
   {
@@ -45644,7 +45632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2023-10-08T21:36:53Z"
   },
   {
@@ -45656,19 +45644,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 145,
     "createdAt": "2023-10-29T14:49:51Z"
   },
   {
     "login": "StavrUA",
     "name": "Stavr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141555565?s=72&u=01a4dfa905df49fad2b885c36656a26195270f72&v=4",
-    "location": "Ukraine",
+    "location": "Ukraine, Brovary",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2023-08-06T10:22:30Z"
   },
   {
@@ -45680,7 +45668,7 @@
     "twitterUsername": "VitiaokGrinding",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 79,
     "createdAt": "2023-09-07T20:24:03Z"
   },
   {
@@ -45692,20 +45680,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 25,
     "createdAt": "2023-09-11T10:28:40Z"
-  },
-  {
-    "login": "AgtPlus",
-    "name": "AGT Plus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148140607?s=72&u=e740e231693912e49b9696bc952e160895d3fafe&v=4",
-    "location": "Kyiv, Ukraine",
-    "company": "AGT Plus",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-10-16T18:31:11Z"
   },
   {
     "login": "Nickolas31",
