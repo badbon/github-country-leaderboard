@@ -14,14 +14,14 @@ Published countries: 236
 | Anguilla | 15 | [View](./anguilla.md) |
 | Antarctica | 460 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
-| Argentina | 50,711 | [View](./argentina.md) |
+| Argentina | 50,710 | [View](./argentina.md) |
 | Armenia | 4,022 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
-| Austria | 18,243 | [View](./austria.md) |
-| Azerbaijan | 5,045 | [View](./azerbaijan.md) |
+| Austria | 18,242 | [View](./austria.md) |
+| Azerbaijan | 5,044 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
-| Bangladesh | 55,293 | [View](./bangladesh.md) |
+| Bangladesh | 55,291 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,919 | [View](./belarus.md) |
 | Belgium | 18,369 | [View](./belgium.md) |
@@ -36,7 +36,7 @@ Published countries: 236
 | British Indian Ocean Territory | 3 | [View](./british_indian_ocean_territory.md) |
 | British Virgin Islands | 38 | [View](./british_virgin_islands.md) |
 | Brunei | 254 | [View](./brunei.md) |
-| Bulgaria | 14,064 | [View](./bulgaria.md) |
+| Bulgaria | 14,063 | [View](./bulgaria.md) |
 | Burkina Faso | 486 | [View](./burkina_faso.md) |
 | Burundi | 235 | [View](./burundi.md) |
 | Cambodia | 2,858 | [View](./cambodia.md) |
@@ -49,7 +49,7 @@ Published countries: 236
 | Chile | 19,372 | [View](./chile.md) |
 | Christmas Island | 20 | [View](./christmas_island.md) |
 | Cocos (Keeling) Islands | 9 | [View](./cocos_keeling_islands.md) |
-| Colombia | 29,148 | [View](./colombia.md) |
+| Colombia | 29,147 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
 | Costa Rica | 5,624 | [View](./costa_rica.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T18:11:17.689Z
+Generated: 2026-10-23T18:35:15.939Z

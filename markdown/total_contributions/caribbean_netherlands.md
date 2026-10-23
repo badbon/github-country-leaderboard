@@ -1,12 +1,12 @@
 # Total Contributions - Caribbean Netherlands
 
-Generated: 2026-10-23T13:59:05.594Z
+Generated: 2026-10-23T18:26:17.809Z
 
 Users: 12
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | @BonDataNL |  | Kralendijk | 155 |
+| 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | @BonDataNL |  | Kralendijk | 156 |
 | 2 | [IanLKaplan](https://github.com/IanLKaplan) | Ian Kaplan | Topstone Software Consulting |  | Bonaire, Caribbean Netherlands  | 16 |
 | 3 | [dotxnc](https://github.com/dotxnc) | .xnc |  |  | the bottom of a bottle | 1 |
 | 4 | [oris-enjoyer](https://github.com/oris-enjoyer) | Ivan | TOBI |  | At the Bottom of ORIS | 1 |

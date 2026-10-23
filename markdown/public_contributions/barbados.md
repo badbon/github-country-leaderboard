@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-23T13:55:13.505Z
+Generated: 2026-10-23T18:20:00.488Z
 
 Users: 132
 
@@ -20,7 +20,7 @@ Users: 132
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 133 |
 | 13 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | The George Alleyne Chronic Disease Research Centre | kernrocke | Bridgetown, Barbados | 109 |
 | 14 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte |  |  | Barbados | 107 |
-| 15 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 105 |
+| 15 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 106 |
 | 16 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 105 |
 | 17 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 99 |
 | 18 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 96 |

@@ -17,7 +17,7 @@ Indexed users: 132
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,219 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,335 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 3,078 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,851 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,856 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 2,237 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,752 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,569 |
@@ -30,7 +30,7 @@ Indexed users: 132
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
 | 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 589 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 441 |
-| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 435 |
+| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 436 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 
 ## Public Contributions
@@ -51,7 +51,7 @@ Indexed users: 132
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 133 |
 | 13 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | Bridgetown, Barbados | 109 |
 | 14 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
-| 15 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 105 |
+| 15 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 106 |
 | 16 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
 | 17 | [starsden](https://github.com/starsden) | den | Barbados | 99 |
 | 18 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 96 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-23T13:55:13.505Z
+Generated: 2026-10-23T18:20:00.488Z

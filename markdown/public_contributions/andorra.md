@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-23T13:53:03.399Z
+Generated: 2026-10-23T18:16:42.755Z
 
 Users: 215
 
@@ -24,5 +24,5 @@ Users: 215
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 322 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 278 |
 | 18 | [loixlab](https://github.com/loixlab) | Sébastien LVL | @tradegist  |  | Andorra | 232 |
-| 19 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 221 |
-| 20 | [DiogoPires2003](https://github.com/DiogoPires2003) | Diogo Filipe Alves Pires |  |  | Andorra | 218 |
+| 19 | [DiogoPires2003](https://github.com/DiogoPires2003) | Diogo Filipe Alves Pires |  |  | Andorra | 223 |
+| 20 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 221 |
