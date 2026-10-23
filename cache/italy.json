@@ -2898,9 +2898,9 @@
     "location": "Turin, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 11,
     "createdAt": "2026-03-13T10:42:12Z"
   },
   {
@@ -2910,7 +2910,7 @@
     "location": "Milan, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2026-03-05T13:31:06Z"
@@ -2936,7 +2936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 46,
     "createdAt": "2026-02-13T14:25:52Z"
   },
   {
@@ -2946,9 +2946,9 @@
     "location": "Padova (Italy)",
     "company": "Simulaqua s.r.l.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 48,
     "createdAt": "2026-05-11T11:01:24Z"
   },
   {
@@ -2970,9 +2970,9 @@
     "location": "Rome, Italy",
     "company": "Garage Lab",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2026-04-26T12:02:21Z"
   },
   {
@@ -2995,7 +2995,7 @@
     "company": "COCO GROUP",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1173,
+    "privateContributions": 3721,
     "publicContributions": 1,
     "createdAt": "2026-02-24T21:50:38Z"
   },
@@ -3006,7 +3006,7 @@
     "location": "roma, italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-05-09T19:28:27Z"
@@ -3030,7 +3030,7 @@
     "location": "Bologna",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 71,
     "createdAt": "2025-12-28T15:21:56Z"
@@ -3068,7 +3068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-05-24T00:39:31Z"
   },
   {
@@ -3080,7 +3080,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 69,
     "createdAt": "2026-02-18T14:45:36Z"
   },
   {
@@ -3091,8 +3091,8 @@
     "company": "Politecnico di Milano",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 16,
+    "privateContributions": 22,
+    "publicContributions": 5,
     "createdAt": "2026-02-22T15:19:30Z"
   },
   {
@@ -3102,22 +3102,10 @@
     "location": "Milan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 2034,
+    "publicContributions": 2581,
     "createdAt": "2026-02-25T14:33:53Z"
-  },
-  {
-    "login": "erikkktv",
-    "name": "Erik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257125906?s=72&u=f5c19e6da703c7917af2de51c82a287e98c66a7b&v=4",
-    "location": "Milan",
-    "company": "",
-    "twitterUsername": "erikktv",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2026-01-25T14:26:59Z"
   },
   {
     "login": "gbonurawork",
