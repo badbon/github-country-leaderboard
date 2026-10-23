@@ -46284,18 +46284,6 @@
     "createdAt": "2020-07-10T21:53:52Z"
   },
   {
-    "login": "ivnmood",
-    "name": "Ivan Sidarau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62379919?s=72&u=6519e9bcb0cebb4c7df9987903bae68982e37a38&v=4",
-    "location": "Belarus, Minsk",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2020-03-19T10:10:24Z"
-  },
-  {
     "login": "aliaksandr-lebiadz",
     "name": "Aliaksandr Lebiadz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61333871?s=72&v=4",
@@ -46376,7 +46364,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-11-09T10:13:40Z"
   },
   {
@@ -46423,7 +46411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
+    "privateContributions": 23,
     "publicContributions": 27,
     "createdAt": "2020-07-20T18:59:17Z"
   },
@@ -46434,7 +46422,7 @@
     "location": "Belarus, Minsk",
     "company": "Vizor Games",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-30T08:23:32Z"
@@ -46447,7 +46435,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1489,
+    "privateContributions": 1650,
     "publicContributions": 8,
     "createdAt": "2020-11-13T21:05:23Z"
   },
@@ -46496,7 +46484,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2020-03-15T08:52:06Z"
   },
   {
@@ -46508,7 +46496,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 0,
     "createdAt": "2020-05-15T21:27:49Z"
   },
   {

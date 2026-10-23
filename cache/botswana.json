@@ -1447,7 +1447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
+    "privateContributions": 6,
     "publicContributions": 28,
     "createdAt": "2023-09-20T08:06:36Z"
   },
@@ -1471,7 +1471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 585,
+    "privateContributions": 586,
     "publicContributions": 21,
     "createdAt": "2023-03-12T16:28:00Z"
   },
@@ -1532,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 12,
     "createdAt": "2023-02-02T13:59:18Z"
   },
   {
@@ -1634,12 +1634,12 @@
   {
     "login": "sheriff-kutlo",
     "name": "Kutlo Will Mangwa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129498219?s=72&u=5ef673acc729956fc233f2085ef8a970b3eca634&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129498219?s=72&u=200c24045ead70fbdc9c6567513aa493422001c1&v=4",
     "location": "Botswana",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1869,
+    "privateContributions": 1879,
     "publicContributions": 0,
     "createdAt": "2023-03-31T08:43:02Z"
   },

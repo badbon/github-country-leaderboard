@@ -46110,9 +46110,9 @@
     "location": "Vienna",
     "company": "AIT Institute of Technology",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1299,
-    "publicContributions": 464,
+    "followers": 3,
+    "privateContributions": 2061,
+    "publicContributions": 479,
     "createdAt": "2021-11-30T13:55:01Z"
   },
   {
@@ -46147,8 +46147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 261,
-    "publicContributions": 7,
+    "privateContributions": 480,
+    "publicContributions": 11,
     "createdAt": "2021-06-08T10:28:59Z"
   },
   {
@@ -46171,8 +46171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 30,
-    "publicContributions": 46,
+    "privateContributions": 70,
+    "publicContributions": 104,
     "createdAt": "2021-08-30T12:18:37Z"
   },
   {
@@ -46180,11 +46180,11 @@
     "name": "David Kaminski",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82422481?s=72&u=297bc5a7b42b878da459c6dd5a3d7a8e0df54eb0&v=4",
     "location": "Vienna",
-    "company": "",
+    "company": "Dynatrace",
     "twitterUsername": "dvkam_",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "followers": 5,
+    "privateContributions": 124,
+    "publicContributions": 59,
     "createdAt": "2021-04-13T00:07:08Z"
   },
   {
@@ -46224,18 +46224,6 @@
     "createdAt": "2021-11-01T09:02:19Z"
   },
   {
-    "login": "magr98",
-    "name": "__magr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95478195?s=72&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2021-12-03T11:22:06Z"
-  },
-  {
     "login": "dil-gschreiber",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81238123?s=72&u=6ed455c4ab863159cf10d33c68216f73c8809846&v=4",
@@ -46268,7 +46256,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 215,
     "createdAt": "2021-06-05T08:01:43Z"
   },
   {
@@ -46291,8 +46279,8 @@
     "company": "@Wunderbyte-GmbH ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 662,
-    "publicContributions": 734,
+    "privateContributions": 666,
+    "publicContributions": 844,
     "createdAt": "2021-02-01T08:37:49Z"
   },
   {
@@ -46304,7 +46292,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 120,
     "createdAt": "2021-06-26T09:07:59Z"
   },
   {
@@ -46315,7 +46303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2021-12-17T08:04:21Z"
   },
