@@ -1,8 +1,8 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-23T13:46:13.125Z
+Generated: 2026-10-23T18:08:31.358Z
 
-Users: 7156
+Users: 7155
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 7156
 | 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila |  |  | tunis | 2980 |
 | 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
 | 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |
-| 16 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
-| 17 | [FindMalek](https://github.com/FindMalek) | Malek Gara-Hellal | @Jobflow-io | foundmalek | Tunisia, Monastir | 2385 |
-| 18 | [aliammari1](https://github.com/aliammari1) | Ali Ammari |  |  | Tunisia | 2370 |
-| 19 | [naderba69](https://github.com/naderba69) | nader bali |  | nader_bali | tunis | 2360 |
-| 20 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |
+| 16 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 |  |  | Tunisia | 2479 |
+| 17 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
+| 18 | [FindMalek](https://github.com/FindMalek) | Malek Gara-Hellal | @Jobflow-io | foundmalek | Tunisia, Monastir | 2385 |
+| 19 | [aliammari1](https://github.com/aliammari1) | Ali Ammari |  |  | Tunisia | 2370 |
+| 20 | [naderba69](https://github.com/naderba69) | nader bali |  | nader_bali | tunis | 2360 |

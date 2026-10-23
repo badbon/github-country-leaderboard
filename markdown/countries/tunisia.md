@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,156
+Indexed users: 7,155
 
 | Leaderboard | Link |
 |---|---|
@@ -52,11 +52,11 @@ Indexed users: 7,156
 | 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila | tunis | 2,980 |
 | 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari | Tunisia | 2,710 |
 | 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida | Zarzis/Tunisia | 2,676 |
-| 16 | [akramBNA](https://github.com/akramBNA) | Akram | Tunisia | 2,438 |
-| 17 | [FindMalek](https://github.com/FindMalek) | Malek Gara-Hellal | Tunisia, Monastir | 2,385 |
-| 18 | [aliammari1](https://github.com/aliammari1) | Ali Ammari | Tunisia | 2,370 |
-| 19 | [naderba69](https://github.com/naderba69) | nader bali | tunis | 2,360 |
-| 20 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
+| 16 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 | Tunisia | 2,479 |
+| 17 | [akramBNA](https://github.com/akramBNA) | Akram | Tunisia | 2,438 |
+| 18 | [FindMalek](https://github.com/FindMalek) | Malek Gara-Hellal | Tunisia, Monastir | 2,385 |
+| 19 | [aliammari1](https://github.com/aliammari1) | Ali Ammari | Tunisia | 2,370 |
+| 20 | [naderba69](https://github.com/naderba69) | nader bali | tunis | 2,360 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,156
 | 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 | 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 470 |
 
-Generated: 2026-10-23T13:46:13.125Z
+Generated: 2026-10-23T18:08:31.358Z

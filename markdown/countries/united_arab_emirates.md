@@ -80,7 +80,7 @@ Indexed users: 4,204
 | 16 | [abxhr](https://github.com/abxhr) | Abshar Mohammed Aslam | Dubai, United Arab Emirates | 401 |
 | 17 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 384 |
 | 18 | [kh4sh3i](https://github.com/kh4sh3i) | mohsen khashei | United Arab Emirates | 378 |
-| 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
-| 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
+| 19 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali | Abu Dhabi | 363 |
+| 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-23T13:47:32.349Z
+Generated: 2026-10-23T18:09:56.833Z

@@ -49,9 +49,9 @@ Indexed users: 501
 | 10 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 583 |
 | 11 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Turkmenistan, Ashgabat | 549 |
 | 12 | [suleymanmyradov](https://github.com/suleymanmyradov) | Suleyman Myradov | Ashgabat, Turkmenistan | 491 |
-| 13 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 408 |
-| 14 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev | Turkmenistan | 396 |
-| 15 | [azamatos](https://github.com/azamatos) | Azamat Jorayev | Ashgabat, Turkmenistan | 379 |
+| 13 | [azamatos](https://github.com/azamatos) | Azamat Jorayev | Ashgabat, Turkmenistan | 484 |
+| 14 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 408 |
+| 15 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev | Turkmenistan | 396 |
 | 16 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 366 |
 | 17 | [Seyit47](https://github.com/Seyit47) | Seyitmyrat Geldiyew | Ashgabat, Turkmenistan | 366 |
 | 18 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-23T13:46:43.590Z
+Generated: 2026-10-23T18:08:41.175Z

@@ -25,7 +25,7 @@ Indexed users: 865
 | 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | Mogadishu, Somalia | 4,031 |
 | 12 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | Mogadishu \| Somalia | 3,922 |
 | 13 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | Mogadishu, Somalia  | 3,859 |
-| 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,831 |
+| 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,833 |
 | 15 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | Mogadishu, Somalia | 3,493 |
 | 16 | [mooha76](https://github.com/mooha76) | Mohammed Farah | Mogadishu, Somalia | 3,347 |
 | 17 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | Somalia, Mogadishu | 3,331 |
@@ -38,7 +38,7 @@ Indexed users: 865
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | somalia | 5,201 |
-| 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,831 |
+| 2 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | Mogadisho, Somalia | 3,833 |
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | Somalia, Mogadishu | 1,557 |
 | 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi | Somalia-Mogadishu | 1,065 |
 | 5 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | Mogadishu, Somalia | 947 |
@@ -53,10 +53,10 @@ Indexed users: 865
 | 14 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim | Mogadishu, Somalia | 637 |
 | 15 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir | Mogadishu | 615 |
 | 16 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir | Mogadishu-Somalia | 563 |
-| 17 | [marshaale](https://github.com/marshaale) |  | Somalia | 550 |
+| 17 | [marshaale](https://github.com/marshaale) |  | Somalia | 552 |
 | 18 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Mogadishu-Somalia | 540 |
 | 19 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Mogadisho, Somalia | 511 |
-| 20 | [IbnuAlii](https://github.com/IbnuAlii) | Mohamed Ali Nur | Somalia | 467 |
+| 20 | [IbnuAlii](https://github.com/IbnuAlii) | Mohamed Ali Nur | Somalia | 469 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 865
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 101 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-23T13:40:19.713Z
+Generated: 2026-10-23T18:01:22.264Z
