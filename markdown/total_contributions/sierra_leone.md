@@ -1,6 +1,6 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-23T01:26:02.301Z
+Generated: 2026-10-23T06:23:04.228Z
 
 Users: 442
 
@@ -22,7 +22,7 @@ Users: 442
 | 14 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh |  |  | Freetown, Sierra Leone | 2077 |
 | 15 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 2072 |
 | 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole |  |  | Freetown, Sierra Leone | 1865 |
-| 17 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Sierra Technologies |  | Freetown | 1843 |
-| 18 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | @DropX-Labs  |  | Freetown Sierra Leone | 1837 |
-| 19 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1752 |
-| 20 | [abu-bakarr](https://github.com/abu-bakarr) |  | Limkokwing University Student | Boss_Lovel | Sierra Leone | 1674 |
+| 17 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray |  |  | Sierra Leone | 1855 |
+| 18 | [Emmanuel1255](https://github.com/Emmanuel1255) | Emmanuel Kamanda | Sierra Technologies |  | Freetown | 1843 |
+| 19 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | @DropX-Labs  |  | Freetown Sierra Leone | 1837 |
+| 20 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1752 |
