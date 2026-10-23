@@ -1,6 +1,6 @@
 # Followers - Somalia
 
-Generated: 2026-10-23T12:36:57.984Z
+Generated: 2026-10-23T13:40:19.713Z
 
 Users: 865
 
@@ -22,7 +22,7 @@ Users: 865
 | 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Co-Founder & Lead Dev Of TTMCHANGE  | enga95311 | Somalia | 138 |
 | 15 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 118 |
 | 16 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 115 |
-| 17 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 113 |
+| 17 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 114 |
 | 18 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Tabaarak ICT Solutions |  | Mogdisho,banadir,somalia | 111 |
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | 4Tech Solutions | hassan3ar | Somalia - Mogadishu  | 101 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Full Stack Developer | CabdifataaxYy | Somalia, Hargeisa  | 96 |

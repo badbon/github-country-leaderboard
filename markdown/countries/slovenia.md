@@ -44,10 +44,10 @@ Indexed users: 3,094
 | 5 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 5,466 |
 | 6 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 5,412 |
 | 7 | [stefanb](https://github.com/stefanb) | Štefan Baebler | Ljubljana, Slovenia | 4,264 |
-| 8 | [BigWhale](https://github.com/BigWhale) | David Klasinc | Slovenska Bistrica, Slovenia | 3,944 |
-| 9 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 3,845 |
-| 10 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,587 |
-| 11 | [zigai](https://github.com/zigai) |  | Slovenia | 3,513 |
+| 8 | [zigai](https://github.com/zigai) |  | Slovenia | 4,013 |
+| 9 | [BigWhale](https://github.com/BigWhale) | David Klasinc | Slovenska Bistrica, Slovenia | 3,944 |
+| 10 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 3,845 |
+| 11 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,587 |
 | 12 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 3,035 |
 | 13 | [titpetric](https://github.com/titpetric) | Tit Petric | Ljubljana, Slovenia | 3,019 |
 | 14 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,873 |
@@ -83,4 +83,4 @@ Indexed users: 3,094
 | 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-23T12:36:49.024Z
+Generated: 2026-10-23T13:40:10.765Z

@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-23T12:36:49.024Z
+Generated: 2026-10-23T13:40:10.765Z
 
 Users: 3094
 
@@ -13,10 +13,10 @@ Users: 3094
 | 5 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin |  | crtahlin | Slovenia | 5466 |
 | 6 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
 | 7 | [stefanb](https://github.com/stefanb) | Štefan Baebler |  | StefanBaebler | Ljubljana, Slovenia | 4264 |
-| 8 | [BigWhale](https://github.com/BigWhale) | David Klasinc |  |  | Slovenska Bistrica, Slovenia | 3944 |
-| 9 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 3845 |
-| 10 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 3587 |
-| 11 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 3513 |
+| 8 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 4013 |
+| 9 | [BigWhale](https://github.com/BigWhale) | David Klasinc |  |  | Slovenska Bistrica, Slovenia | 3944 |
+| 10 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 3845 |
+| 11 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 3587 |
 | 12 | [majazaloznik](https://github.com/majazaloznik) | maja | ox.ac.uk |  | oxford--ljubljana | 3035 |
 | 13 | [titpetric](https://github.com/titpetric) | Tit Petric |  |  | Ljubljana, Slovenia | 3019 |
 | 14 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2873 |

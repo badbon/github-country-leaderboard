@@ -1,12 +1,12 @@
 # Public Contributions - South Sudan
 
-Generated: 2026-10-23T12:37:28.312Z
+Generated: 2026-10-23T13:41:11.673Z
 
 Users: 132
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [davelee001](https://github.com/davelee001) | David Leek |  | barax_lee | South Sudan | 5219 |
+| 1 | [davelee001](https://github.com/davelee001) | David Leek |  | barax_lee | South Sudan | 5344 |
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Creative Studios | wol_james | Juba, South Sudan | 5206 |
 | 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat |  |  | Juba, South sudan | 3158 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 1180 |
