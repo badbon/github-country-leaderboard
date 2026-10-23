@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-23T20:19:03.728Z
+Generated: 2026-10-23T22:24:26.240Z
 
 Users: 61
 
@@ -22,7 +22,7 @@ Users: 61
 | 14 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | @IBM |  | San Marino, SMR | 16 |
 | 15 | [v1rx](https://github.com/v1rx) | v1r |  |  | San Marino | 16 |
 | 16 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | NeedleCoin |  | San Marino | 14 |
-| 17 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 12 |
-| 18 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 12 |
-| 19 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
+| 17 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 12 |
+| 18 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 11 |
+| 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | Buckridge, Kautzer and Flatley |  | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |

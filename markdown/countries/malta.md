@@ -41,10 +41,10 @@ Indexed users: 1,223
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,045 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,888 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,546 |
-| 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,198 |
-| 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,134 |
-| 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,132 |
-| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,104 |
+| 5 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,134 |
+| 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,132 |
+| 7 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,104 |
+| 8 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 2,926 |
 | 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,870 |
 | 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,723 |
 | 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,631 |
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-23T20:04:43.618Z
+Generated: 2026-10-23T22:11:38.218Z

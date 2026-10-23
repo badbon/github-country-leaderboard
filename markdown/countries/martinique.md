@@ -55,7 +55,7 @@ Indexed users: 75
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° | Martinique | 90 |
 | 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | Martinique | 74 |
-| 19 | [carl-vdcs](https://github.com/carl-vdcs) | Carl VD | Martinique, French | 41 |
+| 19 | [carl-vdcs](https://github.com/carl-vdcs) | Carl VD | Martinique, French | 57 |
 | 20 | [TCox972](https://github.com/TCox972) | Jean-Jérôme | Martinique | 33 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-23T20:05:21.894Z
+Generated: 2026-10-23T22:12:03.847Z

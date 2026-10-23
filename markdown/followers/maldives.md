@@ -1,13 +1,13 @@
 # Followers - Maldives
 
-Generated: 2026-10-23T20:04:25.702Z
+Generated: 2026-10-23T22:10:47.297Z
 
 Users: 354
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [CustomIcon](https://github.com/CustomIcon) | ポキ | OLink |  | Male, Maldives | 206 |
-| 2 | [fallenbagel](https://github.com/fallenbagel) |  |  |  | Maldives | 169 |
+| 2 | [fallenbagel](https://github.com/fallenbagel) |  |  |  | Maldives | 170 |
 | 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa |  | Samooh9820060 | Maldives | 132 |
 | 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | @synetecs @oxiqa @mihaaru | boring_dragon | Maldives | 124 |
 | 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | @LottieFiles  | reallynattu | Maldives | 119 |

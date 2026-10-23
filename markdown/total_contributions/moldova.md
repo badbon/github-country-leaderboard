@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-23T20:06:35.354Z
+Generated: 2026-10-23T22:13:51.858Z
 
 Users: 1744
 
@@ -13,8 +13,8 @@ Users: 1744
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 8485 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 7910 |
 | 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 7420 |
-| 8 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 6940 |
-| 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Zelqon Works, Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 6898 |
+| 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 7275 |
+| 9 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 6940 |
 | 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6573 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 6392 |
 | 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 5977 |

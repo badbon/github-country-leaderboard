@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-23T20:13:27.537Z
+Generated: 2026-10-23T22:21:11.670Z
 
 Users: 2013
 
@@ -17,12 +17,12 @@ Users: 2013
 | 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 8238 |
 | 10 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 8027 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7868 |
-| 12 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 7351 |
-| 13 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | @laravel | matgrimm | Asunción, Paraguay | 7299 |
+| 12 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | @laravel | matgrimm | Asunción, Paraguay | 7369 |
+| 13 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 7351 |
 | 14 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Newly Booked |  | Asuncion | 7150 |
 | 15 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 6971 |
 | 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 6711 |
 | 17 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 6190 |
-| 18 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5810 |
-| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5789 |
-| 20 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5581 |
+| 18 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 5961 |
+| 19 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5810 |
+| 20 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 5789 |

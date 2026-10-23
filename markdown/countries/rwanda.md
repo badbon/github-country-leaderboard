@@ -45,8 +45,8 @@ Indexed users: 3,497
 | 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,997 |
 | 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
 | 8 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,103 |
-| 9 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
-| 10 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 3,856 |
+| 9 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 3,856 |
+| 10 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,691 |
 | 11 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 3,661 |
 | 12 | [niyongaboemmy](https://github.com/niyongaboemmy) | Niyongabo Emmanuel | Kigali, Rwanda | 3,271 |
 | 13 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 3,074 |
@@ -54,9 +54,9 @@ Indexed users: 3,497
 | 15 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | kigali | 2,820 |
 | 16 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 2,667 |
 | 17 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
-| 18 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
-| 19 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
-| 20 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,517 |
+| 18 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
+| 19 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,517 |
+| 20 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Kigali,Rwanda | 2,358 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,497
 | 19 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Kigali, Rwanda | 317 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-23T20:15:23.706Z
+Generated: 2026-10-23T22:22:59.211Z

@@ -53,7 +53,7 @@ Indexed users: 1,175
 | 14 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 569 |
 | 15 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 551 |
 | 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 548 |
-| 17 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 540 |
+| 17 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 545 |
 | 18 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 537 |
 | 19 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | Mozambique | 510 |
 | 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 110 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-23T20:08:44.592Z
+Generated: 2026-10-23T22:14:55.003Z

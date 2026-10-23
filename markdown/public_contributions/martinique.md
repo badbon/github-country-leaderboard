@@ -1,6 +1,6 @@
 # Public Contributions - Martinique
 
-Generated: 2026-10-23T20:05:21.894Z
+Generated: 2026-10-23T22:12:03.847Z
 
 Users: 75
 
@@ -24,5 +24,5 @@ Users: 75
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 90 |
 | 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | ΛDHD | aldofwi | Martinique | 74 |
-| 19 | [carl-vdcs](https://github.com/carl-vdcs) | Carl VD | VDC Solutions | constantbsm | Martinique, French | 41 |
+| 19 | [carl-vdcs](https://github.com/carl-vdcs) | Carl VD | VDC Solutions | constantbsm | Martinique, French | 57 |
 | 20 | [TCox972](https://github.com/TCox972) | Jean-Jérôme |  |  | Martinique | 33 |

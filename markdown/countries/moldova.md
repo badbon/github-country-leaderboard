@@ -19,8 +19,8 @@ Indexed users: 1,744
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,485 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 7,910 |
 | 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 7,420 |
-| 8 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
-| 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 6,898 |
+| 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 7,275 |
+| 9 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
 | 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,573 |
 | 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
 | 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
@@ -83,4 +83,4 @@ Indexed users: 1,744
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-23T20:06:35.354Z
+Generated: 2026-10-23T22:13:51.858Z

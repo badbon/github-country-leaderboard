@@ -1,6 +1,6 @@
 # Pakistan
 
-Indexed users: 41,843
+Indexed users: 41,844
 
 | Leaderboard | Link |
 |---|---|
@@ -50,7 +50,7 @@ Indexed users: 41,843
 | 11 | [BhalliBhai](https://github.com/BhalliBhai) | Bhalli Bhai | Lahore, Pakistan | 23,692 |
 | 12 | [hafizbilalakbar](https://github.com/hafizbilalakbar) | Bilal Akbar | Faisalabad, Punjab, Pakistan | 19,026 |
 | 13 | [zaidhafeeez](https://github.com/zaidhafeeez) | Zaid Hafeez | Lahore, Pakistan | 12,987 |
-| 14 | [musharafali-dev](https://github.com/musharafali-dev) | Musharraf Ali | Pakistan | 12,310 |
+| 14 | [musharafali-dev](https://github.com/musharafali-dev) | Musharraf Ali | Pakistan | 12,309 |
 | 15 | [hammad837](https://github.com/hammad837) | Hammad Idrees | Lahore ,Punjab ,Pakistan | 11,725 |
 | 16 | [AfnanSharif](https://github.com/AfnanSharif) | Afnan Sharif | Pakistan | 10,820 |
 | 17 | [mafzalkalwardev](https://github.com/mafzalkalwardev) | Muhammad Afzal | Islamabad, Pakistan | 8,992 |
@@ -83,4 +83,4 @@ Indexed users: 41,843
 | 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
 | 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-23T20:12:04.391Z
+Generated: 2026-10-23T22:24:31.327Z

@@ -52,8 +52,8 @@ Indexed users: 991
 | 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 1,859 |
 | 14 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
-| 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
-| 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,322 |
+| 16 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,347 |
+| 17 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
 | 18 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,098 |
 | 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,098 |
 | 20 | [MrSn001](https://github.com/MrSn001) | Shaheen Hussain Al-Amri | Oman, Muscat, Galah | 1,067 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 100 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-23T20:12:00.709Z
+Generated: 2026-10-23T22:19:08.613Z

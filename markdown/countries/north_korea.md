@@ -31,7 +31,7 @@ Indexed users: 185
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 308 |
 | 19 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 288 |
-| 20 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 255 |
+| 20 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 254 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-23T20:11:46.895Z
+Generated: 2026-10-23T22:18:35.861Z

@@ -12,7 +12,7 @@ Indexed users: 61
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 14,624 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 14,675 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 10,334 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,800 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,309 |
@@ -20,7 +20,7 @@ Indexed users: 61
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,263 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,210 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,130 |
-| 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 1,295 |
+| 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 1,310 |
 | 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 827 |
 | 11 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 777 |
 | 12 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 760 |
@@ -37,7 +37,7 @@ Indexed users: 61
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,319 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,318 |
 | 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 827 |
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 494 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 420 |
@@ -78,9 +78,9 @@ Indexed users: 61
 | 14 | [giacomobartoli](https://github.com/giacomobartoli) | Giacomo Bartoli | San Marino, SMR | 16 |
 | 15 | [v1rx](https://github.com/v1rx) | v1r | San Marino | 16 |
 | 16 | [NeedleCoin](https://github.com/NeedleCoin) | Needle Coin | San Marino | 14 |
-| 17 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 12 |
-| 18 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 12 |
-| 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
+| 17 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 12 |
+| 18 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
+| 19 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 | 20 | [Wentianlong](https://github.com/Wentianlong) | Erma O'Conner | 505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino | 11 |
 
-Generated: 2026-10-23T20:19:03.728Z
+Generated: 2026-10-23T22:24:26.240Z

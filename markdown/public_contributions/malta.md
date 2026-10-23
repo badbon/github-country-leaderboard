@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-23T20:04:43.618Z
+Generated: 2026-10-23T22:11:38.218Z
 
 Users: 1223
 
@@ -10,10 +10,10 @@ Users: 1223
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 4045 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3888 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3546 |
-| 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3198 |
-| 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3134 |
-| 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3132 |
-| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3104 |
+| 5 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3134 |
+| 6 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3132 |
+| 7 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3104 |
+| 8 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 2926 |
 | 9 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 2870 |
 | 10 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 2723 |
 | 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2631 |

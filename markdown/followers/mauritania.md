@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-23T20:05:27.502Z
+Generated: 2026-10-23T22:12:07.894Z
 
 Users: 288
 
