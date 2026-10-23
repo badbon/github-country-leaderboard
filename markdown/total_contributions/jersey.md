@@ -1,6 +1,6 @@
 # Total Contributions - Jersey
 
-Generated: 2026-10-23T22:01:42.388Z
+Generated: 2026-10-23T23:11:46.626Z
 
 Users: 139
 
@@ -14,15 +14,15 @@ Users: 139
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 4984 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | inshore Ltd | danielmullin | Jersey | 4816 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 4528 |
-| 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 4211 |
+| 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 4241 |
 | 10 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Pinpoint |  | Jersey | 4041 |
 | 11 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 3463 |
 | 12 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 3448 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 2828 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 2363 |
-| 15 | [samjamead](https://github.com/samjamead) | Sam Mead |  |  | Grouville, Jersey | 1775 |
+| 15 | [samjamead](https://github.com/samjamead) | Sam Mead |  |  | Grouville, Jersey | 1778 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | @vaiie  |  | Jersey | 1636 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 1477 |
-| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 1422 |
+| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 1423 |
 | 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 1143 |
 | 20 | [cheiler](https://github.com/cheiler) | Christian Heiler |  |  | St. Helier, Jersey | 948 |

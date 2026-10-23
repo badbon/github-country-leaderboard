@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-23T22:04:40.770Z
+Generated: 2026-10-23T23:14:15.944Z
 
 Users: 160
 
@@ -10,7 +10,7 @@ Users: 160
 | 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 2453 |
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 2412 |
 | 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 2187 |
-| 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 2025 |
+| 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 2033 |
 | 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1015 |
 | 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 998 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | AliansImperium PTY LTD | MRamokhele | Maseru | 814 |
@@ -19,7 +19,7 @@ Users: 160
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Eazy Tech Solutions |  | Maseru, Lesotho | 587 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 507 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple |  | misspurple | Lesotho  | 431 |
-| 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 370 |
+| 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 420 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 353 |
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 323 |
 | 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 296 |

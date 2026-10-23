@@ -20,16 +20,16 @@ Indexed users: 139
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,984 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,816 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,528 |
-| 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 4,211 |
+| 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 4,241 |
 | 10 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,041 |
 | 11 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,463 |
 | 12 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,448 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,828 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,363 |
-| 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,775 |
+| 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,778 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,636 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,477 |
-| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,422 |
+| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,423 |
 | 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,143 |
 | 20 | [cheiler](https://github.com/cheiler) | Christian Heiler | St. Helier, Jersey | 948 |
 
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 21 |
 | 20 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 
-Generated: 2026-10-23T22:01:42.388Z
+Generated: 2026-10-23T23:11:46.626Z

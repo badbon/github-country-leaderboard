@@ -1,6 +1,6 @@
 # Total Contributions - Laos
 
-Generated: 2026-10-23T22:02:20.549Z
+Generated: 2026-10-23T23:12:43.259Z
 
 Users: 359
 
@@ -10,7 +10,7 @@ Users: 359
 | 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 17973 |
 | 3 | [Bee777](https://github.com/Bee777) | Bee |  |  | Vientiane | 5276 |
 | 4 | [TKXDev](https://github.com/TKXDev) | TKXDev |  |  | Vientiane,Laos | 4904 |
-| 5 | [Black13313](https://github.com/Black13313) | Phonepaseuth Keodouangchit | Wenova Co., LTD ( CTO ) |  | Laos | 4502 |
+| 5 | [Black13313](https://github.com/Black13313) | Phonepaseuth Keodouangchit | Wenova Co., LTD ( CTO ) |  | Laos | 4495 |
 | 6 | [Pitpy](https://github.com/Pitpy) | Pitpy BPSS | BCEL | Pitpy | Vientiane, Laos | 4021 |
 | 7 | [tibeemts](https://github.com/tibeemts) | Tibee Bouasavanh | Multimedia & Technology Solutions | mtslao | Vientiane, Laos | 3663 |
 | 8 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 2935 |
@@ -20,7 +20,7 @@ Users: 359
 | 12 | [Anousack789](https://github.com/Anousack789) | Anousack |  |  | Vientiane | 1814 |
 | 13 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | AIF Group Laos |  | Vientiane, laos | 1738 |
 | 14 | [Phounn](https://github.com/Phounn) |  |  |  | Laos | 1518 |
-| 15 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 1465 |
+| 15 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 1489 |
 | 16 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa |  |  | Laos | 1187 |
 | 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack |  |  | Luangprabang, Laos | 1156 |
 | 18 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1101 |

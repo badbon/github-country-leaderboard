@@ -1,12 +1,12 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-23T22:03:57.261Z
+Generated: 2026-10-23T23:14:09.999Z
 
 Users: 2554
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 6378 |
+| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 8382 |
 | 2 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 4251 |
 | 3 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 4060 |
 | 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 3196 |

@@ -13,15 +13,15 @@ Indexed users: 2,554
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud | Beirut, Lebanon | 22,996 |
-| 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 21,539 |
+| 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 22,922 |
 | 3 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | Lebanon | 16,320 |
 | 4 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 13,134 |
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 12,654 |
 | 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,370 |
-| 7 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 10,061 |
-| 8 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,676 |
-| 9 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,233 |
-| 10 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 9,150 |
+| 7 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 11,325 |
+| 8 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 10,061 |
+| 9 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,676 |
+| 10 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,233 |
 | 11 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 8,237 |
 | 12 | [osmankh](https://github.com/osmankh) | Osman Taha | Zgharta District, North Governorate, Lebanon | 8,102 |
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 8,068 |
@@ -37,7 +37,7 @@ Indexed users: 2,554
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 6,378 |
+| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 8,382 |
 | 2 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 4,251 |
 | 3 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 4,060 |
 | 4 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,196 |
@@ -83,4 +83,4 @@ Indexed users: 2,554
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-23T22:03:57.261Z
+Generated: 2026-10-23T23:14:09.999Z

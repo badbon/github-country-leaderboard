@@ -29,9 +29,9 @@ Indexed users: 1,256
 | 15 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 5,814 |
 | 16 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,989 |
 | 17 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 4,548 |
-| 18 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,481 |
-| 19 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,438 |
-| 20 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 4,282 |
+| 18 | [edgardoedgardo93](https://github.com/edgardoedgardo93) | Jonathan Núñez | Honduras | 4,488 |
+| 19 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,481 |
+| 20 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,438 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,256
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [galexbh](https://github.com/galexbh) | Gabriel Barrientos | Honduras | 56 |
 
-Generated: 2026-10-23T21:57:07.219Z
+Generated: 2026-10-23T23:09:32.662Z

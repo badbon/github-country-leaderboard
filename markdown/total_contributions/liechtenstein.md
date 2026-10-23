@@ -1,16 +1,16 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-23T22:05:49.998Z
+Generated: 2026-10-23T23:15:54.604Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 6080 |
+| 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 6456 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4760 |
-| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4537 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4558 |
 | 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 3054 |
-| 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2920 |
+| 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2927 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2846 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1853 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1704 |
@@ -24,5 +24,5 @@ Users: 113
 | 16 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 318 |
 | 18 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 313 |
-| 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 268 |
+| 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 273 |
 | 20 | [catbears](https://github.com/catbears) |  |  |  | Eschen, Liechtenstein | 166 |

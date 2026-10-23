@@ -1,6 +1,6 @@
 # Total Contributions - Guernsey
 
-Generated: 2026-10-23T21:54:49.329Z
+Generated: 2026-10-23T23:07:37.773Z
 
 Users: 45
 
@@ -8,7 +8,7 @@ Users: 45
 |---:|---|---|---|---|---|---:|
 | 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 2753 |
 | 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 2557 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1459 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1461 |
 | 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1429 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | Technosight |  | St Peter Port, Guernsey | 1016 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 665 |

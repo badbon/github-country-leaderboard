@@ -14,7 +14,7 @@ Indexed users: 155
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,562 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,528 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,513 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,609 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,579 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,727 |
 | 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,236 |
@@ -37,7 +37,7 @@ Indexed users: 155
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,762 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,763 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 819 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 788 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 704 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-23T22:00:08.358Z
+Generated: 2026-10-23T23:10:51.280Z
