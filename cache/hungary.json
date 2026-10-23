@@ -45080,7 +45080,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2019-06-13T12:30:21Z"
   },
   {
@@ -45092,7 +45092,7 @@
     "twitterUsername": "kod_kalandok",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 32,
     "createdAt": "2019-03-31T20:33:27Z"
   },
   {
@@ -45115,7 +45115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
+    "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2019-07-25T09:40:51Z"
   },
@@ -45123,12 +45123,12 @@
     "login": "sipos-andor",
     "name": "Andor Sípos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/53154407?s=72&u=21d86f9784d22def113b6a0aa552e488efb5066e&v=4",
-    "location": "Budapest, Hungary",
-    "company": "FLUENTIA SOLUTIONS",
+    "location": "Hungary",
+    "company": "operandor",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 0,
+    "followers": 3,
+    "privateContributions": 731,
+    "publicContributions": 176,
     "createdAt": "2019-07-21T20:34:33Z"
   },
   {
@@ -45140,7 +45140,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 99,
     "createdAt": "2019-02-12T11:27:17Z"
   },
   {
@@ -45164,7 +45164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 19,
     "createdAt": "2019-02-15T16:40:17Z"
   },
   {
@@ -45224,7 +45224,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-02-14T06:34:21Z"
   },
   {
@@ -45235,8 +45235,8 @@
     "company": "@DiligentCorp",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 317,
-    "publicContributions": 6,
+    "privateContributions": 213,
+    "publicContributions": 207,
     "createdAt": "2019-12-05T18:06:25Z"
   },
   {
@@ -45259,7 +45259,7 @@
     "company": "Paradox2",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 13,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2019-03-15T17:21:38Z"
   },
@@ -45271,7 +45271,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 154,
+    "privateContributions": 140,
     "publicContributions": 0,
     "createdAt": "2019-12-25T18:22:21Z"
   },

@@ -954,9 +954,9 @@
     "location": "Torino, Italy",
     "company": "ITS Torino",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2026-05-07T15:32:10Z"
   },
   {
@@ -978,7 +978,7 @@
     "location": "Bologna, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 6,
     "privateContributions": 1,
     "publicContributions": 25,
     "createdAt": "2026-02-11T09:25:59Z"
@@ -991,8 +991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 205,
-    "publicContributions": 89,
+    "privateContributions": 209,
+    "publicContributions": 120,
     "createdAt": "2026-04-16T11:09:25Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 285,
+    "publicContributions": 341,
     "createdAt": "2026-01-09T21:19:22Z"
   },
   {
@@ -1026,9 +1026,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2026-04-27T16:46:22Z"
   },
   {
@@ -1068,27 +1068,15 @@
     "createdAt": "2026-02-02T12:27:23Z"
   },
   {
-    "login": "donn-majidi",
-    "name": "Donn Majidi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261938688?s=72&u=01c9263a4ac6a88dcc307c827d6938e0a9e37987&v=4",
-    "location": "Bologna, Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 46,
-    "publicContributions": 131,
-    "createdAt": "2026-02-16T14:25:02Z"
-  },
-  {
     "login": "roccodaffuso",
     "name": "Rocco D'Affuso",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265598188?s=72&u=ea2b7e28a77070529b7c46cdad25bca04efc82d3&v=4",
     "location": "Italy",
-    "company": "",
+    "company": "daffusorocco.com",
     "twitterUsername": "rodabuilds",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 502,
+    "publicContributions": 343,
     "createdAt": "2026-03-04T16:46:36Z"
   },
   {
@@ -1104,37 +1092,13 @@
     "createdAt": "2026-01-22T14:05:59Z"
   },
   {
-    "login": "thefastman2010",
-    "name": "TheFastMan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256979161?s=72&u=17e8534bfa0f85f44c5b66a4241bff4f9b7edebe&v=4",
-    "location": "Bolzano, Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2026-01-24T13:42:20Z"
-  },
-  {
-    "login": "dilabulanik",
-    "name": "Dila Bulanik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257585335?s=72&v=4",
-    "location": "Italy",
-    "company": "University of Bologna",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2026-01-27T16:42:28Z"
-  },
-  {
     "login": "cuttalo",
     "name": "Depscope",
     "avatarUrl": "https://avatars.githubusercontent.com/u/277556278?s=72&u=8898c69a48982b22ae49e62a993ce756c590ba11&v=4",
     "location": "Italy",
     "company": "Cuttalo srl ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 104,
     "createdAt": "2026-04-19T21:05:24Z"
@@ -1172,7 +1136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 82,
     "createdAt": "2026-02-04T14:36:22Z"
   },
   {

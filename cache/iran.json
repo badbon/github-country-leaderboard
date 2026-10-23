@@ -44718,7 +44718,7 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 1,
     "publicContributions": 14,
     "createdAt": "2024-07-12T16:36:58Z"
@@ -44730,21 +44730,21 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2024-11-12T09:37:56Z"
   },
   {
     "login": "MahdiNajafi06",
     "name": "Mahdi Najafi Sani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185691010?s=72&u=adce78fd004c0f51c57148ddd8dc64c07b24fa75&v=4",
-    "location": "Tehran",
+    "location": "Tehran, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 32,
     "createdAt": "2024-10-20T12:57:43Z"
   },
   {
@@ -44754,9 +44754,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 16,
-    "publicContributions": 52,
+    "followers": 11,
+    "privateContributions": 5,
+    "publicContributions": 68,
     "createdAt": "2024-11-12T09:25:28Z"
   },
   {
@@ -44768,7 +44768,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2024-03-12T15:49:51Z"
   },
   {
@@ -44778,9 +44778,9 @@
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 102,
-    "publicContributions": 17,
+    "followers": 11,
+    "privateContributions": 98,
+    "publicContributions": 2,
     "createdAt": "2024-06-09T06:04:14Z"
   },
   {
@@ -44791,8 +44791,8 @@
     "company": "codekit",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1117,
-    "publicContributions": 7,
+    "privateContributions": 1163,
+    "publicContributions": 2,
     "createdAt": "2024-08-23T13:28:53Z"
   },
   {
@@ -44804,20 +44804,8 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 279,
     "createdAt": "2024-02-02T18:52:46Z"
-  },
-  {
-    "login": "ali-arab-82",
-    "name": "Ali Arab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174229375?s=72&u=0254ee15293e97aeb4418ea170e938e8a48638cc&v=4",
-    "location": "Tehran province, Pardis",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-06-30T05:14:43Z"
   },
   {
     "login": "ishayanabad",
@@ -44826,7 +44814,7 @@
     "location": "Tehran",
     "company": "Radin Parva System",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-06-01T04:37:56Z"
@@ -44840,7 +44828,7 @@
     "twitterUsername": "KamranMoqadam",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2024-02-04T18:46:03Z"
   },
   {
@@ -44862,7 +44850,7 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-08-29T21:34:35Z"
@@ -44886,9 +44874,9 @@
     "location": "Tehran",
     "company": "Elbnova",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 115,
-    "publicContributions": 63,
+    "followers": 11,
+    "privateContributions": 218,
+    "publicContributions": 46,
     "createdAt": "2024-03-28T19:19:16Z"
   },
   {
@@ -44900,7 +44888,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 3,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-03-08T09:13:23Z"
   },
   {
@@ -44912,7 +44900,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 48,
     "createdAt": "2024-10-26T19:22:34Z"
   },
   {
@@ -44924,7 +44912,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-05-30T11:46:29Z"
   },
   {
@@ -44934,9 +44922,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2024-11-10T07:23:26Z"
   },
   {
@@ -44946,9 +44934,9 @@
     "location": "Tehran",
     "company": "@FEZtool-team",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 85,
     "createdAt": "2024-01-01T19:51:53Z"
   },
   {

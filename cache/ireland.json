@@ -44592,18 +44592,6 @@
     "createdAt": "2021-10-19T14:58:33Z"
   },
   {
-    "login": "PEmbarach",
-    "name": "Pablo Embarach",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94740809?s=72&u=8c39a38639be26e28d8b0d5de38a1ed928189676&v=4",
-    "location": "Dublin, Ireland",
-    "company": "",
-    "twitterUsername": "pabloembarachh",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 157,
-    "createdAt": "2021-11-20T10:03:16Z"
-  },
-  {
     "login": "the-mustakim",
     "name": "Mustakim Sayyed",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88200070?s=72&u=bd747b0602cc2ead831595904f90a53ed24c73e8&v=4",
@@ -44612,7 +44600,7 @@
     "twitterUsername": "the__mustakim",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 62,
     "createdAt": "2021-07-30T14:40:05Z"
   },
   {
@@ -44622,7 +44610,7 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-06T21:44:56Z"
@@ -44636,7 +44624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 242,
+    "publicContributions": 395,
     "createdAt": "2021-11-06T20:06:20Z"
   },
   {
@@ -44682,9 +44670,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 113,
+    "followers": 2,
+    "privateContributions": 32,
+    "publicContributions": 123,
     "createdAt": "2021-11-28T13:48:56Z"
   },
   {
@@ -44696,7 +44684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2021-11-02T17:29:43Z"
   },
   {
@@ -44706,9 +44694,9 @@
     "location": "Dublin, Ireland",
     "company": "UCD, School of Computer Science",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 34,
     "createdAt": "2021-10-03T07:39:06Z"
   },
   {
@@ -44744,7 +44732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 39,
     "createdAt": "2021-12-21T13:56:58Z"
   },
   {
@@ -44780,19 +44768,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-11-10T21:13:24Z"
   },
   {
     "login": "Fragg1e",
     "name": "Fraser Woodward",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93946500?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/93946500?s=72&u=1f3153f6be6f585c1307640650d4861f714551b4&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 115,
+    "privateContributions": 75,
+    "publicContributions": 83,
     "createdAt": "2021-11-08T19:59:26Z"
   },
   {
@@ -44804,7 +44792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2021-11-19T09:44:56Z"
   },
   {
