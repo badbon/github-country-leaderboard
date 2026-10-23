@@ -46034,13 +46034,13 @@
   {
     "login": "tdrabos",
     "name": "Tamas Drabos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/57949401?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57949401?s=72&u=2b73f2ee2cb3c85d5b56fae4c3c2016278ec7586&v=4",
     "location": "Budapest, Hungary",
     "company": "Morgan Stanley",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 61,
     "createdAt": "2019-11-19T13:07:33Z"
   },
   {
@@ -46052,7 +46052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 55,
     "createdAt": "2019-07-20T17:41:37Z"
   },
   {
@@ -46076,7 +46076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2019-06-24T12:55:59Z"
   },
   {
@@ -46099,8 +46099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
-    "publicContributions": 0,
+    "privateContributions": 46,
+    "publicContributions": 1,
     "createdAt": "2019-05-05T07:51:22Z"
   },
   {
@@ -46123,8 +46123,8 @@
     "company": "Plandek",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1741,
-    "publicContributions": 0,
+    "privateContributions": 1868,
+    "publicContributions": 26,
     "createdAt": "2019-07-30T20:28:41Z"
   },
   {
@@ -46135,8 +46135,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
-    "publicContributions": 10,
+    "privateContributions": 16,
+    "publicContributions": 2,
     "createdAt": "2019-05-07T18:35:04Z"
   },
   {
@@ -46159,7 +46159,7 @@
     "company": "DATAPAO",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 3,
     "publicContributions": 2,
     "createdAt": "2019-11-21T22:36:26Z"
   },
@@ -46196,7 +46196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2019-01-10T13:35:20Z"
   },
   {
@@ -46224,18 +46224,6 @@
     "createdAt": "2019-02-16T13:47:13Z"
   },
   {
-    "login": "Vakcika",
-    "name": "Vakci",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55985512?s=72&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "SrkziBalzs3",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2019-09-30T12:45:13Z"
-  },
-  {
     "login": "donaaaat13",
     "name": "Donát Kováts",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56458203?s=72&u=c8c40e952d6ae5d7ebcc8574e26abf29f6cf3a58&v=4",
@@ -46254,9 +46242,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 12,
     "createdAt": "2019-04-15T15:39:30Z"
   },
   {

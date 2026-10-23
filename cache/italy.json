@@ -1816,8 +1816,8 @@
     "name": "Service Lab",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274604164?s=72&u=4d55b8faf0fbc18926e05729c4a884751fe980e7&v=4",
     "location": "Italy",
-    "company": "",
-    "twitterUsername": "",
+    "company": "Service Lab",
+    "twitterUsername": "servicelab",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
@@ -1856,7 +1856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 193,
     "createdAt": "2026-02-20T01:09:08Z"
   },
   {
@@ -1892,7 +1892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 148,
     "createdAt": "2026-01-27T00:31:19Z"
   },
   {
@@ -1906,18 +1906,6 @@
     "privateContributions": 0,
     "publicContributions": 166,
     "createdAt": "2026-03-16T16:18:52Z"
-  },
-  {
-    "login": "richmatteo2026-boop",
-    "name": "Matteo Ferron",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/277864410?s=72&v=4",
-    "location": "Italy",
-    "company": "Solen AI",
-    "twitterUsername": "matteoferron_",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 53,
-    "createdAt": "2026-04-20T19:09:35Z"
   },
   {
     "login": "sattoribravo",
@@ -1938,7 +1926,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-02-13T14:32:43Z"
@@ -2046,9 +2034,9 @@
     "location": "Rimini, Emilia-Romagna, Italy",
     "company": "University of Bologna",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 379,
-    "publicContributions": 137,
+    "followers": 3,
+    "privateContributions": 531,
+    "publicContributions": 178,
     "createdAt": "2026-01-01T10:38:15Z"
   },
   {
