@@ -110,7 +110,7 @@ Published countries: 236
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 3,995 | [View](./jordan.md) |
-| Kazakhstan | 5,619 | [View](./kazakhstan.md) |
+| Kazakhstan | 5,618 | [View](./kazakhstan.md) |
 | Kenya | 24,005 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T14:20:24.384Z
+Generated: 2026-10-23T14:26:05.128Z
