@@ -45788,7 +45788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2020-11-19T16:44:00Z"
   },
   {
@@ -45846,7 +45846,7 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 135,
     "createdAt": "2020-10-26T08:45:29Z"
@@ -45858,9 +45858,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 66,
     "createdAt": "2020-10-07T16:15:45Z"
   },
   {
@@ -45872,7 +45872,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2020-12-25T18:38:58Z"
   },
   {
@@ -45896,7 +45896,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2020-12-05T16:20:11Z"
   },
   {
@@ -45932,7 +45932,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 134,
     "createdAt": "2020-12-10T05:08:51Z"
   },
   {
@@ -46014,9 +46014,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 61,
     "createdAt": "2020-08-23T19:51:08Z"
   },
   {
@@ -86014,18 +86014,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-07T09:39:14Z"
-  },
-  {
-    "login": "ronenliberman",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/27888974?s=72&u=55014d490dcae8dcc8219b276cbe49e966f7d52c&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "Ronen_Liberman",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2017-04-22T11:26:52Z"
   },
   {
     "login": "RonShvarz",

@@ -1376,7 +1376,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 130,
     "createdAt": "2026-01-06T23:56:28Z"
   },
   {
@@ -1386,9 +1386,9 @@
     "location": "Turin, Italy",
     "company": "ITS ICT Piemonte (Cloud Specialist)",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2026-02-09T13:33:18Z"
   },
   {
@@ -1424,7 +1424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 11,
     "createdAt": "2026-03-16T19:16:53Z"
   },
   {
@@ -1434,9 +1434,9 @@
     "location": "Termoli (CB), Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 19,
     "createdAt": "2026-04-26T14:52:58Z"
   },
   {
@@ -1446,7 +1446,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2026-03-15T18:34:10Z"
@@ -1454,11 +1454,11 @@
   {
     "login": "Davide-Capasso",
     "name": "Davide Capasso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283426040?s=72&u=16cb3808e251e0ae726018784cc25d01a2c509c8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/283426040?s=72&u=49d8e8c33d4b6e74e5a72c7cdab760d5a4bdfea2&v=4",
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-05-10T15:40:30Z"
@@ -1466,13 +1466,13 @@
   {
     "login": "simossz",
     "name": "Simone Zani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270594021?s=72&u=41c77b332044d61949afd22418fcd847c18ae08d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/270594021?s=72&u=53d47aa7c800a9b6b35804014dd5f4a41dc0618c&v=4",
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 9,
     "createdAt": "2026-03-24T08:43:35Z"
   },
   {
@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 89,
     "createdAt": "2026-03-23T18:58:13Z"
   },
   {
@@ -1498,18 +1498,6 @@
     "privateContributions": 0,
     "publicContributions": 146,
     "createdAt": "2026-03-12T21:19:54Z"
-  },
-  {
-    "login": "Rubix22-AI",
-    "name": "Rubix",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256939484?s=72&u=3dc64e8994f8925428c36ea1821e3cf6c5120a86&v=4",
-    "location": "Italy",
-    "company": "Boolean",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-01-24T08:18:02Z"
   },
   {
     "login": "massimilianotesta16",
@@ -1548,18 +1536,6 @@
     "createdAt": "2026-04-09T09:42:04Z"
   },
   {
-    "login": "MarieLyung",
-    "name": "Jack Moore",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/271556455?s=72&u=041a95060e8676911f888e676402eb60d66961e4&v=4",
-    "location": "King Street, Rome Italy",
-    "company": "Golden Agency",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-03-27T14:59:39Z"
-  },
-  {
     "login": "mmarongiu82-tech",
     "name": "Mauro Marongiu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265833583?s=72&u=3e6806c687154878e5b70474ea5b5e614d642283&v=4",
@@ -1580,7 +1556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 230,
     "createdAt": "2026-03-26T21:47:23Z"
   },
   {
@@ -1590,7 +1566,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-10T23:14:38Z"
@@ -1602,9 +1578,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 82,
     "privateContributions": 0,
-    "publicContributions": 285,
+    "publicContributions": 2297,
     "createdAt": "2026-04-20T20:36:00Z"
   },
   {

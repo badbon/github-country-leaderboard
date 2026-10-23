@@ -45174,9 +45174,9 @@
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 5,
     "createdAt": "2024-05-05T12:23:18Z"
   },
   {
@@ -45186,7 +45186,7 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-24T05:13:45Z"
@@ -45212,7 +45212,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 36,
     "createdAt": "2024-09-08T12:07:49Z"
   },
   {
@@ -45223,7 +45223,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 38,
+    "privateContributions": 5,
     "publicContributions": 3,
     "createdAt": "2024-10-06T22:24:23Z"
   },
@@ -45246,22 +45246,10 @@
     "location": "Tehran, IR",
     "company": "Zarsaham",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 56,
-    "publicContributions": 48,
+    "followers": 4,
+    "privateContributions": 167,
+    "publicContributions": 46,
     "createdAt": "2024-02-20T19:22:15Z"
-  },
-  {
-    "login": "khashayar-alipour",
-    "name": "𝘒𝘩𝘢𝘴𝘩𝘢𝘺𝘢𝘳 𝘈𝘭𝘪𝘱𝘰𝘶𝘳",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178033863?s=72&u=425c57bab96470cb68550a826290c52047e481a1&v=4",
-    "location": "Tehran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 79,
-    "createdAt": "2024-08-10T16:22:48Z"
   },
   {
     "login": "Mobinraziji",
@@ -45281,10 +45269,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/171957974?s=72&u=bf62e743d2b04e16e2db326158192a86ea10db64&v=4",
     "location": "Tehran",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "teymuri_dev",
     "followers": 5,
-    "privateContributions": 228,
-    "publicContributions": 1487,
+    "privateContributions": 128,
+    "publicContributions": 1887,
     "createdAt": "2024-06-06T15:41:40Z"
   },
   {
@@ -45308,7 +45296,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 110,
     "createdAt": "2024-06-20T12:26:34Z"
   },
   {
@@ -45390,9 +45378,9 @@
     "location": "Tehran",
     "company": "Behyaar Co.",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 37,
+    "followers": 11,
+    "privateContributions": 3,
+    "publicContributions": 104,
     "createdAt": "2024-11-05T18:50:53Z"
   },
   {
@@ -45404,7 +45392,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 62,
     "createdAt": "2024-03-28T14:17:23Z"
   },
   {
