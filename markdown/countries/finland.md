@@ -19,19 +19,19 @@ Indexed users: 18,132
 | 5 | [ToukoUrsin](https://github.com/ToukoUrsin) | Touko Ursin | Helsinki | 28,931 |
 | 6 | [kottinov](https://github.com/kottinov) | Alexander Naakka | Helsinki, Finland | 26,957 |
 | 7 | [snomos](https://github.com/snomos) | Sjur N Moshagen | Helsingfors / Helsinki | 24,519 |
-| 8 | [joonasvanhatapio](https://github.com/joonasvanhatapio) | Joonas Vanhatapio | Helsinki, Finland | 22,531 |
-| 9 | [RoopeHakulinen](https://github.com/RoopeHakulinen) | Roope Hakulinen | Tampere, Finland | 17,699 |
-| 10 | [rollecode](https://github.com/rollecode) | Rolle Laukkarinen | Jyväskylä, Finland | 17,316 |
-| 11 | [JIkaheimo](https://github.com/JIkaheimo) | Jaakko Ikäheimo | Kemi, Finland | 17,077 |
-| 12 | [hugovk](https://github.com/hugovk) | Hugo van Kemenade | Helsinki, Finland | 14,586 |
-| 13 | [sisu](https://github.com/sisu) | Mikko Sysikaski | Finland | 14,088 |
-| 14 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 14,069 |
-| 15 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 13,796 |
-| 16 | [olegp](https://github.com/olegp) | Oleg Podsechin | Helsinki, Finland | 13,224 |
-| 17 | [jgengo](https://github.com/jgengo) | Jordane Angelo Gengo | Finland | 13,073 |
-| 18 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 12,997 |
-| 19 | [mairas](https://github.com/mairas) | Matti Airas | Finland | 12,727 |
-| 20 | [luminaula](https://github.com/luminaula) | Lumi | Finland | 11,865 |
+| 8 | [luminaula](https://github.com/luminaula) | Lumi | Finland | 22,852 |
+| 9 | [joonasvanhatapio](https://github.com/joonasvanhatapio) | Joonas Vanhatapio | Helsinki, Finland | 22,531 |
+| 10 | [RoopeHakulinen](https://github.com/RoopeHakulinen) | Roope Hakulinen | Tampere, Finland | 17,699 |
+| 11 | [rollecode](https://github.com/rollecode) | Rolle Laukkarinen | Jyväskylä, Finland | 17,316 |
+| 12 | [JIkaheimo](https://github.com/JIkaheimo) | Jaakko Ikäheimo | Kemi, Finland | 17,077 |
+| 13 | [hugovk](https://github.com/hugovk) | Hugo van Kemenade | Helsinki, Finland | 14,586 |
+| 14 | [sisu](https://github.com/sisu) | Mikko Sysikaski | Finland | 14,088 |
+| 15 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 14,069 |
+| 16 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 13,796 |
+| 17 | [olegp](https://github.com/olegp) | Oleg Podsechin | Helsinki, Finland | 13,224 |
+| 18 | [jgengo](https://github.com/jgengo) | Jordane Angelo Gengo | Finland | 13,073 |
+| 19 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 12,997 |
+| 20 | [mairas](https://github.com/mairas) | Matti Airas | Finland | 12,727 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,132
 | 19 | [teropa](https://github.com/teropa) | Tero Parviainen | Helsinki, Finland | 1,359 |
 | 20 | [petkaantonov](https://github.com/petkaantonov) | Petka Antonov | Helsinki, Finland | 1,188 |
 
-Generated: 2026-10-23T08:09:49.881Z
+Generated: 2026-10-23T19:47:45.917Z

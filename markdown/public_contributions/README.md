@@ -21,7 +21,7 @@ Published countries: 236
 | Azerbaijan | 5,041 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
-| Bangladesh | 55,291 | [View](./bangladesh.md) |
+| Bangladesh | 55,290 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,918 | [View](./belarus.md) |
 | Belgium | 18,369 | [View](./belgium.md) |
@@ -70,7 +70,7 @@ Published countries: 236
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,895 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,665 | [View](./ethiopia.md) |
+| Ethiopia | 6,664 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
@@ -96,16 +96,16 @@ Published countries: 236
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,256 | [View](./honduras.md) |
-| Hong Kong | 10,244 | [View](./hong_kong.md) |
-| Hungary | 11,154 | [View](./hungary.md) |
+| Hong Kong | 10,243 | [View](./hong_kong.md) |
+| Hungary | 11,153 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,267 | [View](./indonesia.md) |
 | Iran | 26,848 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
-| Ireland | 19,484 | [View](./ireland.md) |
+| Ireland | 19,483 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,414 | [View](./israel.md) |
-| Italy | 49,010 | [View](./italy.md) |
+| Italy | 49,007 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T19:44:31.529Z
+Generated: 2026-10-23T19:57:34.183Z
