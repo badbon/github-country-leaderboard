@@ -45776,7 +45776,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-01-22T15:23:47Z"
   },
   {
@@ -45787,8 +45787,8 @@
     "company": "Bilkent University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 29,
-    "publicContributions": 42,
+    "privateContributions": 30,
+    "publicContributions": 54,
     "createdAt": "2024-03-30T13:04:59Z"
   },
   {
@@ -45799,7 +45799,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 47,
+    "privateContributions": 31,
     "publicContributions": 0,
     "createdAt": "2024-05-05T17:26:04Z"
   },
@@ -45824,7 +45824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2024-01-19T09:06:23Z"
   },
   {
@@ -45847,8 +45847,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
-    "publicContributions": 60,
+    "privateContributions": 6,
+    "publicContributions": 25,
     "createdAt": "2024-05-19T16:01:05Z"
   },
   {
@@ -45860,7 +45860,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 10,
     "createdAt": "2024-04-15T19:07:58Z"
   },
   {
@@ -45894,7 +45894,7 @@
     "location": "Kocaeli/Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-08T07:41:35Z"
@@ -45908,7 +45908,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 61,
     "createdAt": "2023-12-28T11:17:16Z"
   },
   {
@@ -45966,7 +45966,7 @@
     "location": "istanbul turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-19T22:46:40Z"
@@ -45974,13 +45974,13 @@
   {
     "login": "ismailcolakk13",
     "name": "İsmail Çolak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161766042?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161766042?s=72&u=cc24be1aadf29e31466aa314a302e84cc50d7db8&v=4",
     "location": "İstanbul/Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 31,
-    "publicContributions": 263,
+    "followers": 3,
+    "privateContributions": 54,
+    "publicContributions": 214,
     "createdAt": "2024-02-29T20:02:45Z"
   },
   {
