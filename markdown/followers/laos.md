@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-23T14:22:19.372Z
+Generated: 2026-10-23T18:51:33.898Z
 
 Users: 359
 
@@ -25,4 +25,4 @@ Users: 359
 | 17 | [Sengkue](https://github.com/Sengkue) | SengKueVang |  |  | Laos, Vientiane capital | 17 |
 | 18 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Quant HuB ReguTech | Chan5591 | Vientiane Capital, Lao PDR | 16 |
 | 19 | [chansy-khuexonglue](https://github.com/chansy-khuexonglue) | Chansy KHUEXONGLUE | MTS |  | Vientiane Capital | 14 |
-| 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | BCEL Bank |  | Savannakhet, Laos | 14 |
+| 20 | [frankxayachack](https://github.com/frankxayachack) | Sengxay Xayachack |  |  | Laos | 14 |

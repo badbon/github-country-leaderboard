@@ -1,8 +1,8 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-23T14:23:11.300Z
+Generated: 2026-10-23T18:52:15.316Z
 
-Users: 2556
+Users: 2555
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

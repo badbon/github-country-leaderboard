@@ -117,7 +117,7 @@ Published countries: 236
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
 | Laos | 359 | [View](./laos.md) |
 | Latvia | 3,245 | [View](./latvia.md) |
-| Lebanon | 2,556 | [View](./lebanon.md) |
+| Lebanon | 2,555 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 740 | [View](./libya.md) |
@@ -226,7 +226,7 @@ Published countries: 236
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,862 | [View](./uganda.md) |
 | Ukraine | 47,719 | [View](./ukraine.md) |
-| United Arab Emirates | 4,204 | [View](./united_arab_emirates.md) |
+| United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,599 | [View](./uruguay.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T18:49:24.442Z
+Generated: 2026-10-23T18:53:42.935Z

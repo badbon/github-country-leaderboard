@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,204
+Indexed users: 4,205
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,204
 | 19 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali | Abu Dhabi | 363 |
 | 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 
-Generated: 2026-10-23T18:09:56.833Z
+Generated: 2026-10-23T18:52:15.316Z
