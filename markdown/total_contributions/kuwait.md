@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-23T00:57:57.391Z
+Generated: 2026-10-23T06:00:35.173Z
 
 Users: 795
 
@@ -11,7 +11,7 @@ Users: 795
 | 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 7012 |
 | 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6840 |
 | 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6293 |
-| 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6182 |
+| 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6181 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5897 |
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5237 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5148 |
@@ -19,10 +19,10 @@ Users: 795
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4149 |
 | 12 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3965 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3838 |
-| 14 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3821 |
-| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3818 |
+| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3818 |
+| 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3801 |
 | 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3793 |
-| 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3515 |
+| 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3525 |
 | 18 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3490 |
 | 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3472 |
 | 20 | [IKA-Syrian](https://github.com/IKA-Syrian) | I.K.A Syrian |  | sh_brhoom | Kuwait | 3326 |

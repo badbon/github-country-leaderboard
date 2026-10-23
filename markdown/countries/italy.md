@@ -1,6 +1,6 @@
 # Italy
 
-Indexed users: 49,013
+Indexed users: 49,011
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 49,013
 | 19 | [flaviocopes](https://github.com/flaviocopes) | Flavio Copes | Italy | 2,316 |
 | 20 | [Err0r-ICA](https://github.com/Err0r-ICA) | *Err0r_HB* | Italia  | 2,254 |
 
-Generated: 2026-10-23T00:55:54.515Z
+Generated: 2026-10-23T05:59:06.090Z

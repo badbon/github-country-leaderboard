@@ -13,7 +13,7 @@ Indexed users: 325
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,023 |
-| 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,589 |
+| 2 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,646 |
 | 3 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,461 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,424 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,178 |
@@ -26,11 +26,11 @@ Indexed users: 325
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 798 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 555 |
-| 15 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 539 |
-| 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
-| 17 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 491 |
-| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 467 |
-| 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 463 |
+| 15 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 547 |
+| 16 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 539 |
+| 17 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
+| 18 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 491 |
+| 19 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 467 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-23T00:47:08.799Z
+Generated: 2026-10-23T05:51:37.646Z

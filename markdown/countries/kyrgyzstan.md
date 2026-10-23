@@ -51,7 +51,7 @@ Indexed users: 2,439
 | 12 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 1,250 |
 | 13 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 1,238 |
 | 14 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,140 |
-| 15 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,064 |
+| 15 | [isko18](https://github.com/isko18) | islam | Kyrgyzstan, Osh | 1,027 |
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
 | 17 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 971 |
 | 18 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 967 |
@@ -83,4 +83,4 @@ Indexed users: 2,439
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 102 |
 
-Generated: 2026-10-23T00:58:00.328Z
+Generated: 2026-10-23T06:00:57.183Z

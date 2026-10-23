@@ -1,6 +1,6 @@
 # Public Contributions - Guam
 
-Generated: 2026-10-23T00:50:41.480Z
+Generated: 2026-10-23T05:53:34.654Z
 
 Users: 48
 
@@ -23,6 +23,6 @@ Users: 48
 | 15 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Lame Dimension | chairgtables | Guam | 3 |
 | 16 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 2 |
 | 17 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 2 |
-| 18 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici |  |  | Guam | 1 |
-| 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 1 |
-| 20 | [alexmwhite](https://github.com/alexmwhite) | Alex M. White | CHamoru |  | Guam | 0 |
+| 18 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan |  |  | Guam | 1 |
+| 19 | [alexmwhite](https://github.com/alexmwhite) | Alex M. White | CHamoru |  | Guam | 0 |
+| 20 | [AnT1nG1982](https://github.com/AnT1nG1982) | Rey Ban | Github Organization's |  | Guam, United, States | 0 |

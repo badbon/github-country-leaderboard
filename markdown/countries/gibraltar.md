@@ -16,8 +16,8 @@ Indexed users: 93
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,656 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,219 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,283 |
-| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,054 |
-| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,394 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,079 |
+| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,258 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,201 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 784 |
@@ -51,9 +51,9 @@ Indexed users: 93
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski | Gibraltar | 85 |
 | 13 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 70 |
 | 14 | [kierennicolas](https://github.com/kierennicolas) | Kieren | Gibraltar, Gibraltar | 53 |
-| 15 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 46 |
-| 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 46 |
-| 17 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | Gibraltar | 45 |
+| 15 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 46 |
+| 16 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | Gibraltar | 45 |
+| 17 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 44 |
 | 18 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 42 |
 | 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 41 |
 | 20 | [jonathanpennell](https://github.com/jonathanpennell) | Jonathan Pennell | Gibraltar | 37 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-23T00:48:59.983Z
+Generated: 2026-10-23T05:53:02.506Z

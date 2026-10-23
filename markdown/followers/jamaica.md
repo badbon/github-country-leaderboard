@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-23T00:56:08.428Z
+Generated: 2026-10-23T05:59:36.628Z
 
 Users: 1271
 
@@ -12,7 +12,7 @@ Users: 1271
 | 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris |  |  | Jamaica | 301 |
 | 5 | [m-oniqu3](https://github.com/m-oniqu3) | monique |  |  | Jamaica | 223 |
 | 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams |  |  | St. Ann, Jamaica | 212 |
-| 7 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt |  | ylynfatt | Jamaica | 140 |
+| 7 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt |  | ylynfatt | Jamaica | 141 |
 | 8 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Queen's University | jakekaupp | Kingston, ON | 138 |
 | 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | TechIsHiring | Chad_R_Stewart | Kingston, Jamaica | 135 |
 | 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | @CorticoAI |  | Kingston, New York | 124 |
@@ -25,4 +25,4 @@ Users: 1271
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 102 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 99 |
-| 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | User Friendliest |  | Kingston, Ontario | 95 |
+| 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | User Friendliest |  | Kingston, Ontario | 96 |

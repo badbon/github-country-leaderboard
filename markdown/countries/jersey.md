@@ -19,7 +19,7 @@ Indexed users: 139
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,144 |
 | 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,984 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,816 |
-| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,452 |
+| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,528 |
 | 9 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 4,211 |
 | 10 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,048 |
 | 11 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,463 |
@@ -38,7 +38,7 @@ Indexed users: 139
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 38,748 |
-| 2 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 733 |
+| 2 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 776 |
 | 3 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 733 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 711 |
 | 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 564 |
@@ -48,7 +48,7 @@ Indexed users: 139
 | 9 | [doobox](https://github.com/doobox) | Doobox | Jersey | 409 |
 | 10 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 409 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 221 |
-| 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 181 |
+| 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 186 |
 | 13 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 156 |
 | 14 | [devdanio](https://github.com/devdanio) | Dan | Jersey | 139 |
 | 15 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 131 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 21 |
 | 20 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 
-Generated: 2026-10-23T00:56:31.275Z
+Generated: 2026-10-23T05:59:40.576Z

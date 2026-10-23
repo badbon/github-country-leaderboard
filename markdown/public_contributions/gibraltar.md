@@ -1,6 +1,6 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-23T00:48:59.983Z
+Generated: 2026-10-23T05:53:02.506Z
 
 Users: 93
 
@@ -20,9 +20,9 @@ Users: 93
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski |  |  | Gibraltar | 85 |
 | 13 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 70 |
 | 14 | [kierennicolas](https://github.com/kierennicolas) | Kieren |  | kierennicolas | Gibraltar, Gibraltar | 53 |
-| 15 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 46 |
-| 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | @bazel-uk  |  | Gibraltar | 46 |
-| 17 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | University of Gibraltar |  | Gibraltar | 45 |
+| 15 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | @bazel-uk  |  | Gibraltar | 46 |
+| 16 | [datsimon-design](https://github.com/datsimon-design) | Simon Gendrisch | University of Gibraltar |  | Gibraltar | 45 |
+| 17 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 44 |
 | 18 | [nats12](https://github.com/nats12) | Natalie Mclaren | @Doist |  | Gibraltar | 42 |
 | 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 41 |
 | 20 | [jonathanpennell](https://github.com/jonathanpennell) | Jonathan Pennell |  |  | Gibraltar | 37 |

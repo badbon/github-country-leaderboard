@@ -48,7 +48,7 @@ Indexed users: 79
 | 9 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 148 |
 | 10 | [ONjie](https://github.com/ONjie) | Muhammed O Njie | Banjul, The Gambia | 138 |
 | 11 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 127 |
-| 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 114 |
+| 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 111 |
 | 13 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 86 |
 | 14 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 59 |
 | 15 | [mustapha-jaiteh](https://github.com/mustapha-jaiteh) | Mustapha Jaiteh | Banjul, The Gambia | 57 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-23T00:48:45.047Z
+Generated: 2026-10-23T05:52:54.252Z

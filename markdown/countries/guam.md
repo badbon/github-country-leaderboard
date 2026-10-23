@@ -15,7 +15,7 @@ Indexed users: 48
 | 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,675 |
 | 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,563 |
 | 3 | [dannikate](https://github.com/dannikate) | Dannika | Guam | 1,191 |
-| 4 | [ThaumX](https://github.com/ThaumX) | ThaumX | Guam | 482 |
+| 4 | [ThaumX](https://github.com/ThaumX) | ThaumX | Guam | 481 |
 | 5 | [Chovin](https://github.com/Chovin) |  | Guam | 292 |
 | 6 | [nanodavinci](https://github.com/nanodavinci) | leo | Hagåtña, Guam | 290 |
 | 7 | [jlongus](https://github.com/jlongus) | josiah | Guam | 65 |
@@ -54,9 +54,9 @@ Indexed users: 48
 | 15 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 3 |
 | 16 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 2 |
 | 17 | [guamencja](https://github.com/guamencja) | guam | Guam | 2 |
-| 18 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 1 |
-| 19 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan | Guam | 1 |
-| 20 | [alexmwhite](https://github.com/alexmwhite) | Alex M. White | Guam | 0 |
+| 18 | [jasperdanan](https://github.com/jasperdanan) | Jasper Danan | Guam | 1 |
+| 19 | [alexmwhite](https://github.com/alexmwhite) | Alex M. White | Guam | 0 |
+| 20 | [AnT1nG1982](https://github.com/AnT1nG1982) | Rey Ban | Guam, United, States | 0 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 48
 | 19 | [guamencja](https://github.com/guamencja) | guam | Guam | 4 |
 | 20 | [Rcarganilla](https://github.com/Rcarganilla) | Rizalyn T. Carganilla | Guam | 4 |
 
-Generated: 2026-10-23T00:50:41.480Z
+Generated: 2026-10-23T05:53:34.654Z

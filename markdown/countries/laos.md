@@ -81,6 +81,6 @@ Indexed users: 360
 | 17 | [vanglaz](https://github.com/vanglaz) | Somvang Laz | Vientiane, Laos | 19 |
 | 18 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 17 |
 | 19 | [Chanthale](https://github.com/Chanthale) | CHANTHALEE XAIYAKESONE | Vientiane Capital, Lao PDR | 16 |
-| 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
+| 20 | [chansy-khuexonglue](https://github.com/chansy-khuexonglue) | Chansy KHUEXONGLUE | Vientiane Capital | 14 |
 
-Generated: 2026-10-23T00:58:05.590Z
+Generated: 2026-10-23T06:00:59.623Z
