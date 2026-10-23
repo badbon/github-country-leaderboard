@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 795
+Indexed users: 796
 
 | Leaderboard | Link |
 |---|---|
@@ -14,16 +14,16 @@ Indexed users: 795
 |---:|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 8,059 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 7,207 |
-| 3 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 7,012 |
-| 4 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,840 |
-| 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,293 |
+| 3 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 7,182 |
+| 4 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 7,012 |
+| 5 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,274 |
 | 6 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,181 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,897 |
-| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,237 |
+| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,234 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,148 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,842 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,128 |
-| 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,965 |
+| 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,982 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,851 |
 | 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,818 |
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,801 |
@@ -37,7 +37,7 @@ Indexed users: 795
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 6,799 |
+| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 7,141 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,793 |
 | 3 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,526 |
 | 4 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,323 |
@@ -83,4 +83,4 @@ Indexed users: 795
 | 19 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 20 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 
-Generated: 2026-10-23T08:19:22.636Z
+Generated: 2026-10-23T13:18:15.488Z

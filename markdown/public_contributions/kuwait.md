@@ -1,12 +1,12 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-23T08:19:22.636Z
+Generated: 2026-10-23T13:18:15.488Z
 
-Users: 795
+Users: 796
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 6799 |
+| 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 7141 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call |  |  | Hawalli, Kuwait | 3793 |
 | 3 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | The Tech Idea |  | Kuwait | 2526 |
 | 4 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen |  |  | Kuwait | 2323 |

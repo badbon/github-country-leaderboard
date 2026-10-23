@@ -109,14 +109,14 @@ Published countries: 236
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
-| Jordan | 3,997 | [View](./jordan.md) |
+| Jordan | 3,995 | [View](./jordan.md) |
 | Kazakhstan | 5,619 | [View](./kazakhstan.md) |
 | Kenya | 24,005 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
-| Kuwait | 795 | [View](./kuwait.md) |
+| Kuwait | 796 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
-| Laos | 360 | [View](./laos.md) |
-| Latvia | 3,246 | [View](./latvia.md) |
+| Laos | 359 | [View](./laos.md) |
+| Latvia | 3,245 | [View](./latvia.md) |
 | Lebanon | 2,556 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T13:16:32.818Z
+Generated: 2026-10-23T13:20:13.226Z
