@@ -57,7 +57,7 @@ Published countries: 236
 | Cuba | 1,273 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,721 | [View](./cyprus.md) |
-| Czechia | 16,200 | [View](./czechia.md) |
+| Czechia | 16,201 | [View](./czechia.md) |
 | Denmark | 19,294 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
@@ -195,7 +195,7 @@ Published countries: 236
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
 | Singapore | 24,708 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
-| Slovakia | 4,657 | [View](./slovakia.md) |
+| Slovakia | 4,656 | [View](./slovakia.md) |
 | Slovenia | 3,094 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 865 | [View](./somalia.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T06:24:44.396Z
+Generated: 2026-10-23T06:29:53.069Z
