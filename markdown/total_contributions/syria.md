@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-23T00:19:52.105Z
+Generated: 2026-10-23T01:31:35.745Z
 
 Users: 1478
 
@@ -13,7 +13,7 @@ Users: 1478
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4651 |
 | 6 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 3244 |
 | 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3223 |
-| 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 3125 |
+| 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 3118 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam Ghazaleh |  |  | Damascus, Syrian Arab Republic | 3087 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2836 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2435 |

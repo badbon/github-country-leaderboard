@@ -19,7 +19,7 @@ Indexed users: 132
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,005 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 779 |
-| 8 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 631 |
+| 8 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 638 |
 | 9 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
 | 10 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 608 |
 | 11 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 539 |
@@ -41,7 +41,7 @@ Indexed users: 132
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
 | 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,158 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,180 |
-| 5 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 631 |
+| 5 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 638 |
 | 6 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 581 |
 | 7 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
 | 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
@@ -64,7 +64,7 @@ Indexed users: 132
 |---:|---|---|---|---:|
 | 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 437 |
 | 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang | Juba, South Sudan | 135 |
-| 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham | Juba,South Sudan | 62 |
+| 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham | Juba,South Sudan | 61 |
 | 4 | [longmaker2](https://github.com/longmaker2) | Long Maker Long Deng | Juba | 45 |
 | 5 | [kilataban](https://github.com/kilataban) | Kila Taban  | Juba, South Sudan | 41 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 38 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-23T00:17:36.593Z
+Generated: 2026-10-23T01:30:15.296Z

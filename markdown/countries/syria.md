@@ -19,7 +19,7 @@ Indexed users: 1,478
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,651 |
 | 6 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,244 |
 | 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,223 |
-| 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,125 |
+| 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,118 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam Ghazaleh | Damascus, Syrian Arab Republic | 3,087 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,836 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,435 |
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-23T00:19:52.105Z
+Generated: 2026-10-23T01:31:35.745Z
