@@ -22507,7 +22507,7 @@
     "company": "",
     "twitterUsername": "shayoisaack",
     "followers": 21,
-    "privateContributions": 1709,
+    "privateContributions": 1581,
     "publicContributions": 0,
     "createdAt": "2014-11-30T18:35:55Z"
   },
@@ -22519,7 +22519,7 @@
     "company": "H8",
     "twitterUsername": "herikaniugu",
     "followers": 17,
-    "privateContributions": 161,
+    "privateContributions": 167,
     "publicContributions": 9,
     "createdAt": "2014-03-31T09:01:26Z"
   },
@@ -22530,7 +22530,7 @@
     "location": "Dar es Salaam, Tanzania",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-03-06T15:54:02Z"
@@ -22543,7 +22543,7 @@
     "company": "@iPFSoftwares ",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 876,
+    "privateContributions": 912,
     "publicContributions": 0,
     "createdAt": "2014-01-25T09:16:26Z"
   },
@@ -22567,7 +22567,7 @@
     "company": "Tanzania Forest Services Agency",
     "twitterUsername": "b_sheghembe",
     "followers": 16,
-    "privateContributions": 715,
+    "privateContributions": 652,
     "publicContributions": 22,
     "createdAt": "2014-08-09T18:23:29Z"
   },
@@ -22591,8 +22591,8 @@
     "company": "@masam-technologies",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 625,
-    "publicContributions": 92,
+    "privateContributions": 630,
+    "publicContributions": 85,
     "createdAt": "2014-01-06T17:44:25Z"
   },
   {
@@ -22603,7 +22603,7 @@
     "company": "WeRelay",
     "twitterUsername": "chatila_amelye",
     "followers": 13,
-    "privateContributions": 1595,
+    "privateContributions": 1628,
     "publicContributions": 6,
     "createdAt": "2014-11-02T20:09:53Z"
   },
@@ -22675,7 +22675,7 @@
     "company": "@iPFSoftwares ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 886,
+    "privateContributions": 888,
     "publicContributions": 0,
     "createdAt": "2014-10-09T15:01:59Z"
   },
@@ -22688,7 +22688,7 @@
     "twitterUsername": "agbaraka",
     "followers": 8,
     "privateContributions": 17,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2014-03-03T03:44:13Z"
   },
   {
@@ -24442,5 +24442,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-07-01T13:10:20Z"
+  },
+  {
+    "login": "idmirene",
+    "name": "Irene Deodatus Mbeleka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99808868?s=72&u=a4cd7e9cfbdef120ba8608d8c43373ab99042984&v=4",
+    "location": "Dar es Salaam, Tanzania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2,
+    "publicContributions": 18,
+    "createdAt": "2022-02-16T12:32:57Z"
   }
 ]

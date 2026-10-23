@@ -46243,8 +46243,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 140,
+    "privateContributions": 23,
+    "publicContributions": 55,
     "createdAt": "2023-07-14T21:42:27Z"
   },
   {
@@ -46304,7 +46304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-09-01T18:01:05Z"
   },
   {
@@ -46328,7 +46328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 85,
     "createdAt": "2023-10-08T15:05:05Z"
   },
   {
@@ -46364,7 +46364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 29,
     "createdAt": "2023-07-31T10:10:00Z"
   },
   {
@@ -46388,7 +46388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 51,
     "createdAt": "2023-08-26T01:57:19Z"
   },
   {
@@ -46412,7 +46412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2023-10-25T10:13:07Z"
   },
   {
@@ -46450,30 +46450,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-28T07:42:16Z"
-  },
-  {
-    "login": "VladHume",
-    "name": "Vlad Humeniuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152102439?s=72&u=ea82b0aff169c807e3f23fe2fcb0326c13ee3d9b&v=4",
-    "location": "Kyiv, Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2023-11-26T21:15:26Z"
-  },
-  {
-    "login": "PenultimateBoss",
-    "name": "Illia Tsap",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154013787?s=72&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 56,
-    "publicContributions": 235,
-    "createdAt": "2023-12-16T17:38:23Z"
   },
   {
     "login": "ks-77",

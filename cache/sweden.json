@@ -45846,9 +45846,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 970,
-    "publicContributions": 950,
+    "followers": 4,
+    "privateContributions": 1019,
+    "publicContributions": 1134,
     "createdAt": "2022-02-03T15:48:23Z"
   },
   {
@@ -45860,20 +45860,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2022-01-24T15:35:58Z"
-  },
-  {
-    "login": "idmirene",
-    "name": "Irene Deodatus Mbeleka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99808868?s=72&u=4c4cb4943f00600e7c0021a33cfc46e6a8a3eb6e&v=4",
-    "location": "Stockholm, Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 18,
-    "createdAt": "2022-02-16T12:32:57Z"
   },
   {
     "login": "lawstab",
@@ -45920,7 +45908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 3,
     "createdAt": "2022-01-24T11:40:31Z"
   },
   {
@@ -45956,7 +45944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 57,
     "createdAt": "2022-05-24T09:12:11Z"
   },
   {
@@ -45967,20 +45955,20 @@
     "company": "@pipechain",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1752,
+    "privateContributions": 2352,
     "publicContributions": 0,
     "createdAt": "2022-01-31T08:16:17Z"
   },
   {
     "login": "ZirHuan",
     "name": "Christer Rosvall",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102973093?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102973093?s=72&u=770505637d8932a4c641f0a0e43a4ac6a55597c2&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 95,
     "createdAt": "2022-04-04T13:39:19Z"
   },
   {
@@ -45992,7 +45980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 25,
     "createdAt": "2022-05-15T17:30:20Z"
   },
   {
@@ -46063,8 +46051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 136,
-    "publicContributions": 164,
+    "privateContributions": 144,
+    "publicContributions": 166,
     "createdAt": "2022-04-21T08:08:38Z"
   },
   {

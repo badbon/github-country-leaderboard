@@ -46328,7 +46328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2022-07-25T09:11:49Z"
   },
   {
@@ -46362,7 +46362,7 @@
     "location": "Bangkok",
     "company": "Witsaroot L&L Consulting",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-27T15:36:01Z"
@@ -46376,7 +46376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2022-12-12T08:52:48Z"
   },
   {
@@ -46400,20 +46400,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-04-22T12:53:04Z"
-  },
-  {
-    "login": "ChokDee-Sam",
-    "name": "Sam Loy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113790899?s=72&u=1a0e2a1bd07e2b43b6eff4b1348fa9bb3413d143&v=4",
-    "location": "Bangkok",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-09-17T16:35:32Z"
   },
   {
     "login": "jonathangyi",
@@ -46424,7 +46412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 17,
     "createdAt": "2022-09-13T04:21:13Z"
   },
   {
@@ -46436,7 +46424,7 @@
     "twitterUsername": "varakornkunico1",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 197,
     "createdAt": "2022-05-19T03:30:05Z"
   },
   {
@@ -46506,7 +46494,7 @@
     "location": "Thai",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-25T09:30:17Z"
@@ -46520,7 +46508,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 221,
     "createdAt": "2021-05-16T10:22:06Z"
   },
   {
@@ -46532,7 +46520,7 @@
     "twitterUsername": "noodkhan8",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 89,
     "createdAt": "2021-10-12T06:46:11Z"
   },
   {
@@ -46551,11 +46539,11 @@
     "login": "Sin-CS-2003",
     "name": "Sin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77327708?s=72&u=6f52342f5bc7b23aca538f088d373cd58b6c4c75&v=4",
-    "location": "Thai",
+    "location": "Thailand",
     "company": "",
     "twitterUsername": "SCM77705605",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2021-01-12T10:16:11Z"
   },

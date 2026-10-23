@@ -1015,7 +1015,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 5,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-20T01:33:55Z"
   },
@@ -1027,8 +1027,8 @@
     "company": "Divengine Software Solutions",
     "twitterUsername": "rafageist",
     "followers": 28,
-    "privateContributions": 13778,
-    "publicContributions": 31407,
+    "privateContributions": 23275,
+    "publicContributions": 21682,
     "createdAt": "2017-02-20T04:40:52Z"
   },
   {
@@ -1147,7 +1147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6410,
+    "privateContributions": 6430,
     "publicContributions": 0,
     "createdAt": "2016-07-05T16:44:34Z"
   },
