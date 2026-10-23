@@ -1,6 +1,6 @@
 # Public Contributions - Israel
 
-Generated: 2026-10-22T23:50:55.127Z
+Generated: 2026-10-23T00:19:39.599Z
 
 Users: 12417
 
@@ -20,9 +20,9 @@ Users: 12417
 | 12 | [veltzer](https://github.com/veltzer) | Mark Veltzer | GNU |  | Holon, Israel | 6740 |
 | 13 | [lirantal](https://github.com/lirantal) | Liran Tal | @snyk | liran_tal | Tel Aviv, Israel | 6163 |
 | 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Consultant, Trainer and Open Source developer |  | Modiin, Israel | 5823 |
-| 15 | [RonenMars](https://github.com/RonenMars) | Ronen Mars |  |  | Israel | 5228 |
-| 16 | [gkorland](https://github.com/gkorland) | Guy Korland | @FalkorDB | g_korland | Israel | 5206 |
-| 17 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel |  | kerbelp | Israel | 5166 |
-| 18 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | DSR Holdings |  | Jerusalem Or Remote | 5145 |
-| 19 | [dleshem](https://github.com/dleshem) | Danny Leshem |  |  | Tel Aviv, Israel | 5080 |
-| 20 | [nimrodbusany](https://github.com/nimrodbusany) | nimrod busany | Tel Aviv University - CS department |  | Israel | 4818 |
+| 15 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | :( | alexander_akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 5499 |
+| 16 | [RonenMars](https://github.com/RonenMars) | Ronen Mars |  |  | Israel | 5228 |
+| 17 | [gkorland](https://github.com/gkorland) | Guy Korland | @FalkorDB | g_korland | Israel | 5206 |
+| 18 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel |  | kerbelp | Israel | 5166 |
+| 19 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | DSR Holdings |  | Jerusalem Or Remote | 5145 |
+| 20 | [dleshem](https://github.com/dleshem) | Danny Leshem |  |  | Tel Aviv, Israel | 5080 |

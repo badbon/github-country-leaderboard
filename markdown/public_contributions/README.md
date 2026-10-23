@@ -57,7 +57,7 @@ Published countries: 236
 | Cuba | 1,273 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,721 | [View](./cyprus.md) |
-| Czechia | 16,200 | [View](./czechia.md) |
+| Czechia | 16,201 | [View](./czechia.md) |
 | Denmark | 19,294 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
@@ -196,7 +196,7 @@ Published countries: 236
 | Singapore | 24,708 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,657 | [View](./slovakia.md) |
-| Slovenia | 3,095 | [View](./slovenia.md) |
+| Slovenia | 3,094 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,920 | [View](./south_africa.md) |
@@ -208,7 +208,7 @@ Published countries: 236
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
 | Sweden | 39,026 | [View](./sweden.md) |
-| Switzerland | 24,071 | [View](./switzerland.md) |
+| Switzerland | 24,070 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
 | Taiwan | 21,993 | [View](./taiwan.md) |
 | Tajikistan | 708 | [View](./tajikistan.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T00:14:15.298Z
+Generated: 2026-10-23T00:20:55.872Z

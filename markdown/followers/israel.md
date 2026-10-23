@@ -1,6 +1,6 @@
 # Followers - Israel
 
-Generated: 2026-10-22T23:50:55.127Z
+Generated: 2026-10-23T00:19:39.599Z
 
 Users: 12417
 
@@ -19,7 +19,7 @@ Users: 12417
 | 11 | [urish](https://github.com/urish) | Uri Shaked | Uri Shaked | UriShaked | Israel | 1445 |
 | 12 | [Alaev](https://github.com/Alaev) | Michael Alaev |  |  | Tel Aviv, Israel | 1428 |
 | 13 | [freak4pc](https://github.com/freak4pc) | Shai Mishali | Riverside | freak4pc | Tel Aviv, Israel | 1220 |
-| 14 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | :( | alexander_akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 1056 |
+| 14 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | :( | alexander_akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 1064 |
 | 15 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | @eon-io  |  | Israel  | 1054 |
 | 16 | [jacobgil](https://github.com/jacobgil) | Jacob Gildenblat |  | jacobgildenblat | Israel | 1031 |
 | 17 | [DovAmir](https://github.com/DovAmir) | Dov Amir | linkedin.com/in/dovamir |  | Israel | 890 |

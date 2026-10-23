@@ -12,7 +12,7 @@ Indexed users: 10
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,161 |
+| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,160 |
 | 2 | [encrize](https://github.com/encrize) | encrize | Svalbard og Jan Mayen | 647 |
 | 3 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 178 |
 | 4 | [ThalesAbyss](https://github.com/ThalesAbyss) | David Parmenter | Longyearbyen, Svalbard & Jan Mayen | 171 |
@@ -27,7 +27,7 @@ Indexed users: 10
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,066 |
+| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,065 |
 | 2 | [encrize](https://github.com/encrize) | encrize | Svalbard og Jan Mayen | 529 |
 | 3 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 59 |
 | 4 | [sunnyerteit](https://github.com/sunnyerteit) | S🌞nny | Longyearbyen | 31 |
@@ -53,4 +53,4 @@ Indexed users: 10
 | 9 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 1 |
 | 10 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 1 |
 
-Generated: 2026-10-22T23:18:45.485Z
+Generated: 2026-10-23T00:19:20.312Z

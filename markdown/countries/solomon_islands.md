@@ -12,10 +12,10 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 8,193 |
+| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 8,194 |
 | 2 | [filimoni](https://github.com/filimoni) | filimoni | Honiara | 4,375 |
-| 3 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 2,163 |
-| 4 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 235 |
+| 3 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 2,165 |
+| 4 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 234 |
 | 5 | [MilkMeat25](https://github.com/MilkMeat25) | Gary Grossmith | Lengakiki, Honiara, Solomon Islands | 47 |
 | 6 | [masachi](https://github.com/masachi) | YukinoshitaKyaru | Solomon Islands | 40 |
 | 7 | [h-a-s-k](https://github.com/h-a-s-k) | Hask | Solomon Islands | 30 |
@@ -36,7 +36,7 @@ Indexed users: 19
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 235 |
+| 1 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 234 |
 | 2 | [MilkMeat25](https://github.com/MilkMeat25) | Gary Grossmith | Lengakiki, Honiara, Solomon Islands | 47 |
 | 3 | [masachi](https://github.com/masachi) | YukinoshitaKyaru | Solomon Islands | 40 |
 | 4 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 39 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 1 |
 | 19 | [token-ek](https://github.com/token-ek) | ekausimae | Solomon Islands | 1 |
 
-Generated: 2026-10-22T23:15:24.548Z
+Generated: 2026-10-23T00:15:22.881Z

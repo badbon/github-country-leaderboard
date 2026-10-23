@@ -51,12 +51,12 @@ Indexed users: 12,417
 | 12 | [veltzer](https://github.com/veltzer) | Mark Veltzer | Holon, Israel | 6,740 |
 | 13 | [lirantal](https://github.com/lirantal) | Liran Tal | Tel Aviv, Israel | 6,163 |
 | 14 | [szabgab](https://github.com/szabgab) | Gábor Szabó | Modiin, Israel | 5,823 |
-| 15 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
-| 16 | [gkorland](https://github.com/gkorland) | Guy Korland | Israel | 5,206 |
-| 17 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel | Israel | 5,166 |
-| 18 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 5,145 |
-| 19 | [dleshem](https://github.com/dleshem) | Danny Leshem | Tel Aviv, Israel | 5,080 |
-| 20 | [nimrodbusany](https://github.com/nimrodbusany) | nimrod busany | Israel | 4,818 |
+| 15 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 5,499 |
+| 16 | [RonenMars](https://github.com/RonenMars) | Ronen Mars | Israel | 5,228 |
+| 17 | [gkorland](https://github.com/gkorland) | Guy Korland | Israel | 5,206 |
+| 18 | [kerbelp](https://github.com/kerbelp) | Pavel Kerbel | Israel | 5,166 |
+| 19 | [danielrosehill](https://github.com/danielrosehill) | Daniel Rosehill | Jerusalem Or Remote | 5,145 |
+| 20 | [dleshem](https://github.com/dleshem) | Danny Leshem | Tel Aviv, Israel | 5,080 |
 
 ## Followers
 
@@ -75,7 +75,7 @@ Indexed users: 12,417
 | 11 | [urish](https://github.com/urish) | Uri Shaked | Israel | 1,445 |
 | 12 | [Alaev](https://github.com/Alaev) | Michael Alaev | Tel Aviv, Israel | 1,428 |
 | 13 | [freak4pc](https://github.com/freak4pc) | Shai Mishali | Tel Aviv, Israel | 1,220 |
-| 14 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 1,056 |
+| 14 | [alexander-akait](https://github.com/alexander-akait) | Alexander Akait | Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov | 1,064 |
 | 15 | [benjamingr](https://github.com/benjamingr) | Benjamin Gruenbaum | Israel  | 1,054 |
 | 16 | [jacobgil](https://github.com/jacobgil) | Jacob Gildenblat | Israel | 1,031 |
 | 17 | [DovAmir](https://github.com/DovAmir) | Dov Amir | Israel | 890 |
@@ -83,4 +83,4 @@ Indexed users: 12,417
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-22T23:50:55.127Z
+Generated: 2026-10-23T00:19:39.599Z
