@@ -46723,7 +46723,7 @@
     "company": "TibiSoft",
     "twitterUsername": "tibisoft",
     "followers": 1,
-    "privateContributions": 55,
+    "privateContributions": 198,
     "publicContributions": 0,
     "createdAt": "2019-07-23T19:33:44Z"
   },
@@ -46772,7 +46772,7 @@
     "twitterUsername": "kovileve",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2019-10-31T19:43:59Z"
   },
   {
@@ -46796,7 +46796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 90,
     "createdAt": "2019-12-01T10:28:52Z"
   },
   {
@@ -46807,8 +46807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 86,
-    "publicContributions": 14,
+    "privateContributions": 96,
+    "publicContributions": 5,
     "createdAt": "2019-12-11T15:32:22Z"
   },
   {
@@ -46818,22 +46818,10 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2019-02-18T14:38:27Z"
-  },
-  {
-    "login": "pthdaniel",
-    "name": "Dániel Pethő",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/57059682?s=72&v=4",
-    "location": "Budapest, Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-10-27T08:53:41Z"
   },
   {
     "login": "ValentinVadasz",
@@ -46844,7 +46832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-08-01T00:54:40Z"
   },
   {
@@ -46879,7 +46867,7 @@
     "company": "heureka Kreatív Kft.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 384,
+    "privateContributions": 483,
     "publicContributions": 0,
     "createdAt": "2019-03-09T16:25:43Z"
   },
@@ -46903,8 +46891,8 @@
     "company": "@liferay",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 219,
-    "publicContributions": 21,
+    "privateContributions": 306,
+    "publicContributions": 23,
     "createdAt": "2019-01-22T04:39:55Z"
   },
   {
@@ -46927,8 +46915,8 @@
     "company": "Faculty of Economics and Business, University of Debrecen",
     "twitterUsername": "erdeyl",
     "followers": 1,
-    "privateContributions": 1273,
-    "publicContributions": 247,
+    "privateContributions": 1544,
+    "publicContributions": 252,
     "createdAt": "2019-11-23T14:02:15Z"
   },
   {
@@ -46939,8 +46927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 72,
+    "privateContributions": 19,
+    "publicContributions": 11,
     "createdAt": "2019-03-23T12:55:59Z"
   },
   {

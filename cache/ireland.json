@@ -46260,25 +46260,13 @@
     "createdAt": "2021-04-18T00:44:00Z"
   },
   {
-    "login": "Hyper-TH",
-    "name": "Twila [Hyper] Habab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91502474?s=72&u=7bb7c26963062490a7a930d8afff90954d4ae7c7&v=4",
-    "location": "Dublin",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 86,
-    "publicContributions": 119,
-    "createdAt": "2021-09-27T21:07:56Z"
-  },
-  {
     "login": "eyupsancakli",
     "name": "Eyup Sancakli",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82240491?s=72&u=04f682a819bfd342c331a87ddc2e405ab179c23b&v=4",
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2021-04-09T20:57:29Z"
@@ -46290,7 +46278,7 @@
     "location": "Dublin",
     "company": "Dublin City University",
     "twitterUsername": "n_czanderlitch",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-10T16:58:46Z"
@@ -46302,9 +46290,9 @@
     "location": "Dublin",
     "company": "Workday",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 15,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2021-06-02T20:24:46Z"
   },
   {
@@ -46315,8 +46303,8 @@
     "company": "IBM",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 10,
-    "publicContributions": 52,
+    "privateContributions": 15,
+    "publicContributions": 39,
     "createdAt": "2021-09-06T10:25:18Z"
   },
   {
@@ -46327,7 +46315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 0,
+    "privateContributions": 12,
     "publicContributions": 352,
     "createdAt": "2021-01-25T09:57:54Z"
   },
@@ -46340,7 +46328,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 96,
     "createdAt": "2021-06-24T17:37:29Z"
   },
   {
@@ -46352,7 +46340,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 1064,
+    "publicContributions": 934,
     "createdAt": "2021-09-14T10:27:55Z"
   },
   {
@@ -46387,8 +46375,8 @@
     "company": "National Polytechnic School of Algiers",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 20,
-    "publicContributions": 236,
+    "privateContributions": 22,
+    "publicContributions": 241,
     "createdAt": "2021-04-29T15:12:27Z"
   },
   {
@@ -46400,7 +46388,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 7,
     "createdAt": "2021-08-16T16:35:18Z"
   },
   {
@@ -46410,9 +46398,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 32,
-    "publicContributions": 194,
+    "publicContributions": 198,
     "createdAt": "2021-08-11T17:53:12Z"
   },
   {
@@ -46420,11 +46408,11 @@
     "name": "Punith",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90083668?s=72&u=c36b3940d6e430f3271d6842c0608a77ed7ace8b&v=4",
     "location": "Dublin, IRE",
-    "company": "Ralph Lauren",
+    "company": "DCU, TR",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 111,
-    "publicContributions": 1,
+    "followers": 19,
+    "privateContributions": 352,
+    "publicContributions": 0,
     "createdAt": "2021-09-04T05:52:55Z"
   },
   {
@@ -46458,7 +46446,7 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 12,
     "privateContributions": 28,
     "publicContributions": 38,
     "createdAt": "2021-04-27T13:12:33Z"
@@ -46470,9 +46458,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 26,
     "createdAt": "2021-03-09T15:42:36Z"
   },
   {
@@ -46482,9 +46470,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 128,
-    "publicContributions": 1159,
+    "followers": 12,
+    "privateContributions": 230,
+    "publicContributions": 1773,
     "createdAt": "2021-08-16T04:55:18Z"
   },
   {

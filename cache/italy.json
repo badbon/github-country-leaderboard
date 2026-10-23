@@ -2468,20 +2468,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 78,
     "createdAt": "2026-03-07T17:48:18Z"
-  },
-  {
-    "login": "JoseA14179",
-    "name": "José Antonio Muñoz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257372544?s=72&v=4",
-    "location": "Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 49,
-    "createdAt": "2026-01-26T18:53:48Z"
   },
   {
     "login": "frmnnet",
@@ -2490,9 +2478,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 19,
     "createdAt": "2026-03-15T14:08:43Z"
   },
   {
@@ -2526,9 +2514,9 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 1,
     "createdAt": "2026-05-07T07:17:49Z"
   },
   {
@@ -2538,7 +2526,7 @@
     "location": "italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 78,
     "createdAt": "2026-05-08T13:17:46Z"
@@ -2558,7 +2546,7 @@
   {
     "login": "pietroagazzi-pr",
     "name": "Pietro Agazzi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267593423?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/267593423?s=72&u=520ac6e2947e9deb58d0f80902dbac8351938bc5&v=4",
     "location": "Via Guido Galimberti, 6A, 24124 Bergamo, Italy",
     "company": "PR CONSULTING",
     "twitterUsername": "",
@@ -2566,18 +2554,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-12T08:28:45Z"
-  },
-  {
-    "login": "ZGNZMNKZmp68com",
-    "name": "Thomas Howard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279374394?s=72&u=89275c3048de9a09dd4c3c20114184a85890bc20&v=4",
-    "location": "Chelsea Street, Turin Italy",
-    "company": "Clear Finance",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 39,
-    "createdAt": "2026-04-26T02:47:38Z"
   },
   {
     "login": "Aureal-group",
@@ -2624,7 +2600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 32,
     "createdAt": "2026-04-01T12:03:38Z"
   },
   {
@@ -2646,7 +2622,7 @@
     "location": "Caltanissetta, Sicily, Italy",
     "company": "Open to Junior SOC Analyst / Cybersecurity roles",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 131,
     "createdAt": "2026-05-06T12:44:14Z"
@@ -2662,18 +2638,6 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-02-24T13:25:58Z"
-  },
-  {
-    "login": "arch-linux-btw",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262084723?s=72&u=f54dcee31ff89ed669cc2793ad945c6f8eb0f8c4&v=4",
-    "location": "Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-02-17T09:04:41Z"
   },
   {
     "login": "djlan-messina",
