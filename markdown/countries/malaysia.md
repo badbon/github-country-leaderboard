@@ -18,20 +18,20 @@ Indexed users: 11,778
 | 4 | [Kiyoraka](https://github.com/Kiyoraka) | Afif Maahi | Malaysia | 28,812 |
 | 5 | [naimkatiman](https://github.com/naimkatiman) | Naim | Malaysia | 22,086 |
 | 6 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | Sri Petaling, Kuala Lumpur, Malaysia | 20,248 |
-| 7 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,835 |
-| 8 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Malaysia | 18,227 |
-| 9 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG | Malaysia | 18,213 |
-| 10 | [0xkaz](https://github.com/0xkaz) | kaz | Malaysia/UAE | 18,055 |
-| 11 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee | Kuala Lumpur, Malaysia | 16,660 |
-| 12 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt | Malaysia | 16,149 |
-| 13 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | Malaysia | 15,904 |
-| 14 | [Anas660](https://github.com/Anas660) | Syed Anas | Malaysia | 14,473 |
-| 15 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 13,802 |
-| 16 | [edwardtay](https://github.com/edwardtay) | Edward Tay | Malaysia  | 13,397 |
-| 17 | [Marxz13](https://github.com/Marxz13) | Marz | Malaysia | 13,140 |
-| 18 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
-| 19 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
-| 20 | [SohZHong](https://github.com/SohZHong) | Soh Zhe Hong | Malaysia | 11,839 |
+| 7 | [aiman-hanif-dolah](https://github.com/aiman-hanif-dolah) | Aiman Hanif | Pahang, Malaysia | 19,890 |
+| 8 | [booluckgmie](https://github.com/booluckgmie) | Najmi Ariffin | Putrajaya, Malaysia | 18,835 |
+| 9 | [habibtalib](https://github.com/habibtalib) | Habib Talib | Malaysia | 18,227 |
+| 10 | [weixianggoh](https://github.com/weixianggoh) | GOH WEI XIANG | Malaysia | 18,213 |
+| 11 | [0xkaz](https://github.com/0xkaz) | kaz | Malaysia/UAE | 18,055 |
+| 12 | [lwlee2608](https://github.com/lwlee2608) | Jason Lee | Kuala Lumpur, Malaysia | 16,660 |
+| 13 | [aaronmyatt](https://github.com/aaronmyatt) | Aaron Myatt | Malaysia | 16,149 |
+| 14 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | Malaysia | 15,904 |
+| 15 | [Anas660](https://github.com/Anas660) | Syed Anas | Malaysia | 14,473 |
+| 16 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 13,802 |
+| 17 | [edwardtay](https://github.com/edwardtay) | Edward Tay | Malaysia  | 13,397 |
+| 18 | [Marxz13](https://github.com/Marxz13) | Marz | Malaysia | 13,140 |
+| 19 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
+| 20 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 11,778
 | 19 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 | 20 | [RamadhanAmizudin](https://github.com/RamadhanAmizudin) | Ramadhan Amizudin | Malaysia | 401 |
 
-Generated: 2026-10-22T22:54:59.067Z
+Generated: 2026-10-22T23:57:54.036Z

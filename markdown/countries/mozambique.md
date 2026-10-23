@@ -42,7 +42,7 @@ Indexed users: 1,175
 | 3 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,405 |
 | 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 2,338 |
 | 5 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 1,473 |
-| 6 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,227 |
+| 6 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,229 |
 | 7 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,075 |
 | 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 1,015 |
 | 9 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 972 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-22T22:58:52.176Z
+Generated: 2026-10-23T00:02:39.136Z

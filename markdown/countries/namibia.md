@@ -14,7 +14,7 @@ Indexed users: 474
 |---:|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,847 |
 | 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 7,622 |
-| 3 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,919 |
+| 3 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 7,004 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,743 |
 | 5 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 6,539 |
 | 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,075 |
@@ -26,7 +26,7 @@ Indexed users: 474
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,941 |
 | 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,866 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,529 |
-| 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,363 |
+| 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,438 |
 | 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,148 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 2,143 |
 | 18 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 2,106 |
@@ -38,11 +38,11 @@ Indexed users: 474
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,847 |
-| 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 3,482 |
+| 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 3,502 |
 | 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,904 |
 | 4 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,814 |
 | 5 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,319 |
-| 6 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,266 |
+| 6 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,300 |
 | 7 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 1,129 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 686 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 561 |
@@ -62,7 +62,7 @@ Indexed users: 474
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 227 |
+| 1 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 226 |
 | 2 | [Justin-sketch](https://github.com/Justin-sketch) | Gabriel Kambinda Justinu | windhoek,namibia | 180 |
 | 3 | [Lucas-Erkana](https://github.com/Lucas-Erkana) | Lucas David Erkana | Walvis Bay, Namibia | 129 |
 | 4 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 104 |
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-22T22:59:45.879Z
+Generated: 2026-10-23T00:02:44.735Z

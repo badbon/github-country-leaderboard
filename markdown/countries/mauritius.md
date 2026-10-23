@@ -42,7 +42,7 @@ Indexed users: 714
 | 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,239 |
 | 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,755 |
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,676 |
-| 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,488 |
+| 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,517 |
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,437 |
 | 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,403 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,333 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-22T22:56:47.008Z
+Generated: 2026-10-22T23:59:21.268Z

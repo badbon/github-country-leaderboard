@@ -1,6 +1,6 @@
 # Panama
 
-Indexed users: 1,070
+Indexed users: 1,069
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-22T23:04:02.196Z
+Generated: 2026-10-23T00:06:19.408Z

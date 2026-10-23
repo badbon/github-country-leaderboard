@@ -1,6 +1,6 @@
 # Followers - Macau
 
-Generated: 2026-10-22T22:54:24.109Z
+Generated: 2026-10-22T23:57:38.892Z
 
 Users: 438
 
@@ -16,7 +16,7 @@ Users: 438
 | 8 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 167 |
 | 9 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | FST, University of Macau |  | Macau | 129 |
 | 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 128 |
-| 11 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 127 |
+| 11 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 126 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak |  |  | Macao | 110 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 |  | mengguyi | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 100 |

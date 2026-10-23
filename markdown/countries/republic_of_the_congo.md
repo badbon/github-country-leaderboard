@@ -13,7 +13,7 @@ Indexed users: 297
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,930 |
-| 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,827 |
+| 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,818 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,132 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,999 |
 | 5 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,825 |
@@ -21,7 +21,7 @@ Indexed users: 297
 | 7 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,772 |
 | 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 3,163 |
 | 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,996 |
-| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,962 |
+| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,971 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,956 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,487 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,356 |
@@ -80,7 +80,7 @@ Indexed users: 297
 | 16 | [seleshabani](https://github.com/seleshabani) |  | Congo | 33 |
 | 17 | [Cooger17](https://github.com/Cooger17) |  | Congo Brazzaville  | 31 |
 | 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
-| 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
+| 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 26 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Congo | 23 |
 
-Generated: 2026-10-22T23:07:10.889Z
+Generated: 2026-10-23T00:08:45.485Z

@@ -1,6 +1,6 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-22T23:07:10.889Z
+Generated: 2026-10-23T00:08:45.485Z
 
 Users: 297
 
@@ -24,5 +24,5 @@ Users: 297
 | 16 | [seleshabani](https://github.com/seleshabani) |  | kollectif numérique \| nurse maïsha | seleshabani1 | Congo | 33 |
 | 17 | [Cooger17](https://github.com/Cooger17) |  |  |  | Congo Brazzaville  | 31 |
 | 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 26 |
-| 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame |  | WinnersProx | Kigali,Rwanda,Congo | 25 |
+| 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame |  | WinnersProx | Kigali,Rwanda,Congo | 26 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Kinshasa Digital Academie |  | Congo | 23 |

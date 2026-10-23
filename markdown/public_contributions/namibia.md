@@ -1,17 +1,17 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-22T22:59:45.879Z
+Generated: 2026-10-23T00:02:44.735Z
 
 Users: 474
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 8847 |
-| 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 3482 |
+| 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 3502 |
 | 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 1904 |
 | 4 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1814 |
 | 5 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | 127.0.0.1 |  | Namibia | 1319 |
-| 6 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1266 |
+| 6 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1300 |
 | 7 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 1129 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 686 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 561 |

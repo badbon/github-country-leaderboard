@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Rwanda](markdown/countries/rwanda.md) | 3,499 | [Public](markdown/public_contributions/rwanda.md) | [Total](markdown/total_contributions/rwanda.md) | [Followers](markdown/followers/rwanda.md) |
-| [DR Congo](markdown/countries/dr_congo.md) | 701 | [Public](markdown/public_contributions/dr_congo.md) | [Total](markdown/total_contributions/dr_congo.md) | [Followers](markdown/followers/dr_congo.md) |
-| [Svalbard and Jan Mayen](markdown/countries/svalbard_and_jan_mayen.md) | 10 | [Public](markdown/public_contributions/svalbard_and_jan_mayen.md) | [Total](markdown/total_contributions/svalbard_and_jan_mayen.md) | [Followers](markdown/followers/svalbard_and_jan_mayen.md) |
-| [Haiti](markdown/countries/haiti.md) | 339 | [Public](markdown/public_contributions/haiti.md) | [Total](markdown/total_contributions/haiti.md) | [Followers](markdown/followers/haiti.md) |
-| [United States Virgin Islands](markdown/countries/united_states_virgin_islands.md) | 4 | [Public](markdown/public_contributions/united_states_virgin_islands.md) | [Total](markdown/total_contributions/united_states_virgin_islands.md) | [Followers](markdown/followers/united_states_virgin_islands.md) |
+| [Sierra Leone](markdown/countries/sierra_leone.md) | 442 | [Public](markdown/public_contributions/sierra_leone.md) | [Total](markdown/total_contributions/sierra_leone.md) | [Followers](markdown/followers/sierra_leone.md) |
+| [Gibraltar](markdown/countries/gibraltar.md) | 93 | [Public](markdown/public_contributions/gibraltar.md) | [Total](markdown/total_contributions/gibraltar.md) | [Followers](markdown/followers/gibraltar.md) |
+| [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
+| [Isle of Man](markdown/countries/isle_of_man.md) | 155 | [Public](markdown/public_contributions/isle_of_man.md) | [Total](markdown/total_contributions/isle_of_man.md) | [Followers](markdown/followers/isle_of_man.md) |
+| [Faroe Islands](markdown/countries/faroe_islands.md) | 68 | [Public](markdown/public_contributions/faroe_islands.md) | [Total](markdown/total_contributions/faroe_islands.md) | [Followers](markdown/followers/faroe_islands.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-22T23:56:02.426Z
+Generated: 2026-10-23T00:12:52.979Z

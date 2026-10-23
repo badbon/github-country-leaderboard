@@ -15,7 +15,7 @@ Indexed users: 991
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 114,412 |
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,129 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 17,051 |
-| 4 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 14,380 |
+| 4 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 15,121 |
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 14,078 |
 | 6 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 13,171 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 11,277 |
@@ -46,7 +46,7 @@ Indexed users: 991
 | 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,460 |
 | 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
 | 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
-| 10 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 2,154 |
+| 10 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 2,147 |
 | 11 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 2,135 |
 | 12 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
 | 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 1,872 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-22T23:03:51.449Z
+Generated: 2026-10-23T00:05:26.217Z

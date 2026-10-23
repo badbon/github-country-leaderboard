@@ -50,11 +50,11 @@ Indexed users: 1,923
 | 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 1,030 |
 | 12 | [LordDeatHunter](https://github.com/LordDeatHunter) | DH | Macedonia | 1,010 |
 | 13 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
-| 14 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
-| 15 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 910 |
-| 16 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 887 |
+| 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 996 |
+| 15 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
+| 16 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 910 |
 | 17 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 876 |
-| 18 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 859 |
+| 18 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 872 |
 | 19 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 834 |
 | 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 802 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,923
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 167 |
 | 20 | [tino097](https://github.com/tino097) | Konstantin Sivakov | Bitola, North Macedonia | 152 |
 
-Generated: 2026-10-22T23:03:11.458Z
+Generated: 2026-10-23T00:04:43.540Z

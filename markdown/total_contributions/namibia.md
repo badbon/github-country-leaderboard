@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-22T22:59:45.879Z
+Generated: 2026-10-23T00:02:44.735Z
 
 Users: 474
 
@@ -8,7 +8,7 @@ Users: 474
 |---:|---|---|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 8847 |
 | 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 7622 |
-| 3 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 6919 |
+| 3 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 7004 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6743 |
 | 5 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 6539 |
 | 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 6075 |
@@ -20,7 +20,7 @@ Users: 474
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 2941 |
 | 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 2866 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2529 |
-| 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2363 |
+| 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2438 |
 | 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2148 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 2143 |
 | 18 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | @ColabNam  |  | Namibia  | 2106 |

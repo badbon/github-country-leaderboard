@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-22T23:03:59.018Z
+Generated: 2026-10-23T00:05:42.479Z
 
 Users: 2195
 
@@ -21,8 +21,8 @@ Users: 2195
 | 13 | [skmail](https://github.com/skmail) |  |  | SolaimanKmail | Palestine | 6410 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 6010 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 5678 |
-| 16 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
-| 17 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
-| 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 4137 |
-| 19 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4125 |
-| 20 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout |  | abdallahzaqout0 | Gaza, Palestine | 4113 |
+| 16 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh |  |  | Ramallah - Palestine | 5336 |
+| 17 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
+| 18 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
+| 19 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4177 |
+| 20 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 4137 |

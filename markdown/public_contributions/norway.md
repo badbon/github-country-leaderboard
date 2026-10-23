@@ -1,6 +1,6 @@
 # Public Contributions - Norway
 
-Generated: 2026-10-22T23:03:22.945Z
+Generated: 2026-10-23T00:04:51.200Z
 
 Users: 19620
 
@@ -15,7 +15,7 @@ Users: 19620
 | 7 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | @AgentWorkforce | khaliqgant | Oslo, Norway | 11837 |
 | 8 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Crescat AS | helgesverre | Bergen, Norway | 11728 |
 | 9 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Guerrilla |  | Oslo, Norway | 11697 |
-| 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand |  | eirikhanasand | Norway | 9360 |
+| 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand |  | eirikhanasand | Norway | 10644 |
 | 11 | [hausnes](https://github.com/hausnes) | Jo Bjørnar Hausnes | Amalie Skram vgs |  | Bergen, Norway | 9125 |
 | 12 | [asgeirf](https://github.com/asgeirf) | Asgeir Frimannsson |  |  | Oslo, Norway | 9064 |
 | 13 | [stipsan](https://github.com/stipsan) | Cody Olsen | @sanity-io |  | Oslo, Norway | 8411 |

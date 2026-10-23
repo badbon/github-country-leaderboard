@@ -1,6 +1,6 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-22T23:03:51.449Z
+Generated: 2026-10-23T00:05:26.217Z
 
 Users: 991
 
@@ -15,7 +15,7 @@ Users: 991
 | 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Codeline |  | Oman | 2460 |
 | 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali | Codeline |  |  Oman  | 2454 |
 | 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Codeline |  | Oman | 2316 |
-| 10 | [2-towns](https://github.com/2-towns) | Arnaud | @logos-storage |  | Oman | 2154 |
+| 10 | [2-towns](https://github.com/2-towns) | Arnaud | @logos-storage |  | Oman | 2147 |
 | 11 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Minoo Trading SPC |  | Muscat, Masqaţ, Oman | 2135 |
 | 12 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Codeline |  | Oman  | 2129 |
 | 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | @SeniorBlockchain @Block-core @sbc @ameen | miladsoft | Oman | 1872 |

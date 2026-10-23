@@ -46,7 +46,7 @@ Indexed users: 19,620
 | 7 | [khaliqgant](https://github.com/khaliqgant) | Khaliq | Oslo, Norway | 11,837 |
 | 8 | [HelgeSverre](https://github.com/HelgeSverre) | Helge Sverre | Bergen, Norway | 11,728 |
 | 9 | [FRIKKern](https://github.com/FRIKKern) | Frikk Jarl | Oslo, Norway | 11,697 |
-| 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand | Norway | 9,360 |
+| 10 | [eirikhanasand](https://github.com/eirikhanasand) | Eirik Hanasand | Norway | 10,644 |
 | 11 | [hausnes](https://github.com/hausnes) | Jo Bjørnar Hausnes | Bergen, Norway | 9,125 |
 | 12 | [asgeirf](https://github.com/asgeirf) | Asgeir Frimannsson | Oslo, Norway | 9,064 |
 | 13 | [stipsan](https://github.com/stipsan) | Cody Olsen | Oslo, Norway | 8,411 |
@@ -83,4 +83,4 @@ Indexed users: 19,620
 | 19 | [mhadaily](https://github.com/mhadaily) | Majid Hajian | Oslo, Norway | 1,341 |
 | 20 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 
-Generated: 2026-10-22T23:03:22.945Z
+Generated: 2026-10-23T00:04:51.200Z
