@@ -45836,7 +45836,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2013-06-04T09:10:10Z"
   },
   {
@@ -45848,7 +45848,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2013-01-17T19:57:05Z"
   },
   {
@@ -45896,7 +45896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 13,
     "createdAt": "2013-02-20T23:18:32Z"
   },
   {
@@ -45956,7 +45956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2013-06-08T09:23:47Z"
   },
   {
@@ -45968,7 +45968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 47,
     "createdAt": "2013-07-15T20:03:11Z"
   },
   {
@@ -45991,8 +45991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 152,
-    "publicContributions": 591,
+    "privateContributions": 129,
+    "publicContributions": 516,
     "createdAt": "2013-07-10T06:35:49Z"
   },
   {
@@ -46003,8 +46003,8 @@
     "company": "@2Ring ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 889,
-    "publicContributions": 0,
+    "privateContributions": 1323,
+    "publicContributions": 1,
     "createdAt": "2013-10-18T15:37:50Z"
   },
   {
@@ -46030,18 +46030,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-02-07T09:04:46Z"
-  },
-  {
-    "login": "falcomza",
-    "name": "falcom",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3409184?s=72&v=4",
-    "location": "Slovakia",
-    "company": "falcom",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 150,
-    "createdAt": "2013-01-28T19:15:36Z"
   },
   {
     "login": "vladozc",

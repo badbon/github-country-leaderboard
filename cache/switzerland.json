@@ -45620,7 +45620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 78,
     "createdAt": "2021-01-21T20:42:10Z"
   },
   {
@@ -45638,7 +45638,7 @@
   {
     "login": "frederictobien",
     "name": "Frederic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77288861?s=72&u=615a997bab5370f8adef7513f61c298536f548bc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77288861?s=72&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
@@ -45655,8 +45655,8 @@
     "company": "Bernina International",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 36,
-    "publicContributions": 1448,
+    "privateContributions": 37,
+    "publicContributions": 1474,
     "createdAt": "2021-02-25T09:41:07Z"
   },
   {
@@ -45704,7 +45704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 12,
     "createdAt": "2021-05-18T19:16:20Z"
   },
   {
@@ -45728,7 +45728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2021-06-04T09:51:41Z"
   },
   {
@@ -45739,7 +45739,7 @@
     "company": "TickIt vGmbH",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2238,
+    "privateContributions": 2698,
     "publicContributions": 0,
     "createdAt": "2021-06-12T16:57:17Z"
   },
@@ -45752,7 +45752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 8,
     "createdAt": "2021-04-13T10:56:21Z"
   },
   {
@@ -45764,20 +45764,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2021-03-08T07:39:23Z"
-  },
-  {
-    "login": "CanepaDamiano",
-    "name": "Damiano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78973180?s=72&u=8590ae89605eb5f33580c10728530429fd7d98d2&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-02-12T16:16:30Z"
   },
   {
     "login": "21r9152",
@@ -45807,12 +45795,12 @@
     "login": "cocoStein",
     "name": "Corentin Steinhauser",
     "avatarUrl": "https://avatars.githubusercontent.com/u/79094799?s=72&u=f9bafe4cdd2dbfb36592a5b8459bee60d56ac81b&v=4",
-    "location": "Lausanne, Switzerland",
-    "company": "EPFL",
+    "location": "Zurich, Switzerland ",
+    "company": "ETH",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 95,
-    "publicContributions": 475,
+    "followers": 2,
+    "privateContributions": 713,
+    "publicContributions": 364,
     "createdAt": "2021-02-15T13:47:21Z"
   },
   {
@@ -45834,9 +45822,9 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 49,
     "createdAt": "2021-05-16T15:48:20Z"
   },
   {
