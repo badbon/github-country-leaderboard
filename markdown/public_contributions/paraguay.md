@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-23T07:24:24.311Z
+Generated: 2026-10-23T08:33:25.708Z
 
 Users: 2013
 
@@ -12,11 +12,11 @@ Users: 2013
 | 4 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 2921 |
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 2364 |
 | 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. |  |  | Asunción, Paraguay | 2335 |
-| 7 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 1680 |
-| 8 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1670 |
-| 9 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Secretaría Técnica de Planificación del Desarrollo Económico y Social | raczajko | Paraguay | 1597 |
-| 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Banco Continental SAECA |  | Asunción, Paraguay | 1581 |
-| 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1384 |
+| 7 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte |  | ciroiriarte | Paraguay | 1906 |
+| 8 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 1680 |
+| 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1670 |
+| 10 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Secretaría Técnica de Planificación del Desarrollo Económico y Social | raczajko | Paraguay | 1597 |
+| 11 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Banco Continental SAECA |  | Asunción, Paraguay | 1581 |
 | 12 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 1325 |
 | 13 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 1266 |
 | 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 1150 |

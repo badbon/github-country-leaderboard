@@ -31,7 +31,7 @@ Indexed users: 1,900
 | 17 | [jckylalaina](https://github.com/jckylalaina) | Jacky Randrianarivony | Antananarivo, Madagascar | 5,110 |
 | 18 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 5,079 |
 | 19 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,075 |
-| 20 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala | Madagascar | 4,933 |
+| 20 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 5,013 |
 
 ## Public Contributions
 
@@ -45,10 +45,10 @@ Indexed users: 1,900
 | 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 3,285 |
 | 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | Madagascar | 3,107 |
 | 8 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 2,993 |
-| 9 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 2,931 |
+| 9 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 2,973 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 1,981 |
-| 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,947 |
-| 12 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,926 |
+| 11 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,926 |
+| 12 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,884 |
 | 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,764 |
 | 14 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,706 |
 | 15 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,637 |
@@ -83,4 +83,4 @@ Indexed users: 1,900
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 141 |
 
-Generated: 2026-10-23T07:15:09.025Z
+Generated: 2026-10-23T08:24:05.685Z

@@ -31,7 +31,7 @@ Indexed users: 1,069
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,488 |
 | 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,349 |
 | 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 7,025 |
-| 20 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,866 |
+| 20 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,759 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-23T07:23:25.893Z
+Generated: 2026-10-23T08:33:17.995Z

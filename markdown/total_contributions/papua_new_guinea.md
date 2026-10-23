@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-23T07:24:09.069Z
+Generated: 2026-10-23T08:33:21.747Z
 
 Users: 296
 
@@ -9,14 +9,14 @@ Users: 296
 | 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 19551 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 13569 |
 | 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10557 |
-| 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4413 |
-| 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3114 |
+| 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4409 |
+| 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3120 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 3108 |
 | 7 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 1525 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 1518 |
 | 9 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 1436 |
 | 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 1270 |
-| 11 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1153 |
+| 11 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1154 |
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan |  |  | Papua New Guinea | 1060 |
 | 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 906 |
 | 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 766 |

@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-23T07:15:09.025Z
+Generated: 2026-10-23T08:24:05.685Z
 
 Users: 1900
 
@@ -14,10 +14,10 @@ Users: 1900
 | 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 3285 |
 | 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 3107 |
 | 8 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 2993 |
-| 9 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2931 |
+| 9 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2973 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 1981 |
-| 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1947 |
-| 12 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1926 |
+| 11 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1926 |
+| 12 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1884 |
 | 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1764 |
 | 14 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1706 |
 | 15 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1637 |

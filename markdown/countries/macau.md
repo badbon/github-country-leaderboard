@@ -30,7 +30,7 @@ Indexed users: 438
 | 16 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,143 |
 | 17 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,805 |
 | 18 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,795 |
-| 19 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,760 |
+| 19 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,749 |
 | 20 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 1,727 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-23T07:15:04.532Z
+Generated: 2026-10-23T08:24:01.494Z

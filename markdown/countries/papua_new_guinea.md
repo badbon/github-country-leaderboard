@@ -15,14 +15,14 @@ Indexed users: 296
 | 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 19,551 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 13,569 |
 | 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,557 |
-| 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,413 |
-| 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,114 |
+| 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,409 |
+| 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,120 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 3,108 |
 | 7 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 1,525 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 1,518 |
 | 9 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 1,436 |
 | 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,270 |
-| 11 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,153 |
+| 11 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,154 |
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan | Papua New Guinea | 1,060 |
 | 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Port Moresby, 5 Mile | 906 |
 | 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 766 |
@@ -38,7 +38,7 @@ Indexed users: 296
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 3,315 |
-| 2 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,114 |
+| 2 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,120 |
 | 3 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 1,848 |
 | 4 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 816 |
 | 5 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 540 |
@@ -66,7 +66,7 @@ Indexed users: 296
 | 2 | [grecpt](https://github.com/grecpt) | Grecpt | Papua New Guinea | 75 |
 | 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 29 |
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 28 |
-| 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 28 |
+| 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 27 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 22 |
 | 7 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | PORT MORESBY | 21 |
 | 8 | [161710125](https://github.com/161710125) | Muuu | Papua New Guinea | 16 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-23T07:24:09.069Z
+Generated: 2026-10-23T08:33:21.747Z

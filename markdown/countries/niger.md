@@ -24,7 +24,7 @@ Indexed users: 175
 | 10 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 990 |
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 958 |
 | 12 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 892 |
-| 13 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 809 |
+| 13 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 830 |
 | 14 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 783 |
 | 15 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 754 |
 | 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 591 |
@@ -77,10 +77,10 @@ Indexed users: 175
 | 13 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Niamey | 23 |
 | 14 | [sn115426](https://github.com/sn115426) | sn01 | niger | 23 |
 | 15 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | Niamey-Niger | 21 |
-| 16 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 19 |
-| 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 18 |
-| 18 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 18 |
-| 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
+| 16 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 18 |
+| 17 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 18 |
+| 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
+| 19 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 18 |
 | 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 17 |
 
-Generated: 2026-10-23T07:21:18.048Z
+Generated: 2026-10-23T08:30:38.588Z

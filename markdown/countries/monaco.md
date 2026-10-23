@@ -13,13 +13,13 @@ Indexed users: 142
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,581 |
-| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,041 |
+| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,107 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,039 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,761 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,926 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,735 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,258 |
-| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,137 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,721 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,271 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,143 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 949 |
 | 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 801 |
 | 11 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
@@ -52,7 +52,7 @@ Indexed users: 142
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 83 |
 | 14 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 59 |
 | 15 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 58 |
-| 16 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 53 |
+| 16 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
 | 17 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
 | 18 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 49 |
 | 19 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 42 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-23T07:18:16.206Z
+Generated: 2026-10-23T08:28:26.345Z

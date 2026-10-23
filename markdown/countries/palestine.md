@@ -76,11 +76,11 @@ Indexed users: 2,195
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | Jenin, Palestine | 168 |
 | 13 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Ramallah,Palestine | 166 |
 | 14 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 162 |
-| 15 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 153 |
+| 15 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 152 |
 | 16 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | Palestine | 152 |
 | 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 151 |
 | 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 140 |
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-23T07:23:21.976Z
+Generated: 2026-10-23T08:33:12.194Z

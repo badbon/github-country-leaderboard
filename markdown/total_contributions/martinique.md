@@ -1,26 +1,26 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-23T07:16:56.923Z
+Generated: 2026-10-23T08:26:43.869Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5330 |
-| 2 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 5260 |
+| 2 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 5261 |
 | 3 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5198 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4613 |
-| 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3118 |
+| 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3111 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1488 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 1104 |
 | 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel |  | R3tr8 | Martinique | 1014 |
 | 9 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 938 |
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit |  |  | Martinique | 806 |
-| 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 792 |
-| 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 504 |
+| 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 790 |
+| 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 508 |
 | 13 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 479 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
-| 15 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 200 |
+| 15 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 198 |
 | 16 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 173 |
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART |  |  | Martinique | 160 |
 | 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 141 |

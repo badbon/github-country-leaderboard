@@ -1,8 +1,8 @@
 # Followers - Mauritania
 
-Generated: 2026-10-23T07:17:33.336Z
+Generated: 2026-10-23T08:26:48.787Z
 
-Users: 289
+Users: 288
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,9 +17,9 @@ Users: 289
 | 9 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 33 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 32 |
 | 11 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | SMART MS | MaguisKader | MAURITANIA  | 32 |
-| 12 | [Layito96](https://github.com/Layito96) |  | Interlink, Wimex |  | Nouakchott, Mauritania | 31 |
-| 13 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 31 |
-| 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 31 |
+| 12 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 32 |
+| 13 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 32 |
+| 14 | [Layito96](https://github.com/Layito96) |  | Interlink, Wimex |  | Nouakchott, Mauritania | 31 |
 | 15 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 29 |
 | 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 29 |
 | 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 27 |

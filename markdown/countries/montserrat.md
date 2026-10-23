@@ -43,10 +43,10 @@ Indexed users: 291
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,054 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 6 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 693 |
-| 7 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 682 |
+| 7 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 688 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 523 |
-| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 450 |
-| 10 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 421 |
+| 9 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 465 |
+| 10 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 450 |
 | 11 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 394 |
 | 12 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 367 |
 | 13 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 352 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-23T07:18:48.676Z
+Generated: 2026-10-23T08:29:49.661Z

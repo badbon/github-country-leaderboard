@@ -1,6 +1,6 @@
 # Nepal
 
-Indexed users: 14,091
+Indexed users: 14,090
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 14,091
 | 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 752 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-23T07:20:09.080Z
+Generated: 2026-10-23T08:30:22.316Z

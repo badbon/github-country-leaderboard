@@ -18,7 +18,7 @@ Indexed users: 2,190
 | 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 17,082 |
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,702 |
 | 6 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,396 |
-| 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,135 |
+| 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,770 |
 | 8 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,457 |
 | 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 12,187 |
 | 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,546 |
@@ -48,7 +48,7 @@ Indexed users: 2,190
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,299 |
 | 10 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 3,218 |
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,366 |
-| 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 2,164 |
+| 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 2,146 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,119 |
 | 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,983 |
 | 15 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,955 |
@@ -77,10 +77,10 @@ Indexed users: 2,190
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch | Luxembourg | 277 |
 | 14 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | Luxembourg | 261 |
 | 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 256 |
-| 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 229 |
+| 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 227 |
 | 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 223 |
 | 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 212 |
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 191 |
 
-Generated: 2026-10-23T07:14:41.934Z
+Generated: 2026-10-23T08:23:58.157Z

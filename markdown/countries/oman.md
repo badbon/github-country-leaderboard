@@ -13,7 +13,7 @@ Indexed users: 991
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 114,412 |
-| 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,129 |
+| 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,160 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 17,051 |
 | 4 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 15,121 |
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 14,078 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-23T07:23:03.195Z
+Generated: 2026-10-23T08:32:47.590Z
