@@ -46459,21 +46459,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 185,
+    "privateContributions": 321,
     "publicContributions": 1,
     "createdAt": "2023-12-24T23:20:38Z"
-  },
-  {
-    "login": "ohmydeveloper",
-    "name": "Kyrylo Panin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152927171?s=72&u=7d2dacc44d190c1195c48d2d7756c7537e1b1560&v=4",
-    "location": "Odesa, Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2023-12-04T21:48:03Z"
   },
   {
     "login": "ArturCodeCraft",
@@ -46500,18 +46488,6 @@
     "createdAt": "2023-08-14T13:37:36Z"
   },
   {
-    "login": "Comeblack322",
-    "name": "Ivan Zhmutskyi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151415938?s=72&u=b82c9df8c9b529d450816d77240eb454446b54c1&v=4",
-    "location": "Kharkiv, Ukraine",
-    "company": "[Empty Slot]",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-11-19T02:22:06Z"
-  },
-  {
     "login": "artemhrebeniuk",
     "name": "Artem Hrebeniuk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/146990956?s=72&u=e5a44737abaf4b168feb37a2c85334e798301091&v=4",
@@ -46519,20 +46495,20 @@
     "company": "BubbleDev",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 261,
-    "publicContributions": 143,
+    "privateContributions": 251,
+    "publicContributions": 291,
     "createdAt": "2023-10-04T18:33:30Z"
   },
   {
     "login": "mykola-lp",
-    "name": "Mykola",
+    "name": "Mykola Sukhorab",
     "avatarUrl": "https://avatars.githubusercontent.com/u/152780648?s=72&v=4",
-    "location": "Ukraine, Lviv",
+    "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1368,
+    "publicContributions": 2071,
     "createdAt": "2023-12-03T10:56:27Z"
   },
   {
@@ -46580,7 +46556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2023-08-14T20:32:58Z"
   },
   {
@@ -46627,8 +46603,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 22,
-    "publicContributions": 9,
+    "privateContributions": 28,
+    "publicContributions": 8,
     "createdAt": "2023-10-12T18:44:45Z"
   },
   {
@@ -46640,7 +46616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 60,
     "createdAt": "2023-11-25T21:00:51Z"
   },
   {
@@ -46652,7 +46628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-11-13T19:36:00Z"
   },
   {
@@ -46664,7 +46640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 6,
     "createdAt": "2023-11-14T08:56:16Z"
   },
   {

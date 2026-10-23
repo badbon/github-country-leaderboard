@@ -46459,8 +46459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 18,
+    "privateContributions": 8,
+    "publicContributions": 16,
     "createdAt": "2024-02-07T08:33:31Z"
   },
   {
@@ -46470,9 +46470,9 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "thatkidbobo",
-    "followers": 1,
-    "privateContributions": 65,
-    "publicContributions": 1,
+    "followers": 2,
+    "privateContributions": 86,
+    "publicContributions": 10,
     "createdAt": "2024-02-08T21:43:19Z"
   },
   {
@@ -46555,7 +46555,7 @@
     "company": "",
     "twitterUsername": "ahmetsalihkb",
     "followers": 1,
-    "privateContributions": 79,
+    "privateContributions": 75,
     "publicContributions": 0,
     "createdAt": "2024-05-13T08:11:58Z"
   },
@@ -46566,7 +46566,7 @@
     "location": "Bursa Turkey / London United Kingdom",
     "company": "Açık Atölye",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-04T15:58:53Z"
@@ -46584,18 +46584,6 @@
     "createdAt": "2024-01-28T21:33:12Z"
   },
   {
-    "login": "serhatcorekci",
-    "name": "corekciserhat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/164207428?s=72&u=b27f52e157369a11764e8543098da0590a72d94f&v=4",
-    "location": "Turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-03-20T15:16:24Z"
-  },
-  {
     "login": "bora-EEM",
     "name": "Bora",
     "avatarUrl": "https://avatars.githubusercontent.com/u/172174898?s=72&u=833f4a7b19764d6fd208d3fd0a7ec4397e93f107&v=4",
@@ -46603,8 +46591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 39,
+    "privateContributions": 705,
+    "publicContributions": 73,
     "createdAt": "2024-06-09T08:26:22Z"
   },
   {
@@ -46628,7 +46616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 8,
     "createdAt": "2024-01-05T12:01:00Z"
   },
   {
@@ -46640,7 +46628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 20,
     "createdAt": "2024-05-20T18:57:55Z"
   },
   {

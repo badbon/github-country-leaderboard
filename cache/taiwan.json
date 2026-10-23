@@ -40032,18 +40032,6 @@
     "createdAt": "2021-10-01T03:37:13Z"
   },
   {
-    "login": "GNITOAHC",
-    "name": "Chao-Ting, Chen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91186819?s=72&v=4",
-    "location": "Taipei, Taiwan",
-    "company": "Intel Corp.",
-    "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 533,
-    "publicContributions": 768,
-    "createdAt": "2021-09-22T08:47:59Z"
-  },
-  {
     "login": "michaelho0307",
     "name": "何翊豪",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89026500?s=72&u=cb02969cda8400f47b02dd098748351411c2417d&v=4",
@@ -40051,7 +40039,7 @@
     "company": "National Taiwan University",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 20,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2021-08-16T14:08:28Z"
   },
@@ -40059,12 +40047,12 @@
     "login": "shengwei-peng",
     "name": "Sheng-Wei (Ken) Peng",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88447576?s=72&u=2139579709a33498e1e2f65eb196dc4d51447708&v=4",
-    "location": "Taiwan",
+    "location": " Kaohsiung, Taiwan",
     "company": "Pegatron",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 3662,
-    "publicContributions": 125,
+    "followers": 22,
+    "privateContributions": 1079,
+    "publicContributions": 227,
     "createdAt": "2021-08-04T15:19:53Z"
   },
   {
@@ -40074,9 +40062,9 @@
     "location": "Taoyuan, Taiwan",
     "company": "National Central University",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 120,
-    "publicContributions": 121,
+    "followers": 23,
+    "privateContributions": 63,
+    "publicContributions": 212,
     "createdAt": "2021-11-17T13:54:14Z"
   },
   {
@@ -40084,11 +40072,11 @@
     "name": "Wei",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87221670?s=72&u=7824020b96ffa56c1dc96130733dad2b8ae0958a&v=4",
     "location": "Taiwan",
-    "company": "@daodaoedu ",
+    "company": "@microsoft",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 294,
+    "publicContributions": 465,
     "createdAt": "2021-07-10T06:39:12Z"
   },
   {
@@ -40100,7 +40088,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2021-10-12T12:14:25Z"
   },
   {
@@ -40110,9 +40098,9 @@
     "location": "Taiwan",
     "company": "@DIT-ROBOTICS ",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 168,
-    "publicContributions": 3,
+    "followers": 20,
+    "privateContributions": 327,
+    "publicContributions": 61,
     "createdAt": "2021-10-07T09:25:17Z"
   },
   {
@@ -40133,10 +40121,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/93483694?s=72&u=828a5c6f9f3d5dca301c96d62c4a7646cfe9655e&v=4",
     "location": "Taipei, Taiwan",
     "company": "@LINE",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 993,
-    "publicContributions": 242,
+    "twitterUsername": "dongdong867",
+    "followers": 21,
+    "privateContributions": 1307,
+    "publicContributions": 419,
     "createdAt": "2021-10-31T15:57:07Z"
   },
   {
@@ -40146,9 +40134,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 3,
-    "publicContributions": 17,
+    "followers": 18,
+    "privateContributions": 1,
+    "publicContributions": 15,
     "createdAt": "2021-06-29T15:54:22Z"
   },
   {
@@ -40160,19 +40148,19 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 203,
     "createdAt": "2021-10-13T10:36:55Z"
   },
   {
     "login": "vincenzocascone",
     "name": "Vince",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94491363?s=72&u=1b1a402317bfde304e8a13ec5ca5d4e1678eb3e3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94491363?s=72&u=9df823becc6ceec6f0b1cd39702fd6434b9e84ec&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1716,
-    "publicContributions": 21,
+    "followers": 18,
+    "privateContributions": 1488,
+    "publicContributions": 2,
     "createdAt": "2021-11-16T21:55:38Z"
   },
   {
@@ -40182,9 +40170,9 @@
     "location": "Taiwan, Hsinchu",
     "company": "National Yang Ming Chiao Tung University",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2021-09-04T15:48:42Z"
   },
   {
@@ -40194,9 +40182,9 @@
     "location": "Taipei, Taiwan",
     "company": "Intel Corp",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 283,
-    "publicContributions": 432,
+    "followers": 15,
+    "privateContributions": 262,
+    "publicContributions": 502,
     "createdAt": "2021-07-04T13:40:07Z"
   },
   {
@@ -40206,8 +40194,8 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
+    "followers": 15,
+    "privateContributions": 25,
     "publicContributions": 35,
     "createdAt": "2021-10-26T13:06:46Z"
   },
@@ -40218,9 +40206,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 15553,
-    "publicContributions": 3085,
+    "followers": 20,
+    "privateContributions": 38219,
+    "publicContributions": 4557,
     "createdAt": "2021-08-27T14:18:32Z"
   },
   {
@@ -40230,9 +40218,9 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 82,
-    "publicContributions": 21,
+    "followers": 14,
+    "privateContributions": 136,
+    "publicContributions": 31,
     "createdAt": "2021-11-17T03:29:32Z"
   },
   {
@@ -40242,7 +40230,7 @@
     "location": "Taiwan",
     "company": "Kizmeow Beta",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2021-10-06T17:55:16Z"
@@ -40255,20 +40243,20 @@
     "company": "",
     "twitterUsername": "_ZRNOF_",
     "followers": 16,
-    "privateContributions": 306,
-    "publicContributions": 2,
+    "privateContributions": 51,
+    "publicContributions": 1,
     "createdAt": "2021-08-20T21:00:38Z"
   },
   {
     "login": "sago-cream",
     "name": "Hsi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94444077?s=72&u=ec2189f228fd65cded51724a1fcec73746f9cf02&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94444077?s=72&u=49628bf1baeab16bc8a7fe3b3a1b95ff8139b01a&v=4",
     "location": "Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 1024,
-    "publicContributions": 6376,
+    "company": "Potato @ Couch",
+    "twitterUsername": "sagocream_",
+    "followers": 21,
+    "privateContributions": 2013,
+    "publicContributions": 6998,
     "createdAt": "2021-11-16T09:31:17Z"
   },
   {
