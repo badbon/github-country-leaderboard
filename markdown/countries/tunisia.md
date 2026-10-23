@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,157
+Indexed users: 7,156
 
 | Leaderboard | Link |
 |---|---|
@@ -77,10 +77,10 @@ Indexed users: 7,157
 | 13 | [X-SLAYER](https://github.com/X-SLAYER) | Iheb Briki | Tunisia | 645 |
 | 14 | [mn-youssef](https://github.com/mn-youssef) | mansouri youssef | tunisia | 613 |
 | 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Tunis | 603 |
-| 16 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 560 |
+| 16 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 572 |
 | 17 | [jassercherif](https://github.com/jassercherif) | jasser cherif | Kelibia, Nabeul, Tunisia | 529 |
-| 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
+| 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunis, Tunisia | 502 |
 | 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 | 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 470 |
 
-Generated: 2026-10-23T08:26:48.787Z
+Generated: 2026-10-23T12:43:33.720Z

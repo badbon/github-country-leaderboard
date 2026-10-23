@@ -212,14 +212,14 @@ Published countries: 236
 | Syria | 1,478 | [View](./syria.md) |
 | Taiwan | 21,993 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
-| Tanzania | 2,038 | [View](./tanzania.md) |
+| Tanzania | 2,037 | [View](./tanzania.md) |
 | Thailand | 14,977 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
 | Togo | 677 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
-| Tunisia | 7,157 | [View](./tunisia.md) |
+| Tunisia | 7,156 | [View](./tunisia.md) |
 | Turkey | 79,159 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T12:41:11.063Z
+Generated: 2026-10-23T12:46:03.502Z
