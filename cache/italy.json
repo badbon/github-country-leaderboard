@@ -588082,5 +588082,101 @@
     "privateContributions": 0,
     "publicContributions": 1879,
     "createdAt": "2008-06-07T16:00:45Z"
+  },
+  {
+    "login": "PiBOH",
+    "name": "Pietro Bonaldo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291510898?s=72&u=002214dba350008c2809b117ccbdf1eace4f53a6&v=4",
+    "location": "Italia 🇮🇹",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 43,
+    "publicContributions": 1773,
+    "createdAt": "2026-06-07T12:04:08Z"
+  },
+  {
+    "login": "gregoriomangano",
+    "name": "Gregorio Mangano",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291219501?s=72&u=3744fd73cfd638e2472bfdf2b37f2e02720b9293&v=4",
+    "location": "italia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2026-06-06T05:22:04Z"
+  },
+  {
+    "login": "jesusasdrubalguzman",
+    "name": "Jesus Guzman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287817099?s=72&u=b90f64618fba570555c780708f5eb6fbf5a17443&v=4",
+    "location": "italia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-25T21:30:37Z"
+  },
+  {
+    "login": "Rekria-srl",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/300808675?s=72&u=feca76493ce8b478029c485630ebe88d09e4d248&v=4",
+    "location": "via Caldieri 131, Napoli, Italia",
+    "company": "Rekria s.r.l.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-07T08:38:53Z"
+  },
+  {
+    "login": "dev-oriqo",
+    "name": "Developer Oriqo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287813512?s=72&u=e87b4a8aa12fb4a583a963403f7f6c5a70b9ad08&v=4",
+    "location": "Italia",
+    "company": "Oriqo Project",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 100,
+    "createdAt": "2026-05-25T21:07:36Z"
+  },
+  {
+    "login": "mihaelanikolova-git",
+    "name": "mihaela.nikolova-git",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/305122606?s=72&u=bd6658a578807922c40542a2bcaf9949f8fef631&v=4",
+    "location": "Torino, Italia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 117,
+    "createdAt": "2026-07-14T22:33:31Z"
+  },
+  {
+    "login": "imadelmir",
+    "name": "Imad El Mir ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292352858?s=72&u=d994b192918dd1ebdc7e1e6b99b9ac3e8d3928db&v=4",
+    "location": "Torino, Italia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 766,
+    "publicContributions": 504,
+    "createdAt": "2026-06-10T07:07:04Z"
+  },
+  {
+    "login": "Emi-Lpz-Ay",
+    "name": "Emilio Lopez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288259041?s=72&u=5774ee11862f004c85364a68ef0f6704d5faff51&v=4",
+    "location": "Italia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-05-27T08:24:25Z"
   }
 ]
