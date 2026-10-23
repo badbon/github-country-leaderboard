@@ -9571,7 +9571,7 @@
     "company": "https://timetools.eu",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 586,
+    "privateContributions": 646,
     "publicContributions": 5,
     "createdAt": "2020-02-12T18:05:20Z"
   },
@@ -9583,8 +9583,8 @@
     "company": "Ekonomska fakulteta, Univerza v Ljubljani",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 52,
-    "publicContributions": 20,
+    "privateContributions": 51,
+    "publicContributions": 18,
     "createdAt": "2020-07-07T12:37:42Z"
   },
   {
@@ -9607,21 +9607,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 198,
+    "privateContributions": 206,
     "publicContributions": 78,
     "createdAt": "2020-09-19T23:03:04Z"
-  },
-  {
-    "login": "edgarcancinoe",
-    "name": "José Edgar Hernandez Cancino Estrada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59784477?s=72&u=d9f7df329188be9eb296ea8cabfad12fddc6a9dd&v=4",
-    "location": "Ljubljana ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 718,
-    "publicContributions": 758,
-    "createdAt": "2020-01-12T03:42:21Z"
   },
   {
     "login": "javornikanze",
@@ -9631,7 +9619,7 @@
     "company": "Faculty Of Computer & Information Science",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1022,
+    "privateContributions": 2307,
     "publicContributions": 22,
     "createdAt": "2020-02-27T08:09:56Z"
   },
@@ -9643,7 +9631,7 @@
     "company": "Celtra",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1153,
+    "privateContributions": 1164,
     "publicContributions": 6,
     "createdAt": "2020-04-06T16:23:22Z"
   },
@@ -9676,11 +9664,11 @@
     "name": "Vili Tajnic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69991339?s=72&u=4cd70f8dcb498a1aeb88529a8810eb23a6d894ad&v=4",
     "location": "Ljubljana",
-    "company": "evolve next chapter",
+    "company": "Advansys",
     "twitterUsername": "vilita",
     "followers": 4,
-    "privateContributions": 201,
-    "publicContributions": 188,
+    "privateContributions": 235,
+    "publicContributions": 178,
     "createdAt": "2020-08-20T21:15:57Z"
   },
   {
@@ -9691,8 +9679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 408,
-    "publicContributions": 373,
+    "privateContributions": 399,
+    "publicContributions": 442,
     "createdAt": "2020-05-12T09:28:58Z"
   },
   {
@@ -9704,7 +9692,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 37,
     "createdAt": "2020-10-17T08:58:48Z"
   },
   {
@@ -9727,7 +9715,7 @@
     "company": "University of Ljubljana, Biotechnical faculty",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 155,
+    "privateContributions": 153,
     "publicContributions": 0,
     "createdAt": "2020-12-01T16:56:34Z"
   },
@@ -9751,7 +9739,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2202,
+    "privateContributions": 2394,
     "publicContributions": 1751,
     "createdAt": "2020-10-31T15:35:38Z"
   },

@@ -47160,30 +47160,6 @@
     "createdAt": "2023-09-15T11:36:48Z"
   },
   {
-    "login": "ValiaStebivka",
-    "name": "Valentyna Bihun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139239740?s=72&u=969f007b3a2d29df85d555374a381293ec14567f&v=4",
-    "location": "Lviv, Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-07-11T13:15:53Z"
-  },
-  {
-    "login": "Hatakava",
-    "name": "Hatakava Demir | Myroslav Shvets",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148826198?s=72&u=b90b5c9bbf054189aaba9afd028b6a9aab2da2b5&v=4",
-    "location": "Ukraine",
-    "company": "MADE | VISION",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-10-23T23:21:16Z"
-  },
-  {
     "login": "buhaivladyslav",
     "name": "Vladyslav Buhai",
     "avatarUrl": "https://avatars.githubusercontent.com/u/148922469?s=72&u=9caedbc775c62a891778574a3b46615725cc5c86&v=4",
@@ -47204,7 +47180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 38,
     "createdAt": "2023-11-01T20:44:04Z"
   },
   {
@@ -47215,7 +47191,7 @@
     "company": "@mnproduction",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 85,
+    "privateContributions": 86,
     "publicContributions": 3,
     "createdAt": "2023-10-03T16:26:10Z"
   },
@@ -47288,7 +47264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2023-07-24T07:17:32Z"
   },
   {
@@ -47300,7 +47276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-11-17T10:00:03Z"
   },
   {
@@ -47342,7 +47318,7 @@
   {
     "login": "AlwaysDoBetter1",
     "name": "Pavlo Vyskrebentsev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138788803?s=72&u=45618e46f62fa8e376caa510af75c3b5154f4f94&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138788803?s=72&u=fd177f76dadacb3f189b3f84b832bde348ab48de&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
@@ -47360,7 +47336,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2023-07-27T17:28:31Z"
   },
   {
@@ -47372,7 +47348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 316,
+    "publicContributions": 286,
     "createdAt": "2023-11-17T15:28:03Z"
   },
   {
@@ -47382,8 +47358,8 @@
     "location": "Kyiv, Ukraine",
     "company": "M_SERVER",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 6091,
+    "followers": 2,
+    "privateContributions": 4627,
     "publicContributions": 5,
     "createdAt": "2023-11-08T22:30:19Z"
   },
