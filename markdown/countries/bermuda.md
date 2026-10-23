@@ -15,7 +15,7 @@ Indexed users: 897
 | 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 27,487 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 14,081 |
 | 3 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 13,035 |
-| 4 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 12,172 |
+| 4 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 12,652 |
 | 5 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,750 |
 | 6 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,513 |
 | 7 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,703 |
@@ -83,4 +83,4 @@ Indexed users: 897
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 67 |
 
-Generated: 2026-10-23T20:40:31.667Z
+Generated: 2026-10-23T22:46:53.466Z

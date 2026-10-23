@@ -15,7 +15,7 @@ Indexed users: 2,499
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 34,064 |
 | 2 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | Angola | 13,225 |
 | 3 | [marianoj8](https://github.com/marianoj8) | Mariano JavaSwing | Angola, Luanda | 12,910 |
-| 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,834 |
+| 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 11,906 |
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,429 |
 | 6 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 9,520 |
 | 7 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 8,618 |
@@ -83,4 +83,4 @@ Indexed users: 2,499
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-23T20:37:51.338Z
+Generated: 2026-10-23T22:43:28.996Z

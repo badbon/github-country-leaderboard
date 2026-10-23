@@ -12,8 +12,8 @@ Indexed users: 61
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 12,942 |
-| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan | Mariehamn | 4,104 |
+| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 12,945 |
+| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan | Mariehamn | 4,105 |
 | 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 3,836 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,367 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,708 |
@@ -21,7 +21,7 @@ Indexed users: 61
 | 7 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,382 |
 | 8 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Åland, Finland | 1,254 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 1,022 |
-| 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 920 |
+| 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 933 |
 | 11 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 618 |
 | 12 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 576 |
 | 13 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 528 |
@@ -37,9 +37,9 @@ Indexed users: 61
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 1,172 |
+| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 1,173 |
 | 2 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 962 |
-| 3 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 920 |
+| 3 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 933 |
 | 4 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 576 |
 | 5 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 531 |
 | 6 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 528 |
@@ -70,11 +70,11 @@ Indexed users: 61
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 24 |
 | 7 | [tvntvn13](https://github.com/tvntvn13) | Taneli Mäkihannu | Mariehamn, Åland Islands | 21 |
 | 8 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland Islands | 18 |
-| 9 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 18 |
+| 9 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 17 |
 | 10 | [cenk-idris](https://github.com/cenk-idris) | Cenk İdris İncirkuş | Åland Islands, Finland | 16 |
 | 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 16 |
-| 12 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 15 |
-| 13 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 14 |
+| 12 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 14 |
+| 13 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 14 |
 | 14 | [sailordi](https://github.com/sailordi) | Sailordi | Mariehamn Finland | 14 |
 | 15 | [giAddams](https://github.com/giAddams) | Geraldine Addamo | Mariehamn | 12 |
 | 16 | [pophaax](https://github.com/pophaax) | Åland Sailing Robots | Åland Islands (FIN) | 12 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-23T20:36:34.080Z
+Generated: 2026-10-23T22:42:19.943Z

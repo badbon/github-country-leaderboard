@@ -47,13 +47,13 @@ Indexed users: 1,180
 | 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,002 |
 | 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 909 |
 | 10 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 779 |
-| 11 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
-| 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
-| 13 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 691 |
-| 14 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
-| 15 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 647 |
-| 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 643 |
-| 17 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 639 |
+| 11 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 771 |
+| 12 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
+| 13 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
+| 14 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 691 |
+| 15 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
+| 16 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 647 |
+| 17 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 643 |
 | 18 | [genciiv](https://github.com/genciiv) | G-code | Albania | 633 |
 | 19 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 624 |
 | 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 613 |
@@ -83,4 +83,4 @@ Indexed users: 1,180
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-23T20:37:37.351Z
+Generated: 2026-10-23T22:42:38.591Z

@@ -1,8 +1,8 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-23T20:40:02.290Z
+Generated: 2026-10-23T22:45:36.663Z
 
-Users: 10918
+Users: 10916
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 10918
 | 16 | [reven86](https://github.com/reven86) | Andrew Karpushin |  |  | Minsk, Belarus | 5216 |
 | 17 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | @epam @lean-delivery @jacred-fdb @lampac-nextgen |  | Grodno, Belarus | 5010 |
 | 18 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei |  |  | Minsk | 5006 |
-| 19 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik |  |  | Minsk | 4822 |
-| 20 | [hotrush](https://github.com/hotrush) |  |  |  | Minsk, Belarus | 4799 |
+| 19 | [aliskar](https://github.com/aliskar) | Aliaksandr Skarakhod | EPAM Systems |  | Belarus | 4929 |
+| 20 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik |  |  | Minsk | 4822 |

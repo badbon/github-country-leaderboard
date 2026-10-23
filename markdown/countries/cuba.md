@@ -19,7 +19,7 @@ Indexed users: 1,272
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,311 |
 | 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 7,733 |
 | 7 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 7,007 |
-| 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,836 |
+| 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,809 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,478 |
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 5,389 |
 | 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 4,876 |
@@ -83,4 +83,4 @@ Indexed users: 1,272
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-23T20:47:39.404Z
+Generated: 2026-10-23T22:55:11.449Z

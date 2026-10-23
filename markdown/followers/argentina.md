@@ -1,6 +1,6 @@
 # Followers - Argentina
 
-Generated: 2026-10-23T20:38:23.619Z
+Generated: 2026-10-23T22:44:40.049Z
 
 Users: 50710
 
@@ -20,8 +20,8 @@ Users: 50710
 | 12 | [111milprogramadores](https://github.com/111milprogramadores) | 111mil Programadores |  |  | Argentina | 1235 |
 | 13 | [carolinabentresca](https://github.com/carolinabentresca) | Carolina Bentresca |  |  | Buenos Aires,  Argentina | 1155 |
 | 14 | [atralice](https://github.com/atralice) | Antonio Tralice |  | tonitralice | Buenos Aires | 1086 |
-| 15 | [alfredo-fnz007](https://github.com/alfredo-fnz007) | Alfredo Fernandez | Remote |  | Buenos Aires | 1047 |
-| 16 | [octaviovillegas](https://github.com/octaviovillegas) | Octavio |  |  | Buenos Aires, Argentina | 1046 |
+| 15 | [octaviovillegas](https://github.com/octaviovillegas) | Octavio |  |  | Buenos Aires, Argentina | 1046 |
+| 16 | [alfredo-fnz007](https://github.com/alfredo-fnz007) | Alfredo Fernandez | Remote |  | Buenos Aires | 1041 |
 | 17 | [valentinawerle](https://github.com/valentinawerle) | Valentina Werle |  |  | Buenos Aires, Argentina | 1010 |
 | 18 | [roxsross](https://github.com/roxsross) | Rossana Suarez | roxsross | roxsross | Argentina | 1005 |
 | 19 | [dacap](https://github.com/dacap) | David Capello | Igara Studio | davidcapello | Argentina | 1004 |

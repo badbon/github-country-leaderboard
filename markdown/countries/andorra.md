@@ -28,8 +28,8 @@ Indexed users: 215
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 4,247 |
 | 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 4,241 |
 | 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,853 |
-| 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,515 |
-| 18 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,511 |
+| 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,511 |
+| 18 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,501 |
 | 19 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Andorra | 3,288 |
 | 20 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,123 |
 
@@ -40,13 +40,13 @@ Indexed users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 50,659 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 3,032 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,473 |
-| 4 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 809 |
+| 4 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 811 |
 | 5 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 798 |
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 705 |
 | 7 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 700 |
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 677 |
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 613 |
-| 10 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 610 |
+| 10 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 611 |
 | 11 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 514 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 446 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-23T20:37:47.973Z
+Generated: 2026-10-23T22:42:47.483Z

@@ -18,7 +18,7 @@ Indexed users: 132
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,341 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 3,078 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,856 |
-| 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 2,237 |
+| 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 2,272 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,752 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,569 |
 | 10 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,387 |
@@ -28,7 +28,7 @@ Indexed users: 132
 | 14 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 727 |
 | 15 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 670 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
-| 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 589 |
+| 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 590 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 441 |
 | 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 436 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-23T20:39:59.668Z
+Generated: 2026-10-23T22:45:33.737Z

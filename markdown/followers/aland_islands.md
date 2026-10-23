@@ -1,6 +1,6 @@
 # Followers - Åland Islands
 
-Generated: 2026-10-23T20:36:34.080Z
+Generated: 2026-10-23T22:42:19.943Z
 
 Users: 61
 
@@ -14,11 +14,11 @@ Users: 61
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 24 |
 | 7 | [tvntvn13](https://github.com/tvntvn13) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 21 |
 | 8 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland University of Applied Sciences |  | Åland Islands | 18 |
-| 9 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 18 |
+| 9 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 17 |
 | 10 | [cenk-idris](https://github.com/cenk-idris) | Cenk İdris İncirkuş | grit:lab |  | Åland Islands, Finland | 16 |
 | 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 16 |
-| 12 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 15 |
-| 13 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 14 |
+| 12 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 14 |
+| 13 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 14 |
 | 14 | [sailordi](https://github.com/sailordi) | Sailordi |  |  | Mariehamn Finland | 14 |
 | 15 | [giAddams](https://github.com/giAddams) | Geraldine Addamo |  |  | Mariehamn | 12 |
 | 16 | [pophaax](https://github.com/pophaax) | Åland Sailing Robots | Åland University of Applied Sciences |  | Åland Islands (FIN) | 12 |

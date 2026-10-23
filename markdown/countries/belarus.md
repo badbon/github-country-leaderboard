@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,918
+Indexed users: 10,916
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 10,918
 | 16 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
 | 17 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
 | 18 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
-| 19 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
-| 20 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
+| 19 | [aliskar](https://github.com/aliskar) | Aliaksandr Skarakhod | Belarus | 4,929 |
+| 20 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,918
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 165 |
 
-Generated: 2026-10-23T20:40:02.290Z
+Generated: 2026-10-23T22:45:36.663Z

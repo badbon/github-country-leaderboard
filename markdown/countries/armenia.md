@@ -24,14 +24,14 @@ Indexed users: 4,022
 | 10 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev | Armenia | 11,483 |
 | 11 | [RALIST](https://github.com/RALIST) | Alexander Danilov  | Yerevan | 11,414 |
 | 12 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 11,306 |
-| 13 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 10,939 |
-| 14 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | Yerevan | 10,887 |
-| 15 | [haykkarapetyan](https://github.com/haykkarapetyan) | Hayk Karapetyan | Armenia Yerevan | 9,270 |
-| 16 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 9,059 |
-| 17 | [urumo](https://github.com/urumo) |  | Armenia, Yerevan | 8,750 |
-| 18 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 8,606 |
-| 19 | [NarHakobyan](https://github.com/NarHakobyan) | Narek Hakobyan | Armenia | 8,102 |
-| 20 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov | Armenia Yerevan | 8,096 |
+| 13 | [basvasilich](https://github.com/basvasilich) | Vadim Patsev | Yerevan | 11,129 |
+| 14 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 10,939 |
+| 15 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | Yerevan | 10,887 |
+| 16 | [haykkarapetyan](https://github.com/haykkarapetyan) | Hayk Karapetyan | Armenia Yerevan | 9,270 |
+| 17 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 9,059 |
+| 18 | [urumo](https://github.com/urumo) |  | Armenia, Yerevan | 8,750 |
+| 19 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 8,606 |
+| 20 | [NarHakobyan](https://github.com/NarHakobyan) | Narek Hakobyan | Armenia | 8,102 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,022
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 234 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-23T20:38:30.271Z
+Generated: 2026-10-23T22:44:46.358Z

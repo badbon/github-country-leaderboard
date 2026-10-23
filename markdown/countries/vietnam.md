@@ -1,6 +1,6 @@
 # Vietnam
 
-Indexed users: 25,827
+Indexed users: 25,825
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 25,827
 | 19 | [paulnguyen-mn](https://github.com/paulnguyen-mn) | Paul Nguyen | HCMC, Vietnam | 1,087 |
 | 20 | [qnblackcat](https://github.com/qnblackcat) | Nguyễn Đạt | Vietnam | 1,033 |
 
-Generated: 2026-10-23T20:33:55.377Z
+Generated: 2026-10-23T22:39:57.851Z
