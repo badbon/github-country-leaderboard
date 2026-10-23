@@ -11310,7 +11310,7 @@
     "location": "kabul",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2021-07-10T17:41:49Z"
@@ -11359,7 +11359,7 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1265,
+    "privateContributions": 1277,
     "publicContributions": 0,
     "createdAt": "2021-09-29T13:08:11Z"
   },
@@ -11371,7 +11371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 75,
+    "privateContributions": 74,
     "publicContributions": 6,
     "createdAt": "2021-12-25T09:04:18Z"
   },
@@ -11395,7 +11395,7 @@
     "company": "Parsa Technologies",
     "twitterUsername": "Milad_Rahimi_93",
     "followers": 2,
-    "privateContributions": 1899,
+    "privateContributions": 1220,
     "publicContributions": 37,
     "createdAt": "2021-11-24T20:25:42Z"
   },
@@ -11474,11 +11474,11 @@
   {
     "login": "SanaTameem",
     "name": "Sana Tameem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71990110?s=72&u=15c10f041dcf4b525a72c9c2bb3021a18c87a2f1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71990110?s=72&u=9777e09b91784c12983175bf9fd864d8f63d9df1&v=4",
     "location": "Kabul-Afghanistan",
     "company": "Afghan Relief",
     "twitterUsername": "sanooo2001",
-    "followers": 435,
+    "followers": 437,
     "privateContributions": 166,
     "publicContributions": 75,
     "createdAt": "2020-09-27T21:40:40Z"
@@ -11490,7 +11490,7 @@
     "location": "Afghanistan",
     "company": "WASSA",
     "twitterUsername": "",
-    "followers": 130,
+    "followers": 131,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-11-21T04:36:08Z"
@@ -11503,8 +11503,8 @@
     "company": "Sr. Software Engineer",
     "twitterUsername": "shahghasi_adil",
     "followers": 115,
-    "privateContributions": 6428,
-    "publicContributions": 106,
+    "privateContributions": 6392,
+    "publicContributions": 105,
     "createdAt": "2020-04-29T01:17:21Z"
   },
   {
@@ -11515,7 +11515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 70,
-    "privateContributions": 4435,
+    "privateContributions": 4907,
     "publicContributions": 62,
     "createdAt": "2020-02-08T04:34:36Z"
   },

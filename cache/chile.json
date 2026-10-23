@@ -46855,8 +46855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2022-03-26T18:08:07Z"
   },
   {
@@ -46866,9 +46866,9 @@
     "location": "Olmué, Valparaíso, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1507,
-    "publicContributions": 3,
+    "followers": 6,
+    "privateContributions": 1633,
+    "publicContributions": 5,
     "createdAt": "2022-01-20T14:35:34Z"
   },
   {
@@ -46891,8 +46891,8 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 24,
-    "publicContributions": 131,
+    "privateContributions": 43,
+    "publicContributions": 122,
     "createdAt": "2022-02-10T19:59:38Z"
   },
   {
@@ -46903,8 +46903,8 @@
     "company": "@e-SMART-CL ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 981,
-    "publicContributions": 2,
+    "privateContributions": 1454,
+    "publicContributions": 0,
     "createdAt": "2022-02-03T05:15:02Z"
   },
   {
@@ -46927,8 +46927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 480,
-    "publicContributions": 197,
+    "privateContributions": 499,
+    "publicContributions": 359,
     "createdAt": "2022-03-21T23:18:19Z"
   },
   {
@@ -46950,9 +46950,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 52,
-    "publicContributions": 29,
+    "followers": 3,
+    "privateContributions": 48,
+    "publicContributions": 19,
     "createdAt": "2022-02-06T02:23:54Z"
   },
   {
@@ -46962,8 +46962,8 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 2,
+    "followers": 5,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2022-03-17T22:47:25Z"
   },
@@ -46976,7 +46976,7 @@
     "twitterUsername": "garagorrycom",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 34,
     "createdAt": "2022-03-17T00:27:52Z"
   },
   {
@@ -47024,7 +47024,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 24,
     "createdAt": "2022-01-01T23:55:31Z"
   },
   {
@@ -47034,7 +47034,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-02-02T22:29:10Z"
@@ -47047,8 +47047,8 @@
     "company": "",
     "twitterUsername": "DevR41",
     "followers": 4,
-    "privateContributions": 127,
-    "publicContributions": 0,
+    "privateContributions": 272,
+    "publicContributions": 4,
     "createdAt": "2022-01-26T17:42:26Z"
   },
   {
@@ -47070,9 +47070,9 @@
     "location": "Valdivia, Chile",
     "company": "Nida Technologies",
     "twitterUsername": "alfonsoemoreno",
-    "followers": 4,
-    "privateContributions": 68,
-    "publicContributions": 347,
+    "followers": 5,
+    "privateContributions": 104,
+    "publicContributions": 394,
     "createdAt": "2021-12-30T19:35:17Z"
   },
   {
@@ -47084,7 +47084,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2022-01-06T15:19:46Z"
   },
   {

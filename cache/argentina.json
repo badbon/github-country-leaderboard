@@ -46496,7 +46496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 18,
     "createdAt": "2024-07-08T21:41:48Z"
   },
   {
@@ -46544,7 +46544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 49,
     "createdAt": "2024-11-15T02:01:17Z"
   },
   {
@@ -46556,7 +46556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 29,
     "createdAt": "2024-11-20T12:53:55Z"
   },
   {
@@ -46568,7 +46568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 10,
     "createdAt": "2024-10-26T22:05:22Z"
   },
   {
@@ -46628,7 +46628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 86,
     "createdAt": "2024-12-08T13:53:59Z"
   },
   {
@@ -46652,7 +46652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 89,
     "createdAt": "2024-09-09T19:11:24Z"
   },
   {
@@ -46664,31 +46664,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 13,
     "createdAt": "2024-07-02T00:40:59Z"
   },
   {
-    "login": "bwuade",
-    "name": "Bruno Wolfsteiner",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178956350?s=72&v=4",
-    "location": "Buenos Aires, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-08-20T23:25:02Z"
-  },
-  {
     "login": "noeliaporta",
-    "name": "Noelia Porta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183025417?s=72&u=53dea9f80e03fe0c108b96835da49a2323d9f522&v=4",
+    "name": "Brisa Porta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183025417?s=72&u=54fb627c3e70990ff318bf51225024ebaa182893&v=4",
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 42,
-    "publicContributions": 111,
+    "followers": 2,
+    "privateContributions": 18,
+    "publicContributions": 145,
     "createdAt": "2024-09-26T21:26:10Z"
   },
   {

@@ -47096,7 +47096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 0,
     "createdAt": "2021-05-15T09:56:31Z"
   },
   {
@@ -47118,7 +47118,7 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-22T19:46:03Z"
@@ -47154,9 +47154,9 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 78,
     "createdAt": "2021-04-15T11:50:08Z"
   },
   {
@@ -47182,18 +47182,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-11T13:06:37Z"
-  },
-  {
-    "login": "boqan",
-    "name": "Boyan Atanasov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91849214?s=72&u=999bea9b6621c5e78ddcc88e4cc0b674ba8f8b7b&v=4",
-    "location": "Sofia, Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2021-10-03T19:27:57Z"
   },
   {
     "login": "evgenistoyanovz",

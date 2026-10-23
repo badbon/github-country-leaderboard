@@ -46532,7 +46532,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 36,
     "createdAt": "2023-06-21T21:22:58Z"
   },
   {
@@ -46544,7 +46544,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 320,
+    "publicContributions": 344,
     "createdAt": "2023-05-09T21:32:45Z"
   },
   {
@@ -46554,9 +46554,9 @@
     "location": "Colombia, Bogotá",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 331,
-    "publicContributions": 159,
+    "followers": 5,
+    "privateContributions": 369,
+    "publicContributions": 153,
     "createdAt": "2023-06-18T23:46:34Z"
   },
   {
@@ -46568,7 +46568,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 363,
+    "publicContributions": 331,
     "createdAt": "2023-06-05T01:05:38Z"
   },
   {
@@ -46580,7 +46580,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 67,
     "createdAt": "2023-05-01T19:12:52Z"
   },
   {
@@ -46592,7 +46592,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 174,
     "createdAt": "2023-04-28T17:02:30Z"
   },
   {
@@ -46603,7 +46603,7 @@
     "company": "88Pay",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 6304,
+    "privateContributions": 7551,
     "publicContributions": 96,
     "createdAt": "2023-04-12T00:47:10Z"
   },
@@ -46627,8 +46627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 272,
-    "publicContributions": 9,
+    "privateContributions": 247,
+    "publicContributions": 74,
     "createdAt": "2023-06-26T18:30:51Z"
   },
   {
@@ -46639,32 +46639,32 @@
     "company": "UAO",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 144,
-    "publicContributions": 125,
+    "privateContributions": 93,
+    "publicContributions": 114,
     "createdAt": "2023-04-26T17:49:24Z"
   },
   {
     "login": "DanteUrdaneta",
     "name": "Nestor Urdaneta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137725460?s=72&u=a780dae81b15e15c16f2c32df58c073f7c54df2c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137725460?s=72&u=89752b03ed012f33e1729c82335bd0147ca5498b&v=4",
     "location": "Bogota, Colombia",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 218,
-    "publicContributions": 9,
+    "privateContributions": 261,
+    "publicContributions": 10,
     "createdAt": "2023-06-25T19:46:41Z"
   },
   {
     "login": "sebas679og",
     "name": "Sebastian Orjuela Giraldo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/136865943?s=72&u=a75b64814a76935e6d0044adaad291feb3cadf3d&v=4",
-    "location": "Samaná, Caldas, Colombia",
+    "location": "Manizales, Caldas, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 146,
-    "publicContributions": 1582,
+    "followers": 7,
+    "privateContributions": 4,
+    "publicContributions": 1820,
     "createdAt": "2023-06-17T00:50:21Z"
   },
   {
@@ -46676,7 +46676,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 3,
-    "publicContributions": 368,
+    "publicContributions": 303,
     "createdAt": "2023-03-30T18:12:26Z"
   },
   {
@@ -46687,8 +46687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 9,
-    "publicContributions": 4,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2023-05-11T00:15:23Z"
   },
   {
@@ -46698,34 +46698,22 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1244,
+    "followers": 8,
+    "privateContributions": 1339,
     "publicContributions": 2,
     "createdAt": "2023-06-21T00:49:11Z"
   },
   {
     "login": "xblazegmd",
     "name": "XblazeGMD",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134009745?s=72&u=7d419720ba887210c0057bae6a46dcbfb54651d5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134009745?s=72&u=814a0959f17f754a7f7c2410f92d0d0684eaec3c&v=4",
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 931,
+    "publicContributions": 1156,
     "createdAt": "2023-05-18T19:54:35Z"
-  },
-  {
-    "login": "Arnovii",
-    "name": "Arnovi Jimenez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135668703?s=72&u=65ed5b0662d0d366778b5baeddeeec87c0819c52&v=4",
-    "location": "Colombia",
-    "company": "@wijex",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 12,
-    "publicContributions": 376,
-    "createdAt": "2023-06-05T22:26:49Z"
   },
   {
     "login": "juanessaavedra",
@@ -46735,8 +46723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 677,
-    "publicContributions": 36,
+    "privateContributions": 603,
+    "publicContributions": 33,
     "createdAt": "2023-04-22T17:28:08Z"
   },
   {
@@ -46748,7 +46736,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 82,
-    "publicContributions": 155,
+    "publicContributions": 122,
     "createdAt": "2023-06-01T21:06:20Z"
   },
   {
@@ -46760,7 +46748,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 164,
     "createdAt": "2023-06-06T15:27:33Z"
   },
   {
