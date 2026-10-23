@@ -47456,7 +47456,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2020-05-06T20:56:39Z"
   },
   {
@@ -47478,8 +47478,8 @@
     "location": "Belgium",
     "company": "@howest-ti-sep ",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 575,
+    "followers": 2,
+    "privateContributions": 10,
     "publicContributions": 67,
     "createdAt": "2020-03-27T16:15:27Z"
   },
@@ -47491,8 +47491,8 @@
     "company": "MindWalk @MindWalk (formerly @BioStrand)",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1139,
-    "publicContributions": 12,
+    "privateContributions": 1612,
+    "publicContributions": 11,
     "createdAt": "2020-02-11T14:08:29Z"
   },
   {
@@ -47516,7 +47516,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 26,
     "createdAt": "2020-02-12T13:39:54Z"
   },
   {
@@ -47528,7 +47528,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2020-04-18T00:16:08Z"
   },
   {
@@ -47538,7 +47538,7 @@
     "location": "Ghent, Belgium",
     "company": "@delaware",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-12T12:57:45Z"
@@ -47550,9 +47550,9 @@
     "location": "Duffel, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 58,
     "createdAt": "2020-03-14T00:32:33Z"
   },
   {
@@ -47576,7 +47576,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2020-05-05T09:06:48Z"
   },
   {
@@ -47587,7 +47587,7 @@
     "company": "KU Leuven",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 28,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-18T07:30:56Z"
   },
@@ -47618,13 +47618,13 @@
   {
     "login": "JusteKal",
     "name": "Nathanaël Canas Perez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66133903?s=72&u=b4e8f68482e0e92fd07c1e78693062d4d82c060e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66133903?s=72&u=0bc5bcfe6c68a4675a9e331ab8818b1175d9812e&v=4",
     "location": "Belgium",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "justekal_",
     "followers": 3,
-    "privateContributions": 76,
-    "publicContributions": 18,
+    "privateContributions": 109,
+    "publicContributions": 43,
     "createdAt": "2020-05-29T16:43:35Z"
   },
   {
@@ -47636,7 +47636,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 4,
     "createdAt": "2020-04-08T06:46:55Z"
   },
   {
@@ -47658,9 +47658,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 13,
     "createdAt": "2020-03-23T01:50:17Z"
   },
   {

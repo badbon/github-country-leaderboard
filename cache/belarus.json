@@ -47695,21 +47695,9 @@
     "company": "EPAM Systems",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3407,
+    "privateContributions": 4929,
     "publicContributions": 0,
     "createdAt": "2020-10-30T10:49:42Z"
-  },
-  {
-    "login": "rcabrero112",
-    "name": "Vlad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65817955?s=72&u=eecb7ac94f625151a74bed182aed6a6ccf450985&v=4",
-    "location": "Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-05-23T13:47:39Z"
   },
   {
     "login": "skorokhodtatiana",
@@ -47720,7 +47708,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 270,
+    "publicContributions": 218,
     "createdAt": "2020-11-24T17:59:41Z"
   },
   {
@@ -47772,18 +47760,6 @@
     "createdAt": "2020-11-09T09:23:56Z"
   },
   {
-    "login": "SergBobrov",
-    "name": "Sergei Bobrov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69841811?s=72&u=0ecbaf5dc0f5e3e07f90c04501f1cf0ad097a51b&v=4",
-    "location": "Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2020-08-18T07:53:36Z"
-  },
-  {
     "login": "IvantsovaE",
     "name": "Ekaterina ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61870842?s=72&v=4",
@@ -47792,7 +47768,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 42,
     "createdAt": "2020-03-06T11:01:58Z"
   },
   {
@@ -47803,7 +47779,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 76,
+    "privateContributions": 71,
     "publicContributions": 0,
     "createdAt": "2020-05-19T19:55:57Z"
   },
@@ -47840,7 +47816,7 @@
     "twitterUsername": "Zhavnerovskiy",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 30,
     "createdAt": "2020-11-06T16:32:21Z"
   },
   {
@@ -47851,7 +47827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 25,
+    "privateContributions": 26,
     "publicContributions": 0,
     "createdAt": "2020-05-24T21:49:28Z"
   },
@@ -47864,7 +47840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 6,
     "createdAt": "2020-09-08T17:29:12Z"
   },
   {
@@ -47874,7 +47850,7 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-31T10:13:14Z"
@@ -47912,7 +47888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 8,
     "createdAt": "2020-10-05T17:01:29Z"
   },
   {

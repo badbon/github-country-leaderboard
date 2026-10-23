@@ -47504,7 +47504,7 @@
     "twitterUsername": "a_dalheimer",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 0,
     "createdAt": "2021-03-20T22:05:07Z"
   },
   {
@@ -47528,7 +47528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 61,
     "createdAt": "2021-12-14T20:56:25Z"
   },
   {
@@ -47552,7 +47552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-10-22T12:01:23Z"
   },
   {
@@ -47564,7 +47564,7 @@
     "twitterUsername": "mkuehtreiber",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2021-11-16T21:14:30Z"
   },
   {
@@ -47574,7 +47574,7 @@
     "location": "Freiburg & Vienna",
     "company": "nexyo AG",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-09-29T20:07:51Z"
@@ -47587,32 +47587,32 @@
     "company": "",
     "twitterUsername": "",
     "followers": 85,
-    "privateContributions": 1754,
+    "privateContributions": 2747,
     "publicContributions": 0,
     "createdAt": "2015-12-03T20:06:33Z"
   },
   {
     "login": "Empiree",
     "name": "Oleg Dubovoi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60399216?s=72&u=1fa137980aa948828cc578d50a51790bd17f4a4f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60399216?s=72&u=73dd9623399e2afce91c096fb82ceb2b242d6771&v=4",
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "0xEmpiree",
-    "followers": 1177,
-    "privateContributions": 783,
-    "publicContributions": 24,
+    "followers": 1170,
+    "privateContributions": 837,
+    "publicContributions": 42,
     "createdAt": "2020-01-28T16:32:53Z"
   },
   {
     "login": "MANU-de",
     "name": "Manuela Schrittwieser ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67684505?s=72&u=26f8041ae13c7dc90de130d9a8c4fb6c3f44560e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67684505?s=72&u=5a1a92e139481d6176315802212edeb37751f83f&v=4",
     "location": "Austria",
     "company": "Self-Employed",
     "twitterUsername": "",
-    "followers": 482,
+    "followers": 525,
     "privateContributions": 0,
-    "publicContributions": 299,
+    "publicContributions": 241,
     "createdAt": "2020-07-01T08:59:28Z"
   },
   {
@@ -47622,9 +47622,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "Benjamin_Aster",
-    "followers": 233,
+    "followers": 235,
     "privateContributions": 3,
-    "publicContributions": 14,
+    "publicContributions": 16,
     "createdAt": "2020-04-09T15:47:18Z"
   },
   {
@@ -47634,9 +47634,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 175,
-    "privateContributions": 33,
-    "publicContributions": 604,
+    "followers": 186,
+    "privateContributions": 220,
+    "publicContributions": 491,
     "createdAt": "2020-09-14T17:43:51Z"
   },
   {
@@ -47658,9 +47658,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "peterstrick_acc",
-    "followers": 144,
-    "privateContributions": 55,
-    "publicContributions": 24,
+    "followers": 147,
+    "privateContributions": 32,
+    "publicContributions": 23,
     "createdAt": "2020-01-26T09:00:50Z"
   },
   {
@@ -47670,9 +47670,9 @@
     "location": "Vienna, Austria",
     "company": "ISTA",
     "twitterUsername": "AnarSnowball",
-    "followers": 139,
+    "followers": 144,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2020-09-16T10:46:16Z"
   },
   {
@@ -47683,20 +47683,20 @@
     "company": "@Sportradar",
     "twitterUsername": "",
     "followers": 136,
-    "privateContributions": 16,
-    "publicContributions": 135,
+    "privateContributions": 12,
+    "publicContributions": 129,
     "createdAt": "2020-04-25T13:33:49Z"
   },
   {
     "login": "shi-gg",
     "name": "Luna Seemann",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71079641?s=72&u=89f83c80cc4419ffc046c6f1cba750d4246c7e96&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71079641?s=72&u=9c0d7929bc62f84a6b5d6d85782a2c112c0a59af&v=4",
     "location": "Austria",
     "company": "@npmx-dev",
     "twitterUsername": "",
-    "followers": 134,
-    "privateContributions": 513,
-    "publicContributions": 607,
+    "followers": 137,
+    "privateContributions": 541,
+    "publicContributions": 615,
     "createdAt": "2020-09-10T12:52:40Z"
   },
   {
@@ -47706,9 +47706,9 @@
     "location": "Innsbruck, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 132,
+    "followers": 135,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 213,
     "createdAt": "2020-02-16T22:11:08Z"
   },
   {
@@ -47718,9 +47718,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 129,
+    "followers": 135,
     "privateContributions": 0,
-    "publicContributions": 589,
+    "publicContributions": 651,
     "createdAt": "2020-08-03T09:34:52Z"
   },
   {
@@ -47730,9 +47730,9 @@
     "location": "Vienna, Austria",
     "company": "Molecular Matters GmbH",
     "twitterUsername": "",
-    "followers": 119,
+    "followers": 122,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2020-02-26T19:39:53Z"
   },
   {

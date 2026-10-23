@@ -47660,7 +47660,7 @@
     "twitterUsername": "",
     "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 69,
     "createdAt": "2010-11-20T07:39:41Z"
   },
   {
@@ -47671,7 +47671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 250,
+    "privateContributions": 192,
     "publicContributions": 0,
     "createdAt": "2010-01-02T13:55:18Z"
   },
@@ -47682,9 +47682,9 @@
     "location": "Yerevan",
     "company": "Yandex Armenia",
     "twitterUsername": "basvasilich",
-    "followers": 30,
-    "privateContributions": 3691,
-    "publicContributions": 88,
+    "followers": 28,
+    "privateContributions": 11024,
+    "publicContributions": 105,
     "createdAt": "2010-08-13T10:58:35Z"
   },
   {
@@ -47694,9 +47694,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2010-11-24T03:38:18Z"
   },
   {
@@ -47708,7 +47708,7 @@
     "twitterUsername": "Applesinych",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 76,
     "createdAt": "2010-08-01T01:52:21Z"
   },
   {
@@ -47720,7 +47720,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 256,
     "createdAt": "2010-11-13T11:36:54Z"
   },
   {
@@ -47731,7 +47731,7 @@
     "company": "Simply Technologies",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 858,
+    "privateContributions": 634,
     "publicContributions": 1,
     "createdAt": "2010-11-15T01:55:17Z"
   },
@@ -47742,7 +47742,7 @@
     "location": "Yerevan",
     "company": "VMWare",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2010-11-22T00:43:14Z"
@@ -47767,7 +47767,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 120,
-    "privateContributions": 0,
+    "privateContributions": 50,
     "publicContributions": 6,
     "createdAt": "2009-03-23T11:32:36Z"
   },
@@ -47778,9 +47778,9 @@
     "location": "Armenia, Erevan",
     "company": "Yandex",
     "twitterUsername": "",
-    "followers": 70,
+    "followers": 71,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 75,
     "createdAt": "2009-03-08T11:42:32Z"
   },
   {
@@ -47790,9 +47790,9 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 58,
-    "privateContributions": 0,
-    "publicContributions": 49,
+    "followers": 60,
+    "privateContributions": 1162,
+    "publicContributions": 69,
     "createdAt": "2009-11-27T14:14:01Z"
   },
   {
@@ -47802,9 +47802,9 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2009-12-07T12:07:38Z"
   },
   {
@@ -47814,9 +47814,9 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 160,
     "createdAt": "2009-04-28T08:56:55Z"
   },
   {
@@ -47827,7 +47827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 554,
+    "privateContributions": 463,
     "publicContributions": 19,
     "createdAt": "2009-08-01T10:00:58Z"
   },
@@ -47851,8 +47851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 94,
-    "publicContributions": 41,
+    "privateContributions": 205,
+    "publicContributions": 8,
     "createdAt": "2009-12-19T17:32:20Z"
   },
   {
@@ -47864,7 +47864,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 151,
     "createdAt": "2009-03-26T19:49:42Z"
   },
   {
@@ -47874,9 +47874,9 @@
     "location": "Yerevan, Armenia",
     "company": "Fullstack Developer",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2009-04-11T17:28:44Z"
   },
   {
@@ -47887,8 +47887,8 @@
     "company": "@",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 42,
-    "publicContributions": 4,
+    "privateContributions": 74,
+    "publicContributions": 29,
     "createdAt": "2009-10-13T10:30:11Z"
   },
   {
