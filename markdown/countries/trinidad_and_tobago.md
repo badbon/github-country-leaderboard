@@ -13,7 +13,7 @@ Indexed users: 256
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 6,851 |
-| 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 5,927 |
+| 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 5,862 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 4,516 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,178 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 3,145 |
@@ -31,7 +31,7 @@ Indexed users: 256
 | 17 | [aaronbesson](https://github.com/aaronbesson) | AaronB | Trinidad and Tobago | 1,083 |
 | 18 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | Trinidad and Tobago | 1,041 |
 | 19 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois | Trinidad and Tobago | 1,020 |
-| 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Trinidad and Tobago | 982 |
+| 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Trinidad and Tobago | 987 |
 
 ## Public Contributions
 
@@ -52,7 +52,7 @@ Indexed users: 256
 | 13 | [A-Hazzard](https://github.com/A-Hazzard) | Aaron Hazzard | Trinidad and Tobago | 269 |
 | 14 | [rezziemaven](https://github.com/rezziemaven) | Sherezz Grant | Trinidad and Tobago | 264 |
 | 15 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 256 |
-| 16 | [Brandonbr1](https://github.com/Brandonbr1) | Java sauce | Trinidad and Tobago | 248 |
+| 16 | [Brandonbr1](https://github.com/Brandonbr1) | Java sauce | Trinidad and Tobago | 253 |
 | 17 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 221 |
 | 18 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 204 |
 | 19 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 191 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-23T18:08:26.515Z
+Generated: 2026-10-23T19:22:44.784Z

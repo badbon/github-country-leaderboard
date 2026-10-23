@@ -210,22 +210,22 @@ Published countries: 236
 | Sweden | 39,026 | [View](./sweden.md) |
 | Switzerland | 24,068 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
-| Taiwan | 21,992 | [View](./taiwan.md) |
+| Taiwan | 21,991 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
-| Thailand | 14,976 | [View](./thailand.md) |
+| Thailand | 14,975 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
 | Togo | 677 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,155 | [View](./tunisia.md) |
-| Turkey | 79,158 | [View](./turkey.md) |
+| Turkey | 79,157 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,862 | [View](./uganda.md) |
-| Ukraine | 47,719 | [View](./ukraine.md) |
+| Ukraine | 47,717 | [View](./ukraine.md) |
 | United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
@@ -234,11 +234,11 @@ Published countries: 236
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,605 | [View](./venezuela.md) |
-| Vietnam | 25,827 | [View](./vietnam.md) |
+| Vietnam | 25,828 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,204 | [View](./yemen.md) |
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T19:14:21.178Z
+Generated: 2026-10-23T19:27:08.622Z

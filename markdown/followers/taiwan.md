@@ -1,8 +1,8 @@
 # Followers - Taiwan
 
-Generated: 2026-10-23T18:05:22.640Z
+Generated: 2026-10-23T19:19:55.067Z
 
-Users: 21992
+Users: 21991
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

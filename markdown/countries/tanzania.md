@@ -26,7 +26,7 @@ Indexed users: 2,038
 | 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 11,380 |
 | 13 | [mwakatumbula](https://github.com/mwakatumbula) | Francis Mwakatumbula | Dar es salaam,Tanzania | 10,755 |
 | 14 | [fredygerman](https://github.com/fredygerman) | Fredy Mgimba | Tanzania | 10,226 |
-| 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
+| 15 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,880 |
 | 16 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,848 |
 | 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 8,111 |
 | 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,979 |
@@ -40,7 +40,7 @@ Indexed users: 2,038
 | 1 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 59,579 |
 | 2 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 11,589 |
 | 3 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 10,972 |
-| 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,875 |
+| 4 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | Tanzania | 8,880 |
 | 5 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 6,215 |
 | 6 | [Lazackdevs](https://github.com/Lazackdevs) | Lazack_28 | dodoma | 4,314 |
 | 7 | [Barakael](https://github.com/Barakael) | barakael | Dar-es-salaam, Tanzania | 3,072 |
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 187 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-23T18:06:31.262Z
+Generated: 2026-10-23T19:20:54.853Z

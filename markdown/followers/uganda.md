@@ -1,6 +1,6 @@
 # Followers - Uganda
 
-Generated: 2026-10-23T18:09:49.071Z
+Generated: 2026-10-23T19:24:05.376Z
 
 Users: 3862
 
