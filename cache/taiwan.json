@@ -39570,7 +39570,7 @@
     "location": "Hsinchu, Taiwan",
     "company": "Industrial Technology Research Institute",
     "twitterUsername": "",
-    "followers": 74,
+    "followers": 61,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-11-26T06:07:21Z"
@@ -39582,9 +39582,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 74,
-    "privateContributions": 29242,
-    "publicContributions": 1419,
+    "followers": 77,
+    "privateContributions": 43797,
+    "publicContributions": 1423,
     "createdAt": "2021-10-27T03:25:51Z"
   },
   {
@@ -39594,9 +39594,9 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 72,
-    "privateContributions": 304,
-    "publicContributions": 198,
+    "followers": 75,
+    "privateContributions": 763,
+    "publicContributions": 221,
     "createdAt": "2021-11-23T23:40:34Z"
   },
   {
@@ -39606,9 +39606,9 @@
     "location": "NTPC, Taiwan",
     "company": "",
     "twitterUsername": "AWeirdDev",
-    "followers": 71,
+    "followers": 72,
     "privateContributions": 0,
-    "publicContributions": 852,
+    "publicContributions": 868,
     "createdAt": "2021-09-04T12:34:54Z"
   },
   {
@@ -39618,9 +39618,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 67,
+    "followers": 74,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 57,
     "createdAt": "2021-12-24T05:36:13Z"
   },
   {
@@ -39630,7 +39630,7 @@
     "location": "Taiwan",
     "company": "@ailabstw",
     "twitterUsername": "labs_taiwan",
-    "followers": 53,
+    "followers": 54,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-08T02:03:32Z"
@@ -39642,22 +39642,10 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 360,
-    "publicContributions": 44,
+    "followers": 56,
+    "privateContributions": 462,
+    "publicContributions": 18,
     "createdAt": "2021-09-10T01:11:56Z"
-  },
-  {
-    "login": "ttymayor",
-    "name": "tantuyu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92105176?s=72&u=9d7448815b4df704e488bb299676467c9dcbf6ce&v=4",
-    "location": "Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 764,
-    "publicContributions": 664,
-    "createdAt": "2021-10-07T14:26:23Z"
   },
   {
     "login": "Youtong0826",
@@ -39667,7 +39655,7 @@
     "company": "KIHS CS -> NSYSU CSE",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-09-26T07:27:43Z"
   },
@@ -39678,9 +39666,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 517,
-    "publicContributions": 809,
+    "followers": 56,
+    "privateContributions": 475,
+    "publicContributions": 829,
     "createdAt": "2021-09-28T09:58:39Z"
   },
   {
@@ -39691,8 +39679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 44,
-    "privateContributions": 11,
-    "publicContributions": 446,
+    "privateContributions": 10,
+    "publicContributions": 390,
     "createdAt": "2021-12-04T06:36:07Z"
   },
   {
@@ -39702,9 +39690,9 @@
     "location": "Taiwan",
     "company": "dingbot, ExpTech",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 1283,
-    "publicContributions": 135,
+    "followers": 50,
+    "privateContributions": 1267,
+    "publicContributions": 229,
     "createdAt": "2021-08-06T14:59:06Z"
   },
   {
@@ -39714,9 +39702,9 @@
     "location": "Taiwan",
     "company": "National Taiwan University",
     "twitterUsername": "",
-    "followers": 43,
+    "followers": 42,
     "privateContributions": 0,
-    "publicContributions": 149,
+    "publicContributions": 316,
     "createdAt": "2021-12-24T04:59:52Z"
   },
   {
@@ -39726,9 +39714,9 @@
     "location": "Taiwan",
     "company": "@cloudxact ",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 254,
-    "publicContributions": 271,
+    "followers": 45,
+    "privateContributions": 305,
+    "publicContributions": 333,
     "createdAt": "2021-08-26T06:36:57Z"
   },
   {
@@ -39738,9 +39726,9 @@
     "location": "Taipei City, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 7414,
-    "publicContributions": 1377,
+    "followers": 46,
+    "privateContributions": 14111,
+    "publicContributions": 1173,
     "createdAt": "2021-07-02T00:44:25Z"
   },
   {
@@ -39750,9 +39738,9 @@
     "location": "Taiwan",
     "company": "@SCIST-tw, GDGoC@NCU",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 13,
-    "publicContributions": 980,
+    "followers": 42,
+    "privateContributions": 769,
+    "publicContributions": 1938,
     "createdAt": "2021-08-17T06:17:23Z"
   },
   {
@@ -39762,8 +39750,8 @@
     "location": "Taiwan",
     "company": "National Taiwan University",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 117,
+    "followers": 39,
+    "privateContributions": 150,
     "publicContributions": 5,
     "createdAt": "2021-11-26T04:04:09Z"
   },
@@ -39774,9 +39762,9 @@
     "location": "Taiwan",
     "company": "@StatiXOS @STX-Staging",
     "twitterUsername": "tofu20060412",
-    "followers": 39,
-    "privateContributions": 145,
-    "publicContributions": 757,
+    "followers": 40,
+    "privateContributions": 230,
+    "publicContributions": 733,
     "createdAt": "2021-08-11T03:40:29Z"
   },
   {
@@ -39786,9 +39774,9 @@
     "location": "Taoyuan, Taiwan",
     "company": "NTOU",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 489,
-    "publicContributions": 333,
+    "followers": 39,
+    "privateContributions": 732,
+    "publicContributions": 480,
     "createdAt": "2021-12-03T15:16:45Z"
   },
   {
@@ -39798,9 +39786,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 490,
-    "publicContributions": 1697,
+    "followers": 36,
+    "privateContributions": 485,
+    "publicContributions": 1897,
     "createdAt": "2021-08-11T06:44:29Z"
   },
   {
