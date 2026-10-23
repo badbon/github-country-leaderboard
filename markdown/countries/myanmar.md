@@ -41,8 +41,8 @@ Indexed users: 2,055
 | 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,316 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN | Yangon, Myanmar | 2,822 |
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter | Myanmar | 2,679 |
-| 5 | [Oungseik](https://github.com/Oungseik) |  | Mawlamyine, Mon State, Myanmar | 1,475 |
-| 6 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,470 |
+| 5 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,502 |
+| 6 | [Oungseik](https://github.com/Oungseik) |  | Mawlamyine, Mon State, Myanmar | 1,475 |
 | 7 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | Yangon, Myanmar | 1,397 |
 | 8 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine | Yangon,Myanmar | 1,359 |
 | 9 | [aungkoman](https://github.com/aungkoman) | Aung Ko Man | Mandalay,Myanmar | 1,348 |
@@ -83,4 +83,4 @@ Indexed users: 2,055
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 164 |
 
-Generated: 2026-10-23T17:44:53.547Z
+Generated: 2026-10-23T19:01:27.874Z

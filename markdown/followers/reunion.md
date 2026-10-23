@@ -1,6 +1,6 @@
 # Followers - Réunion
 
-Generated: 2026-10-23T17:51:52.418Z
+Generated: 2026-10-23T19:07:48.987Z
 
 Users: 212
 
@@ -17,9 +17,9 @@ Users: 212
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol |  |  | Saint-Denis, Réunion | 34 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 29 |
 | 11 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Université de La Réunion |  | Saint Denis, La Réunion  | 28 |
-| 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Ynov Paris Campus  |  | Seine-Saint-Denis | 28 |
-| 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | PistahX |  | reunion island (FR) | 28 |
-| 14 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 27 |
+| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 28 |
+| 13 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Ynov Paris Campus  |  | Seine-Saint-Denis | 28 |
+| 14 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | PistahX |  | reunion island (FR) | 28 |
 | 15 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel |  |  | Seine-Saint-Denis | 26 |
 | 16 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | @forkparty  | zourite | Reunion Island | 26 |
 | 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | @clauzier-dev  | 0x346e3730 | Saint-Denis, Reunion Island | 23 |

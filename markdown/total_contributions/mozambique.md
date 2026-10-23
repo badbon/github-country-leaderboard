@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-23T17:44:48.770Z
+Generated: 2026-10-23T19:01:23.303Z
 
 Users: 1175
 

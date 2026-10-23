@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-23T17:44:48.770Z
+Generated: 2026-10-23T19:01:23.303Z
 
 Users: 1175
 
@@ -13,8 +13,8 @@ Users: 1175
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior |  | GabrielMJ_2005 | Maputo/Mozambique  | 229 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 195 |
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton |  |  | Mozambique | 195 |
-| 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino |  |  | Mozambique, Maputo | 193 |
-| 9 | [jose-bone](https://github.com/jose-bone) | José Boné |  | jose_bonejr | Quelimane, Mozambique | 187 |
+| 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino |  |  | Mozambique, Maputo | 192 |
+| 9 | [jose-bone](https://github.com/jose-bone) | José Boné |  | jose_bonejr | Quelimane, Mozambique | 188 |
 | 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | ESBM |  | Mozambique | 171 |
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | @centauralfa34 (Centaur (Design & Code)) | KBulha | Beira, Sofala, Mozambique | 164 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | CEG Microsystems | albrtinoaugusto | Mozambique, Maputo | 161 |

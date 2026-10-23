@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-23T17:42:29.378Z
+Generated: 2026-10-23T18:57:12.481Z
 
 Users: 288
 
@@ -8,7 +8,7 @@ Users: 288
 |---:|---|---|---|---|---|---:|
 | 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4095 |
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 1219 |
-| 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 868 |
+| 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 880 |
 | 4 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Next Technology | 3lh_j | Nouakchott-Mauritanie | 799 |
 | 5 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | ACPEC SARL |  | Nouakchott | 673 |
 | 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 650 |
@@ -20,8 +20,8 @@ Users: 288
 | 12 | [alibyh](https://github.com/alibyh) | Alibyh | mauri-alpha |  | Nouakchott-Mauritania | 264 |
 | 13 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  |  |  | Nouakchott mauritanie  | 246 |
 | 14 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef |  |  | Mauritania | 215 |
-| 15 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 208 |
-| 16 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 207 |
+| 15 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 214 |
+| 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 208 |
 | 17 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 207 |
 | 18 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 188 |
 | 19 | [saeedbark](https://github.com/saeedbark) | saeedbark |  |  | mauritania | 177 |

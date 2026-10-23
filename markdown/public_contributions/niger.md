@@ -1,13 +1,13 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-23T17:46:13.319Z
+Generated: 2026-10-23T19:02:17.033Z
 
 Users: 175
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 6494 |
-| 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 1865 |
+| 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 1882 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1245 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1049 |
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 591 |
@@ -24,5 +24,5 @@ Users: 175
 | 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 118 |
 | 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 104 |
 | 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 100 |
-| 19 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 96 |
-| 20 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
+| 19 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
+| 20 | [HonourObed](https://github.com/HonourObed) | Eje Obed Honour | Federal University of Technology Minna |  | Minna, Niger, Nigeria | 86 |

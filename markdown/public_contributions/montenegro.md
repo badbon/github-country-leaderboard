@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-23T17:44:25.435Z
+Generated: 2026-10-23T18:59:56.983Z
 
 Users: 887
 
@@ -12,7 +12,7 @@ Users: 887
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 4872 |
 | 5 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 4251 |
 | 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | ExSol |  | Montenegro, Herzeg-Novi | 3473 |
-| 7 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 3251 |
+| 7 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 3330 |
 | 8 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 3169 |
 | 9 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 2992 |
 | 10 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | lacodda |  | Montenegro | 2791 |

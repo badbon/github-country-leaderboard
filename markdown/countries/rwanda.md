@@ -62,10 +62,10 @@ Indexed users: 3,497
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ikuzweelisa](https://github.com/ikuzweelisa) | Ikuzwe | Rwanda | 1,673 |
-| 2 | [Edouard144](https://github.com/Edouard144) | Edouard | Kigali, Rwanda | 1,654 |
+| 1 | [Edouard144](https://github.com/Edouard144) | Edouard | Kigali, Rwanda | 1,749 |
+| 2 | [ikuzweelisa](https://github.com/ikuzweelisa) | Ikuzwe | Rwanda | 1,674 |
 | 3 | [NailTechLtd](https://github.com/NailTechLtd) | Nail Tech Ltd | Kigali Rwanda | 1,606 |
-| 4 | [thepiratehub](https://github.com/thepiratehub) | home of source code | kigali rwanda | 1,497 |
+| 4 | [thepiratehub](https://github.com/thepiratehub) | home of source code | kigali rwanda | 1,495 |
 | 5 | [habibundayishimiye](https://github.com/habibundayishimiye) | SPM_Habibu | Kigali Rwanda | 1,445 |
 | 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 1,016 |
 | 7 | [Nsoro-Allan](https://github.com/Nsoro-Allan) | Nsoro Allan | Kigali, Rwanda | 974 |
@@ -75,12 +75,12 @@ Indexed users: 3,497
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 523 |
 | 12 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO | Kigali,Rwanda | 428 |
 | 13 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | Kigali, Rwanda | 400 |
-| 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO | KIGALI-RWANDA | 388 |
+| 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO | KIGALI-RWANDA | 392 |
 | 15 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 357 |
-| 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo | Kigali, Rwanda | 351 |
+| 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo | Kigali, Rwanda | 352 |
 | 17 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel | Kigali, Rwanda | 332 |
-| 18 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Kigali, Rwanda | 317 |
-| 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
+| 18 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 324 |
+| 19 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Kigali, Rwanda | 317 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-23T17:52:40.800Z
+Generated: 2026-10-23T19:08:59.872Z

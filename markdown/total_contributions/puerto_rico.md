@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-23T17:50:59.765Z
+Generated: 2026-10-23T19:07:38.404Z
 
 Users: 1530
 
@@ -15,8 +15,8 @@ Users: 1530
 | 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 18649 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 9005 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 8227 |
-| 10 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 7801 |
-| 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 7443 |
+| 10 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 8202 |
+| 11 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 7801 |
 | 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 7098 |
 | 13 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 7060 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 6624 |

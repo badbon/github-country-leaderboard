@@ -47,7 +47,7 @@ Indexed users: 474
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 686 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 561 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 456 |
-| 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 431 |
+| 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 424 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 394 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 322 |
 | 14 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 282 |
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-23T17:44:56.230Z
+Generated: 2026-10-23T19:01:31.129Z

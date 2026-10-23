@@ -1,14 +1,14 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-23T17:39:59.921Z
+Generated: 2026-10-23T18:56:53.055Z
 
 Users: 354
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1559 |
-| 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1331 |
-| 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | CampaignityAI | 72sevenzy2 | malé, maldives  | 1312 |
+| 2 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | CampaignityAI | 72sevenzy2 | malé, maldives  | 1342 |
+| 3 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1331 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 1308 |
 | 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 1238 |
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin |  | mktgeducator | Malé, Maldives | 985 |

@@ -40,7 +40,7 @@ Indexed users: 714
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 7,489 |
 | 2 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,318 |
 | 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,239 |
-| 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,755 |
+| 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,805 |
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,676 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,517 |
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,437 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-23T17:42:33.889Z
+Generated: 2026-10-23T18:58:54.306Z

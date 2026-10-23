@@ -29,9 +29,9 @@ Indexed users: 1,069
 | 15 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,158 |
 | 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 8,124 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,488 |
-| 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,349 |
-| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 7,025 |
-| 20 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,759 |
+| 18 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 7,025 |
+| 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,759 |
+| 20 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 6,646 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-23T17:49:25.806Z
+Generated: 2026-10-23T19:04:37.329Z

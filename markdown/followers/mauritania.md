@@ -1,12 +1,12 @@
 # Followers - Mauritania
 
-Generated: 2026-10-23T17:42:29.378Z
+Generated: 2026-10-23T18:57:12.481Z
 
 Users: 288
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 162 |
+| 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 161 |
 | 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad |  |  | Nouakchott, Mauritania | 69 |
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz |  |  | Mauritania | 60 |
 | 4 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 49 |

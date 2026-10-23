@@ -1,8 +1,8 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-23T17:42:47.459Z
+Generated: 2026-10-23T18:59:05.828Z
 
-Users: 1745
+Users: 1744
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-23T17:46:13.319Z
+Generated: 2026-10-23T19:02:17.033Z
 
 Users: 175
 
@@ -18,11 +18,11 @@ Users: 175
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | @Profiteroles |  | Niamey , Niger | 29 |
 | 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | @Acacurs | ab3masta | Niamey-Niger | 28 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Codeloccol | TrakyRichard | Niger | 27 |
-| 13 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Sahel Coders | wourichouf | Niamey | 23 |
-| 14 | [sn115426](https://github.com/sn115426) | sn01 | Atlas |  | niger | 23 |
-| 15 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | QueenTech |  | Niamey-Niger | 21 |
-| 16 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 18 |
-| 17 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 18 |
-| 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 18 |
-| 19 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Globalelectronic  |  | Niger Niamey  | 18 |
-| 20 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 17 |
+| 13 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 23 |
+| 14 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Sahel Coders | wourichouf | Niamey | 23 |
+| 15 | [sn115426](https://github.com/sn115426) | sn01 | Atlas |  | niger | 23 |
+| 16 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | QueenTech |  | Niamey-Niger | 21 |
+| 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 18 |
+| 18 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 18 |
+| 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 18 |
+| 20 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Globalelectronic  |  | Niger Niamey  | 18 |

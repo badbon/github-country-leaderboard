@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-23T17:51:52.418Z
+Generated: 2026-10-23T19:07:48.987Z
 
 Users: 212
 
@@ -16,13 +16,13 @@ Users: 212
 | 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2461 |
 | 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2417 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2084 |
-| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2036 |
+| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2046 |
 | 12 | [John361](https://github.com/John361) | John |  |  | Réunion | 2023 |
 | 13 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 1961 |
 | 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1892 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1804 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1729 |
 | 17 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1716 |
-| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1364 |
-| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1316 |
+| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1363 |
+| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1323 |
 | 20 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | PistahX |  | reunion island (FR) | 1238 |
