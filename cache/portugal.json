@@ -46880,7 +46880,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 7,
     "createdAt": "2022-12-29T11:14:59Z"
   },
   {
@@ -46890,9 +46890,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 145,
-    "publicContributions": 335,
+    "followers": 13,
+    "privateContributions": 63,
+    "publicContributions": 287,
     "createdAt": "2023-04-23T23:36:29Z"
   },
   {
@@ -46904,7 +46904,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-04-21T14:05:57Z"
   },
   {
@@ -46914,21 +46914,21 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 8,
+    "followers": 12,
+    "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2023-04-26T19:05:22Z"
   },
   {
     "login": "PedroGoncalves28286",
-    "name": "Pedro Gonçalves",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126359479?s=72&u=1ea223b6b57005e557d4e87e1b1d5babbbe66717&v=4",
+    "name": "Pedro G",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126359479?s=72&u=599fd98a7c803adc7488d7e69e3586cfc4adcd5c&v=4",
     "location": "Lisbon",
-    "company": "Cinel",
-    "twitterUsername": "pedromgoncalves",
-    "followers": 11,
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 81,
     "createdAt": "2023-02-25T21:32:35Z"
   },
   {
@@ -46938,9 +46938,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 666,
-    "publicContributions": 62,
+    "followers": 9,
+    "privateContributions": 694,
+    "publicContributions": 54,
     "createdAt": "2023-10-20T18:53:09Z"
   },
   {
@@ -46948,11 +46948,11 @@
     "name": "Gonçalo Faustino",
     "avatarUrl": "https://avatars.githubusercontent.com/u/149898027?s=72&u=97874a5a5c5c037bab9af910cb6d046501e7789a&v=4",
     "location": "Lisbon",
-    "company": "",
+    "company": "Airbus",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 107,
     "createdAt": "2023-11-04T17:59:42Z"
   },
   {
@@ -46986,9 +46986,9 @@
     "location": "Lisbon",
     "company": "@fcul-di",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 75,
-    "publicContributions": 317,
+    "followers": 8,
+    "privateContributions": 55,
+    "publicContributions": 275,
     "createdAt": "2023-12-13T10:29:23Z"
   },
   {
@@ -46998,9 +46998,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 1162,
+    "publicContributions": 756,
     "createdAt": "2023-04-24T11:58:20Z"
   },
   {
@@ -47010,9 +47010,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 1,
     "createdAt": "2023-11-21T17:45:09Z"
   },
   {
@@ -47022,7 +47022,7 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2023-09-12T17:04:46Z"
@@ -47035,7 +47035,7 @@
     "company": " Instituto Superior Técnico",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 112,
+    "privateContributions": 122,
     "publicContributions": 33,
     "createdAt": "2023-09-14T20:46:04Z"
   },
@@ -47046,9 +47046,9 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 383,
-    "publicContributions": 859,
+    "followers": 11,
+    "privateContributions": 718,
+    "publicContributions": 289,
     "createdAt": "2023-12-14T01:36:57Z"
   },
   {
@@ -47059,7 +47059,7 @@
     "company": "Vento Labs",
     "twitterUsername": "Oh_Wow_Swerve",
     "followers": 9,
-    "privateContributions": 6,
+    "privateContributions": 673,
     "publicContributions": 0,
     "createdAt": "2023-05-09T20:40:21Z"
   },
@@ -47070,7 +47070,7 @@
     "location": "Lisbon",
     "company": "Instituto Superior Técnico",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2023-08-19T01:20:20Z"
@@ -47096,7 +47096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2022-09-07T17:55:16Z"
   },
   {

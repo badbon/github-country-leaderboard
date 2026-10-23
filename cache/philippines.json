@@ -46496,7 +46496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-04-17T22:46:07Z"
   },
   {
@@ -46518,7 +46518,7 @@
     "location": "Antipolo City, Philippines",
     "company": "De La Salle University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2023-06-22T08:33:40Z"
@@ -46531,8 +46531,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 361,
-    "publicContributions": 118,
+    "privateContributions": 362,
+    "publicContributions": 119,
     "createdAt": "2023-02-09T09:38:26Z"
   },
   {
@@ -46544,7 +46544,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 219,
     "createdAt": "2023-05-19T13:10:16Z"
   },
   {
@@ -46568,7 +46568,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 26,
     "createdAt": "2023-05-16T12:57:13Z"
   },
   {
@@ -46579,8 +46579,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 78,
-    "publicContributions": 977,
+    "privateContributions": 260,
+    "publicContributions": 832,
     "createdAt": "2023-03-19T02:17:27Z"
   },
   {
@@ -46590,9 +46590,9 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 395,
-    "publicContributions": 436,
+    "followers": 4,
+    "privateContributions": 464,
+    "publicContributions": 461,
     "createdAt": "2023-05-24T07:08:10Z"
   },
   {
@@ -46614,7 +46614,7 @@
     "location": "Philippines",
     "company": "@Mugna-Passion-Project",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-19T16:42:45Z"
@@ -46628,7 +46628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-02-07T05:40:54Z"
   },
   {
@@ -46663,7 +46663,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 132,
+    "privateContributions": 107,
     "publicContributions": 0,
     "createdAt": "2023-02-28T13:36:37Z"
   },
@@ -46686,21 +46686,21 @@
     "location": "Iloilo City, Philippines",
     "company": "Iloilo Science and Technology University",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2467,
-    "publicContributions": 26,
+    "followers": 3,
+    "privateContributions": 2982,
+    "publicContributions": 98,
     "createdAt": "2023-03-02T05:55:15Z"
   },
   {
     "login": "Xenstyl1251",
     "name": "Paul Justine Abacajen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137806360?s=72&u=c89f79303afd204109abfc18e8cd0c1f106193b0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/137806360?s=72&v=4",
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 18,
+    "privateContributions": 193,
+    "publicContributions": 0,
     "createdAt": "2023-06-26T15:00:34Z"
   },
   {
@@ -236890,5 +236890,29 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2026-07-02T09:28:51Z"
+  },
+  {
+    "login": "scr1p2",
+    "name": "Miggy Natera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298915235?s=72&u=f6c9a647f0e875bd01c7cf1ee11dd642480f7621&v=4",
+    "location": "Manila, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-07-02T00:38:29Z"
+  },
+  {
+    "login": "delacruzmanueliv-cloud",
+    "name": "Recruiter Fourth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299038390?s=72&u=90a4bddf71f94eedf59e91893cea964fe1a156b0&v=4",
+    "location": "Taguig Manila",
+    "company": "Socium",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-02T08:36:07Z"
   }
 ]

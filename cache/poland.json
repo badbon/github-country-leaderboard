@@ -2292,27 +2292,15 @@
     "createdAt": "2026-01-30T22:15:02Z"
   },
   {
-    "login": "yaren-atici",
-    "name": "Yaren Atıcı",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/277343957?s=72&u=97d6ec3b62997345a442d997360418564eb23ba0&v=4",
-    "location": "Gdańsk, Poland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 55,
-    "createdAt": "2026-04-18T21:25:59Z"
-  },
-  {
     "login": "witoldwozniak",
     "name": "Witold Wozniak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/257405385?s=72&u=49c3ee5f0186eb657eba2e3aa4a299cd34cd0b29&v=4",
     "location": "Poland",
     "company": "@Vonage",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 417,
-    "publicContributions": 60,
+    "followers": 2,
+    "privateContributions": 1009,
+    "publicContributions": 92,
     "createdAt": "2026-01-26T22:36:49Z"
   },
   {
@@ -2323,8 +2311,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 95,
+    "privateContributions": 3409,
+    "publicContributions": 49,
     "createdAt": "2026-01-20T21:47:51Z"
   },
   {
@@ -2353,14 +2341,14 @@
   },
   {
     "login": "Robert1-dev",
-    "name": "Robert Pliszka",
+    "name": "Robert",
     "avatarUrl": "https://avatars.githubusercontent.com/u/257297406?s=72&v=4",
     "location": "Polska",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 12,
-    "publicContributions": 15,
+    "publicContributions": 59,
     "createdAt": "2026-01-26T12:19:21Z"
   },
   {
@@ -2384,7 +2372,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 31,
     "createdAt": "2026-02-16T17:15:18Z"
   },
   {
@@ -2454,7 +2442,7 @@
     "location": "Gdansk",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 413,
     "createdAt": "2026-04-20T06:37:53Z"
@@ -2462,26 +2450,14 @@
   {
     "login": "1Kyryll",
     "name": "Kyryll",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266338336?s=72&u=12981ee93ee32a23ff67c8bc95e8f14e7f16fdaa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266338336?s=72&u=774f84f0e9d83351bc8b4ab150c92f240819fbf1&v=4",
     "location": "Warsaw",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 349,
-    "publicContributions": 943,
+    "followers": 34,
+    "privateContributions": 398,
+    "publicContributions": 1110,
     "createdAt": "2026-03-07T17:11:55Z"
-  },
-  {
-    "login": "jbz0rek",
-    "name": "Jakub Żurek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267894309?s=72&u=cb0ee911e76a3d1cae3a5f07035a0b48890a820c&v=4",
-    "location": "Warsaw",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 115,
-    "publicContributions": 10,
-    "createdAt": "2026-03-13T09:17:53Z"
   },
   {
     "login": "oliwiacode",
