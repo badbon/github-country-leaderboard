@@ -24,7 +24,7 @@ Indexed users: 795
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,842 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,149 |
 | 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,965 |
-| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,838 |
+| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,851 |
 | 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,818 |
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,801 |
 | 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,793 |
@@ -83,4 +83,4 @@ Indexed users: 795
 | 19 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 20 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 
-Generated: 2026-10-23T06:00:35.173Z
+Generated: 2026-10-23T07:10:04.023Z

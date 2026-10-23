@@ -23,7 +23,7 @@ Published countries: 236
 | Bahrain | 726 | [View](./bahrain.md) |
 | Bangladesh | 55,296 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
-| Belarus | 10,922 | [View](./belarus.md) |
+| Belarus | 10,921 | [View](./belarus.md) |
 | Belgium | 18,369 | [View](./belgium.md) |
 | Belize | 94 | [View](./belize.md) |
 | Benin | 471 | [View](./benin.md) |
@@ -81,7 +81,7 @@ Published countries: 236
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,868 | [View](./georgia.md) |
-| Ghana | 7,074 | [View](./ghana.md) |
+| Ghana | 7,073 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,529 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
@@ -99,19 +99,19 @@ Published countries: 236
 | Hong Kong | 10,247 | [View](./hong_kong.md) |
 | Hungary | 11,156 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,270 | [View](./indonesia.md) |
-| Iran | 26,852 | [View](./iran.md) |
+| Indonesia | 63,269 | [View](./indonesia.md) |
+| Iran | 26,851 | [View](./iran.md) |
 | Iraq | 2,230 | [View](./iraq.md) |
 | Ireland | 19,484 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,417 | [View](./israel.md) |
-| Italy | 49,011 | [View](./italy.md) |
+| Israel | 12,416 | [View](./israel.md) |
+| Italy | 49,009 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,271 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 3,997 | [View](./jordan.md) |
 | Kazakhstan | 5,619 | [View](./kazakhstan.md) |
-| Kenya | 24,006 | [View](./kenya.md) |
+| Kenya | 24,005 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 795 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T06:56:11.866Z
+Generated: 2026-10-23T07:13:38.338Z

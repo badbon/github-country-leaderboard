@@ -14,11 +14,11 @@ Indexed users: 58
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,952 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,830 |
-| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,363 |
-| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,264 |
+| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,356 |
+| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,260 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 903 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 813 |
-| 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 699 |
+| 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 692 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 262 |
 | 9 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
 | 10 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 232 |
@@ -38,9 +38,9 @@ Indexed users: 58
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,997 |
-| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,363 |
+| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,356 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 903 |
-| 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 699 |
+| 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 692 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 536 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 275 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-23T05:53:08.962Z
+Generated: 2026-10-23T07:01:13.268Z

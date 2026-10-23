@@ -1,6 +1,6 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-23T05:51:35.038Z
+Generated: 2026-10-23T06:57:28.394Z
 
 Users: 68
 
@@ -17,10 +17,10 @@ Users: 68
 | 9 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | @globe-tracker |  | Tórshavn, Faroe islands | 12 |
 | 10 | [Flakvard](https://github.com/Flakvard) | Ma-a-a-rni | Oilwind Sp/f |  | Faroe Islands | 11 |
 | 11 | [Niflheimrx](https://github.com/Niflheimrx) | Niflheimrx |  |  | Faroe Islands | 10 |
-| 12 | [barbaroo](https://github.com/barbaroo) | Barbara Scalvini | University of the Faroe Islands |  | Tórshavn | 9 |
-| 13 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 9 |
-| 14 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 9 |
-| 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 9 |
+| 12 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 10 |
+| 13 | [barbaroo](https://github.com/barbaroo) | Barbara Scalvini | University of the Faroe Islands |  | Tórshavn | 9 |
+| 14 | [forkh](https://github.com/forkh) |  |  |  | Føroyar | 9 |
+| 15 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 9 |
 | 16 | [thorgisl](https://github.com/thorgisl) | Dreki Þórgísl |  |  | Tórshavn, Faroe Islands | 9 |
 | 17 | [BogiSyderbo](https://github.com/BogiSyderbo) | Bogi |  |  | Tórshavn | 7 |
 | 18 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 7 |

@@ -50,11 +50,11 @@ Indexed users: 1,579
 | 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 2,155 |
 | 12 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,039 |
 | 13 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,001 |
-| 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,649 |
-| 15 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,514 |
-| 16 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,499 |
-| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,456 |
-| 18 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Iceland | 1,398 |
+| 14 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Iceland | 1,754 |
+| 15 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,649 |
+| 16 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,514 |
+| 17 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,499 |
+| 18 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,456 |
 | 19 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,358 |
 | 20 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | Iceland | 1,327 |
 
@@ -76,11 +76,11 @@ Indexed users: 1,579
 | 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 284 |
 | 13 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 276 |
 | 14 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 258 |
-| 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 249 |
-| 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 244 |
+| 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 250 |
+| 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 243 |
 | 17 | [MIK4GE-RE0](https://github.com/MIK4GE-RE0) | ReoReo | bllk/ Pjsk/ Hsr/ Bakery/ Island/ moots +tied up in sunnys bed | 226 |
 | 18 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 218 |
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-23T05:56:39.165Z
+Generated: 2026-10-23T07:05:43.905Z

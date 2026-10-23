@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-23T05:56:39.165Z
+Generated: 2026-10-23T07:05:43.905Z
 
 Users: 1579
 
@@ -19,10 +19,10 @@ Users: 1579
 | 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 2155 |
 | 12 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2039 |
 | 13 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2001 |
-| 14 | [egil](https://github.com/egil) | Egil Hansen | Egil Hansen ehf |  | Iceland | 1649 |
-| 15 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 1514 |
-| 16 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1499 |
-| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1456 |
-| 18 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Kappi ehf. |  | Iceland | 1398 |
+| 14 | [gunnargestsson](https://github.com/gunnargestsson) | Gunnar Thor Gestsson | Kappi ehf. |  | Iceland | 1754 |
+| 15 | [egil](https://github.com/egil) | Egil Hansen | Egil Hansen ehf |  | Iceland | 1649 |
+| 16 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 1514 |
+| 17 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1499 |
+| 18 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1456 |
 | 19 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1358 |
 | 20 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | University of Iceland | tungufoss | Iceland | 1327 |

@@ -1,6 +1,6 @@
 # Total Contributions - Eswatini
 
-Generated: 2026-10-23T05:50:06.760Z
+Generated: 2026-10-23T06:57:07.925Z
 
 Users: 108
 
@@ -13,13 +13,13 @@ Users: 108
 | 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Razonetix Eswatini |  | Eswatini | 647 |
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 438 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 368 |
-| 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini |  |  | Swaziland | 335 |
+| 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini |  |  | Swaziland | 331 |
 | 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane |  |  | Swaziland | 285 |
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 254 |
 | 11 | [temesgen-tana](https://github.com/temesgen-tana) | Temesgen Tana | Innovation Forge |  | Eswatini | 192 |
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 191 |
 | 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson |  |  | Malkerns, Swaziland | 174 |
-| 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 167 |
+| 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 166 |
 | 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx |  |  | Manzini, Swaziland | 102 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 |  |  | Mbabane,Eswatini | 94 |
 | 17 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 74 |

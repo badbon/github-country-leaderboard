@@ -23,7 +23,7 @@ Indexed users: 160
 | 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 694 |
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 689 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 601 |
-| 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 508 |
+| 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 507 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 431 |
 | 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 370 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 344 |
@@ -74,13 +74,13 @@ Indexed users: 160
 | 10 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 30 |
 | 11 | [Ntlele](https://github.com/Ntlele) | David | Lesotho | 25 |
 | 12 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 19 |
-| 13 | [KaaraOpCode](https://github.com/KaaraOpCode) | Tlokotsi Potloane | Lesotho | 15 |
-| 14 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 15 |
-| 15 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 14 |
+| 13 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 15 |
+| 14 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello | Maseru, Lesotho | 14 |
+| 15 | [KaaraOpCode](https://github.com/KaaraOpCode) | Tlokotsi Potloane | Lesotho | 14 |
 | 16 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 14 |
 | 17 | [Thomello](https://github.com/Thomello) | Thomello | Maseru, Lesotho | 14 |
 | 18 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-23T06:01:09.224Z
+Generated: 2026-10-23T07:10:24.366Z

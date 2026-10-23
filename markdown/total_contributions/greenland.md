@@ -1,6 +1,6 @@
 # Total Contributions - Greenland
 
-Generated: 2026-10-23T05:53:08.962Z
+Generated: 2026-10-23T07:01:13.268Z
 
 Users: 58
 
@@ -8,11 +8,11 @@ Users: 58
 |---:|---|---|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 3952 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 1830 |
-| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1363 |
-| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 1264 |
+| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1356 |
+| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 1260 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 903 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Tongji University |  | Greenland | 813 |
-| 7 | [ibdj](https://github.com/ibdj) | ibdj |  |  | Nuuk, Greenland | 699 |
+| 7 | [ibdj](https://github.com/ibdj) | ibdj |  |  | Nuuk, Greenland | 692 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 262 |
 | 9 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland Business School |  | Greenland | 237 |
 | 10 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 232 |
