@@ -13,19 +13,19 @@ Indexed users: 14,975
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dtinth-bot](https://github.com/dtinth-bot) | dtinth’s bot | Bangkok, Thailand | 23,737 |
-| 2 | [gHashTag](https://github.com/gHashTag) | Vasilev Dmitrii | Thailand | 22,916 |
-| 3 | [EvarinthoSec](https://github.com/EvarinthoSec) | Awarin Warraekalak | Surat Thani, Thailand | 22,866 |
-| 4 | [densmirnov](https://github.com/densmirnov) | Denis Smirnov | Chiang Mai, Thailand | 21,616 |
-| 5 | [B-EtterDigital](https://github.com/B-EtterDigital) | BetterDigit4l | Thailand | 20,156 |
-| 6 | [fukata](https://github.com/fukata) | fukata | ChiangMai, Thailand | 18,002 |
-| 7 | [chaintng](https://github.com/chaintng) | Chainarong Tangsurakit | Bangkok, Thailand 🇹🇭 | 17,207 |
-| 8 | [bezlant](https://github.com/bezlant) | Anthony | Bangkok | 17,063 |
-| 9 | [smilexth](https://github.com/smilexth) | Damrongwit Nusuk | Suratthani, Thailand | 16,496 |
-| 10 | [katopz](https://github.com/katopz) | Todsaporn Banjerdkit | Bangkok, Thailand | 16,442 |
-| 11 | [tumf](https://github.com/tumf) | tumf | Bangkok, Thailand | 16,061 |
-| 12 | [menotafari](https://github.com/menotafari) | MK | Bangkok, Thailand | 15,720 |
-| 13 | [komphet](https://github.com/komphet) | Komphet Meesab | Bangkok | 14,967 |
-| 14 | [LoneExile](https://github.com/LoneExile) | Apinant.u | Thailand | 14,891 |
+| 2 | [LoneExile](https://github.com/LoneExile) | Apinant.u | Thailand | 23,305 |
+| 3 | [gHashTag](https://github.com/gHashTag) | Vasilev Dmitrii | Thailand | 22,916 |
+| 4 | [EvarinthoSec](https://github.com/EvarinthoSec) | Awarin Warraekalak | Surat Thani, Thailand | 22,866 |
+| 5 | [densmirnov](https://github.com/densmirnov) | Denis Smirnov | Chiang Mai, Thailand | 21,616 |
+| 6 | [B-EtterDigital](https://github.com/B-EtterDigital) | BetterDigit4l | Thailand | 20,156 |
+| 7 | [fukata](https://github.com/fukata) | fukata | ChiangMai, Thailand | 18,002 |
+| 8 | [chaintng](https://github.com/chaintng) | Chainarong Tangsurakit | Bangkok, Thailand 🇹🇭 | 17,207 |
+| 9 | [bezlant](https://github.com/bezlant) | Anthony | Bangkok | 17,063 |
+| 10 | [smilexth](https://github.com/smilexth) | Damrongwit Nusuk | Suratthani, Thailand | 16,496 |
+| 11 | [katopz](https://github.com/katopz) | Todsaporn Banjerdkit | Bangkok, Thailand | 16,442 |
+| 12 | [tumf](https://github.com/tumf) | tumf | Bangkok, Thailand | 16,061 |
+| 13 | [menotafari](https://github.com/menotafari) | MK | Bangkok, Thailand | 15,720 |
+| 14 | [komphet](https://github.com/komphet) | Komphet Meesab | Bangkok | 14,967 |
 | 15 | [Restuta](https://github.com/Restuta) | Anton Vynogradenko | San Francisco, CA and Bangkok | 14,406 |
 | 16 | [jojoprison](https://github.com/jojoprison) | jojoprison | Thailand | 14,370 |
 | 17 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Pak Chong, Nakhon Ratchasima, Thailand | 14,360 |
@@ -83,4 +83,4 @@ Indexed users: 14,975
 | 19 | [worawit](https://github.com/worawit) | Worawit Wangwarunyoo | Thailand | 695 |
 | 20 | [nuuneoi](https://github.com/nuuneoi) | Sittiphol Phanvilai | Bangkok, Thailand | 693 |
 
-Generated: 2026-10-23T20:28:18.767Z
+Generated: 2026-10-23T22:33:39.878Z

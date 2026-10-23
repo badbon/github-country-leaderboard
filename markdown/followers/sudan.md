@@ -1,8 +1,8 @@
 # Followers - Sudan
 
-Generated: 2026-10-23T20:27:05.599Z
+Generated: 2026-10-23T22:32:02.538Z
 
-Users: 726
+Users: 725
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

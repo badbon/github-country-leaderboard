@@ -188,7 +188,7 @@ Published countries: 236
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,729 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,730 | [View](./saudi_arabia.md) |
 | Senegal | 1,353 | [View](./senegal.md) |
 | Serbia | 10,648 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
@@ -204,13 +204,13 @@ Published countries: 236
 | South Korea | 56,899 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,300 | [View](./sri_lanka.md) |
-| Sudan | 726 | [View](./sudan.md) |
+| Sudan | 725 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
 | Sweden | 39,026 | [View](./sweden.md) |
 | Switzerland | 24,068 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
-| Taiwan | 21,991 | [View](./taiwan.md) |
+| Taiwan | 21,990 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
 | Thailand | 14,975 | [View](./thailand.md) |
@@ -220,7 +220,7 @@ Published countries: 236
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,155 | [View](./tunisia.md) |
-| Turkey | 79,157 | [View](./turkey.md) |
+| Turkey | 79,156 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T22:29:21.731Z
+Generated: 2026-10-23T22:38:24.873Z

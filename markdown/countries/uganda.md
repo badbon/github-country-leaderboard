@@ -48,10 +48,10 @@ Indexed users: 3,862
 | 9 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 3,131 |
 | 10 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,829 |
 | 11 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,789 |
-| 12 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,748 |
-| 13 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
-| 14 | [PerezChris99](https://github.com/PerezChris99) | Perez Chris | Kampala, Uganda | 2,598 |
-| 15 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
+| 12 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,757 |
+| 13 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,748 |
+| 14 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
+| 15 | [PerezChris99](https://github.com/PerezChris99) | Perez Chris | Kampala, Uganda | 2,598 |
 | 16 | [birleopold](https://github.com/birleopold) | leopold birungi | kampala | 2,359 |
 | 17 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,001 |
 | 18 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
@@ -83,4 +83,4 @@ Indexed users: 3,862
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-23T20:32:18.119Z
+Generated: 2026-10-23T22:36:38.425Z

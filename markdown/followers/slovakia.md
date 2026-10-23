@@ -1,6 +1,6 @@
 # Followers - Slovakia
 
-Generated: 2026-10-23T20:25:25.416Z
+Generated: 2026-10-23T22:30:08.040Z
 
 Users: 4655
 
@@ -18,7 +18,7 @@ Users: 4655
 | 10 | [petersirka](https://github.com/petersirka) | Peter Širka | Total Avengers | totalframework | Slovakia | 402 |
 | 11 | [Kixunil](https://github.com/Kixunil) | Martin Habovštiak |  |  | Bratislava | 398 |
 | 12 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský |  |  | Trenčín, Slovakia | 352 |
-| 13 | [ingbrzy](https://github.com/ingbrzy) | ingbrzy | miuios.cz, xiaomi.eu |  | Slovakia, EU | 348 |
+| 13 | [ingbrzy](https://github.com/ingbrzy) | ingbrzy | miuios.cz, xiaomi.eu |  | Slovakia, EU | 350 |
 | 14 | [MatejBendik](https://github.com/MatejBendik) | Matej Bendík |  |  | Slovakia | 333 |
 | 15 | [vlady0712](https://github.com/vlady0712) | Vlady |  |  | Košice, Slovakia | 321 |
 | 16 | [xhyrom](https://github.com/xhyrom) | Jozef Steinhübl | @slovensko-digital  |  | Slovakia | 321 |

@@ -1,6 +1,6 @@
 # Sudan
 
-Indexed users: 726
+Indexed users: 725
 
 | Leaderboard | Link |
 |---|---|
@@ -22,7 +22,7 @@ Indexed users: 726
 | 8 | [harranali](https://github.com/harranali) |  | Sudan | 3,290 |
 | 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | Sudan | 3,186 |
 | 10 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 2,912 |
-| 11 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 2,906 |
+| 11 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 2,911 |
 | 12 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | Al-Thawrah H 19, Omdurman, Sudan | 2,819 |
 | 13 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker | Khartoum | 2,750 |
 | 14 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 2,613 |
@@ -43,7 +43,7 @@ Indexed users: 726
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 965 |
 | 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 872 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 812 |
-| 7 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 777 |
+| 7 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 776 |
 | 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
 | 9 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 541 |
 | 10 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 526 |
@@ -53,7 +53,7 @@ Indexed users: 726
 | 14 | [AminElhag](https://github.com/AminElhag) | Amin Elhag | Khartoum,Sudan | 398 |
 | 15 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | sudan | 396 |
 | 16 | [ahmedelbilal](https://github.com/ahmedelbilal) | Ahmed Elbilal | Sudan, Khartoum | 344 |
-| 17 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 343 |
+| 17 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 340 |
 | 18 | [aaami1ster](https://github.com/aaami1ster) | Abdalla Elsayed | Khartoum, Sudan | 328 |
 | 19 | [hima890](https://github.com/hima890) | Ibrahim Hanafi Mohamed Hanafi | Sudan | 323 |
 | 20 | [Moe-Suhail](https://github.com/Moe-Suhail) | Mohammed Adil Hassan Taha | Khartoum, Sudan | 312 |
@@ -83,4 +83,4 @@ Indexed users: 726
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-23T20:27:05.599Z
+Generated: 2026-10-23T22:32:02.538Z
