@@ -1,19 +1,19 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-23T00:06:43.385Z
+Generated: 2026-10-23T01:15:49.866Z
 
 Users: 2013
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés |  |  | Paraguay | 20188 |
+| 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés |  |  | Paraguay | 20099 |
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 17587 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R |  |  | Paraguay | 16831 |
 | 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares |  |  | Paraguay | 11498 |
 | 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Pyfection |  | Paraguay | 11013 |
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10793 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 10531 |
-| 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 9877 |
+| 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 10484 |
 | 9 | [juraj-m](https://github.com/juraj-m) | Juraj |  |  | Yaguarón, Paraguay | 8027 |
 | 10 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 7889 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 7868 |

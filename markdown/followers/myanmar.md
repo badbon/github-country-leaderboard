@@ -1,6 +1,6 @@
 # Followers - Myanmar
 
-Generated: 2026-10-23T00:02:42.292Z
+Generated: 2026-10-23T01:08:34.974Z
 
 Users: 2055
 
@@ -9,7 +9,7 @@ Users: 2055
 | 1 | [eimg](https://github.com/eimg) | Ei Maung | Fairway Technology |  | Yangon, Myanmar | 4323 |
 | 2 | [minlwin](https://github.com/minlwin) | Min Lwin | SOLT Engineering Co.,Ltd. |  | Yangon, Myanmar | 1204 |
 | 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1068 |
-| 4 | [sailay1996](https://github.com/sailay1996) | valen |  | 404death | Myanmar | 758 |
+| 4 | [sailay1996](https://github.com/sailay1996) | valen |  | 404death | Myanmar | 757 |
 | 5 | [HlaingMinThan](https://github.com/HlaingMinThan) | Hlaing Min Than(Faizal) | Creative Coder | hlaingminthan4 | Yangon,Myanmar | 692 |
 | 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing |  |  | HsiHseng, Myanmar | 404 |
 | 7 | [myanmarlinks](https://github.com/myanmarlinks) | Myanmar Links | Myanmar Links |  | Yangon, Myanmar | 371 |
@@ -25,4 +25,4 @@ Users: 2055
 | 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Pet Sentry |  | Yangon, Myanmar | 199 |
 | 18 | [ko-htut](https://github.com/ko-htut) | Ko Htut | A Bank | ko_htutz | Myanmar | 171 |
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint |  | winsandymyint | Myanmar | 168 |
-| 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Creatigon |  | Myanmar | 162 |
+| 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Creatigon |  | Myanmar | 164 |

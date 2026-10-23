@@ -1,18 +1,18 @@
 # Total Contributions - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-23T00:10:01.219Z
+Generated: 2026-10-23T01:19:33.782Z
 
 Users: 25
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | EBTH |  | Jamestown, CA | 1469 |
-| 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 194 |
+| 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | EBTH |  | Jamestown, CA | 1465 |
+| 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 195 |
 | 3 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 121 |
 | 4 | [johncoder](https://github.com/johncoder) | John Nelson |  | johncoder | Jamestown, NY | 67 |
 | 5 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz |  |  | Jamestown, North Dakota | 62 |
 | 6 | [scottley](https://github.com/scottley) | Scott Simon | Garcilote LLC |  | Jamestown, MO | 41 |
-| 7 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | 3am Dead Coder |  | Jamestown | 22 |
+| 7 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | 3am Dead Coder |  | Jamestown | 21 |
 | 8 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Capital One  |  | Jamestown, RI | 10 |
 | 9 | [ReviewEdge](https://github.com/ReviewEdge) | Logan Richardson |  |  | Jamestown, NY | 3 |
 | 10 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Zyte | agentic_webb | Jamestown, KY | 1 |

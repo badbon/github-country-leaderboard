@@ -31,7 +31,7 @@ Indexed users: 111
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 658 |
 | 18 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 632 |
 | 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 518 |
-| 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 465 |
+| 20 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 463 |
 
 ## Public Contributions
 
@@ -50,9 +50,9 @@ Indexed users: 111
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO | New Caledonia | 265 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 223 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 216 |
-| 14 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B | New-Caledonia | 155 |
-| 15 | [trara538](https://github.com/trara538) | Rara Soro | Noumea, New Caledonia | 152 |
-| 16 | [nevizsh](https://github.com/nevizsh) | Nevi | New Caledonia | 146 |
+| 14 | [nevizsh](https://github.com/nevizsh) | Nevi | New Caledonia | 177 |
+| 15 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B | New-Caledonia | 155 |
+| 16 | [trara538](https://github.com/trara538) | Rara Soro | Noumea, New Caledonia | 152 |
 | 17 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 141 |
 | 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak | Nouméa | 122 |
 | 19 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 119 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-23T00:02:51.676Z
+Generated: 2026-10-23T01:11:03.826Z

@@ -12,14 +12,14 @@ Indexed users: 2,013
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 20,188 |
+| 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 20,099 |
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 17,587 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 16,831 |
 | 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 11,498 |
 | 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 11,013 |
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,531 |
-| 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 9,877 |
+| 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 10,484 |
 | 9 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 8,027 |
 | 10 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 7,889 |
 | 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,868 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-23T00:06:43.385Z
+Generated: 2026-10-23T01:15:49.866Z
