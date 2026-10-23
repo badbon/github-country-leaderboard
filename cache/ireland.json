@@ -46476,27 +46476,15 @@
     "createdAt": "2021-08-16T04:55:18Z"
   },
   {
-    "login": "ArteLumen",
-    "name": "Elif Hakarar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79280104?s=72&u=b8e979f5b935f9c32d6c3b2631774b5a3b7bd139&v=4",
-    "location": "Dublin",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 87,
-    "createdAt": "2021-02-18T19:04:34Z"
-  },
-  {
     "login": "M00M00M00",
     "name": "Museung Kim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96317804?s=72&u=19999c5d576de822c6ced61082bd01590f60453c&v=4",
     "location": "Dublin",
     "company": "AWS",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1943,
-    "publicContributions": 28,
+    "followers": 10,
+    "privateContributions": 2079,
+    "publicContributions": 27,
     "createdAt": "2021-12-17T21:36:16Z"
   },
   {
@@ -46508,7 +46496,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 121,
-    "publicContributions": 27,
+    "publicContributions": 24,
     "createdAt": "2021-05-13T10:38:22Z"
   },
   {
@@ -46530,9 +46518,9 @@
     "location": "Dublin, CA",
     "company": "@getsentry",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 20,
-    "publicContributions": 93,
+    "followers": 13,
+    "privateContributions": 15,
+    "publicContributions": 72,
     "createdAt": "2021-05-25T18:48:29Z"
   },
   {
@@ -46542,8 +46530,8 @@
     "location": "Dublin, 🇮🇪",
     "company": "SDE @ AWS",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
+    "followers": 11,
+    "privateContributions": 57,
     "publicContributions": 37,
     "createdAt": "2021-05-01T14:39:05Z"
   },
@@ -46555,8 +46543,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 18,
-    "publicContributions": 14,
+    "privateContributions": 0,
+    "publicContributions": 35,
     "createdAt": "2021-06-02T10:44:15Z"
   },
   {
@@ -46567,7 +46555,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 75,
+    "privateContributions": 77,
     "publicContributions": 131,
     "createdAt": "2021-11-29T18:56:42Z"
   },
@@ -46578,7 +46566,7 @@
     "location": "Dublin 04",
     "company": "",
     "twitterUsername": "BhoyarPurvi",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-29T09:45:32Z"
@@ -46616,7 +46604,7 @@
     "twitterUsername": "raghavb025",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 317,
     "createdAt": "2020-12-28T17:15:59Z"
   },
   {
@@ -46638,9 +46626,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "itsranveer",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 24,
     "createdAt": "2021-02-07T22:19:56Z"
   },
   {
@@ -46662,8 +46650,8 @@
     "location": "Dublin",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 86,
+    "followers": 11,
+    "privateContributions": 94,
     "publicContributions": 1,
     "createdAt": "2021-06-04T14:15:29Z"
   },
@@ -46712,7 +46700,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 2,
-    "publicContributions": 12,
+    "publicContributions": 2,
     "createdAt": "2021-11-05T19:47:45Z"
   },
   {

@@ -46267,8 +46267,8 @@
     "company": "SADE Innovations Oy",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 604,
-    "publicContributions": 89,
+    "privateContributions": 821,
+    "publicContributions": 82,
     "createdAt": "2020-01-08T07:10:10Z"
   },
   {
@@ -46302,9 +46302,9 @@
     "location": "Helsinki, Finland",
     "company": "Finnish Museum of Natural History (LUOMUS), University of Helsinki",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 177,
+    "publicContributions": 180,
     "createdAt": "2020-05-05T11:27:27Z"
   },
   {
@@ -46315,8 +46315,8 @@
     "company": "@AMD, @AaltoUniversity",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 58,
-    "publicContributions": 26,
+    "privateContributions": 27,
+    "publicContributions": 13,
     "createdAt": "2020-04-14T16:51:46Z"
   },
   {
@@ -46338,9 +46338,9 @@
     "location": "Finland",
     "company": "Forward Forever Oy",
     "twitterUsername": "anttipajunen",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 1,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2020-04-20T20:54:52Z"
   },
   {
@@ -46362,9 +46362,9 @@
     "location": "Helsinki, Finland",
     "company": "University of Helsinki",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 18,
     "createdAt": "2020-03-12T09:46:32Z"
   },
   {
@@ -46376,7 +46376,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 14,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2020-04-14T10:13:25Z"
   },
   {
@@ -46412,7 +46412,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1211,
+    "publicContributions": 1099,
     "createdAt": "2020-02-24T09:50:36Z"
   },
   {
@@ -46424,7 +46424,7 @@
     "twitterUsername": "PortoSasso",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 20,
     "createdAt": "2020-01-16T23:18:42Z"
   },
   {
@@ -46436,7 +46436,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2020-03-03T06:28:00Z"
   },
   {
@@ -46447,8 +46447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 51,
-    "publicContributions": 34,
+    "privateContributions": 22,
+    "publicContributions": 53,
     "createdAt": "2020-01-01T16:38:51Z"
   },
   {
@@ -46458,7 +46458,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 92,
     "publicContributions": 0,
     "createdAt": "2020-01-18T08:48:41Z"
@@ -46470,9 +46470,9 @@
     "location": "Finland",
     "company": "@Mankeli-Software",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 193,
-    "publicContributions": 251,
+    "followers": 8,
+    "privateContributions": 423,
+    "publicContributions": 238,
     "createdAt": "2020-02-29T09:17:23Z"
   },
   {
@@ -46483,7 +46483,7 @@
     "company": "University of Helsinki",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 363,
+    "privateContributions": 396,
     "publicContributions": 100,
     "createdAt": "2020-02-25T07:41:54Z"
   },
@@ -46495,8 +46495,8 @@
     "company": "@Nokia",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 450,
-    "publicContributions": 2,
+    "privateContributions": 367,
+    "publicContributions": 1,
     "createdAt": "2020-04-14T12:28:04Z"
   },
   {
@@ -174730,18 +174730,6 @@
     "privateContributions": 14,
     "publicContributions": 3,
     "createdAt": "2013-11-25T20:19:44Z"
-  },
-  {
-    "login": "B2ron",
-    "name": "Maxim Smolnikov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5966285?s=72&u=40f3c7cccf4d12eeeac110a8dc2cc2c0b817d466&v=4",
-    "location": "Helsinki",
-    "company": "Bildy",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2013-11-18T07:05:36Z"
   },
   {
     "login": "hsyram",

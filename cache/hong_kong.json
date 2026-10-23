@@ -46758,9 +46758,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 100,
-    "publicContributions": 48,
+    "followers": 10,
+    "privateContributions": 81,
+    "publicContributions": 25,
     "createdAt": "2019-04-01T09:40:07Z"
   },
   {
@@ -46772,7 +46772,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 20,
     "createdAt": "2019-06-21T12:13:01Z"
   },
   {
@@ -46783,8 +46783,8 @@
     "company": "Software Developer",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 2,
-    "publicContributions": 96,
+    "privateContributions": 0,
+    "publicContributions": 172,
     "createdAt": "2019-03-30T13:52:18Z"
   },
   {
@@ -46795,7 +46795,7 @@
     "company": "Hong Kong University of Science and Technology",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 13,
+    "privateContributions": 12,
     "publicContributions": 1,
     "createdAt": "2019-02-12T05:30:51Z"
   },
@@ -46820,7 +46820,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 174,
     "createdAt": "2019-01-25T12:33:11Z"
   },
   {
@@ -46830,8 +46830,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 242,
+    "followers": 8,
+    "privateContributions": 230,
     "publicContributions": 0,
     "createdAt": "2018-12-30T06:59:33Z"
   },
@@ -46843,8 +46843,8 @@
     "company": "The University of Hong Kong",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 118,
-    "publicContributions": 3,
+    "privateContributions": 37,
+    "publicContributions": 10,
     "createdAt": "2019-04-05T15:02:29Z"
   },
   {
@@ -46854,7 +46854,7 @@
     "location": "London | Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 15,
     "publicContributions": 3,
     "createdAt": "2019-06-25T12:52:37Z"
@@ -46867,8 +46867,8 @@
     "company": "",
     "twitterUsername": "nickypangers",
     "followers": 8,
-    "privateContributions": 646,
-    "publicContributions": 38,
+    "privateContributions": 389,
+    "publicContributions": 43,
     "createdAt": "2019-03-09T02:51:27Z"
   },
   {
@@ -46878,8 +46878,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2,
+    "followers": 10,
+    "privateContributions": 29,
     "publicContributions": 1,
     "createdAt": "2019-06-13T02:53:26Z"
   },
@@ -46890,9 +46890,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 555,
-    "publicContributions": 47,
+    "followers": 10,
+    "privateContributions": 642,
+    "publicContributions": 54,
     "createdAt": "2019-04-19T05:19:54Z"
   },
   {
@@ -46902,9 +46902,9 @@
     "location": "Hong Kong",
     "company": "Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 1128,
     "createdAt": "2019-02-20T13:49:03Z"
   },
   {
@@ -46914,9 +46914,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 23,
     "createdAt": "2019-03-27T13:35:07Z"
   },
   {
@@ -46928,7 +46928,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2019-01-05T09:32:50Z"
   },
   {
@@ -46962,9 +46962,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 258,
     "createdAt": "2019-01-09T10:03:12Z"
   },
   {
@@ -46974,7 +46974,7 @@
     "location": "Hong Kong",
     "company": "Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-14T12:36:51Z"
@@ -122914,5 +122914,17 @@
     "privateContributions": 41,
     "publicContributions": 75,
     "createdAt": "2018-05-14T06:17:57Z"
+  },
+  {
+    "login": "snehashish090",
+    "name": "Snehashish Laskar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76912785?s=72&u=da12e5a1dbaa9037d6bdbb462d94e23cb56d8424&v=4",
+    "location": "Hong Kong | New Delhi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 194,
+    "publicContributions": 26,
+    "createdAt": "2021-01-03T16:12:14Z"
   }
 ]
