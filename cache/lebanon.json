@@ -16507,7 +16507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1056,
+    "privateContributions": 1055,
     "publicContributions": 115,
     "createdAt": "2021-07-19T15:57:33Z"
   },
@@ -16522,18 +16522,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-05T16:19:02Z"
-  },
-  {
-    "login": "khodorrHajj",
-    "name": "khodor",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85763396?s=72&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 93,
-    "createdAt": "2021-06-11T18:59:05Z"
   },
   {
     "login": "Hawkim",
@@ -16556,7 +16544,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 2919,
+    "publicContributions": 2859,
     "createdAt": "2021-06-16T23:03:38Z"
   },
   {
@@ -16591,8 +16579,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 328,
-    "publicContributions": 207,
+    "privateContributions": 320,
+    "publicContributions": 199,
     "createdAt": "2021-01-11T13:32:44Z"
   },
   {
@@ -16603,7 +16591,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2335,
+    "privateContributions": 2353,
     "publicContributions": 51,
     "createdAt": "2021-02-20T12:19:21Z"
   },
@@ -16699,8 +16687,8 @@
     "company": "",
     "twitterUsername": "thetarekhatib",
     "followers": 5,
-    "privateContributions": 85,
-    "publicContributions": 141,
+    "privateContributions": 92,
+    "publicContributions": 132,
     "createdAt": "2021-05-30T11:27:55Z"
   },
   {
@@ -16723,7 +16711,7 @@
     "company": "Fundbot",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6452,
+    "privateContributions": 7633,
     "publicContributions": 0,
     "createdAt": "2021-12-01T12:36:50Z"
   },

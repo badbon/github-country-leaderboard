@@ -47238,9 +47238,9 @@
     "location": "Jordan ",
     "company": "Microsoft ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 21,
     "createdAt": "2011-07-03T12:40:56Z"
   },
   {
@@ -47276,7 +47276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2011-07-14T16:54:49Z"
   },
   {
@@ -47294,13 +47294,13 @@
   {
     "login": "yabasha",
     "name": "Bashar Ayyash",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/932321?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/932321?s=72&u=296027f44fbee7aa0f0e2ee764752e366bb94743&v=4",
     "location": "Amman",
-    "company": "Advanced Web Solutions",
+    "company": "yabasha.dev",
     "twitterUsername": "bayyash",
-    "followers": 11,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 282,
     "createdAt": "2011-07-22T11:16:32Z"
   },
   {
@@ -47322,9 +47322,9 @@
     "location": "Jordan",
     "company": "Open Source",
     "twitterUsername": "rakanalh",
-    "followers": 109,
-    "privateContributions": 456,
-    "publicContributions": 946,
+    "followers": 110,
+    "privateContributions": 3673,
+    "publicContributions": 602,
     "createdAt": "2010-02-03T17:02:19Z"
   },
   {
