@@ -13,7 +13,7 @@ Indexed users: 254
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,569 |
-| 2 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 4,174 |
+| 2 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 4,177 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,863 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,186 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,181 |
@@ -24,8 +24,8 @@ Indexed users: 254
 | 10 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 818 |
 | 11 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 606 |
 | 12 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 605 |
-| 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 587 |
-| 14 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 539 |
+| 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 577 |
+| 14 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 538 |
 | 15 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 446 |
 | 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 361 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 337 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-22T23:32:55.087Z
+Generated: 2026-10-23T00:36:04.300Z

@@ -7,7 +7,7 @@ Published countries: 236
 | Afghanistan | 1,489 | [View](./afghanistan.md) |
 | Åland Islands | 61 | [View](./aland_islands.md) |
 | Albania | 1,180 | [View](./albania.md) |
-| Algeria | 5,774 | [View](./algeria.md) |
+| Algeria | 5,773 | [View](./algeria.md) |
 | American Samoa | 5 | [View](./american_samoa.md) |
 | Andorra | 215 | [View](./andorra.md) |
 | Angola | 2,499 | [View](./angola.md) |
@@ -17,7 +17,7 @@ Published countries: 236
 | Argentina | 50,715 | [View](./argentina.md) |
 | Armenia | 4,025 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
-| Austria | 18,244 | [View](./austria.md) |
+| Austria | 18,243 | [View](./austria.md) |
 | Azerbaijan | 5,045 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
@@ -201,7 +201,7 @@ Published countries: 236
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,920 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,902 | [View](./south_korea.md) |
+| South Korea | 56,901 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,301 | [View](./sri_lanka.md) |
 | Sudan | 727 | [View](./sudan.md) |
@@ -220,25 +220,25 @@ Published countries: 236
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,156 | [View](./tunisia.md) |
-| Turkey | 79,160 | [View](./turkey.md) |
+| Turkey | 79,159 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,864 | [View](./uganda.md) |
 | Ukraine | 47,723 | [View](./ukraine.md) |
-| United Arab Emirates | 4,208 | [View](./united_arab_emirates.md) |
+| United Arab Emirates | 4,206 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,599 | [View](./uruguay.md) |
-| Uzbekistan | 9,512 | [View](./uzbekistan.md) |
+| Uzbekistan | 9,511 | [View](./uzbekistan.md) |
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,610 | [View](./venezuela.md) |
-| Vietnam | 25,830 | [View](./vietnam.md) |
+| Vietnam | 25,829 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,205 | [View](./yemen.md) |
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T00:20:55.872Z
+Generated: 2026-10-23T00:45:40.454Z

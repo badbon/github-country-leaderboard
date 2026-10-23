@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,774
+Indexed users: 5,773
 
 | Leaderboard | Link |
 |---|---|
@@ -49,14 +49,14 @@ Indexed users: 5,774
 | 10 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,486 |
 | 11 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,158 |
 | 12 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Algeria | 2,122 |
-| 13 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,774 |
-| 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,664 |
-| 15 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,651 |
-| 16 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
-| 17 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
-| 18 | [1hachem](https://github.com/1hachem) | dashi | Algiers, Algeria | 1,455 |
-| 19 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
-| 20 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,383 |
+| 13 | [ABakdi](https://github.com/ABakdi) | Abderrahmane Bakdi | Algeria | 1,982 |
+| 14 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,774 |
+| 15 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,664 |
+| 16 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,651 |
+| 17 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
+| 18 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
+| 19 | [1hachem](https://github.com/1hachem) | dashi | Algiers, Algeria | 1,455 |
+| 20 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,774
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-22T23:26:45.945Z
+Generated: 2026-10-23T00:28:50.466Z

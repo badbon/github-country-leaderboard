@@ -12,7 +12,7 @@ Indexed users: 10
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 1,315 |
+| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki | Tonga | 1,318 |
 | 2 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon | Rachelmouth, Tonga | 135 |
 | 3 | [Cartus](https://github.com/Cartus) | Zhijiang | Tonga | 132 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau | Tonga | 57 |
@@ -53,4 +53,4 @@ Indexed users: 10
 | 9 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 1 |
 | 10 | [Pace417](https://github.com/Pace417) | AH | Tonga | 1 |
 
-Generated: 2026-10-22T23:21:31.419Z
+Generated: 2026-10-23T00:22:35.928Z

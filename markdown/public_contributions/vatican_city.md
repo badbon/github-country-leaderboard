@@ -1,6 +1,6 @@
 # Public Contributions - Vatican City
 
-Generated: 2026-10-22T23:24:07.842Z
+Generated: 2026-10-23T00:25:54.210Z
 
 Users: 31
 
@@ -11,8 +11,8 @@ Users: 31
 | 3 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu |  |  | Vatican | 42 |
 | 4 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 25 |
 | 5 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski |  |  | Vatican | 19 |
-| 6 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | @CastroRegionalClimateGroup  |  | Vatican City State  | 15 |
-| 7 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 15 |
+| 6 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 15 |
+| 7 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | @CastroRegionalClimateGroup  |  | Vatican City State  | 14 |
 | 8 | [spepei484-coder](https://github.com/spepei484-coder) | Sheretenya | ShereProject |  | Vatican | 11 |
 | 9 | [meereuk](https://github.com/meereuk) | KKUL | Roman Curia |  | Vatican City | 10 |
 | 10 | [dru91ce](https://github.com/dru91ce) | dru91ce |  |  | Vatican City (Holy See) | 7 |

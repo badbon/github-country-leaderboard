@@ -1,6 +1,6 @@
 # Followers - Uganda
 
-Generated: 2026-10-22T23:22:56.767Z
+Generated: 2026-10-23T00:24:29.857Z
 
 Users: 3864
 
@@ -20,7 +20,7 @@ Users: 3864
 | 12 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | e-Learning Platform | jesse_comedian | Kampala | 325 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | Microverse | KGWilliam60 | KAMPALA, UGANDA | 311 |
 | 14 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 298 |
-| 15 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Posit, PBC | HKibirige | Kampala, Uganda | 296 |
+| 15 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Posit, PBC | HKibirige | Kampala, Uganda | 297 |
 | 16 | [kbjude](https://github.com/kbjude) | kbjude | git.eygo.biz | balindakj | Kampala | 218 |
 | 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya |  | ceasor_elvis | Kampala, Uganda | 209 |
 | 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Loft  | mitalasam | Kampala | 203 |

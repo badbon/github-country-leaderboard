@@ -1,12 +1,12 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-22T23:27:07.693Z
+Generated: 2026-10-23T00:28:59.202Z
 
 Users: 215
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 48053 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 50659 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 3031 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1472 |
 | 4 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 809 |
@@ -17,7 +17,7 @@ Users: 215
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 611 |
 | 10 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Mountain Path Consulting |  | Ordino, Andorra | 610 |
 | 11 | [martapanc](https://github.com/martapanc) |  |  |  | Italy / Andorra | 514 |
-| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | @Peersyst |  | Andorra | 441 |
+| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | @Peersyst |  | Andorra | 446 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |
 | 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 381 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 353 |

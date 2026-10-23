@@ -74,7 +74,7 @@ Indexed users: 3,297
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dominican Republic | 227 |
 | 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | Dominican Republic | 227 |
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez | Dominican Republic | 218 |
-| 13 | [crystalduran](https://github.com/crystalduran) | Crystal D | Santo Domingo, Dominican Republic | 194 |
+| 13 | [crystalduran](https://github.com/crystalduran) | Crystal D | Santo Domingo, Dominican Republic | 195 |
 | 14 | [robertlluberes](https://github.com/robertlluberes) | Robert Lluberes | Dominican Republic | 164 |
 | 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero | Santo Domingo, Dominican Republic | 161 |
 | 16 | [francisbrito](https://github.com/francisbrito) | Francis Brito | Santo Domingo, Dominican Republic | 155 |
@@ -83,4 +83,4 @@ Indexed users: 3,297
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-22T23:39:35.332Z
+Generated: 2026-10-23T00:41:50.626Z

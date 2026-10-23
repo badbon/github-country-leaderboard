@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-22T23:26:42.637Z
+Generated: 2026-10-23T00:28:45.734Z
 
 Users: 1180
 
@@ -12,9 +12,9 @@ Users: 1180
 | 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | @DiceMasterIO |  | Tirana, Albania | 2544 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest |  |  | Albania | 1589 |
 | 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Western Balkan Univesity | kleo_j14 | Albania | 1243 |
-| 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 1002 |
-| 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 909 |
-| 9 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 825 |
+| 7 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 1104 |
+| 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 1002 |
+| 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 909 |
 | 10 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 779 |
 | 11 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
 | 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 730 |

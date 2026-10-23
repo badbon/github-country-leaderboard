@@ -1,12 +1,12 @@
 # Total Contributions - Tonga
 
-Generated: 2026-10-22T23:21:31.419Z
+Generated: 2026-10-23T00:22:35.928Z
 
 Users: 10
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 1315 |
+| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 1318 |
 | 2 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 135 |
 | 3 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 132 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 57 |

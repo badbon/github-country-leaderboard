@@ -1,6 +1,6 @@
 # Followers - Chad
 
-Generated: 2026-10-22T23:36:05.445Z
+Generated: 2026-10-23T00:38:09.836Z
 
 Users: 201
 
@@ -24,5 +24,5 @@ Users: 201
 | 16 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 8 |
 | 17 | [chupacker](https://github.com/chupacker) | chu pack | google |  | chad | 8 |
 | 18 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | UNICEF  |  | Chad | 8 |
-| 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 8 |
-| 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | @Negro Archives |  | chad | 7 |
+| 19 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | @Negro Archives |  | chad | 7 |
+| 20 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 7 |

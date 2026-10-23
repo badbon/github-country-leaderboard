@@ -41,8 +41,8 @@ Indexed users: 471
 | 2 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,916 |
 | 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,458 |
 | 4 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 2,307 |
-| 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,741 |
-| 6 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,706 |
+| 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,742 |
+| 6 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,712 |
 | 7 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,560 |
 | 8 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,459 |
 | 9 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 1,187 |
@@ -50,7 +50,7 @@ Indexed users: 471
 | 11 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 988 |
 | 12 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 975 |
 | 13 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 794 |
-| 14 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 768 |
+| 14 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 765 |
 | 15 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 732 |
 | 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 725 |
 | 17 | [SAGBO4](https://github.com/SAGBO4) | SAGBO MICHAEL | BENIN | 631 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-22T23:31:02.231Z
+Generated: 2026-10-23T00:33:25.285Z

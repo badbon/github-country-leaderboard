@@ -1,8 +1,8 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-22T23:23:04.033Z
+Generated: 2026-10-23T00:25:39.397Z
 
-Users: 4208
+Users: 4206
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,7 +13,7 @@ Users: 4208
 | 5 | [ski043](https://github.com/ski043) | Jan | MarshalCode | janmarshaldev | 🇦🇪 United Arab Emirates (Dubai & RAK) | 935 |
 | 6 | [0x4m4](https://github.com/0x4m4) | Muhammad Osama | OTT Cybersecurity LLC |  | United Arab Emirates | 862 |
 | 7 | [tuomaskivioja](https://github.com/tuomaskivioja) | Tuomas Kivioja |  |  | Dubai, United Arab Emirates | 669 |
-| 8 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | SadaPay |  | United Arab Emirates | 587 |
+| 8 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | SadaPay |  | United Arab Emirates | 586 |
 | 9 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | @Emirates-NBD | TadesseDev | Dubai, United Arab Emirates | 542 |
 | 10 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert |  |  | Abu Dhabi | 514 |
 | 11 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob |  | christyjacob4 | Abu Dhabi | 475 |

@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,208
+Indexed users: 4,206
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 4,208
 | 8 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling | United Arab Emirates | 14,288 |
 | 9 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 13,880 |
 | 10 | [dev-juju](https://github.com/dev-juju) | Bomdi | Dubai, United Arab Emirates | 13,443 |
-| 11 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 13,304 |
-| 12 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
-| 13 | [lionxcr](https://github.com/lionxcr) | Paul Segura | United Arab Emirates | 11,581 |
-| 14 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
-| 15 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
-| 16 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
-| 17 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
-| 18 | [sdn0303](https://github.com/sdn0303) | sdn0303 | Silicon Oasis, Dubai, United Arab Emirates | 10,595 |
-| 19 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | Dubai, United Arab Emirates | 10,574 |
-| 20 | [nikolai-vysotskyi](https://github.com/nikolai-vysotskyi) | Nikolai Vysotskyi | Abu Dhabi, UAE | 10,422 |
+| 11 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 13,331 |
+| 12 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 13,304 |
+| 13 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
+| 14 | [lionxcr](https://github.com/lionxcr) | Paul Segura | United Arab Emirates | 11,581 |
+| 15 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
+| 16 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
+| 17 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
+| 18 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
+| 19 | [sdn0303](https://github.com/sdn0303) | sdn0303 | Silicon Oasis, Dubai, United Arab Emirates | 10,595 |
+| 20 | [ilyesm](https://github.com/ilyesm) | Ilyas Esmail | Dubai, United Arab Emirates | 10,574 |
 
 ## Public Contributions
 
@@ -69,7 +69,7 @@ Indexed users: 4,208
 | 5 | [ski043](https://github.com/ski043) | Jan | 🇦🇪 United Arab Emirates (Dubai & RAK) | 935 |
 | 6 | [0x4m4](https://github.com/0x4m4) | Muhammad Osama | United Arab Emirates | 862 |
 | 7 | [tuomaskivioja](https://github.com/tuomaskivioja) | Tuomas Kivioja | Dubai, United Arab Emirates | 669 |
-| 8 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | United Arab Emirates | 587 |
+| 8 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | United Arab Emirates | 586 |
 | 9 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | Dubai, United Arab Emirates | 542 |
 | 10 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert | Abu Dhabi | 514 |
 | 11 | [christyjacob4](https://github.com/christyjacob4) | Christy Jacob | Abu Dhabi | 475 |
@@ -83,4 +83,4 @@ Indexed users: 4,208
 | 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-22T23:23:04.033Z
+Generated: 2026-10-23T00:25:39.397Z

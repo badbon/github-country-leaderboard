@@ -23,7 +23,7 @@ Indexed users: 701
 | 9 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 7,104 |
 | 10 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,952 |
 | 11 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 6,446 |
-| 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 6,090 |
+| 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 6,102 |
 | 13 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 5,867 |
 | 14 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 5,479 |
 | 15 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 5,277 |
@@ -42,7 +42,7 @@ Indexed users: 701
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,193 |
 | 4 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,587 |
 | 5 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,525 |
-| 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,570 |
+| 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,593 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,438 |
 | 8 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
 | 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,285 |
@@ -83,4 +83,4 @@ Indexed users: 701
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-22T23:40:42.393Z
+Generated: 2026-10-23T00:41:55.056Z

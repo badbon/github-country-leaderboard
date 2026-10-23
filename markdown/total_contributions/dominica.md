@@ -1,6 +1,6 @@
 # Total Contributions - Dominica
 
-Generated: 2026-10-22T23:39:31.453Z
+Generated: 2026-10-23T00:41:47.158Z
 
 Users: 18
 
@@ -8,8 +8,8 @@ Users: 18
 |---:|---|---|---|---|---|---:|
 | 1 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Xeno Solutions |  | Dominica | 539 |
 | 2 | [jaheemprevost](https://github.com/jaheemprevost) | Jaheem Prevost |  | JaheemPrevost | Dominica | 343 |
-| 3 | [crwne1](https://github.com/crwne1) | Kieron Clunes | 767.dev |  | Roseau, Dominica  | 107 |
-| 4 | [kingDebo](https://github.com/kingDebo) | Debo |  |  | Dominica, Caribbean | 104 |
+| 3 | [kingDebo](https://github.com/kingDebo) | Debo |  |  | Dominica, Caribbean | 104 |
+| 4 | [crwne1](https://github.com/crwne1) | Kieron Clunes | 767.dev |  | Roseau, Dominica  | 96 |
 | 5 | [jozreel](https://github.com/jozreel) | Jozreel Laurent |  |  | Roseau, Dominica | 44 |
 | 6 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Orlé Industries |  | Dominica | 28 |
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Lazarus Ventures Co. | _ra_lazarus | Dominica | 26 |

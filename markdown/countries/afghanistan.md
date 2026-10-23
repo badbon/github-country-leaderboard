@@ -66,7 +66,7 @@ Indexed users: 1,489
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 681 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Kabul-Afghanistan | 435 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal | Kabul | 426 |
-| 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 299 |
+| 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 310 |
 | 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 286 |
 | 7 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | Kabul, Afghanistan | 243 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 220 |
@@ -83,4 +83,4 @@ Indexed users: 1,489
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-22T23:26:35.912Z
+Generated: 2026-10-23T00:27:23.644Z

@@ -13,7 +13,7 @@ Indexed users: 235
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,235 |
-| 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 5,074 |
+| 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 5,143 |
 | 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,972 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,492 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,134 |
@@ -44,7 +44,7 @@ Indexed users: 235
 | 5 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 460 |
 | 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 431 |
 | 7 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 427 |
-| 8 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 411 |
+| 8 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 406 |
 | 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
 | 10 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 280 |
 | 11 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 266 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-22T23:34:26.781Z
+Generated: 2026-10-23T00:36:53.396Z

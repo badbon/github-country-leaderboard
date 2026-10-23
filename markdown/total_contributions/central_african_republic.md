@@ -1,13 +1,13 @@
 # Total Contributions - Central African Republic
 
-Generated: 2026-10-22T23:36:03.382Z
+Generated: 2026-10-23T00:37:27.105Z
 
 Users: 11
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 1383 |
-| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou |  |  | Remote ,Bangui , Centrafrique 🇨🇫 ; | 1112 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | @ikouelabs @sendou-startup  | ElielMengue | BANGUI | 1381 |
+| 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou |  |  | Remote ,Bangui , Centrafrique 🇨🇫 ; | 1103 |
 | 3 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | @ikoueorg  | YannOuafete | Bangui , CAR | 862 |
 | 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry |  | Lecreatif01 | Centrafrique,Bangui | 437 |
 | 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Platine PHP | NGUEREZATony | Bangui | 227 |
@@ -15,5 +15,5 @@ Users: 11
 | 7 | [tacopola](https://github.com/tacopola) | polaDev | Google |  | Bangui | 42 |
 | 8 | [hermanmandaba](https://github.com/hermanmandaba) | Hermann Mandaba | IKOUE |  | Bangui, Cenral African Republic | 23 |
 | 9 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | OUBANGUI STAT CONSULTING |  | Bangui, République Centrafricaine | 11 |
-| 10 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU |  |  | Bangui | 4 |
-| 11 | [ikouecode](https://github.com/ikouecode) |  | IKOUĒ |  | Central African Republic | 3 |
+| 10 | [ikouecode](https://github.com/ikouecode) |  | IKOUĒ |  | Central African Republic | 3 |
+| 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU |  |  | Bangui | 3 |

@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-22T23:32:16.260Z
+Generated: 2026-10-23T00:34:22.267Z
 
 Users: 1783
 

@@ -18,8 +18,8 @@ Indexed users: 20
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 125 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 112 |
 | 6 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 27 |
-| 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 12 |
-| 8 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
+| 7 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
+| 8 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 11 |
 | 9 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
 | 10 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 4 |
 | 11 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye | Malabo, Equatorial Guinea | 1 |
@@ -42,8 +42,8 @@ Indexed users: 20
 | 3 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 49 |
 | 4 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 38 |
 | 5 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 27 |
-| 6 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 12 |
-| 7 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
+| 6 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
+| 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 11 |
 | 8 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 8 |
 | 9 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
 | 10 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye | Malabo, Equatorial Guinea | 1 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 1 |
 | 20 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 1 |
 
-Generated: 2026-10-22T23:42:05.729Z
+Generated: 2026-10-23T00:43:01.142Z

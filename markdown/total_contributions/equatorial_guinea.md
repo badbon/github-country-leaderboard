@@ -1,6 +1,6 @@
 # Total Contributions - Equatorial Guinea
 
-Generated: 2026-10-22T23:42:05.729Z
+Generated: 2026-10-23T00:43:01.142Z
 
 Users: 20
 
@@ -12,8 +12,8 @@ Users: 20
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Rosa Money SL |  | Malabo, Equatorial guinea | 125 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  |  |  | Equatorial Guinea  | 112 |
 | 6 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | CFAO MOBILITY |  | MALABO- EQUATORIAL GUINEA | 27 |
-| 7 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 12 |
-| 8 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 11 |
+| 7 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama |  | NazzaReg | Malabo-EQ | 11 |
+| 8 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | ConocoPhillips |  | Equatorial Guinea  | 11 |
 | 9 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | MAIT |  | Malabo, Guinea Ecuatorial | 5 |
 | 10 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong |  | devtotech | Malabo, Guinea Ecuatorial | 4 |
 | 11 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye |  |  | Malabo, Equatorial Guinea | 1 |

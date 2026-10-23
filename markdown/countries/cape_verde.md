@@ -65,7 +65,7 @@ Indexed users: 563
 | 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 459 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 436 |
 | 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 368 |
-| 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | Cape Verde | 213 |
+| 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | Cape Verde | 214 |
 | 5 | [MiAfroki](https://github.com/MiAfroki) | Milena Camargo Reis | Praia Grande - SP | 142 |
 | 6 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | Praia do Rosa/SC - Brasil | 138 |
 | 7 | [portellaa](https://github.com/portellaa) | Luís Portela Afonso | Vila Praia de Âncora | 124 |
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 57 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-22T23:57:33.056Z
+Generated: 2026-10-23T00:37:16.470Z
