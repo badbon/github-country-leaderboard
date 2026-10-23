@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-23T06:04:06.539Z
+Generated: 2026-10-23T07:14:41.934Z
 
 Users: 2190
 
@@ -13,12 +13,12 @@ Users: 2190
 | 5 | [themarcba](https://github.com/themarcba) | Marc Backes | @directus | marcba | Luxembourg | 393 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin |  |  | Luxembourg | 379 |
 | 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka |  | zitocod3z | Luxembourg | 370 |
-| 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 309 |
+| 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 310 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia |  |  | Luxembourg | 302 |
 | 10 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK |  | SvenGDK | Luxembourg | 299 |
 | 11 | [andreafabrizi](https://github.com/andreafabrizi) | Andrea Fabrizi |  |  | Luxembourg | 289 |
 | 12 | [joewdavies](https://github.com/joewdavies) | Joe Davies |  | joewdavies | Cardiff / Madrid / Luxembourg | 289 |
-| 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch |  |  | Luxembourg | 276 |
+| 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch |  |  | Luxembourg | 277 |
 | 14 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | StarObject |  | Luxembourg | 261 |
 | 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow |  | Sn0wAlice | Luxembourg | 256 |
 | 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 229 |

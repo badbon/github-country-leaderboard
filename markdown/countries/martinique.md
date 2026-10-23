@@ -14,22 +14,22 @@ Indexed users: 75
 |---:|---|---|---|---:|
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,330 |
 | 2 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,260 |
-| 3 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,203 |
+| 3 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,198 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,613 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,118 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,488 |
-| 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
+| 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,104 |
 | 8 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 1,014 |
 | 9 | [esrid](https://github.com/esrid) | ADS | Martinique | 938 |
 | 10 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 806 |
 | 11 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 792 |
 | 12 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 504 |
-| 13 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 475 |
+| 13 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 479 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 200 |
 | 16 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° | Martinique | 173 |
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART | Martinique | 160 |
-| 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Martinique | 140 |
+| 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Martinique | 141 |
 | 19 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED | Martinique  | 126 |
 | 20 | [nadlgit](https://github.com/nadlgit) | Nadine | Martinique | 102 |
 
@@ -37,12 +37,12 @@ Indexed users: 75
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,202 |
+| 1 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,197 |
 | 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,059 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 1,524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 484 |
-| 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 423 |
+| 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 427 |
 | 7 | [esrid](https://github.com/esrid) | ADS | Martinique | 397 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 345 |
@@ -51,10 +51,10 @@ Indexed users: 75
 | 12 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 200 |
 | 13 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 167 |
 | 14 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART | Martinique | 160 |
-| 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Martinique | 140 |
+| 15 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Martinique | 141 |
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° | Martinique | 90 |
-| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | Martinique | 75 |
+| 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | Martinique | 74 |
 | 19 | [TCox972](https://github.com/TCox972) | Jean-Jérôme | Martinique | 33 |
 | 20 | [anthony-nosibor](https://github.com/anthony-nosibor) | Anthony nosibor | Martinique | 24 |
 
@@ -64,7 +64,7 @@ Indexed users: 75
 |---:|---|---|---|---:|
 | 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 88 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 34 |
-| 3 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 19 |
+| 3 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 20 |
 | 4 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide | martinique | 16 |
 | 5 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | Fort-de-France | 15 |
 | 6 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps | Martinique | 15 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-23T06:06:29.604Z
+Generated: 2026-10-23T07:16:56.923Z

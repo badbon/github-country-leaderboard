@@ -14,7 +14,7 @@ Indexed users: 438
 |---:|---|---|---|---:|
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,973 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,850 |
-| 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,193 |
+| 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,142 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,525 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,386 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,672 |
@@ -26,7 +26,7 @@ Indexed users: 438
 | 12 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,950 |
 | 13 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,299 |
 | 14 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,291 |
-| 15 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,174 |
+| 15 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,251 |
 | 16 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,143 |
 | 17 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,805 |
 | 18 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,795 |
@@ -48,7 +48,7 @@ Indexed users: 438
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,281 |
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 969 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
-| 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 798 |
+| 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 794 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 744 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 660 |
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-23T06:05:12.232Z
+Generated: 2026-10-23T07:15:04.532Z

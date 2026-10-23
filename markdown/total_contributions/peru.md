@@ -1,8 +1,8 @@
 # Total Contributions - Peru
 
-Generated: 2026-10-23T06:15:07.630Z
+Generated: 2026-10-23T07:24:28.276Z
 
-Users: 9763
+Users: 9762
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 9763
 | 7 | [harold18m](https://github.com/harold18m) | Harold Medrano | @DropoutCapital  |  | Lima | 11853 |
 | 8 | [Luiscmogrovejo](https://github.com/Luiscmogrovejo) | Luis C Mogrovejo | Amauta |  | Lima, Peru | 11040 |
 | 9 | [CryptologySAC](https://github.com/CryptologySAC) | Cryptology | Cryptology SAC | __mocks__ | Lima, Peru | 10105 |
-| 10 | [rosmelortizpimentel](https://github.com/rosmelortizpimentel) | Rosmel Ortiz |  |  | Lima | 9910 |
-| 11 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 8945 |
-| 12 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo |  | marcelo_earth | Peru | 8912 |
-| 13 | [ubinatus](https://github.com/ubinatus) | JA Castro | @Sophiie-AI | ubinatus | Lima, Peru | 8825 |
-| 14 | [jayvidev](https://github.com/jayvidev) | Jason Vila |  |  | Lima, Perú | 8702 |
-| 15 | [cesars](https://github.com/cesars) | César Soplín Sánchez | indexante |  | Lima, Perú | 8531 |
-| 16 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña |  | diegojohnsonlud | Peru | 7995 |
-| 17 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla |  | jorgedlcpdev | Lima, Peru | 7963 |
-| 18 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Jokma Web Solutions |  | Lima, Peru | 7823 |
-| 19 | [nglmercer](https://github.com/nglmercer) | memelser |  |  | Peru | 7728 |
-| 20 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces |  |  | Lima | 7563 |
+| 10 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 8945 |
+| 11 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo |  | marcelo_earth | Peru | 8912 |
+| 12 | [ubinatus](https://github.com/ubinatus) | JA Castro | @Sophiie-AI | ubinatus | Lima, Peru | 8825 |
+| 13 | [jayvidev](https://github.com/jayvidev) | Jason Vila |  |  | Lima, Perú | 8702 |
+| 14 | [cesars](https://github.com/cesars) | César Soplín Sánchez | indexante |  | Lima, Perú | 8531 |
+| 15 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña |  | diegojohnsonlud | Peru | 7995 |
+| 16 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla |  | jorgedlcpdev | Lima, Peru | 7963 |
+| 17 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Jokma Web Solutions |  | Lima, Peru | 7823 |
+| 18 | [nglmercer](https://github.com/nglmercer) | memelser |  |  | Peru | 7728 |
+| 19 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces |  |  | Lima | 7563 |
+| 20 | [cuevaio](https://github.com/cuevaio) | anthony | Humanity | cuevaio | Lima | 7449 |

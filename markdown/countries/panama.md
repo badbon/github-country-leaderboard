@@ -54,7 +54,7 @@ Indexed users: 1,069
 | 15 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,175 |
 | 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,159 |
 | 17 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
-| 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
+| 18 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,134 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 1,014 |
 | 20 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 948 |
 
@@ -64,9 +64,9 @@ Indexed users: 1,069
 |---:|---|---|---|---:|
 | 1 | [AvaoCore](https://github.com/AvaoCore) | Avao Foundation - Core | Panama | 227 |
 | 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 118 |
-| 3 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 110 |
-| 4 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Panama, Panama | 109 |
-| 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 109 |
+| 3 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 111 |
+| 4 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 110 |
+| 5 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Panama, Panama | 109 |
 | 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 102 |
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | Panama City, Panama | 95 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-23T06:14:22.974Z
+Generated: 2026-10-23T07:23:25.893Z
