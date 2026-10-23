@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-23T00:33:29.496Z
+Generated: 2026-10-23T05:38:15.857Z
 
 Users: 897
 
@@ -23,6 +23,6 @@ Users: 897
 | 15 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 794 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 582 |
 | 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar |  |  | Hamilton | 566 |
-| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 522 |
+| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 512 |
 | 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | @vehikl |  | Hamilton, ON | 492 |
 | 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | McMaster University |  | Hamilton, ON | 468 |

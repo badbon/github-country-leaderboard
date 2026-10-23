@@ -1,6 +1,6 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-23T00:29:44.742Z
+Generated: 2026-10-23T05:34:51.148Z
 
 Users: 4025
 
@@ -9,9 +9,9 @@ Users: 4025
 | 1 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 11578 |
 | 2 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | @thefrontside | wkichdev | Armenia | 9338 |
 | 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Freedx |  | Armenia | 6295 |
-| 4 | [i582](https://github.com/i582) | Petr Makhnev | TON Core | petr_makhneff | Yerevan, Armenia | 5084 |
-| 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov |  |  | Yerevan, Armenia | 3716 |
-| 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 3618 |
+| 4 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 5116 |
+| 5 | [i582](https://github.com/i582) | Petr Makhnev | TON Core | petr_makhneff | Yerevan, Armenia | 5084 |
+| 6 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov |  |  | Yerevan, Armenia | 3716 |
 | 7 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 3523 |
 | 8 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | EasyDMARC |  | Armenia | 3378 |
 | 9 | [MikhailShostak](https://github.com/MikhailShostak) | Mikhail Shostak |  |  | Yerevan | 3157 |

@@ -22,7 +22,7 @@ Indexed users: 2,721
 | 8 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 14,639 |
 | 9 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 14,379 |
 | 10 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 13,492 |
-| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
+| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 12,273 |
 | 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 11,829 |
 | 13 | [yhersh](https://github.com/yhersh) | Yaron Hersh | Cyprus | 11,708 |
 | 14 | [the-architect](https://github.com/the-architect) | Marcel Scherf | Larnaca, Cyprus | 11,418 |
@@ -83,4 +83,4 @@ Indexed users: 2,721
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-23T00:40:06.475Z
+Generated: 2026-10-23T05:44:15.556Z

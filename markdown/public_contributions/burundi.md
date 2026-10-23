@@ -1,6 +1,6 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-23T00:36:53.396Z
+Generated: 2026-10-23T05:40:07.229Z
 
 Users: 235
 
@@ -19,9 +19,9 @@ Users: 235
 | 11 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 266 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY |  |  | Burundi/Bujumbura | 229 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | afritic-group |  | Burundi | 201 |
-| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 159 |
+| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 152 |
 | 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Amplitude Ventures |  | Burundi | 134 |
-| 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | XP TEAM |  | Burundi | 121 |
+| 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | XP TEAM |  | Burundi | 124 |
 | 17 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha |  |  | Burundi | 112 |
 | 18 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Self-Employed | Mtl_Thierry_Jov | Bujumbura, Burundi | 111 |
 | 19 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | The Creative House Inc. |  | Burundi | 108 |

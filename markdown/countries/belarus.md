@@ -20,17 +20,17 @@ Indexed users: 10,922
 | 6 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 11,718 |
 | 7 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
 | 8 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
-| 9 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
-| 10 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 7,302 |
-| 11 | [dzmitryNz](https://github.com/dzmitryNz) |  | Belarus | 6,792 |
-| 12 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
-| 13 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
-| 14 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
-| 15 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
-| 16 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
-| 17 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
-| 18 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
-| 19 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
+| 9 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 8,379 |
+| 10 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
+| 11 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 7,302 |
+| 12 | [dzmitryNz](https://github.com/dzmitryNz) |  | Belarus | 6,792 |
+| 13 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
+| 14 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
+| 15 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
+| 16 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
+| 17 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
+| 18 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
+| 19 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
 | 20 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 10,922
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 165 |
 
-Generated: 2026-10-23T00:33:13.547Z
+Generated: 2026-10-23T05:36:33.670Z

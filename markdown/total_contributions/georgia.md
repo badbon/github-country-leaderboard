@@ -1,6 +1,6 @@
 # Total Contributions - Georgia
 
-Generated: 2026-10-23T00:27:19.589Z
+Generated: 2026-10-23T05:43:57.359Z
 
 Users: 6868
 
@@ -12,17 +12,17 @@ Users: 6868
 | 4 | [luzanovdm](https://github.com/luzanovdm) | Dmitry Luzanov | tetri.app | DmitryLuzanov | Georgia, Tbilisi | 25747 |
 | 5 | [armanobosyan](https://github.com/armanobosyan) | Arman Obosyan | @Sugra-Systems | armanobosyan | Tbilisi, Georgia | 25465 |
 | 6 | [levart](https://github.com/levart) | Levan Jmukhadze | @webapp-software @gosms-ge @OneClubGE | LevanJmukhadze | Georgia, Tbilisi | 25419 |
-| 7 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov |  |  | Tbilisi, Georgia | 19325 |
-| 8 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 14272 |
-| 9 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister |  |  | Tbilisi | 13937 |
-| 10 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze |  |  | Ambrolauri,Georgia | 13618 |
-| 11 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 13102 |
-| 12 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 12903 |
-| 13 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
-| 14 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
-| 15 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
-| 16 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
-| 17 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 12412 |
+| 7 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 14272 |
+| 8 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister |  |  | Tbilisi | 13937 |
+| 9 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze |  |  | Ambrolauri,Georgia | 13618 |
+| 10 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 13102 |
+| 11 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze |  |  | Georgia | 12903 |
+| 12 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
+| 13 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
+| 14 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | @tetrobyte-studio |  | Tbilisi, Georgia | 12539 |
+| 15 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
+| 16 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 12412 |
+| 17 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov |  |  | Tbilisi, Georgia | 11934 |
 | 18 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili |  |  | Tbilisi, Georgia | 11858 |
 | 19 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Trifoil Trailblazer |  | Tbilisi, Georgia | 11295 |
 | 20 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | @aenix-io | lexfrei | Tbilisi | 11195 |

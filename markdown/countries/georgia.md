@@ -18,17 +18,17 @@ Indexed users: 6,868
 | 4 | [luzanovdm](https://github.com/luzanovdm) | Dmitry Luzanov | Georgia, Tbilisi | 25,747 |
 | 5 | [armanobosyan](https://github.com/armanobosyan) | Arman Obosyan | Tbilisi, Georgia | 25,465 |
 | 6 | [levart](https://github.com/levart) | Levan Jmukhadze | Georgia, Tbilisi | 25,419 |
-| 7 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov | Tbilisi, Georgia | 19,325 |
-| 8 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 14,272 |
-| 9 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 13,937 |
-| 10 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze | Ambrolauri,Georgia | 13,618 |
-| 11 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 13,102 |
-| 12 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze | Georgia | 12,903 |
-| 13 | [Krut](https://github.com/Krut) | Michael Krautwald | Tbilisi, Georgia | 12,892 |
-| 14 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
-| 15 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | Tbilisi, Georgia | 12,539 |
-| 16 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
-| 17 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 12,412 |
+| 7 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 14,272 |
+| 8 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 13,937 |
+| 9 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze | Ambrolauri,Georgia | 13,618 |
+| 10 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 13,102 |
+| 11 | [asyncfinkd](https://github.com/asyncfinkd) | Nika Shamiladze | Georgia | 12,903 |
+| 12 | [Krut](https://github.com/Krut) | Michael Krautwald | Tbilisi, Georgia | 12,892 |
+| 13 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
+| 14 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | Tbilisi, Georgia | 12,539 |
+| 15 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
+| 16 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 12,412 |
+| 17 | [apovalov](https://github.com/apovalov) | Valentin Shapovalov | Tbilisi, Georgia | 11,934 |
 | 18 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
 | 19 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Tbilisi, Georgia | 11,295 |
 | 20 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 11,195 |
@@ -70,7 +70,7 @@ Indexed users: 6,868
 | 6 | [dachi-khelashvili](https://github.com/dachi-khelashvili) | Dachi Khelashvili | Tbilisi, Georgia | 749 |
 | 7 | [muladz3gio](https://github.com/muladz3gio) | muladz3gio | Georgia, Tbilisi | 725 |
 | 8 | [SleepTheGod](https://github.com/SleepTheGod) | Taylor Christian Newsome | Georgia | 721 |
-| 9 | [istarkov](https://github.com/istarkov) | Ivan Starkov | Turkey, UAE, Egypt, Russia, Georgia | 712 |
+| 9 | [istarkov](https://github.com/istarkov) | Ivan Starkov | Turkey, UAE, Egypt, Russia, Georgia | 716 |
 | 10 | [secrary](https://github.com/secrary) | khasaia | Georgia | 700 |
 | 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | Georgia | 588 |
 | 12 | [kristina-makalatia](https://github.com/kristina-makalatia) | Kristina | Tbilisi | 478 |
@@ -83,4 +83,4 @@ Indexed users: 6,868
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-23T00:27:19.589Z
+Generated: 2026-10-23T05:43:57.359Z

@@ -1,6 +1,6 @@
 # Bulgaria
 
-Indexed users: 14,065
+Indexed users: 14,064
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 14,065
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-23T00:36:07.774Z
+Generated: 2026-10-23T05:40:00.178Z

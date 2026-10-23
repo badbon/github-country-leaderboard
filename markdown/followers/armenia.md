@@ -1,12 +1,12 @@
 # Followers - Armenia
 
-Generated: 2026-10-23T00:29:44.742Z
+Generated: 2026-10-23T05:34:51.148Z
 
 Users: 4025
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 1430 |
+| 1 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 1460 |
 | 2 | [vardan444](https://github.com/vardan444) |  |  | worldnft777 | Armenia | 1091 |
 | 3 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Civitta |  | Yerevan | 1084 |
 | 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan |  |  | Armenia | 933 |

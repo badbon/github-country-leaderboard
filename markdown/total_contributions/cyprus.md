@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-23T00:40:06.475Z
+Generated: 2026-10-23T05:44:15.556Z
 
 Users: 2721
 
@@ -16,7 +16,7 @@ Users: 2721
 | 8 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 14639 |
 | 9 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 14379 |
 | 10 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 13492 |
-| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |
+| 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 12273 |
 | 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 11829 |
 | 13 | [yhersh](https://github.com/yhersh) | Yaron Hersh |  |  | Cyprus | 11708 |
 | 14 | [the-architect](https://github.com/the-architect) | Marcel Scherf | Next Level International Software Ltd | marcelscherf | Larnaca, Cyprus | 11418 |

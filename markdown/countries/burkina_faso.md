@@ -27,7 +27,7 @@ Indexed users: 486
 | 13 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 1,916 |
 | 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,883 |
 | 15 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 1,662 |
-| 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,586 |
+| 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,585 |
 | 17 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,561 |
 | 18 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,520 |
 | 19 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,401 |
@@ -63,7 +63,7 @@ Indexed users: 486
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Yonaba](https://github.com/Yonaba) | Roland | Ouagadougou (Burkina Faso) | 380 |
-| 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | Burkina Faso | 169 |
+| 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | Burkina Faso | 171 |
 | 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE | BURKINA FASO | 168 |
 | 4 | [codebadolo](https://github.com/codebadolo) | Badolo Geofroy | Burkina Faso | 123 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 119 |
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 36 |
 
-Generated: 2026-10-23T00:36:10.544Z
+Generated: 2026-10-23T05:40:04.737Z

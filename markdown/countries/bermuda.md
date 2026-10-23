@@ -54,7 +54,7 @@ Indexed users: 897
 | 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 794 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 582 |
 | 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 566 |
-| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 522 |
+| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 512 |
 | 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 492 |
 | 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | Hamilton, ON | 468 |
 
@@ -83,4 +83,4 @@ Indexed users: 897
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-23T00:33:29.496Z
+Generated: 2026-10-23T05:38:15.857Z

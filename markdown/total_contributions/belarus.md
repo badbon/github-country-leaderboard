@@ -1,6 +1,6 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-23T00:33:13.547Z
+Generated: 2026-10-23T05:36:33.670Z
 
 Users: 10922
 
@@ -14,15 +14,15 @@ Users: 10922
 | 6 | [fxpw](https://github.com/fxpw) | fxpw | Sherpa RPA |  | Belarus | 11718 |
 | 7 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Looking for JavaScript job |  | Minsk, Belarus | 10667 |
 | 8 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau |  |  | Belarus, Minsk | 10259 |
-| 9 | [omuteqq](https://github.com/omuteqq) | Иван |  |  | Minsk, Belarus | 7527 |
-| 10 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 7302 |
-| 11 | [dzmitryNz](https://github.com/dzmitryNz) |  |  | rabsterby | Belarus | 6792 |
-| 12 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |
-| 13 | [igormorozov](https://github.com/igormorozov) | Igor Morozov |  |  | Minsk | 5759 |
-| 14 | [davassi](https://github.com/davassi) | Gianluigi Davassi |  |  | Dubai - Berlin - Milan - Minsk | 5274 |
-| 15 | [reven86](https://github.com/reven86) | Andrew Karpushin |  |  | Minsk, Belarus | 5216 |
-| 16 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | @epam @lean-delivery @jacred-fdb @lampac-nextgen |  | Grodno, Belarus | 5010 |
-| 17 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei |  |  | Minsk | 5006 |
-| 18 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik |  |  | Minsk | 4822 |
-| 19 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | UX MIND |  | Belarus/Minsk | 4821 |
+| 9 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | UX MIND |  | Belarus/Minsk | 8379 |
+| 10 | [omuteqq](https://github.com/omuteqq) | Иван |  |  | Minsk, Belarus | 7527 |
+| 11 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 7302 |
+| 12 | [dzmitryNz](https://github.com/dzmitryNz) |  |  | rabsterby | Belarus | 6792 |
+| 13 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |
+| 14 | [igormorozov](https://github.com/igormorozov) | Igor Morozov |  |  | Minsk | 5759 |
+| 15 | [davassi](https://github.com/davassi) | Gianluigi Davassi |  |  | Dubai - Berlin - Milan - Minsk | 5274 |
+| 16 | [reven86](https://github.com/reven86) | Andrew Karpushin |  |  | Minsk, Belarus | 5216 |
+| 17 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | @epam @lean-delivery @jacred-fdb @lampac-nextgen |  | Grodno, Belarus | 5010 |
+| 18 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei |  |  | Minsk | 5006 |
+| 19 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik |  |  | Minsk | 4822 |
 | 20 | [hotrush](https://github.com/hotrush) |  |  |  | Minsk, Belarus | 4799 |

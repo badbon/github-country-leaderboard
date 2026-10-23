@@ -1,13 +1,13 @@
 # Followers - Dominica
 
-Generated: 2026-10-23T00:41:47.158Z
+Generated: 2026-10-23T05:45:21.092Z
 
 Users: 18
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Orlé Industries |  | Dominica | 7 |
-| 2 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Lazarus Ventures Co. | _ra_lazarus | Dominica | 7 |
+| 1 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Lazarus Ventures Co. | _ra_lazarus | Dominica | 8 |
+| 2 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Orlé Industries |  | Dominica | 7 |
 | 3 | [kingDebo](https://github.com/kingDebo) | Debo |  |  | Dominica, Caribbean | 6 |
 | 4 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Xeno Solutions |  | Dominica | 4 |
 | 5 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Tropicode Software Solutions |  | Commonwealth of Dominica | 3 |

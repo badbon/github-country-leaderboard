@@ -22,14 +22,14 @@ Indexed users: 132
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,752 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,563 |
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,383 |
-| 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,370 |
+| 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,373 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,235 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 990 |
 | 14 | [clemjfrancis](https://github.com/clemjfrancis) | Clem "CJ" Francis | Barbados | 727 |
 | 15 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 671 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
 | 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 593 |
-| 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 442 |
+| 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 441 |
 | 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 435 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 
@@ -55,8 +55,8 @@ Indexed users: 132
 | 16 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
 | 17 | [starsden](https://github.com/starsden) | den | Barbados | 99 |
 | 18 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 96 |
-| 19 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 82 |
-| 20 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
+| 19 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
+| 20 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 80 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-23T00:33:10.458Z
+Generated: 2026-10-23T05:36:30.768Z

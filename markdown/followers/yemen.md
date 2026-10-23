@@ -1,12 +1,12 @@
 # Followers - Yemen
 
-Generated: 2026-10-23T00:27:06.586Z
+Generated: 2026-10-23T05:31:27.020Z
 
 Users: 1205
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid |  |  | Yemen | 7552 |
+| 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid |  |  | Yemen | 7546 |
 | 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 931 |
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 892 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | @openjdk and @graalvm  |  | Yemen | 687 |
@@ -16,7 +16,7 @@ Users: 1205
 | 8 | [CS2487](https://github.com/CS2487) | Farea AL-Dhela'a | Freelance |  | Yemen, Sana’a,a | 360 |
 | 9 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 332 |
 | 10 | [k-j-alarashi](https://github.com/k-j-alarashi) | Khaled Jalal Al-arashi |  | k_j_alarashi | Yemen , Sana'a | 283 |
-| 11 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Freelancer |  | Yemen/Mukalla | 274 |
+| 11 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Freelancer |  | Yemen/Mukalla | 275 |
 | 12 | [doctor-he](https://github.com/doctor-he) | Dr. He |  |  | Yemen, Sanaa | 273 |
 | 13 | [suaad997](https://github.com/suaad997) | SuadAljuaid | UST Unversity |  | yemen ,sana'a | 227 |
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️ |  | YEMEN | 188 |

@@ -58,8 +58,8 @@ Indexed users: 18
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 7 |
-| 2 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 7 |
+| 1 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Dominica | 8 |
+| 2 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Dominica | 7 |
 | 3 | [kingDebo](https://github.com/kingDebo) | Debo | Dominica, Caribbean | 6 |
 | 4 | [xeno3dev](https://github.com/xeno3dev) | Aylon Johnson | Dominica | 4 |
 | 5 | [daedwards767](https://github.com/daedwards767) | Davidson Edwards | Commonwealth of Dominica | 3 |
@@ -77,4 +77,4 @@ Indexed users: 18
 | 17 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Dominica | 1 |
 | 18 | [theode](https://github.com/theode) | Derrick Theophille | Dominica | 1 |
 
-Generated: 2026-10-23T00:41:47.158Z
+Generated: 2026-10-23T05:45:21.092Z

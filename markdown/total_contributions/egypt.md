@@ -1,8 +1,8 @@
 # Total Contributions - Egypt
 
-Generated: 2026-10-23T00:42:36.594Z
+Generated: 2026-10-23T05:46:20.638Z
 
-Users: 34079
+Users: 34078
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

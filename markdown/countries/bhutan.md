@@ -16,8 +16,8 @@ Indexed users: 266
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,104 |
 | 3 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 4,052 |
 | 4 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,645 |
-| 5 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,601 |
-| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,271 |
+| 5 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,602 |
+| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,287 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,808 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,669 |
 | 9 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,268 |
@@ -53,7 +53,7 @@ Indexed users: 266
 | 14 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 157 |
 | 15 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
 | 16 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 136 |
-| 17 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
+| 17 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 121 |
 | 18 | [Art-sys-86](https://github.com/Art-sys-86) | Art | Bhutan | 120 |
 | 19 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 120 |
 | 20 | [Jigme96-BHU](https://github.com/Jigme96-BHU) | Jigme Tharchen | Thimphu | 108 |
@@ -83,4 +83,4 @@ Indexed users: 266
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-23T00:34:14.681Z
+Generated: 2026-10-23T05:38:23.041Z
