@@ -1,6 +1,6 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-23T18:24:35.687Z
+Generated: 2026-10-23T19:37:17.055Z
 
 Users: 14063
 
@@ -17,12 +17,12 @@ Users: 14063
 | 9 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | @alethialabs-io  @the-tovr |  | Sofia, Bulgaria | 12404 |
 | 10 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | @dabanny  |  | Bulgaria | 12009 |
 | 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | @KarlovoTech  |  | Karlovo, Bulgaria | 11201 |
-| 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Cloud Vision Ltd |  | Sofia | 11033 |
-| 13 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 10975 |
-| 14 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
-| 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev |  | hkdobrev | Sofia, Bulgaria | 9650 |
-| 16 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | @stremio | kKaskak | Bulgaria | 9558 |
-| 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 9549 |
-| 18 | [gogata05](https://github.com/gogata05) | Georgi Markov |  |  | Petrich, Bulgaria | 9549 |
-| 19 | [groupsky](https://github.com/groupsky) | Geno Roupsky |  |  | Plovdiv/Bulgaria | 9533 |
-| 20 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov |  |  | Sofia, Bulgaria | 9408 |
+| 12 | [hristoaleksandrov](https://github.com/hristoaleksandrov) | Hristo Petrov Aleksandrov | Creative Byte Ltd |  | Bulgaria, Sofia | 11097 |
+| 13 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Cloud Vision Ltd |  | Sofia | 11033 |
+| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 10975 |
+| 15 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
+| 16 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev |  | hkdobrev | Sofia, Bulgaria | 9650 |
+| 17 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | @stremio | kKaskak | Bulgaria | 9558 |
+| 18 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 9549 |
+| 19 | [gogata05](https://github.com/gogata05) | Georgi Markov |  |  | Petrich, Bulgaria | 9549 |
+| 20 | [groupsky](https://github.com/groupsky) | Geno Roupsky |  |  | Plovdiv/Bulgaria | 9533 |

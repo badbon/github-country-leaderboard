@@ -1,6 +1,6 @@
 # Azerbaijan
 
-Indexed users: 5,044
+Indexed users: 5,041
 
 | Leaderboard | Link |
 |---|---|
@@ -49,7 +49,7 @@ Indexed users: 5,044
 | 10 | [theyali](https://github.com/theyali) | Ali Hajiyev | Azerbaijan | 3,342 |
 | 11 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada | Azerbaijan | 3,195 |
 | 12 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev | Baku | 2,729 |
-| 13 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | Azerbaijan , Baku . | 2,508 |
+| 13 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | Azerbaijan , Baku . | 2,511 |
 | 14 | [kenanqafarov](https://github.com/kenanqafarov) | Kenan Qafarov | Baku, Azerbaijan | 2,493 |
 | 15 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev | Baku | 2,405 |
 | 16 | [Semedw](https://github.com/Semedw) | Samad Musazade | Azerbaijan | 2,053 |
@@ -83,4 +83,4 @@ Indexed users: 5,044
 | 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 255 |
 | 20 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 
-Generated: 2026-10-23T18:18:44.189Z
+Generated: 2026-10-23T19:33:37.793Z

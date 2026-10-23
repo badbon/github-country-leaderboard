@@ -1,6 +1,6 @@
 # Followers - Armenia
 
-Generated: 2026-10-23T18:17:44.997Z
+Generated: 2026-10-23T19:32:41.407Z
 
 Users: 4022
 
@@ -21,8 +21,8 @@ Users: 4022
 | 13 | [armcha](https://github.com/armcha) | Arman |  |  | Armenia | 428 |
 | 14 | [OV111](https://github.com/OV111) | Vahe Ohanyan |  |  | Yerevan/Armenia | 376 |
 | 15 | [suren-atoyan](https://github.com/suren-atoyan) | Suren Atoyan | @basetenlabs | suren_at | Yerevan, Armenia | 338 |
-| 16 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | APICrafter, NGO "Informational Culture" @infoculture ,  Open Data Armenia, OKFN Russia | ibegtin | Armenia | 332 |
+| 16 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | APICrafter, NGO "Informational Culture" @infoculture ,  Open Data Armenia, OKFN Russia | ibegtin | Armenia | 333 |
 | 17 | [igrishaev](https://github.com/igrishaev) | Ivan Grishaev | Vast fintech |  | Armenia | 254 |
 | 18 | [khoren93](https://github.com/khoren93) | Khoren Markosyan |  |  | Yerevan, Armenia | 252 |
-| 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan |  |  | Yerevan, Armenia | 236 |
+| 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan |  |  | Yerevan, Armenia | 234 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | @vishapoberon |  | Yerevan, Armenia | 233 |

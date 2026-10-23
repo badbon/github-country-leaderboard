@@ -1,6 +1,6 @@
 # Followers - Bhutan
 
-Generated: 2026-10-23T18:21:46.024Z
+Generated: 2026-10-23T19:36:12.431Z
 
 Users: 266
 
@@ -12,12 +12,12 @@ Users: 266
 | 4 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 45 |
 | 5 | [rewathkafley](https://github.com/rewathkafley) |  | Gives harsh MR comments so that people will cry. | rewathkafley | Thimphu, Bhutan | 44 |
 | 6 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 43 |
-| 7 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 41 |
-| 8 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 37 |
-| 9 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 34 |
-| 10 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 33 |
-| 11 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 31 |
-| 12 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering |  |  | Bhutan | 31 |
+| 7 | [ugyentring](https://github.com/ugyentring) | Ugyen Tshering |  |  | Bhutan | 42 |
+| 8 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 41 |
+| 9 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 37 |
+| 10 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 34 |
+| 11 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 33 |
+| 12 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 31 |
 | 13 | [lit-poks](https://github.com/lit-poks) | Lalit Pokhrel | SELISE Bhutan |  | Thimphu, Bhutan | 30 |
 | 14 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 29 |
 | 15 | [c19850727](https://github.com/c19850727) | Sakaguchi |  | nzm8qs | Thimphu & Hong Kong & Tokyo | 24 |

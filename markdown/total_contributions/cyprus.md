@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-23T18:30:12.443Z
+Generated: 2026-10-23T19:41:30.234Z
 
 Users: 2721
 
@@ -22,7 +22,7 @@ Users: 2721
 | 14 | [the-architect](https://github.com/the-architect) | Marcel Scherf | Next Level International Software Ltd | marcelscherf | Larnaca, Cyprus | 11418 |
 | 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 11184 |
 | 16 | [pitops](https://github.com/pitops) | Petros Kyriakou |  |  | Cyprus | 10749 |
-| 17 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 10362 |
-| 18 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
-| 19 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
+| 17 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 10688 |
+| 18 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 10362 |
+| 19 | [aidinb](https://github.com/aidinb) | Aidin  | Aidin |  | Cyprus | 10217 |
 | 20 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 9855 |

@@ -1,13 +1,13 @@
 # Followers - Aruba
 
-Generated: 2026-10-23T18:17:51.164Z
+Generated: 2026-10-23T19:32:49.679Z
 
 Users: 37
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 68 |
-| 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 18 |
+| 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 19 |
 | 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 16 |
 | 4 | [PICyber](https://github.com/PICyber) |  | ======ILUSIONXX====== |  | ⭕️❌⭕️✯ARUBA✯⭕️❌⭕️ | 15 |
 | 5 | [JunTechPC](https://github.com/JunTechPC) | Juny Engelhart (JunTech) | Juny Engelhart (AWS Aruba) |  | Oranjestad, Aruba | 11 |

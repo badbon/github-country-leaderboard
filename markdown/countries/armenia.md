@@ -42,21 +42,21 @@ Indexed users: 4,022
 | 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Armenia | 6,295 |
 | 4 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 5,116 |
 | 5 | [i582](https://github.com/i582) | Petr Makhnev | Yerevan, Armenia | 5,084 |
-| 6 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,708 |
-| 7 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 3,523 |
-| 8 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 3,378 |
-| 9 | [MikhailShostak](https://github.com/MikhailShostak) | Mikhail Shostak | Yerevan | 3,157 |
-| 10 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Armenia | 2,835 |
-| 11 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,800 |
-| 12 | [dvordrova](https://github.com/dvordrova) | Dmitry | Armenia, Yerevan | 2,705 |
-| 13 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,610 |
-| 14 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,586 |
-| 15 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
-| 16 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 2,015 |
-| 17 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,982 |
-| 18 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,740 |
-| 19 | [andrewgark](https://github.com/andrewgark) | Andrei Garkavyi | Yerevan | 1,737 |
-| 20 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan | Yerevan, Armenia | 1,715 |
+| 6 | [Witali](https://github.com/Witali) | Vitaly Rudik | Yerevan | 3,895 |
+| 7 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,708 |
+| 8 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 3,523 |
+| 9 | [diazoxide](https://github.com/diazoxide) | Aaron Yordanyan | Armenia | 3,378 |
+| 10 | [MikhailShostak](https://github.com/MikhailShostak) | Mikhail Shostak | Yerevan | 3,157 |
+| 11 | [svyatov](https://github.com/svyatov) | Leonid Svyatov | Yerevan, Armenia | 2,901 |
+| 12 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Armenia | 2,835 |
+| 13 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,800 |
+| 14 | [dvordrova](https://github.com/dvordrova) | Dmitry | Armenia, Yerevan | 2,705 |
+| 15 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,610 |
+| 16 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,586 |
+| 17 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
+| 18 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 2,015 |
+| 19 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,982 |
+| 20 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,740 |
 
 ## Followers
 
@@ -77,10 +77,10 @@ Indexed users: 4,022
 | 13 | [armcha](https://github.com/armcha) | Arman | Armenia | 428 |
 | 14 | [OV111](https://github.com/OV111) | Vahe Ohanyan | Yerevan/Armenia | 376 |
 | 15 | [suren-atoyan](https://github.com/suren-atoyan) | Suren Atoyan | Yerevan, Armenia | 338 |
-| 16 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | Armenia | 332 |
+| 16 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | Armenia | 333 |
 | 17 | [igrishaev](https://github.com/igrishaev) | Ivan Grishaev | Armenia | 254 |
 | 18 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 252 |
-| 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
+| 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 234 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-23T18:17:44.997Z
+Generated: 2026-10-23T19:32:41.407Z

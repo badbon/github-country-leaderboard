@@ -23,15 +23,15 @@ Indexed users: 14,063
 | 9 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | Sofia, Bulgaria | 12,404 |
 | 10 | [dgeorgiev](https://github.com/dgeorgiev) | Daniel Georgiev | Bulgaria | 12,009 |
 | 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 11,201 |
-| 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Sofia | 11,033 |
-| 13 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 10,975 |
-| 14 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
-| 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev | Sofia, Bulgaria | 9,650 |
-| 16 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | Bulgaria | 9,558 |
-| 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 9,549 |
-| 18 | [gogata05](https://github.com/gogata05) | Georgi Markov | Petrich, Bulgaria | 9,549 |
-| 19 | [groupsky](https://github.com/groupsky) | Geno Roupsky | Plovdiv/Bulgaria | 9,533 |
-| 20 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov | Sofia, Bulgaria | 9,408 |
+| 12 | [hristoaleksandrov](https://github.com/hristoaleksandrov) | Hristo Petrov Aleksandrov | Bulgaria, Sofia | 11,097 |
+| 13 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Sofia | 11,033 |
+| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev | Sofia, Bulgaria | 10,975 |
+| 15 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | Bulgaria, Sofia | 9,920 |
+| 16 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev | Sofia, Bulgaria | 9,650 |
+| 17 | [kKaskak](https://github.com/kKaskak) | Timothy Z. | Bulgaria | 9,558 |
+| 18 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 9,549 |
+| 19 | [gogata05](https://github.com/gogata05) | Georgi Markov | Petrich, Bulgaria | 9,549 |
+| 20 | [groupsky](https://github.com/groupsky) | Geno Roupsky | Plovdiv/Bulgaria | 9,533 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 14,063
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-23T18:24:35.687Z
+Generated: 2026-10-23T19:37:17.055Z

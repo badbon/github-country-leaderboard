@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-23T18:15:43.589Z
+Generated: 2026-10-23T19:30:20.650Z
 
 Users: 1180
 
@@ -11,7 +11,7 @@ Users: 1180
 | 3 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Apatero | gabeciii | Tirana | 8968 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8673 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8198 |
-| 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 7331 |
+| 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 7737 |
 | 7 | [orges](https://github.com/orges) | orges |  |  | Albania | 6768 |
 | 8 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 6688 |
 | 9 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6612 |

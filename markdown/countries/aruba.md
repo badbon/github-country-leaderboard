@@ -63,7 +63,7 @@ Indexed users: 37
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 68 |
-| 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 18 |
+| 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 19 |
 | 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 16 |
 | 4 | [PICyber](https://github.com/PICyber) |  | ⭕️❌⭕️✯ARUBA✯⭕️❌⭕️ | 15 |
 | 5 | [JunTechPC](https://github.com/JunTechPC) | Juny Engelhart (JunTech) | Oranjestad, Aruba | 11 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 | 20 | [JunyEngelhart](https://github.com/JunyEngelhart) | JunTech  (AWS Aruba) | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-23T18:17:51.164Z
+Generated: 2026-10-23T19:32:49.679Z

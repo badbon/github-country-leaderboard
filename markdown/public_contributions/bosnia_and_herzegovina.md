@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-23T18:22:40.094Z
+Generated: 2026-10-23T19:36:33.710Z
 
 Users: 2126
 
@@ -22,7 +22,7 @@ Users: 2126
 | 14 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1289 |
 | 15 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1109 |
 | 16 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1095 |
-| 17 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 981 |
-| 18 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |
-| 19 | [hernad](https://github.com/hernad) | Ernad Husremović |  |  | Bosnia and Herzegovina, Sarajevo | 902 |
-| 20 | [new-AF](https://github.com/new-AF) | Abdullah Fatota |  |  | Sarajevo, BiH | 794 |
+| 17 | [abjelosevic88](https://github.com/abjelosevic88) | Aleksandar Bjelosevic | Oroundo Tech |  | Banja Luka, Bosnia and Herzegovina | 1051 |
+| 18 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 981 |
+| 19 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |
+| 20 | [hernad](https://github.com/hernad) | Ernad Husremović |  |  | Bosnia and Herzegovina, Sarajevo | 902 |
