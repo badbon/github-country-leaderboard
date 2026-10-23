@@ -45307,7 +45307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-07-31T15:01:38Z"
   },
@@ -45319,7 +45319,7 @@
     "company": "@ShelfSift ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2594,
+    "privateContributions": 3893,
     "publicContributions": 114,
     "createdAt": "2019-01-21T21:59:11Z"
   },
@@ -45330,9 +45330,9 @@
     "location": "Hungary / Budapest",
     "company": "",
     "twitterUsername": "janaboy74",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2019-09-05T16:20:18Z"
   },
   {
@@ -45380,7 +45380,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 63,
     "createdAt": "2019-05-23T15:19:18Z"
   },
   {
@@ -45440,7 +45440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 49,
     "createdAt": "2019-12-20T19:49:53Z"
   },
   {
@@ -45463,7 +45463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1128,
+    "privateContributions": 1334,
     "publicContributions": 1,
     "createdAt": "2019-02-09T18:38:46Z"
   },
@@ -45487,8 +45487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 308,
+    "privateContributions": 0,
+    "publicContributions": 290,
     "createdAt": "2019-01-22T17:38:35Z"
   },
   {
@@ -45500,7 +45500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2019-03-19T17:11:07Z"
   },
   {
@@ -45511,8 +45511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 38,
-    "publicContributions": 11,
+    "privateContributions": 40,
+    "publicContributions": 21,
     "createdAt": "2019-05-29T19:18:34Z"
   },
   {
@@ -45530,13 +45530,13 @@
   {
     "login": "shinjipons",
     "name": "Shinji Pons",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52743996?s=72&u=33cd968bc8b6c73125afd6d1427082d6e26fdabf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52743996?s=72&u=7cf0fb04ccefd1031d459100246f3ba7fbeb8c75&v=4",
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "shinjipons",
     "followers": 2,
-    "privateContributions": 152,
-    "publicContributions": 313,
+    "privateContributions": 1525,
+    "publicContributions": 55,
     "createdAt": "2019-07-10T10:53:19Z"
   },
   {

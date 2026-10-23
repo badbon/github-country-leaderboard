@@ -16328,7 +16328,7 @@
     "twitterUsername": "",
     "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-12-20T15:01:45Z"
   },
   {
@@ -16376,7 +16376,7 @@
     "twitterUsername": "",
     "followers": 113,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 11,
     "createdAt": "2020-06-09T23:31:38Z"
   },
   {
@@ -16387,7 +16387,7 @@
     "company": "@growave-io",
     "twitterUsername": "",
     "followers": 76,
-    "privateContributions": 243,
+    "privateContributions": 235,
     "publicContributions": 416,
     "createdAt": "2020-12-02T19:16:52Z"
   },
@@ -16399,8 +16399,8 @@
     "company": "@ionet-official ",
     "twitterUsername": "",
     "followers": 58,
-    "privateContributions": 1852,
-    "publicContributions": 505,
+    "privateContributions": 2588,
+    "publicContributions": 191,
     "createdAt": "2020-08-28T13:03:25Z"
   },
   {
@@ -16411,7 +16411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 48,
-    "privateContributions": 3362,
+    "privateContributions": 3434,
     "publicContributions": 66,
     "createdAt": "2020-03-04T11:09:37Z"
   },
@@ -16422,7 +16422,7 @@
     "location": "Kyrgyzstan",
     "company": "Juna",
     "twitterUsername": "Omurbek1",
-    "followers": 46,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 464,
     "createdAt": "2020-05-05T15:35:20Z"
@@ -16435,8 +16435,8 @@
     "company": "University of Cental Asia",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 702,
-    "publicContributions": 614,
+    "privateContributions": 816,
+    "publicContributions": 518,
     "createdAt": "2020-07-20T22:43:22Z"
   },
   {
@@ -16448,7 +16448,7 @@
     "twitterUsername": "",
     "followers": 38,
     "privateContributions": 13,
-    "publicContributions": 1064,
+    "publicContributions": 1027,
     "createdAt": "2020-10-07T21:37:49Z"
   },
   {
@@ -16470,7 +16470,7 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "Digital Education Center in MES KR",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 35,
     "privateContributions": 365,
     "publicContributions": 36,
     "createdAt": "2020-06-27T15:53:35Z"
@@ -16494,9 +16494,9 @@
     "location": "Kyrgyzstan",
     "company": "Stealth GenAI",
     "twitterUsername": "bezdarnost_brr",
-    "followers": 33,
-    "privateContributions": 662,
-    "publicContributions": 107,
+    "followers": 34,
+    "privateContributions": 694,
+    "publicContributions": 81,
     "createdAt": "2020-06-26T17:29:00Z"
   },
   {
