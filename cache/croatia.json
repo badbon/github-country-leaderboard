@@ -45870,9 +45870,9 @@
     "location": "Croatia",
     "company": "University of Zagreb, FER",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 382,
-    "publicContributions": 198,
+    "followers": 20,
+    "privateContributions": 424,
+    "publicContributions": 341,
     "createdAt": "2014-08-10T13:55:25Z"
   },
   {
@@ -45894,9 +45894,9 @@
     "location": "Zagreb, Croatia",
     "company": "HAProxy Technologies",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 1,
-    "publicContributions": 536,
+    "followers": 22,
+    "privateContributions": 3,
+    "publicContributions": 646,
     "createdAt": "2014-06-03T08:33:15Z"
   },
   {
@@ -45919,8 +45919,8 @@
     "company": "QueryStorm",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 24,
-    "publicContributions": 2,
+    "privateContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2014-10-30T09:44:15Z"
   },
   {
@@ -45930,9 +45930,9 @@
     "location": "Croatia",
     "company": "@sartura ",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 253,
-    "publicContributions": 81,
+    "followers": 18,
+    "privateContributions": 172,
+    "publicContributions": 107,
     "createdAt": "2014-04-04T21:41:17Z"
   },
   {
@@ -45954,9 +45954,9 @@
     "location": "Croatia",
     "company": "@JaneaSystems ",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 794,
-    "publicContributions": 321,
+    "followers": 21,
+    "privateContributions": 1201,
+    "publicContributions": 676,
     "createdAt": "2014-03-20T16:47:21Z"
   },
   {
@@ -45966,9 +45966,9 @@
     "location": "Osijek, Croatia",
     "company": "@Analyzee",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 2008,
-    "publicContributions": 7,
+    "followers": 20,
+    "privateContributions": 2284,
+    "publicContributions": 5,
     "createdAt": "2014-09-29T08:25:21Z"
   },
   {
@@ -45980,20 +45980,8 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 16,
     "createdAt": "2014-11-28T13:47:20Z"
-  },
-  {
-    "login": "rsoric",
-    "name": "Robert Sorić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/9110144?s=72&u=cf4848e7ec103a011726b1d1d03f7c19710b3e51&v=4",
-    "location": "Osijek, Croatia",
-    "company": "@SolderedElectronics",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 125,
-    "createdAt": "2014-10-09T12:17:11Z"
   },
   {
     "login": "KristijanZic",
@@ -46002,9 +45990,9 @@
     "location": "Croatia",
     "company": "AppAhoi, @10x-engineering",
     "twitterUsername": "KristijanZic",
-    "followers": 18,
-    "privateContributions": 227,
-    "publicContributions": 123,
+    "followers": 22,
+    "privateContributions": 285,
+    "publicContributions": 218,
     "createdAt": "2014-12-26T01:40:25Z"
   },
   {
@@ -46014,7 +46002,7 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-05-01T15:31:47Z"
@@ -46024,11 +46012,11 @@
     "name": "_borna skukan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8920636?s=72&u=696ee8ad67534c1b062f88b44ca9f6b02f59c0cf&v=4",
     "location": "Zagreb, Croatia",
-    "company": "@superbet-group ",
+    "company": "@daytona",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 2555,
-    "publicContributions": 79,
+    "privateContributions": 2415,
+    "publicContributions": 102,
     "createdAt": "2014-09-25T20:51:00Z"
   },
   {
@@ -46039,8 +46027,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 334,
-    "publicContributions": 339,
+    "privateContributions": 409,
+    "publicContributions": 642,
     "createdAt": "2014-07-27T02:37:18Z"
   },
   {
@@ -46050,7 +46038,7 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 2,
     "publicContributions": 66,
     "createdAt": "2014-04-16T12:23:38Z"
@@ -46087,8 +46075,8 @@
     "company": "@FrontTribe ",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2657,
-    "publicContributions": 336,
+    "privateContributions": 5369,
+    "publicContributions": 555,
     "createdAt": "2014-04-14T11:32:34Z"
   },
   {
@@ -46098,9 +46086,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 29,
     "createdAt": "2014-05-18T18:28:58Z"
   },
   {

@@ -45775,8 +45775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 830,
-    "publicContributions": 0,
+    "privateContributions": 908,
+    "publicContributions": 1,
     "createdAt": "2012-09-24T20:28:19Z"
   },
   {
@@ -45836,19 +45836,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2012-11-20T11:17:49Z"
   },
   {
     "login": "likwifi",
     "name": "Minas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1791670?s=72&u=98bebefb8ea0c079f1e1a146839ade324d89e821&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1791670?s=72&u=e35b55ef87472a8a45308ec84f14324be4d0103e&v=4",
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 176,
     "createdAt": "2012-05-30T05:25:21Z"
   },
   {
@@ -45884,7 +45884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2012-02-27T15:02:25Z"
   },
   {
@@ -45908,7 +45908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 16,
     "createdAt": "2012-01-30T18:53:14Z"
   },
   {
@@ -45950,13 +45950,13 @@
   {
     "login": "ashvardanian",
     "name": "Ash Vardanian",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1983160?s=72&u=98f7ec22a660dc67857c2129efccaa642af242e7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1983160?s=72&u=7e0fe01ace33a07abf1b5f986e480be7b6bb5f1a&v=4",
     "location": "London, San Francisco, Yerevan",
     "company": "BDFL @ Unum",
     "twitterUsername": "ashvardanian",
-    "followers": 1430,
-    "privateContributions": 4507,
-    "publicContributions": 3618,
+    "followers": 1460,
+    "privateContributions": 3943,
+    "publicContributions": 5116,
     "createdAt": "2012-07-16T09:23:51Z"
   },
   {
@@ -45966,9 +45966,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "sargiset",
-    "followers": 84,
-    "privateContributions": 1456,
-    "publicContributions": 111,
+    "followers": 85,
+    "privateContributions": 1231,
+    "publicContributions": 91,
     "createdAt": "2012-11-21T12:35:50Z"
   },
   {
@@ -45978,9 +45978,9 @@
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 51,
+    "followers": 53,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 8,
     "createdAt": "2012-01-27T09:20:07Z"
   },
   {
@@ -45990,9 +45990,9 @@
     "location": "Yerevan",
     "company": "Agentonic",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 651,
-    "publicContributions": 133,
+    "followers": 46,
+    "privateContributions": 780,
+    "publicContributions": 289,
     "createdAt": "2012-07-27T22:18:45Z"
   },
   {
@@ -46002,8 +46002,8 @@
     "location": "Yerevan, Berlin",
     "company": "Doorboost.com",
     "twitterUsername": "vachi",
-    "followers": 43,
-    "privateContributions": 1260,
+    "followers": 47,
+    "privateContributions": 1794,
     "publicContributions": 0,
     "createdAt": "2012-05-25T23:56:06Z"
   },

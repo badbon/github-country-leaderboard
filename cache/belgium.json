@@ -45548,7 +45548,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2020-06-20T11:28:30Z"
   },
   {
@@ -45558,9 +45558,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 115,
     "createdAt": "2020-02-07T19:56:07Z"
   },
   {
@@ -45583,7 +45583,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 51,
+    "privateContributions": 70,
     "publicContributions": 0,
     "createdAt": "2020-06-22T18:50:45Z"
   },
@@ -45595,7 +45595,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 75,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2020-05-05T08:05:34Z"
   },
@@ -45614,13 +45614,13 @@
   {
     "login": "botytens",
     "name": "Bo Tytens",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64066683?s=72&u=932ea269e43182e88561ec53e1a3a27c4ab45724&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64066683?s=72&u=9fb5e8c1644e465fe71a23a6f1c9db2283724d82&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 205,
-    "publicContributions": 1,
+    "privateContributions": 1085,
+    "publicContributions": 2,
     "createdAt": "2020-04-21T07:45:48Z"
   },
   {
@@ -45648,18 +45648,6 @@
     "createdAt": "2020-03-20T16:18:33Z"
   },
   {
-    "login": "Pranab-JD",
-    "name": "Pranab J Deka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61944428?s=72&u=6071d0f798fd1a869d8d03856071c1037778db30&v=4",
-    "location": "Leuven, Belgium",
-    "company": "KU Leuven",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 12,
-    "publicContributions": 26,
-    "createdAt": "2020-03-08T16:48:53Z"
-  },
-  {
     "login": "MicEsp22",
     "name": "mEm",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60217734?s=72&v=4",
@@ -45679,8 +45667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 12,
-    "publicContributions": 41,
+    "privateContributions": 6,
+    "publicContributions": 39,
     "createdAt": "2020-02-20T17:26:50Z"
   },
   {
@@ -45691,7 +45679,7 @@
     "company": "Tunecom Consulting",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 53,
+    "privateContributions": 49,
     "publicContributions": 33,
     "createdAt": "2020-03-16T12:07:16Z"
   },
@@ -45702,9 +45690,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 123,
-    "publicContributions": 14,
+    "followers": 7,
+    "privateContributions": 115,
+    "publicContributions": 15,
     "createdAt": "2020-02-27T08:11:12Z"
   },
   {
@@ -45714,9 +45702,9 @@
     "location": "Flanders, Belgium",
     "company": "",
     "twitterUsername": "CasperPancake",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 43,
-    "publicContributions": 311,
+    "publicContributions": 303,
     "createdAt": "2020-01-18T16:42:03Z"
   },
   {
@@ -45726,9 +45714,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 151,
-    "publicContributions": 297,
+    "followers": 7,
+    "privateContributions": 207,
+    "publicContributions": 180,
     "createdAt": "2020-06-11T19:38:55Z"
   },
   {
@@ -45738,9 +45726,9 @@
     "location": "Londerzeel, Belgium",
     "company": "Data & More",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 29,
     "createdAt": "2020-02-06T22:53:56Z"
   },
   {
@@ -45752,7 +45740,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 135,
     "createdAt": "2020-05-28T14:14:11Z"
   },
   {
@@ -45764,7 +45752,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 0,
     "createdAt": "2020-06-17T14:43:57Z"
   },
   {
@@ -45774,9 +45762,9 @@
     "location": "Belgium",
     "company": "@Donna",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 710,
-    "publicContributions": 9,
+    "followers": 7,
+    "privateContributions": 756,
+    "publicContributions": 10,
     "createdAt": "2020-04-27T20:28:57Z"
   },
   {

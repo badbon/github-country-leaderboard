@@ -45690,8 +45690,8 @@
     "location": "Santiago, Chile ",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 148,
+    "followers": 12,
+    "privateContributions": 152,
     "publicContributions": 2,
     "createdAt": "2022-03-06T20:49:24Z"
   },
@@ -45726,7 +45726,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2022-02-15T05:13:37Z"
@@ -45739,8 +45739,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 44,
+    "privateContributions": 5,
+    "publicContributions": 24,
     "createdAt": "2022-02-17T18:21:42Z"
   },
   {
@@ -45751,8 +45751,8 @@
     "company": "",
     "twitterUsername": "armanchas",
     "followers": 11,
-    "privateContributions": 129,
-    "publicContributions": 19,
+    "privateContributions": 197,
+    "publicContributions": 59,
     "createdAt": "2022-03-23T04:40:22Z"
   },
   {
@@ -45774,8 +45774,8 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 228,
+    "followers": 12,
+    "privateContributions": 187,
     "publicContributions": 18,
     "createdAt": "2022-03-20T04:09:46Z"
   },
@@ -45798,7 +45798,7 @@
     "location": "Santiago de Chile",
     "company": "Casa",
     "twitterUsername": "DacronikOr",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-28T20:03:18Z"
@@ -45811,21 +45811,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 162,
+    "privateContributions": 152,
     "publicContributions": 2,
     "createdAt": "2022-02-24T00:56:29Z"
-  },
-  {
-    "login": "jonahuman",
-    "name": "Jonathan Ahumada Novoa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97056884?s=72&u=504649e12c17f5bd916d7bf1bf2f445f507e7bd7&v=4",
-    "location": "Santiago, Metropolitan Region of Chile",
-    "company": "Eterlink Software Labs",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2022-01-03T19:12:14Z"
   },
   {
     "login": "Zagarsix",
@@ -45835,8 +45823,8 @@
     "company": "Freelance developer",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 349,
-    "publicContributions": 119,
+    "privateContributions": 228,
+    "publicContributions": 87,
     "createdAt": "2022-01-10T20:05:20Z"
   },
   {
@@ -45848,7 +45836,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 22,
     "createdAt": "2022-02-11T06:20:17Z"
   },
   {
@@ -45858,9 +45846,9 @@
     "location": "Chile",
     "company": "Libreria Antartica Chile",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 397,
+    "publicContributions": 243,
     "createdAt": "2022-03-17T00:14:40Z"
   },
   {
@@ -45882,22 +45870,10 @@
     "location": "Concepción, Chile",
     "company": "@bukhr ",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1649,
-    "publicContributions": 42,
+    "followers": 12,
+    "privateContributions": 1690,
+    "publicContributions": 44,
     "createdAt": "2022-03-10T02:39:45Z"
-  },
-  {
-    "login": "Gyrefallon",
-    "name": "Gonzalo Peña",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100248307?s=72&u=9bdda467d55e25e3c869da25da2e4d6a0862f0d5&v=4",
-    "location": "Viña del Mar , Chile",
-    "company": "Socius",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-02-23T01:03:53Z"
   },
   {
     "login": "Aaldeao",
@@ -45907,8 +45883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 8,
-    "publicContributions": 19,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-03-27T22:43:08Z"
   },
   {

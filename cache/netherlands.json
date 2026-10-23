@@ -226968,18 +226968,6 @@
     "createdAt": "2018-11-22T10:12:13Z"
   },
   {
-    "login": "AmitVSingh",
-    "name": "Amit Vikram Singh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43755588?s=72&u=2fb65ed66d8b506bae773b592a2f2e8f06ac1341&v=4",
-    "location": "The Netherlands ",
-    "company": "ASML",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2018-10-01T15:37:05Z"
-  },
-  {
     "login": "pasayatpravat",
     "name": "Pravat Ranjan Pasayat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44122711?s=72&u=2c38d6c31dfd87a21f1f72b33be6e49a9ffe76f2&v=4",
@@ -505027,7 +505015,7 @@
     "company": "belov.dev",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 746,
+    "privateContributions": 976,
     "publicContributions": 1,
     "createdAt": "2013-09-24T10:27:03Z"
   },

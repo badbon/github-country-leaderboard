@@ -44672,7 +44672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2023-06-06T16:09:04Z"
   },
   {
@@ -44707,8 +44707,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 328,
-    "publicContributions": 0,
+    "privateContributions": 222,
+    "publicContributions": 1,
     "createdAt": "2023-01-02T07:05:31Z"
   },
   {
@@ -44720,7 +44720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 30,
     "createdAt": "2023-09-13T10:08:33Z"
   },
   {
@@ -44732,7 +44732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 185,
+    "publicContributions": 10,
     "createdAt": "2023-06-19T01:24:28Z"
   },
   {
@@ -44744,7 +44744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 35,
     "createdAt": "2023-05-29T02:17:08Z"
   },
   {
@@ -44766,9 +44766,9 @@
     "location": "HCM, Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-08-07T16:40:06Z"
   },
   {
@@ -44780,7 +44780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2023-01-04T02:54:54Z"
   },
   {
@@ -44792,7 +44792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 37,
     "createdAt": "2023-06-23T03:25:15Z"
   },
   {
@@ -44816,7 +44816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2023-03-01T18:04:56Z"
   },
   {
@@ -44828,7 +44828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-02-23T06:14:23Z"
   },
   {
@@ -44840,7 +44840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 260,
     "createdAt": "2023-02-23T13:15:58Z"
   },
   {
@@ -44874,9 +44874,9 @@
     "location": "Viet Nam",
     "company": "Kien Giang",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-05-19T06:11:47Z"
   },
   {
@@ -207226,18 +207226,6 @@
     "privateContributions": 35,
     "publicContributions": 0,
     "createdAt": "2018-10-11T10:44:18Z"
-  },
-  {
-    "login": "duongnlt",
-    "name": "Duong Nguyen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44237568?s=72&v=4",
-    "location": "Vietnam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2018-10-17T15:22:49Z"
   },
   {
     "login": "DuyDinhVan",

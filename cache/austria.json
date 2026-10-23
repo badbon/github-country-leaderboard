@@ -45607,8 +45607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 9,
-    "publicContributions": 61,
+    "privateContributions": 127,
+    "publicContributions": 67,
     "createdAt": "2021-05-19T13:47:22Z"
   },
   {
@@ -45632,7 +45632,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 29,
     "createdAt": "2021-09-15T21:57:48Z"
   },
   {
@@ -45667,8 +45667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 737,
-    "publicContributions": 0,
+    "privateContributions": 1757,
+    "publicContributions": 10,
     "createdAt": "2021-03-29T11:37:39Z"
   },
   {
@@ -45691,7 +45691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2021-05-19T19:50:48Z"
   },
@@ -45728,7 +45728,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 50,
     "createdAt": "2021-10-21T07:25:34Z"
   },
   {
@@ -45739,8 +45739,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 216,
-    "publicContributions": 14,
+    "privateContributions": 189,
+    "publicContributions": 18,
     "createdAt": "2020-12-28T16:55:51Z"
   },
   {
@@ -45751,7 +45751,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2021-04-05T14:46:29Z"
   },
@@ -45764,7 +45764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 38,
     "createdAt": "2021-12-07T21:10:13Z"
   },
   {
@@ -45786,8 +45786,8 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1861,
+    "followers": 4,
+    "privateContributions": 1711,
     "publicContributions": 0,
     "createdAt": "2021-04-14T17:10:02Z"
   },
@@ -45824,7 +45824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 56,
     "createdAt": "2021-05-08T21:30:03Z"
   },
   {
@@ -45835,8 +45835,8 @@
     "company": "Searching for a job",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 96,
+    "publicContributions": 4,
     "createdAt": "2021-01-30T11:33:54Z"
   },
   {
@@ -218914,5 +218914,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-07-01T19:56:08Z"
+  },
+  {
+    "login": "rsoric",
+    "name": "Robert Sorić",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9110144?s=72&u=cf4848e7ec103a011726b1d1d03f7c19710b3e51&v=4",
+    "location": "Vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 0,
+    "publicContributions": 109,
+    "createdAt": "2014-10-09T12:17:11Z"
   }
 ]

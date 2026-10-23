@@ -45919,7 +45919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 255,
+    "privateContributions": 143,
     "publicContributions": 1,
     "createdAt": "2021-07-12T08:46:17Z"
   },
@@ -45968,7 +45968,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2021-02-18T12:12:51Z"
   },
   {
@@ -45984,18 +45984,6 @@
     "createdAt": "2020-12-29T05:37:04Z"
   },
   {
-    "login": "beval1",
-    "name": "Bozhidar Valkov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86118441?s=72&v=4",
-    "location": "Sofia, Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1028,
-    "publicContributions": 5,
-    "createdAt": "2021-06-18T15:03:50Z"
-  },
-  {
     "login": "kolevkaloyan",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92648906?s=72&u=8d43eb11633fbe2cfe957f0d45e44d8a8ad6bb34&v=4",
@@ -46003,7 +45991,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 127,
+    "privateContributions": 89,
     "publicContributions": 33,
     "createdAt": "2021-10-16T19:33:08Z"
   },
@@ -46076,19 +46064,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 201,
+    "publicContributions": 29,
     "createdAt": "2021-10-13T11:42:10Z"
   },
   {
     "login": "AdrianEnev",
     "name": "Adrian Enev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80922492?s=72&u=8142bfbe455f7f1a384d8ee6e265062a13b05cb0&v=4",
-    "location": "Dobrich, Bulgaria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80922492?s=72&u=2120c85af819e9c1924c6ac0fb8cfc05a57fba31&v=4",
+    "location": "Varna, Bulgaria",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 121,
-    "publicContributions": 363,
+    "privateContributions": 229,
+    "publicContributions": 12,
     "createdAt": "2021-03-18T20:06:19Z"
   },
   {
@@ -46123,7 +46111,7 @@
     "company": "Devexperts",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 66,
+    "privateContributions": 60,
     "publicContributions": 0,
     "createdAt": "2021-03-04T12:49:23Z"
   },
