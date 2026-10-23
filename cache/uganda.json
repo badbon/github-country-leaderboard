@@ -45643,21 +45643,9 @@
     "company": "indepthi",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 495,
+    "privateContributions": 483,
     "publicContributions": 0,
     "createdAt": "2011-11-08T08:28:40Z"
-  },
-  {
-    "login": "dmdub",
-    "name": "Dennis Wamala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/695707?s=72&u=112d84928b354e3ca77827bb543d22e75b417290&v=4",
-    "location": "Kampala, Uganda",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2011-03-28T18:55:30Z"
   },
   {
     "login": "wc99zone",
@@ -45798,22 +45786,10 @@
     "location": "Kampala",
     "company": "Uvotam",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 829,
-    "publicContributions": 260,
+    "followers": 28,
+    "privateContributions": 745,
+    "publicContributions": 196,
     "createdAt": "2011-11-07T09:06:24Z"
-  },
-  {
-    "login": "notice4thomas",
-    "name": "Thomas Munghono",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/829496?s=72&u=90dc284fa3825521c3d5dd3348c613f184458b85&v=4",
-    "location": "Kampala",
-    "company": "Kigangu Developers",
-    "twitterUsername": "taatadaniella",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2011-06-04T15:33:17Z"
   },
   {
     "login": "tmuhimbise",
@@ -45846,9 +45822,9 @@
     "location": "Kampala, Uganda",
     "company": "@appwrite ",
     "twitterUsername": "VakinduPhilliam",
-    "followers": 118,
+    "followers": 121,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2010-08-29T08:38:13Z"
   },
   {
@@ -45870,7 +45846,7 @@
     "location": "Kampala, Uganda",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 31,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-09-21T19:10:19Z"
