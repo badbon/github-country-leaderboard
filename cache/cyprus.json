@@ -11227,7 +11227,7 @@
     "company": "3CX",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 246,
+    "privateContributions": 242,
     "publicContributions": 28,
     "createdAt": "2019-05-22T05:48:09Z"
   },
@@ -11240,7 +11240,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2019-01-08T02:12:33Z"
   },
   {
@@ -11262,7 +11262,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-11-15T19:57:35Z"
@@ -11275,8 +11275,8 @@
     "company": "Luden.io",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1751,
-    "publicContributions": 74,
+    "privateContributions": 1745,
+    "publicContributions": 75,
     "createdAt": "2019-01-04T23:01:47Z"
   },
   {
@@ -11395,7 +11395,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 14,
+    "privateContributions": 114,
     "publicContributions": 0,
     "createdAt": "2019-11-14T17:59:13Z"
   },
@@ -11413,13 +11413,13 @@
   },
   {
     "login": "afonja14755",
-    "name": "Afonchekov Dmitrii",
+    "name": "Afonchenkov Dmitrii",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59150794?s=72&u=e8559d812fc59ba92f1587521084c33595a475ee&v=4",
     "location": "Cyprus, Limassol",
     "company": "Uspio LTD",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 10,
     "publicContributions": 2,
     "createdAt": "2019-12-22T22:58:02Z"
   },

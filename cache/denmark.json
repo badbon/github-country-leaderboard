@@ -45883,8 +45883,8 @@
     "company": "Aalborg University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 395,
-    "publicContributions": 504,
+    "privateContributions": 277,
+    "publicContributions": 576,
     "createdAt": "2020-05-13T07:25:08Z"
   },
   {
@@ -45895,7 +45895,7 @@
     "company": "Mathias Hove Consult",
     "twitterUsername": "mathias_hove",
     "followers": 4,
-    "privateContributions": 2408,
+    "privateContributions": 2854,
     "publicContributions": 42,
     "createdAt": "2020-02-21T09:29:18Z"
   },
@@ -45906,9 +45906,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 222,
+    "publicContributions": 323,
     "createdAt": "2020-04-24T12:50:07Z"
   },
   {
@@ -45919,7 +45919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 42,
+    "privateContributions": 89,
     "publicContributions": 0,
     "createdAt": "2020-10-21T17:40:45Z"
   },
@@ -45932,13 +45932,13 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-09-16T09:01:12Z"
   },
   {
     "login": "bendps",
     "name": "Benjamin Dupuis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75439510?s=72&u=39943392cdac59188602e53ca084d4fdd986d72b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75439510?s=72&u=c860e2d5f5b76078fc2a1e83dbdd6ed3956b5d91&v=4",
     "location": "Roskilde, Denmark",
     "company": "Aarhus university",
     "twitterUsername": "",
@@ -45956,7 +45956,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 80,
     "createdAt": "2020-03-18T16:57:50Z"
   },
   {
@@ -45991,7 +45991,7 @@
     "company": "Playable",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 9,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-15T14:55:17Z"
   },
@@ -46004,7 +46004,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 76,
     "createdAt": "2020-05-02T18:13:48Z"
   },
   {
@@ -46014,9 +46014,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2020-09-18T18:27:53Z"
   },
   {
@@ -46051,8 +46051,8 @@
     "company": "Trifork Public",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4031,
-    "publicContributions": 2956,
+    "privateContributions": 3533,
+    "publicContributions": 3046,
     "createdAt": "2020-10-26T14:45:23Z"
   },
   {
@@ -46076,20 +46076,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 95,
     "createdAt": "2020-09-07T09:02:05Z"
-  },
-  {
-    "login": "kvnis",
-    "name": "KVN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63719122?s=72&u=f8a3052dc9ac5c8dc753fddfa41cad9551d8d3b9&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1042,
-    "publicContributions": 1915,
-    "createdAt": "2020-04-15T11:21:04Z"
   },
   {
     "login": "F1dsy",

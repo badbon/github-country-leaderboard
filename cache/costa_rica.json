@@ -46219,7 +46219,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 609,
+    "privateContributions": 704,
     "publicContributions": 4,
     "createdAt": "2016-10-10T19:32:22Z"
   },
@@ -46230,7 +46230,7 @@
     "location": "San Jose, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2016-02-03T00:26:55Z"
@@ -46253,10 +46253,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/23245552?s=72&v=4",
     "location": "Costa Rica",
     "company": "Agile Software Development ltd",
-    "twitterUsername": "antimasi_95",
+    "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 915,
-    "publicContributions": 0,
+    "privateContributions": 1382,
+    "publicContributions": 1,
     "createdAt": "2016-11-03T19:21:14Z"
   },
   {
@@ -46268,7 +46268,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2016-04-06T13:50:39Z"
   },
   {
@@ -46296,18 +46296,6 @@
     "createdAt": "2016-01-18T00:54:10Z"
   },
   {
-    "login": "davidpjimenez",
-    "name": "David Pérez J.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23046973?s=72&u=26af71ec2e399eeb793f1f61de2785e417c0d5d9&v=4",
-    "location": "Costa Rica",
-    "company": "Intel",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 0,
-    "createdAt": "2016-10-25T05:44:46Z"
-  },
-  {
     "login": "danivarelas",
     "name": "Daniel Varela",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22601794?s=72&u=2d0f175eb4c3991c4fa74f636a862f73acbd543e&v=4",
@@ -46328,7 +46316,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2016-10-19T03:32:41Z"
   },
   {
@@ -46374,7 +46362,7 @@
     "location": "San Jose, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-30T11:52:44Z"
@@ -46388,7 +46376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 42,
     "createdAt": "2016-07-14T15:31:57Z"
   },
   {

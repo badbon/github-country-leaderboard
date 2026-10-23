@@ -45548,7 +45548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 21,
     "createdAt": "2024-08-30T19:40:27Z"
   },
   {
@@ -45631,8 +45631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 83,
-    "publicContributions": 16,
+    "privateContributions": 156,
+    "publicContributions": 1,
     "createdAt": "2024-08-10T14:59:41Z"
   },
   {
@@ -45642,21 +45642,21 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 35,
     "createdAt": "2024-08-10T22:12:46Z"
   },
   {
     "login": "AlvaroTapia-f",
     "name": "Alvaro Tapia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/178247478?s=72&u=53603ba1185647243613f6e6a059759cd0034d25&v=4",
-    "location": "Argentina",
+    "location": "Mendoza, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 62,
     "createdAt": "2024-08-13T02:38:02Z"
   },
   {
@@ -45668,7 +45668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 21,
     "createdAt": "2024-08-07T01:21:16Z"
   },
   {
@@ -45704,20 +45704,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-10-30T11:49:11Z"
-  },
-  {
-    "login": "Maxi-gasti",
-    "name": "Maxi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187673834?s=72&u=5886c002a5b46f1ab8f59508ec2fd9b6a9074b02&v=4",
-    "location": "Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 98,
-    "createdAt": "2024-11-07T18:50:04Z"
   },
   {
     "login": "gimenarippel",
@@ -45739,7 +45727,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 179,
+    "privateContributions": 400,
     "publicContributions": 2,
     "createdAt": "2024-07-20T13:08:55Z"
   },
@@ -45774,9 +45762,9 @@
     "location": "Resistencia, Chaco, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 47,
     "createdAt": "2024-08-08T04:04:20Z"
   },
   {
