@@ -51,8 +51,8 @@ Indexed users: 1,478
 | 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,193 |
 | 13 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,168 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
-| 15 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 1,007 |
-| 16 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,005 |
+| 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,012 |
+| 16 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 1,007 |
 | 17 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout | Syria | 918 |
 | 18 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 884 |
 | 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH | Syria | 825 |
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-23T06:28:49.396Z
+Generated: 2026-10-23T07:39:56.257Z

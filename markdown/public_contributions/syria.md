@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-23T06:28:49.396Z
+Generated: 2026-10-23T07:39:56.257Z
 
 Users: 1478
 
@@ -20,8 +20,8 @@ Users: 1478
 | 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1193 |
 | 13 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1168 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
-| 15 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 1007 |
-| 16 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 1005 |
+| 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 1012 |
+| 16 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 1007 |
 | 17 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout |  |  | Syria | 918 |
 | 18 | [zaher](https://github.com/zaher) | Zaher Dirkey | Creative Solutions | zaherdirkey | Damascus, Syria | 884 |
 | 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH |  |  | Syria | 825 |

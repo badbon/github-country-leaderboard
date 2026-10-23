@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-23T06:26:56.400Z
+Generated: 2026-10-23T07:37:38.738Z
 
 Users: 727
 
@@ -24,5 +24,5 @@ Users: 727
 | 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2499 |
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Sudan University of Science and Technology  | AminOmerM | Khartoum, Sudan | 2471 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 2305 |
-| 19 | [blacksud0](https://github.com/blacksud0) | OMER SAEED | @firewireio | blacksud0 | Khartoum,Sudan | 2190 |
-| 20 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 2134 |
+| 19 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 2217 |
+| 20 | [blacksud0](https://github.com/blacksud0) | OMER SAEED | @firewireio | blacksud0 | Khartoum,Sudan | 2190 |

@@ -30,8 +30,8 @@ Indexed users: 727
 | 16 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Sudan | 2,499 |
 | 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Khartoum, Sudan | 2,471 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,305 |
-| 19 | [blacksud0](https://github.com/blacksud0) | OMER SAEED | Khartoum,Sudan | 2,190 |
-| 20 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 2,134 |
+| 19 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 2,217 |
+| 20 | [blacksud0](https://github.com/blacksud0) | OMER SAEED | Khartoum,Sudan | 2,190 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 727
 | 1 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,184 |
 | 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,180 |
 | 3 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,149 |
-| 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 969 |
+| 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 965 |
 | 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 872 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 812 |
 | 7 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 777 |
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-23T06:26:56.400Z
+Generated: 2026-10-23T07:37:38.738Z
