@@ -47706,7 +47706,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2016-08-25T19:44:22Z"
@@ -47768,7 +47768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2025-02-11T20:11:55Z"
   },
   {
@@ -47779,7 +47779,7 @@
     "company": "@ltvco ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1634,
+    "privateContributions": 2319,
     "publicContributions": 1,
     "createdAt": "2016-03-26T20:47:41Z"
   },
@@ -47827,8 +47827,8 @@
     "company": "Servicio Nacional de Aprendizaje | SENA",
     "twitterUsername": "jhonhader2",
     "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 302,
+    "privateContributions": 182,
+    "publicContributions": 307,
     "createdAt": "2016-10-25T19:36:48Z"
   },
   {
@@ -47850,9 +47850,9 @@
     "location": "Costa Rica",
     "company": "Universidad de Costa Rica",
     "twitterUsername": "",
-    "followers": 74,
-    "privateContributions": 22,
-    "publicContributions": 545,
+    "followers": 77,
+    "privateContributions": 9,
+    "publicContributions": 573,
     "createdAt": "2015-07-08T23:07:00Z"
   },
   {
@@ -47862,9 +47862,9 @@
     "location": "Costa Rica",
     "company": "Arcane Coder",
     "twitterUsername": "ArcaneCoder7",
-    "followers": 73,
+    "followers": 75,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 90,
     "createdAt": "2015-07-15T03:26:24Z"
   },
   {
@@ -47874,7 +47874,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 51,
+    "followers": 55,
     "privateContributions": 0,
     "publicContributions": 56,
     "createdAt": "2015-06-03T00:32:13Z"
@@ -67486,5 +67486,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-07T06:11:02Z"
+  },
+  {
+    "login": "rfedane",
+    "name": "Rohit Fedane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24980291?s=72&v=4",
+    "location": "San Jose, CA USA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-01-07T20:47:31Z"
   }
 ]

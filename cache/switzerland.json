@@ -46795,8 +46795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 274,
-    "publicContributions": 109,
+    "privateContributions": 176,
+    "publicContributions": 28,
     "createdAt": "2021-09-23T14:53:11Z"
   },
   {
@@ -46807,8 +46807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 25,
-    "publicContributions": 3,
+    "privateContributions": 46,
+    "publicContributions": 2,
     "createdAt": "2021-07-02T20:43:48Z"
   },
   {
@@ -46818,9 +46818,9 @@
     "location": "Switzerland",
     "company": "BernhardVisuals, BeatLoops",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 51,
-    "publicContributions": 123,
+    "followers": 27,
+    "privateContributions": 304,
+    "publicContributions": 98,
     "createdAt": "2021-07-07T10:43:17Z"
   },
   {
@@ -46831,7 +46831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-24T13:45:15Z"
   },
@@ -46844,7 +46844,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 18,
     "createdAt": "2021-07-13T14:36:04Z"
   },
   {
@@ -46855,8 +46855,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 59,
-    "publicContributions": 39,
+    "privateContributions": 106,
+    "publicContributions": 41,
     "createdAt": "2021-09-09T03:32:00Z"
   },
   {
@@ -46866,9 +46866,9 @@
     "location": "Zurich, Switzerland",
     "company": "ETH Zurich",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2021-09-25T19:46:26Z"
   },
   {
@@ -46878,9 +46878,9 @@
     "location": "Switzerland",
     "company": "EPFL",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 843,
-    "publicContributions": 1518,
+    "followers": 25,
+    "privateContributions": 839,
+    "publicContributions": 1408,
     "createdAt": "2021-07-02T20:15:51Z"
   },
   {
@@ -46892,19 +46892,19 @@
     "twitterUsername": "eisfabian",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 26,
     "createdAt": "2021-08-26T05:35:33Z"
   },
   {
     "login": "zchochul",
-    "name": "Zuzanna Chochulska",
+    "name": "Zuzanna Chochulska-Gumińska",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87480906?s=72&u=bb64f52ce25c8a4527ee8c5fb4b94eb403707fb2&v=4",
     "location": "Meyrin, Switzerland",
     "company": "CERN + Czech Technical University in Prague + Warsaw University of Technology",
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2021-07-15T12:27:55Z"
   },
   {
@@ -46914,9 +46914,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 518,
-    "publicContributions": 308,
+    "followers": 19,
+    "privateContributions": 577,
+    "publicContributions": 106,
     "createdAt": "2021-08-18T09:00:39Z"
   },
   {
@@ -46924,11 +46924,11 @@
     "name": "Cameron Weijmer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89902509?s=72&u=69efb64b513270ceecc102d39a2d8d3458b95ad2&v=4",
     "location": "Zürich, Switzerland",
-    "company": "WebOptix, HausDigital",
+    "company": "HausDigital",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 668,
-    "publicContributions": 26,
+    "followers": 20,
+    "privateContributions": 474,
+    "publicContributions": 25,
     "createdAt": "2021-09-01T07:40:07Z"
   },
   {
@@ -46940,7 +46940,7 @@
     "twitterUsername": "AlexanderViand",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2021-08-04T06:32:43Z"
   },
   {
@@ -46960,11 +46960,11 @@
     "name": "William Richter",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88400283?s=72&u=4f45424b2614dd5072cc30a9892a5101d61129ba&v=4",
     "location": "Switzerland",
-    "company": "SORAMITSU",
+    "company": "",
     "twitterUsername": "catswithouthats",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 79,
     "createdAt": "2021-08-03T18:22:26Z"
   },
   {
@@ -46974,21 +46974,21 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 171,
+    "followers": 18,
+    "privateContributions": 97,
     "publicContributions": 1,
     "createdAt": "2021-09-03T21:50:51Z"
   },
   {
     "login": "g-kimbell",
     "name": "Graham Kimbell",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88666181?s=72&u=0082a64d12cc0551db6c6164b785a423c34501c1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88666181?s=72&u=b89c90d9dfbe34c45bddcbecdb1c547a2bd7cc3f&v=4",
     "location": "Zurich, Switzerland",
     "company": "@EmpaEconversion ",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 258,
-    "publicContributions": 861,
+    "followers": 17,
+    "privateContributions": 234,
+    "publicContributions": 1036,
     "createdAt": "2021-08-09T13:03:25Z"
   },
   {
@@ -46998,9 +46998,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 55,
-    "publicContributions": 19,
+    "followers": 12,
+    "privateContributions": 45,
+    "publicContributions": 2,
     "createdAt": "2021-08-18T06:43:46Z"
   },
   {
@@ -47023,8 +47023,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 3596,
+    "publicContributions": 2,
     "createdAt": "2021-07-01T08:47:51Z"
   },
   {

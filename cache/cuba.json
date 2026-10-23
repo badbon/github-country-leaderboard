@@ -1484,7 +1484,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 16,
-    "publicContributions": 97,
+    "publicContributions": 96,
     "createdAt": "2024-04-17T18:07:54Z"
   },
   {
@@ -1532,7 +1532,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 23,
-    "publicContributions": 125,
+    "publicContributions": 118,
     "createdAt": "2024-11-19T13:18:45Z"
   },
   {
@@ -1544,7 +1544,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 130,
     "createdAt": "2024-06-24T16:02:51Z"
   },
   {
@@ -1580,7 +1580,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 64,
     "createdAt": "2023-12-30T14:25:29Z"
   },
   {
@@ -1616,7 +1616,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 78,
     "createdAt": "2024-01-19T15:44:21Z"
   },
   {
@@ -1630,18 +1630,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-24T10:52:56Z"
-  },
-  {
-    "login": "dario61k",
-    "name": "Dario61K",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156841754?s=72&u=8586bb6a8878cfc788b51245e591f0c659a021d0&v=4",
-    "location": "La Habana, Cuba",
-    "company": "",
-    "twitterUsername": "dario61k",
-    "followers": 6,
-    "privateContributions": 309,
-    "publicContributions": 50,
-    "createdAt": "2024-01-16T18:33:41Z"
   },
   {
     "login": "Kevromdev",
@@ -1675,8 +1663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 11,
-    "publicContributions": 11,
+    "privateContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2024-05-19T02:05:51Z"
   },
   {

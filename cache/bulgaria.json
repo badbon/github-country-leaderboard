@@ -47551,7 +47551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 16,
     "publicContributions": 5,
     "createdAt": "2021-03-05T17:00:36Z"
   },
@@ -47624,20 +47624,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-11-07T14:16:44Z"
-  },
-  {
-    "login": "AlTryx",
-    "name": "Aleksandar Stanchev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93264519?s=72&u=352138105c7b80781442d405e7071c117e34359f&v=4",
-    "location": "Varna, Bulgaria",
-    "company": "High School of Mathematics, Varna",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 143,
-    "createdAt": "2021-10-27T12:48:48Z"
   },
   {
     "login": "teiah",
@@ -47648,7 +47636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 154,
     "createdAt": "2021-01-24T09:54:50Z"
   },
   {

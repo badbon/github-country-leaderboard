@@ -341098,5 +341098,41 @@
     "privateContributions": 3,
     "publicContributions": 54,
     "createdAt": "2018-09-19T03:44:44Z"
+  },
+  {
+    "login": "BrainWavesTecnico",
+    "name": "BrainWavesTecnico",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299129160?s=72&u=39aaefd843d9b88b7659f3528a9f36f003493598&v=4",
+    "location": "Lisbon, Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 218,
+    "createdAt": "2026-07-02T12:58:38Z"
+  },
+  {
+    "login": "MetMan34109",
+    "name": "MetMan34109",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299096121?s=72&u=263608fe512edd855d25d521215c5799943ca128&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-02T11:22:36Z"
+  },
+  {
+    "login": "raul-oliveirah",
+    "name": "Raul Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299162826?s=72&u=3514c8d22b445f4082b17e0678efbe66457ac6df&v=4",
+    "location": "Portugal",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-07-02T14:26:15Z"
   }
 ]
