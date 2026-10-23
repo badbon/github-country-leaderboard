@@ -45607,21 +45607,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 27,
-    "publicContributions": 257,
+    "privateContributions": 70,
+    "publicContributions": 274,
     "createdAt": "2013-05-28T11:31:28Z"
-  },
-  {
-    "login": "klarakucerova",
-    "name": "Klara Kucerova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4664405?s=72&u=3a17c04aca0e1cabf3de117805566a1a0bef79a5&v=4",
-    "location": "Bratislava, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2013-06-10T19:53:21Z"
   },
   {
     "login": "sprototles",
@@ -45631,7 +45619,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 292,
+    "privateContributions": 210,
     "publicContributions": 0,
     "createdAt": "2013-09-20T13:53:59Z"
   },
@@ -45643,8 +45631,8 @@
     "company": "ESET spol. s r.o. (personal account)",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 452,
-    "publicContributions": 41,
+    "privateContributions": 374,
+    "publicContributions": 38,
     "createdAt": "2013-02-02T13:16:19Z"
   },
   {
@@ -45656,7 +45644,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2013-05-18T08:53:46Z"
   },
   {
@@ -45668,7 +45656,7 @@
     "twitterUsername": "roxetak",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2013-05-28T07:28:32Z"
   },
   {
@@ -45690,9 +45678,9 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 376,
+    "publicContributions": 0,
     "createdAt": "2013-10-10T15:43:00Z"
   },
   {
@@ -45703,7 +45691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2939,
+    "privateContributions": 4007,
     "publicContributions": 1,
     "createdAt": "2013-01-24T10:15:13Z"
   },
@@ -45715,7 +45703,7 @@
     "company": "@robto-sk",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 116,
+    "privateContributions": 382,
     "publicContributions": 2,
     "createdAt": "2013-06-06T19:01:12Z"
   },
@@ -45745,13 +45733,13 @@
   },
   {
     "login": "jkondela",
-    "name": "Jaro Kondela",
+    "name": "Jaroslav Kondela",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4798782?s=72&v=4",
     "location": "Bratislava, Slovakia",
-    "company": "Boataround",
+    "company": "hello code s.r.o.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2220,
+    "privateContributions": 1972,
     "publicContributions": 0,
     "createdAt": "2013-06-24T09:20:05Z"
   },
@@ -45763,8 +45751,8 @@
     "company": "Virtooal",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 806,
-    "publicContributions": 2,
+    "privateContributions": 841,
+    "publicContributions": 9,
     "createdAt": "2013-02-13T17:27:20Z"
   },
   {
@@ -45774,9 +45762,9 @@
     "location": "Košice, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 161,
     "createdAt": "2013-09-12T10:31:40Z"
   },
   {
@@ -45787,7 +45775,7 @@
     "company": "WebLab Consulting LTD.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2736,
+    "privateContributions": 4087,
     "publicContributions": 0,
     "createdAt": "2013-06-08T16:21:59Z"
   },
@@ -45811,7 +45799,7 @@
     "company": "Kuloar.com",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 358,
+    "privateContributions": 283,
     "publicContributions": 0,
     "createdAt": "2013-02-07T14:26:45Z"
   },
