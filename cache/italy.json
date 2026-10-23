@@ -2064,18 +2064,6 @@
     "createdAt": "2026-01-28T14:26:39Z"
   },
   {
-    "login": "dhiatnit",
-    "name": "Dhia Eddine Ben Hassine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/259823234?s=72&v=4",
-    "location": "Milan, Italy",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 80,
-    "createdAt": "2026-02-06T08:57:30Z"
-  },
-  {
     "login": "ErProietti",
     "name": "Riccardo Proietti Palombi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/272188243?s=72&u=3cf7d05b80601cf12ae80899aa6969977888e1ae&v=4",
@@ -2094,9 +2082,9 @@
     "location": "Milan, Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 44,
     "createdAt": "2026-04-01T10:04:44Z"
   },
   {
@@ -2108,20 +2096,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 36,
     "createdAt": "2026-03-12T18:18:54Z"
-  },
-  {
-    "login": "retestellare",
-    "name": "Sages Revolution by Giorgio Saggese ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266613963?s=72&v=4",
-    "location": "Italy",
-    "company": "Forge ",
-    "twitterUsername": "stellarforg",
-    "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 402,
-    "createdAt": "2026-03-09T02:54:51Z"
   },
   {
     "login": "marcellobarchi-dev",
@@ -2130,7 +2106,7 @@
     "location": "Italy",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-04-27T13:09:19Z"
@@ -2209,14 +2185,14 @@
   },
   {
     "login": "fabiosignati1",
-    "name": "Fabio",
+    "name": "Fabio Signati",
     "avatarUrl": "https://avatars.githubusercontent.com/u/275070220?s=72&v=4",
     "location": "Milan, Italy",
     "company": "Università Milano-Bicocca",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2026-04-10T12:24:53Z"
   },
   {
@@ -2276,7 +2252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 91,
     "createdAt": "2026-01-07T16:19:15Z"
   },
   {
