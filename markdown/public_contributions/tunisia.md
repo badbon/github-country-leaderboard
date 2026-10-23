@@ -1,6 +1,6 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-23T22:35:04.616Z
+Generated: 2026-10-23T23:47:38.790Z
 
 Users: 7155
 
@@ -12,12 +12,12 @@ Users: 7155
 | 4 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | vex-kernel |  | Tunisia | 14899 |
 | 5 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Nuraly | labidiaymen | Tunis, Tunisia | 10439 |
 | 6 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri |  | 0x4D424D | Tunisia | 7039 |
-| 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 4552 |
-| 8 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 4474 |
-| 9 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | @Carthage-Software | azjezz | Tunisia | 4468 |
-| 10 | [azizwhibi](https://github.com/azizwhibi) | Aziz Ouhibi | ESPRIT |  | Tunisia | 3986 |
-| 11 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi |  |  | Tunisia | 3453 |
-| 12 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Kalidia Consulting |  | Tunisia | 3153 |
+| 7 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Softanza Project |  | Tunisia, and Niger. | 6026 |
+| 8 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 4552 |
+| 9 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 4474 |
+| 10 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | @Carthage-Software | azjezz | Tunisia | 4468 |
+| 11 | [azizwhibi](https://github.com/azizwhibi) | Aziz Ouhibi | ESPRIT |  | Tunisia | 3986 |
+| 12 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi |  |  | Tunisia | 3453 |
 | 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila |  |  | tunis | 2980 |
 | 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
 | 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |

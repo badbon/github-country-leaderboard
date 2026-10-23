@@ -1,6 +1,6 @@
 # Followers - Tanzania
 
-Generated: 2026-10-23T22:33:34.658Z
+Generated: 2026-10-23T23:45:31.411Z
 
 Users: 2038
 
@@ -8,7 +8,7 @@ Users: 2038
 |---:|---|---|---|---|---|---:|
 | 1 | [dexflare](https://github.com/dexflare) | Dexflare Network | @dexflare | dexflareNetwork | Tanzania | 2492 |
 | 2 | [nyenza](https://github.com/nyenza) | Agrey Nyenza | AfyaPlus Tz |  | Iringa, Tanzania | 1486 |
-| 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | @tehamalab @anzalab @CodeTanzania |  | Dar es salaam, Tanzania | 1118 |
+| 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | @tehamalab @anzalab @CodeTanzania |  | Dar es salaam, Tanzania | 1126 |
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna |  | OficialKareem | ARUSHA, TANZANIA | 1065 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Ziplies |  | Tanzania | 1030 |
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | @NeuroTech-HQ | j_kalebu | Dar es Salaam , Tanzania | 958 |

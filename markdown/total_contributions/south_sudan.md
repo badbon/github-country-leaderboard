@@ -1,8 +1,8 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-23T22:31:48.244Z
+Generated: 2026-10-23T23:42:59.361Z
 
-Users: 132
+Users: 131
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

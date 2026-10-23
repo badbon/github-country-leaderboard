@@ -189,21 +189,21 @@ Published countries: 236
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
 | Saudi Arabia | 7,730 | [View](./saudi_arabia.md) |
-| Senegal | 1,353 | [View](./senegal.md) |
+| Senegal | 1,354 | [View](./senegal.md) |
 | Serbia | 10,647 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
 | Singapore | 24,708 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
-| Slovakia | 4,656 | [View](./slovakia.md) |
-| Slovenia | 3,094 | [View](./slovenia.md) |
+| Slovakia | 4,655 | [View](./slovakia.md) |
+| Slovenia | 3,093 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,923 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,899 | [View](./south_korea.md) |
-| South Sudan | 132 | [View](./south_sudan.md) |
-| Sri Lanka | 18,300 | [View](./sri_lanka.md) |
+| South Korea | 56,898 | [View](./south_korea.md) |
+| South Sudan | 131 | [View](./south_sudan.md) |
+| Sri Lanka | 18,299 | [View](./sri_lanka.md) |
 | Sudan | 725 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
@@ -213,19 +213,19 @@ Published countries: 236
 | Taiwan | 21,990 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
-| Thailand | 14,975 | [View](./thailand.md) |
+| Thailand | 14,976 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
 | Togo | 677 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,155 | [View](./tunisia.md) |
-| Turkey | 79,156 | [View](./turkey.md) |
+| Turkey | 79,155 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,862 | [View](./uganda.md) |
-| Ukraine | 47,717 | [View](./ukraine.md) |
+| Ukraine | 47,715 | [View](./ukraine.md) |
 | United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T23:39:11.686Z
+Generated: 2026-10-23T23:50:13.847Z
