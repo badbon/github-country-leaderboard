@@ -1,6 +1,6 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-23T05:25:32.369Z
+Generated: 2026-10-23T06:30:56.086Z
 
 Users: 708
 
@@ -17,11 +17,11 @@ Users: 708
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | @codex-team |  | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Home |  | Tajikistan Dushanbe | 80 |
 | 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | @Rio-TJ  |  | Tajikistan | 75 |
-| 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Rio.tj |  | Tajikistan | 60 |
+| 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Rio.tj |  | Tajikistan | 59 |
 | 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 57 |
 | 14 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 56 |
 | 15 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | HumoLab |  | Dushanbe/Tajikistan | 55 |
-| 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | SoftClub.tj |  | Dushanbe,Tajikistan | 55 |
+| 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | SoftClub.tj |  | Dushanbe,Tajikistan | 54 |
 | 17 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Saiph Group |  | Tajikistan | 51 |
 | 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Saiph Group |  | Dushanbe,Tajikistan | 50 |
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | https://evilmartians.com | 11bit | Dushanbe | 49 |

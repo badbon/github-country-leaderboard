@@ -41,7 +41,7 @@ Indexed users: 708
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 2,061 |
 | 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,634 |
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,374 |
-| 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 1,312 |
+| 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 1,324 |
 | 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 965 |
 | 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 940 |
 | 8 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 862 |
@@ -73,14 +73,14 @@ Indexed users: 708
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Tajikistan Dushanbe | 80 |
 | 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | Tajikistan | 75 |
-| 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Tajikistan | 60 |
+| 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Tajikistan | 59 |
 | 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 57 |
 | 14 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 56 |
 | 15 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | Dushanbe/Tajikistan | 55 |
-| 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | Dushanbe,Tajikistan | 55 |
+| 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | Dushanbe,Tajikistan | 54 |
 | 17 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Tajikistan | 51 |
 | 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Dushanbe,Tajikistan | 50 |
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-23T05:25:32.369Z
+Generated: 2026-10-23T06:30:56.086Z

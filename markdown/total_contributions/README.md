@@ -213,7 +213,7 @@ Published countries: 236
 | Taiwan | 21,993 | [View](./taiwan.md) |
 | Tajikistan | 708 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
-| Thailand | 14,978 | [View](./thailand.md) |
+| Thailand | 14,977 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
 | Togo | 677 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
@@ -226,7 +226,7 @@ Published countries: 236
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,862 | [View](./uganda.md) |
 | Ukraine | 47,723 | [View](./ukraine.md) |
-| United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
+| United Arab Emirates | 4,204 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,599 | [View](./uruguay.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T06:29:53.069Z
+Generated: 2026-10-23T06:36:45.307Z

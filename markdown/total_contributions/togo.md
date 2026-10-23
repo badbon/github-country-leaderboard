@@ -1,6 +1,6 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-23T05:25:49.553Z
+Generated: 2026-10-23T06:33:13.751Z
 
 Users: 677
 
@@ -11,7 +11,7 @@ Users: 677
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOF CORPORATION | OKougbada | Togo | 11963 |
 | 4 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 10183 |
 | 5 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 9411 |
-| 6 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 8985 |
+| 6 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 9052 |
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 8068 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6823 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 6119 |
@@ -25,4 +25,4 @@ Users: 677
 | 17 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Bluwa |  | Lomé | 3894 |
 | 18 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns |  | ICG_reborns | Lomé, Togo | 3649 |
 | 19 | [Ygryan360](https://github.com/Ygryan360) | Rayane | @Immoviasoft | ryan_tchabodi | Lomé, Togo | 3626 |
-| 20 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM |  |  | TOGO-Lomé | 3497 |
+| 20 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u |  |  | lomé - Togo | 3550 |

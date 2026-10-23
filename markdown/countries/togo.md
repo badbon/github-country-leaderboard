@@ -17,7 +17,7 @@ Indexed users: 677
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 11,963 |
 | 4 | [GTW503](https://github.com/GTW503) | MEK | Togo | 10,183 |
 | 5 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,411 |
-| 6 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,985 |
+| 6 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 9,052 |
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,068 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,823 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 6,119 |
@@ -31,7 +31,7 @@ Indexed users: 677
 | 17 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,894 |
 | 18 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,649 |
 | 19 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,626 |
-| 20 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,497 |
+| 20 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,550 |
 
 ## Public Contributions
 
@@ -49,11 +49,11 @@ Indexed users: 677
 | 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,643 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,300 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,189 |
-| 13 | [Donchaminade](https://github.com/Donchaminade) | chaminade Dondah Adjolou  | Togo | 1,023 |
-| 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 913 |
-| 15 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 897 |
-| 16 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 850 |
-| 17 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 820 |
+| 13 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 1,035 |
+| 14 | [Donchaminade](https://github.com/Donchaminade) | chaminade Dondah Adjolou  | Togo | 1,023 |
+| 15 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 913 |
+| 16 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 897 |
+| 17 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 850 |
 | 18 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 773 |
 | 19 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Lomé, TOGO | 718 |
 | 20 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
@@ -83,4 +83,4 @@ Indexed users: 677
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-23T05:25:49.553Z
+Generated: 2026-10-23T06:33:13.751Z

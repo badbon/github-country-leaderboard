@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,205
+Indexed users: 4,204
 
 | Leaderboard | Link |
 |---|---|
@@ -13,21 +13,21 @@ Indexed users: 4,205
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [HavenDV](https://github.com/HavenDV) | Konstantin S. | Dubai, United Arab Emirates | 36,879 |
-| 2 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | United Arab Emirates | 24,704 |
-| 3 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah, United Arab Emirates | 23,114 |
-| 4 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Abu Dhabi, United Arab Emirates | 21,568 |
-| 5 | [sadiqaaico](https://github.com/sadiqaaico) | Sadiq | Abu Dhabi, United Arab Emirates | 17,828 |
-| 6 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Dubai, United Arab Emirates | 15,453 |
-| 7 | [an-ivannikov](https://github.com/an-ivannikov) | Aleksandr Ivannikov | Abu Dhabi, UAE | 14,836 |
-| 8 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling | United Arab Emirates | 14,288 |
-| 9 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 13,880 |
-| 10 | [dev-juju](https://github.com/dev-juju) | Bomdi | Dubai, United Arab Emirates | 13,443 |
-| 11 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 13,331 |
-| 12 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 13,304 |
-| 13 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
-| 14 | [lionxcr](https://github.com/lionxcr) | Paul Segura | United Arab Emirates | 11,581 |
-| 15 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
-| 16 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
+| 2 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 29,893 |
+| 3 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | United Arab Emirates | 24,704 |
+| 4 | [YASSERRMD](https://github.com/YASSERRMD) | Mohamed Yasser | Sharjah, United Arab Emirates | 23,114 |
+| 5 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Abu Dhabi, United Arab Emirates | 21,568 |
+| 6 | [sadiqaaico](https://github.com/sadiqaaico) | Sadiq | Abu Dhabi, United Arab Emirates | 17,828 |
+| 7 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Dubai, United Arab Emirates | 15,453 |
+| 8 | [an-ivannikov](https://github.com/an-ivannikov) | Aleksandr Ivannikov | Abu Dhabi, UAE | 14,836 |
+| 9 | [rohingosling](https://github.com/rohingosling) | Rohin Gosling | United Arab Emirates | 14,288 |
+| 10 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 13,880 |
+| 11 | [dev-juju](https://github.com/dev-juju) | Bomdi | Dubai, United Arab Emirates | 13,443 |
+| 12 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 13,331 |
+| 13 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 13,304 |
+| 14 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Dubai, United Arab Emirates | 12,906 |
+| 15 | [lionxcr](https://github.com/lionxcr) | Paul Segura | United Arab Emirates | 11,581 |
+| 16 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
 | 17 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
 | 18 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
 | 19 | [sdn0303](https://github.com/sdn0303) | sdn0303 | Silicon Oasis, Dubai, United Arab Emirates | 10,595 |
@@ -83,4 +83,4 @@ Indexed users: 4,205
 | 19 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta | Dubai, United Arab Emirates | 361 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-23T05:28:28.957Z
+Generated: 2026-10-23T06:35:02.272Z

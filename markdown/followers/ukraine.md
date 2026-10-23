@@ -1,6 +1,6 @@
 # Followers - Ukraine
 
-Generated: 2026-10-23T05:28:04.792Z
+Generated: 2026-10-23T06:34:52.497Z
 
 Users: 47723
 
