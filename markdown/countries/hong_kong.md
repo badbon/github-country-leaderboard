@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,247
+Indexed users: 10,245
 
 | Leaderboard | Link |
 |---|---|
@@ -42,7 +42,7 @@ Indexed users: 10,247
 | 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 15,420 |
 | 4 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 13,015 |
 | 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 11,082 |
-| 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang | Hong Kong | 9,074 |
+| 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang | Hong Kong | 9,337 |
 | 7 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
 | 8 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,663 |
 | 9 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
@@ -83,4 +83,4 @@ Indexed users: 10,247
 | 19 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 | 20 | [hszhao](https://github.com/hszhao) | Hengshuang Zhao | Hong Kong | 925 |
 
-Generated: 2026-10-23T07:04:34.859Z
+Generated: 2026-10-23T08:15:13.491Z

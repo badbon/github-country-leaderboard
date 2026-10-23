@@ -46,12 +46,12 @@ Indexed users: 1,271
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,573 |
 | 8 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,498 |
 | 9 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,445 |
-| 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,198 |
+| 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,211 |
 | 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 998 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 982 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 873 |
 | 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 838 |
-| 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 748 |
+| 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 747 |
 | 16 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 654 |
 | 17 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
 | 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 635 |
@@ -83,4 +83,4 @@ Indexed users: 1,271
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 96 |
 
-Generated: 2026-10-23T07:07:34.169Z
+Generated: 2026-10-23T08:17:01.528Z

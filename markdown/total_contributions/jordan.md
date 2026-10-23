@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-23T07:08:59.822Z
+Generated: 2026-10-23T08:18:36.490Z
 
 Users: 3997
 
@@ -12,9 +12,9 @@ Users: 3997
 | 4 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Syarah - TechWadi |  | Amman, Jordan | 10839 |
 | 5 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 9274 |
 | 6 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 9076 |
-| 7 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8545 |
-| 8 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 8318 |
-| 9 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
+| 7 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8677 |
+| 8 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8545 |
+| 9 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 8318 |
 | 10 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 7886 |
 | 11 | [aboudzein](https://github.com/aboudzein) | Zein | @calicoai | aboudzeineddin | Amman , Jordan | 7152 |
 | 12 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Axionic | Jaber_Said_ | Amman Jordan | 7128 |

@@ -22,7 +22,7 @@ Indexed users: 795
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,237 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,148 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,842 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,149 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,128 |
 | 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,965 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,851 |
 | 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,818 |
@@ -47,7 +47,7 @@ Indexed users: 795
 | 8 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,574 |
 | 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,415 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,335 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 961 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 959 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 631 |
 | 14 | [jamalxcode](https://github.com/jamalxcode) | jamal xcode | Kuwait | 579 |
@@ -83,4 +83,4 @@ Indexed users: 795
 | 19 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 20 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 
-Generated: 2026-10-23T07:10:04.023Z
+Generated: 2026-10-23T08:19:22.636Z

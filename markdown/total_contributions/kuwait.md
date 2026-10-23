@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-23T07:10:04.023Z
+Generated: 2026-10-23T08:19:22.636Z
 
 Users: 795
 
@@ -16,7 +16,7 @@ Users: 795
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5237 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5148 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4842 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4149 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4128 |
 | 12 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3965 |
 | 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3851 |
 | 14 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3818 |

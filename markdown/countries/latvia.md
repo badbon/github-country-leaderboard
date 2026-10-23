@@ -14,7 +14,7 @@ Indexed users: 3,246
 |---:|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 29,848 |
 | 2 | [saksofonists](https://github.com/saksofonists) | Toms Kusiņš | Latvia, Riga | 29,225 |
-| 3 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 22,250 |
+| 3 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 23,447 |
 | 4 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 21,968 |
 | 5 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 18,584 |
 | 6 | [Naurislv](https://github.com/Naurislv) | Nauris Dorbe | Riga, Latvia | 16,647 |
@@ -83,4 +83,4 @@ Indexed users: 3,246
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-23T07:10:15.072Z
+Generated: 2026-10-23T08:20:00.709Z

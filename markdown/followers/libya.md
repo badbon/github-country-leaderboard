@@ -1,6 +1,6 @@
 # Followers - Libya
 
-Generated: 2026-10-23T07:11:56.426Z
+Generated: 2026-10-23T08:20:20.953Z
 
 Users: 740
 
@@ -9,7 +9,7 @@ Users: 740
 | 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa |  | absholi7ly | Libya | 133 |
 | 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 123 |
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi |  | zakariasassi96 | Libya | 90 |
-| 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 87 |
+| 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 86 |
 | 5 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda |  |  | Benghazi, Libya | 85 |
 | 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb |  Namma Technology |  | Libya | 82 |
 | 7 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Freelancer |  | Tripoli, Libya | 77 |

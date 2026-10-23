@@ -1,6 +1,6 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-23T07:11:59.187Z
+Generated: 2026-10-23T08:21:03.358Z
 
 Users: 113
 
@@ -8,9 +8,9 @@ Users: 113
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 6080 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4696 |
-| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4543 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4537 |
 | 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 3037 |
-| 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2921 |
+| 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2920 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2817 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1850 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1703 |
@@ -25,4 +25,4 @@ Users: 113
 | 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 317 |
 | 18 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 313 |
 | 19 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 268 |
-| 20 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 171 |
+| 20 | [catbears](https://github.com/catbears) |  |  |  | Eschen, Liechtenstein | 166 |

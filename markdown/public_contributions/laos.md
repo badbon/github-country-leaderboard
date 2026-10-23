@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-23T07:10:11.204Z
+Generated: 2026-10-23T08:19:53.292Z
 
 Users: 360
 
@@ -13,7 +13,7 @@ Users: 360
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |
 | 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 413 |
 | 7 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Freelance | MaxonTorres | Vientiane, Laos | 390 |
-| 8 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 385 |
+| 8 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 384 |
 | 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 303 |
 | 10 | [KT246](https://github.com/KT246) | khamtay kongmanh |  |  | Vientiane, Laos | 259 |
 | 11 | [nirankoon](https://github.com/nirankoon) |  | GOKU Animation Studios |  | Vientiane | 174 |

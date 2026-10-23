@@ -1,6 +1,6 @@
 # Total Contributions - Eswatini
 
-Generated: 2026-10-23T06:57:07.925Z
+Generated: 2026-10-23T08:09:14.315Z
 
 Users: 108
 
@@ -8,7 +8,7 @@ Users: 108
 |---:|---|---|---|---|---|---:|
 | 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Flash Coded |  | Swaziland | 21429 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa |  |  | Eswatini, Southern Africa | 1841 |
-| 3 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 1122 |
+| 3 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 1131 |
 | 4 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | BRT Inc. |  | Manzini, Kingdom of Eswatini | 1008 |
 | 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Razonetix Eswatini |  | Eswatini | 647 |
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 438 |

@@ -13,7 +13,7 @@ Indexed users: 488
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 10,374 |
-| 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 9,255 |
+| 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 9,456 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,626 |
 | 4 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,561 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 7,690 |
@@ -66,14 +66,14 @@ Indexed users: 488
 | 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 249 |
 | 3 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 151 |
 | 4 | [AngeTia](https://github.com/AngeTia) | M. Gompou Tia Ange | Ivory Coast, Abidjan | 138 |
-| 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye | Ivory Coast | 137 |
+| 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye | Ivory Coast | 138 |
 | 6 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 116 |
 | 7 | [detygon](https://github.com/detygon) | Salomon Dion | Abidjan, Côte d'Ivoire | 92 |
 | 8 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 90 |
 | 9 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 79 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 73 |
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI | Ivory Coast | 69 |
-| 12 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 63 |
+| 12 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 64 |
 | 13 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 62 |
 | 14 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 60 |
 | 15 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 58 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 
-Generated: 2026-10-23T07:07:30.930Z
+Generated: 2026-10-23T08:16:55.967Z

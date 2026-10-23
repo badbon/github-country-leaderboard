@@ -65,7 +65,7 @@ Indexed users: 740
 | 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa | Libya | 133 |
 | 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 123 |
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 90 |
-| 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 87 |
+| 4 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 86 |
 | 5 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 85 |
 | 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 82 |
 | 7 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Tripoli, Libya | 77 |
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-23T07:11:56.426Z
+Generated: 2026-10-23T08:20:20.953Z

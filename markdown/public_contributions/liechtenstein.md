@@ -1,6 +1,6 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-23T07:11:59.187Z
+Generated: 2026-10-23T08:21:03.358Z
 
 Users: 113
 
@@ -12,7 +12,7 @@ Users: 113
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 760 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 681 |
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 590 |
-| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 517 |
+| 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 514 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 457 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 317 |
 | 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 288 |
@@ -23,6 +23,6 @@ Users: 113
 | 15 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 114 |
 | 16 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 102 |
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | NTi Audio AG |  | Liechtenstein | 99 |
-| 18 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 76 |
+| 18 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 73 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | VP Bank |  | Liechtenstein | 65 |
 | 20 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 46 |

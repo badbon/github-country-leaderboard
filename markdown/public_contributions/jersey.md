@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-23T07:07:39.299Z
+Generated: 2026-10-23T08:18:26.505Z
 
 Users: 139
 
@@ -11,7 +11,7 @@ Users: 139
 | 3 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 733 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 711 |
 | 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 564 |
-| 6 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 563 |
+| 6 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 560 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy |  |  | Jersey | 500 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 452 |
 | 9 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 409 |
@@ -24,5 +24,5 @@ Users: 139
 | 16 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 130 |
 | 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 119 |
 | 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 106 |
-| 19 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 102 |
+| 19 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 99 |
 | 20 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 97 |

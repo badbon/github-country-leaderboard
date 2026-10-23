@@ -1,6 +1,6 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-23T06:59:33.388Z
+Generated: 2026-10-23T08:11:30.514Z
 
 Users: 79
 
@@ -8,21 +8,21 @@ Users: 79
 |---:|---|---|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3780 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3244 |
-| 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1632 |
+| 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1638 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1354 |
 | 5 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | LBarrow | laminbarrow | Bakoteh, Gambia | 1345 |
-| 6 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane |  | alieundimz | Gambia | 1303 |
-| 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 840 |
+| 6 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane |  | alieundimz | Gambia | 1301 |
+| 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 830 |
 | 8 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 720 |
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | African Commission on Human and Peoples' Rights | MarieLoumar | Banjul, The Gambia | 651 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 642 |
-| 11 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 586 |
+| 11 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 579 |
 | 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 500 |
 | 13 | [Jordanlopez546](https://github.com/Jordanlopez546) | Jordan Nwabuike | Jordan In Tech |  | Gambia | 424 |
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 422 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 392 |
 | 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 263 |
 | 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 221 |
-| 18 | [fiture99](https://github.com/fiture99) | Lamin Jawneh |  | jawneh_lamin | Banjul, Gambia | 180 |
-| 19 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 169 |
+| 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 169 |
+| 19 | [fiture99](https://github.com/fiture99) | Lamin Jawneh |  | jawneh_lamin | Banjul, Gambia | 168 |
 | 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 148 |

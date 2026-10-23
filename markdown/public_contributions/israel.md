@@ -1,6 +1,6 @@
 # Public Contributions - Israel
 
-Generated: 2026-10-23T07:07:22.640Z
+Generated: 2026-10-23T08:16:42.120Z
 
 Users: 12416
 
