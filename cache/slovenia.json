@@ -8131,8 +8131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 789,
-    "publicContributions": 20,
+    "privateContributions": 672,
+    "publicContributions": 19,
     "createdAt": "2020-08-30T17:52:02Z"
   },
   {
@@ -8143,8 +8143,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 52,
-    "publicContributions": 10,
+    "privateContributions": 53,
+    "publicContributions": 7,
     "createdAt": "2020-05-26T16:28:52Z"
   },
   {
@@ -8180,7 +8180,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 49,
     "createdAt": "2020-10-07T16:51:41Z"
   },
   {
@@ -8191,8 +8191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1050,
-    "publicContributions": 2,
+    "privateContributions": 1013,
+    "publicContributions": 1,
     "createdAt": "2020-08-23T22:07:16Z"
   },
   {
@@ -8202,9 +8202,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 31,
-    "publicContributions": 87,
+    "followers": 5,
+    "privateContributions": 50,
+    "publicContributions": 62,
     "createdAt": "2020-10-24T16:21:10Z"
   },
   {
@@ -8234,13 +8234,13 @@
   {
     "login": "KilianTrunk",
     "name": "Kilian Trunk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75316208?s=72&u=a172f6a974d56933e9cd8bc7478a18ca16384b88&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75316208?s=72&u=b3a6ebed920fc95cce46b98df4b5027c5da872ad&v=4",
     "location": "Slovenia",
     "company": "Trunk Tech Solutions",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2315,
-    "publicContributions": 99,
+    "privateContributions": 2754,
+    "publicContributions": 96,
     "createdAt": "2020-12-01T13:07:30Z"
   },
   {
@@ -8263,8 +8263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2583,
-    "publicContributions": 12,
+    "privateContributions": 2718,
+    "publicContributions": 19,
     "createdAt": "2020-12-26T18:47:39Z"
   },
   {
@@ -8300,7 +8300,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 1,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-05-06T08:24:49Z"
   },
   {
@@ -8310,7 +8310,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-02T15:20:17Z"
@@ -8359,7 +8359,7 @@
     "company": "GEN-I",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 73,
+    "privateContributions": 69,
     "publicContributions": 52,
     "createdAt": "2020-08-13T16:49:47Z"
   },
