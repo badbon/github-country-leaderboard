@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-23T07:59:50.081Z
+Generated: 2026-10-23T12:56:19.578Z
 
 Users: 563
 
@@ -24,5 +24,5 @@ Users: 563
 | 16 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 236 |
 | 17 | [leviferre1ra](https://github.com/leviferre1ra) | Levi Ferreira Cunha |  |  | Praia Grande/SP | 217 |
 | 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | DevTrust Consulting Developing |  | Cabo Verde - Praia | 196 |
-| 19 | [Madbug1401](https://github.com/Madbug1401) | Nicolay Santos | FreeLancer | Buggzz_01 | Praia, Cabo Verde | 193 |
-| 20 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  |  |  Praia da Costa, Vila Velha - ES | 189 |
+| 19 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  |  |  Praia da Costa, Vila Velha - ES | 194 |
+| 20 | [Madbug1401](https://github.com/Madbug1401) | Nicolay Santos | FreeLancer | Buggzz_01 | Praia, Cabo Verde | 193 |

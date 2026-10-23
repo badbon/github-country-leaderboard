@@ -1,6 +1,6 @@
 # Public Contributions - Central African Republic
 
-Generated: 2026-10-23T08:00:23.602Z
+Generated: 2026-10-23T12:56:32.099Z
 
 Users: 11
 
@@ -12,7 +12,7 @@ Users: 11
 | 4 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | @ikoueorg  | YannOuafete | Bangui , CAR | 56 |
 | 5 | [tacopola](https://github.com/tacopola) | polaDev | Google |  | Bangui | 42 |
 | 6 | [hermanmandaba](https://github.com/hermanmandaba) | Hermann Mandaba | IKOUE |  | Bangui, Cenral African Republic | 23 |
-| 7 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry |  | Lecreatif01 | Centrafrique,Bangui | 20 |
+| 7 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry |  | Lecreatif01 | Centrafrique,Bangui | 21 |
 | 8 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel |  |  | Bangui, Central African Republic | 13 |
 | 9 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | OUBANGUI STAT CONSULTING |  | Bangui, République Centrafricaine | 11 |
 | 10 | [ikouecode](https://github.com/ikouecode) |  | IKOUĒ |  | Central African Republic | 3 |

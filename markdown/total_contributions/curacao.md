@@ -1,6 +1,6 @@
 # Total Contributions - Curaçao
 
-Generated: 2026-10-23T08:02:19.098Z
+Generated: 2026-10-23T12:59:14.632Z
 
 Users: 53
 
@@ -18,7 +18,7 @@ Users: 53
 | 10 | [emile2600](https://github.com/emile2600) | Emile |  |  | Willemstad, Curacao | 378 |
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
-| 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 91 |
+| 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 93 |
 | 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 88 |
 | 15 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar |  | iamjesco | Willemstad | 49 |
 | 16 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |

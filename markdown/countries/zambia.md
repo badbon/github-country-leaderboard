@@ -22,7 +22,7 @@ Indexed users: 1,336
 | 8 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 5,646 |
 | 9 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,444 |
 | 10 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 4,628 |
-| 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,289 |
+| 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,313 |
 | 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,281 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,919 |
 | 14 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,757 |
@@ -83,4 +83,4 @@ Indexed users: 1,336
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-23T07:48:40.501Z
+Generated: 2026-10-23T12:48:43.725Z

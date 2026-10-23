@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,023
+Indexed users: 4,022
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,023
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-23T07:53:01.143Z
+Generated: 2026-10-23T12:51:26.714Z

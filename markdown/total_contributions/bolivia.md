@@ -1,8 +1,8 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-23T07:57:03.492Z
+Generated: 2026-10-23T12:54:17.341Z
 
-Users: 1782
+Users: 1781
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

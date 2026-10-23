@@ -1,16 +1,16 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-23T07:50:25.201Z
+Generated: 2026-10-23T12:49:58.776Z
 
 Users: 215
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 50659 |
-| 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | @innki-tech @humani-studio |  | Andorra la Vella | 13261 |
+| 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | @innki-tech @humani-studio |  | Andorra la Vella | 13303 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi |  | amastronardi | Andorra | 10826 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 8922 |
-| 5 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 8610 |
+| 5 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 8605 |
 | 6 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8428 |
 | 7 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 6787 |
 | 8 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6285 |
@@ -23,6 +23,6 @@ Users: 215
 | 15 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | @Hulahoop-media |  | Andorra | 4241 |
 | 16 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3853 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3515 |
-| 18 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3509 |
+| 18 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3511 |
 | 19 | [FaZeTitans](https://github.com/FaZeTitans) | Axel DA SILVA | Supscale | fazetitans | Andorra | 3288 |
 | 20 | [GRKdev](https://github.com/GRKdev) | G.R.K. | IAND |  | Andorra | 3123 |

@@ -20,8 +20,8 @@ Indexed users: 20
 | 6 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 27 |
 | 7 | [Nazario95](https://github.com/Nazario95) | Nazario Muanbama | Malabo-EQ | 11 |
 | 8 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 11 |
-| 9 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
-| 10 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 4 |
+| 9 | [DanielNdong](https://github.com/DanielNdong) | Daniel Aquilino Ndong | Malabo, Guinea Ecuatorial | 5 |
+| 10 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 5 |
 | 11 | [clinton341](https://github.com/clinton341) | Clinton Ezeronye | Malabo, Equatorial Guinea | 1 |
 | 12 | [AkenatonBot](https://github.com/AkenatonBot) | AnjeseperuraAkenaton | Malabo, Guinea Ecuatorial | 0 |
 | 13 | [CaitlynBeryl](https://github.com/CaitlynBeryl) | Caitlyn Beryl  | Malabo, Equatorial Guinea | 0 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [sersobrenatural](https://github.com/sersobrenatural) | Santiago Gabriel Micha Ndong Obiang | Equatorial Guinea  | 1 |
 | 20 | [Soniangomo](https://github.com/Soniangomo) | Sonia NGOMO | MALABO- EQUATORIAL GUINEA | 1 |
 
-Generated: 2026-10-23T08:05:22.073Z
+Generated: 2026-10-23T13:00:49.858Z

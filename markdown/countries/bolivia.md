@@ -1,6 +1,6 @@
 # Bolivia
 
-Indexed users: 1,782
+Indexed users: 1,781
 
 | Leaderboard | Link |
 |---|---|
@@ -49,14 +49,14 @@ Indexed users: 1,782
 | 10 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,509 |
 | 11 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,415 |
 | 12 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,387 |
-| 13 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez | Bolivia | 1,245 |
-| 14 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,242 |
-| 15 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,231 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,214 |
-| 17 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,212 |
-| 18 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,184 |
-| 19 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,147 |
-| 20 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,096 |
+| 13 | [daniel2010001](https://github.com/daniel2010001) | Daniel Boris Limachi Cuiza | Bolivia | 1,295 |
+| 14 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez | Bolivia | 1,245 |
+| 15 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,242 |
+| 16 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño | Bolivia | 1,231 |
+| 17 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,214 |
+| 18 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,212 |
+| 19 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,184 |
+| 20 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,147 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,782
 | 19 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 | 20 | [mauforonda](https://github.com/mauforonda) | Mau Foronda | Bolivia | 119 |
 
-Generated: 2026-10-23T07:57:03.492Z
+Generated: 2026-10-23T12:54:17.341Z

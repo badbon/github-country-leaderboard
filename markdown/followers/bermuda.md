@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-23T07:56:09.024Z
+Generated: 2026-10-23T12:54:09.570Z
 
 Users: 897
 
@@ -25,4 +25,4 @@ Users: 897
 | 17 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 87 |
 | 18 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix |  |  | Hamilton, NZ | 85 |
-| 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | @dxos |  | Hamilton, ON | 67 |
+| 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Support Specialist at Harris Computer |  | Greater Hamilton(Burlington) Area | 67 |

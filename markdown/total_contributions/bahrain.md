@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-23T07:53:17.768Z
+Generated: 2026-10-23T12:52:33.626Z
 
 Users: 726
 
@@ -10,8 +10,8 @@ Users: 726
 | 2 | [a7md](https://github.com/a7md) | {ahmed} |  |  | Bahrain | 13261 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 10273 |
 | 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 7764 |
-| 5 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 6448 |
-| 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 6394 |
+| 5 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 6470 |
+| 6 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 6448 |
 | 7 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 6284 |
 | 8 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 5440 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 5236 |

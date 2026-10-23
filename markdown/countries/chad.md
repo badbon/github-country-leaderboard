@@ -12,7 +12,7 @@ Indexed users: 200
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,273 |
+| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,382 |
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,397 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 617 |
@@ -63,7 +63,7 @@ Indexed users: 200
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 205 |
-| 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 124 |
+| 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 123 |
 | 3 | [Kakaymi10](https://github.com/Kakaymi10) | Moussa | NDjamena, Chad | 60 |
 | 4 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 25 |
 | 5 | [malachieborohoul](https://github.com/malachieborohoul) | BOROHOUL Soguelni Malachie | Chad | 14 |
@@ -83,4 +83,4 @@ Indexed users: 200
 | 19 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 | 20 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 7 |
 
-Generated: 2026-10-23T08:00:26.568Z
+Generated: 2026-10-23T12:56:34.425Z

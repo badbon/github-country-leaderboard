@@ -18,7 +18,7 @@ Indexed users: 61
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,360 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,708 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 1,446 |
-| 7 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,334 |
+| 7 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,370 |
 | 8 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Åland, Finland | 1,249 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 1,022 |
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 917 |
@@ -30,8 +30,8 @@ Indexed users: 61
 | 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 214 |
 | 17 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 185 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 164 |
-| 19 | [BeornG](https://github.com/BeornG) | Björn Granholm | Mariehamn, Åland | 146 |
-| 20 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 146 |
+| 19 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 147 |
+| 20 | [BeornG](https://github.com/BeornG) | Björn Granholm | Mariehamn, Åland | 146 |
 
 ## Public Contributions
 
@@ -53,7 +53,7 @@ Indexed users: 61
 | 14 | [giAddams](https://github.com/giAddams) | Geraldine Addamo | Mariehamn | 78 |
 | 15 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Mariehamn | 72 |
 | 16 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 65 |
-| 17 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 50 |
+| 17 | [borsokman](https://github.com/borsokman) | Sagyn | Mariehamn & Stockholm  | 51 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 46 |
 | 19 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 46 |
 | 20 | [BeornG](https://github.com/BeornG) | Björn Granholm | Mariehamn, Åland | 11 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-23T07:50:07.818Z
+Generated: 2026-10-23T12:49:24.639Z
