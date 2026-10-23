@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-23T01:06:43.702Z
+Generated: 2026-10-23T06:15:20.183Z
 
 Users: 1745
 
@@ -24,5 +24,5 @@ Users: 1745
 | 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5313 |
 | 17 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | @labs42io | rvmdl | Chișinău | 5250 |
 | 18 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 5240 |
-| 19 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 5167 |
-| 20 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5117 |
+| 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 5195 |
+| 20 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 5167 |

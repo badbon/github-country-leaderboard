@@ -1,6 +1,6 @@
 # Malawi
 
-Indexed users: 900
+Indexed users: 899
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 132 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 
-Generated: 2026-10-23T01:03:01.649Z
+Generated: 2026-10-23T06:05:49.764Z

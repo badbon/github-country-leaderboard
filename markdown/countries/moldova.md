@@ -30,8 +30,8 @@ Indexed users: 1,745
 | 16 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,313 |
 | 17 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | Chișinău | 5,250 |
 | 18 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 5,240 |
-| 19 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Chisinau, Moldova | 5,167 |
-| 20 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,117 |
+| 19 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 5,195 |
+| 20 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Chisinau, Moldova | 5,167 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,745
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-23T01:06:43.702Z
+Generated: 2026-10-23T06:15:20.183Z

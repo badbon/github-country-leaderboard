@@ -13,10 +13,10 @@ Indexed users: 26
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | North Kingstown RI | 533 |
-| 2 | [blazetopher](https://github.com/blazetopher) | Christopher Mueller | North Kingstown, RI | 522 |
+| 2 | [blazetopher](https://github.com/blazetopher) | Christopher Mueller | North Kingstown, RI | 519 |
 | 3 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 369 |
 | 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 323 |
-| 5 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 302 |
+| 5 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 301 |
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 159 |
 | 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans | Saint Vincent and the Grenadines | 95 |
 | 8 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 24 |
@@ -38,7 +38,7 @@ Indexed users: 26
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [2Remus](https://github.com/2Remus) | human#23416 | Kingstown, Saint George, Saint Vincent and the Grenadines | 343 |
-| 2 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 100 |
+| 2 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 99 |
 | 3 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 37 |
 | 4 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 24 |
 | 5 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | North Kingstown RI | 9 |
@@ -83,4 +83,4 @@ Indexed users: 26
 | 19 | [95Tarek784](https://github.com/95Tarek784) | Tarek Ollivierre | Kingstown, Saint Vincent  & The Grenadines | 1 |
 | 20 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 1 |
 
-Generated: 2026-10-23T01:20:44.198Z
+Generated: 2026-10-23T06:19:25.608Z

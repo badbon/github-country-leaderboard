@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-23T01:03:38.114Z
+Generated: 2026-10-23T06:06:21.582Z
 
 Users: 1223
 
@@ -17,12 +17,12 @@ Users: 1223
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9511 |
 | 10 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 9119 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 9091 |
-| 12 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8517 |
+| 12 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 8926 |
 | 13 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7662 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7643 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7041 |
-| 16 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici |  |  | Malta | 6775 |
+| 16 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici |  |  | Malta | 6849 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6252 |
-| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5955 |
+| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5964 |
 | 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5827 |
 | 20 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Wildz Gorup |  | Malta | 5757 |

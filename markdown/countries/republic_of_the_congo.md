@@ -15,8 +15,8 @@ Indexed users: 297
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,930 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,818 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,132 |
-| 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,999 |
-| 5 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,825 |
+| 4 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 4,020 |
+| 5 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,999 |
 | 6 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,798 |
 | 7 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,772 |
 | 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 3,163 |
@@ -83,4 +83,4 @@ Indexed users: 297
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 26 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Congo | 23 |
 
-Generated: 2026-10-23T01:18:17.385Z
+Generated: 2026-10-23T06:16:25.445Z

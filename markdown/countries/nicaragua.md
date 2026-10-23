@@ -26,10 +26,10 @@ Indexed users: 1,395
 | 12 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,618 |
 | 13 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,207 |
 | 14 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,142 |
-| 15 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 4,034 |
-| 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,755 |
-| 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,723 |
-| 18 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández | León, Nicaragua | 3,555 |
+| 15 | [edgewl2](https://github.com/edgewl2) | Gerardo Hernández | León, Nicaragua | 4,069 |
+| 16 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 4,034 |
+| 17 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,755 |
+| 18 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,723 |
 | 19 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,476 |
 | 20 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,456 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-23T01:11:20.635Z
+Generated: 2026-10-23T06:11:07.892Z

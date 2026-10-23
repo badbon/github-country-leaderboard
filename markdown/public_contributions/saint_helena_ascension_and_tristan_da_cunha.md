@@ -1,12 +1,12 @@
 # Public Contributions - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-23T01:19:33.782Z
+Generated: 2026-10-23T06:17:45.248Z
 
 Users: 25
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 100 |
+| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | CArehart.org | carehart | Jamestown, KY | 99 |
 | 2 | [scottley](https://github.com/scottley) | Scott Simon | Garcilote LLC |  | Jamestown, MO | 41 |
 | 3 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz |  |  | Jamestown, North Dakota | 33 |
 | 4 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 12 |

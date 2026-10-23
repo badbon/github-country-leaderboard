@@ -23,13 +23,13 @@ Indexed users: 1,223
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,511 |
 | 10 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 9,119 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 9,091 |
-| 12 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,517 |
+| 12 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,926 |
 | 13 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,662 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,643 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,041 |
-| 16 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici | Malta | 6,775 |
+| 16 | [DarthTigerson](https://github.com/DarthTigerson) | Thomas Bonnici | Malta | 6,849 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
-| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,955 |
+| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,964 |
 | 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,827 |
 | 20 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Malta | 5,757 |
 
@@ -68,7 +68,7 @@ Indexed users: 1,223
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 524 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 475 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 441 |
-| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 378 |
+| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 381 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 258 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 245 |
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-23T01:03:38.114Z
+Generated: 2026-10-23T06:06:21.582Z

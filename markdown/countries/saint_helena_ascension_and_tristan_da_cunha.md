@@ -14,7 +14,7 @@ Indexed users: 25
 |---:|---|---|---|---:|
 | 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 1,465 |
 | 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 195 |
-| 3 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 121 |
+| 3 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 120 |
 | 4 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 67 |
 | 5 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 62 |
 | 6 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
@@ -37,7 +37,7 @@ Indexed users: 25
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 100 |
+| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 99 |
 | 2 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
 | 3 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 33 |
 | 4 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 12 |
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 1 |
 | 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 
-Generated: 2026-10-23T01:19:33.782Z
+Generated: 2026-10-23T06:17:45.248Z

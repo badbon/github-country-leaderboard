@@ -13,13 +13,13 @@ Indexed users: 291
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,766 |
-| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 9,310 |
+| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 9,467 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 7,224 |
 | 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,083 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,005 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
-| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,388 |
-| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,136 |
+| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,381 |
+| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,130 |
 | 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,763 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,379 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,346 |
@@ -42,7 +42,7 @@ Indexed users: 291
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,449 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,054 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
-| 6 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 691 |
+| 6 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 693 |
 | 7 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 682 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 523 |
 | 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 450 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-23T01:08:24.590Z
+Generated: 2026-10-23T06:08:47.722Z

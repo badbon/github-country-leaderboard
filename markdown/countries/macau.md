@@ -17,7 +17,7 @@ Indexed users: 438
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,193 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,525 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,386 |
-| 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,640 |
+| 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,672 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,620 |
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,397 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,350 |
@@ -37,7 +37,7 @@ Indexed users: 438
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,640 |
+| 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,672 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,352 |
 | 3 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 3,049 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 2,947 |
@@ -46,7 +46,7 @@ Indexed users: 438
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,336 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,284 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,281 |
-| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 965 |
+| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 969 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 798 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-23T01:02:14.001Z
+Generated: 2026-10-23T06:05:12.232Z

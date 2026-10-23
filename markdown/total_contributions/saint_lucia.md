@@ -1,17 +1,17 @@
 # Total Contributions - Saint Lucia
 
-Generated: 2026-10-23T01:20:36.491Z
+Generated: 2026-10-23T06:17:51.243Z
 
 Users: 35
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jigzstar](https://github.com/jigzstar) | Joakim George | Saint Lucia NIC |  | Castries, Saint Lucia | 4019 |
+| 1 | [jigzstar](https://github.com/jigzstar) | Joakim George | Saint Lucia NIC |  | Castries, Saint Lucia | 4020 |
 | 2 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 3987 |
 | 3 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 1988 |
-| 4 | [jarnickae](https://github.com/jarnickae) |  |  |  | Castries, Saint Lucia | 1837 |
+| 4 | [jarnickae](https://github.com/jarnickae) |  |  |  | Castries, Saint Lucia | 1838 |
 | 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | @ec-intl |  | Saint Lucia | 1048 |
-| 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 990 |
+| 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 983 |
 | 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 962 |
 | 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 842 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio |  | bxnes_97 | Saint Lucia | 389 |

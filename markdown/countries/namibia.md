@@ -54,7 +54,7 @@ Indexed users: 474
 | 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 275 |
 | 16 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 252 |
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
-| 18 | [yaasoniii](https://github.com/yaasoniii) | Jason | Windhoek, Namibia | 246 |
+| 18 | [yaasoniii](https://github.com/yaasoniii) | Jason | Windhoek, Namibia | 245 |
 | 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
 | 20 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 240 |
 
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-23T01:08:38.291Z
+Generated: 2026-10-23T06:09:51.672Z
