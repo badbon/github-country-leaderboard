@@ -44935,8 +44935,8 @@
     "company": "Medgate",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 828,
-    "publicContributions": 2,
+    "privateContributions": 1268,
+    "publicContributions": 1,
     "createdAt": "2021-06-01T11:47:44Z"
   },
   {
@@ -44960,7 +44960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 30,
     "createdAt": "2021-01-21T13:41:46Z"
   },
   {
@@ -44972,7 +44972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2021-01-29T21:22:14Z"
   },
   {
@@ -45007,8 +45007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 95,
-    "publicContributions": 743,
+    "privateContributions": 84,
+    "publicContributions": 702,
     "createdAt": "2021-05-07T06:40:34Z"
   },
   {
@@ -45030,7 +45030,7 @@
     "location": "Switzerland",
     "company": "@ziyon-fr",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2021-04-16T15:41:19Z"
@@ -45055,8 +45055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5996,
-    "publicContributions": 14,
+    "privateContributions": 9246,
+    "publicContributions": 18,
     "createdAt": "2021-03-19T11:07:51Z"
   },
   {
@@ -45068,7 +45068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2021-03-22T09:30:04Z"
   },
   {
@@ -45079,8 +45079,8 @@
     "company": "University of Zurich",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 400,
-    "publicContributions": 139,
+    "privateContributions": 209,
+    "publicContributions": 78,
     "createdAt": "2021-01-01T20:55:47Z"
   },
   {
@@ -45130,18 +45130,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-12T10:10:19Z"
-  },
-  {
-    "login": "dfient",
-    "name": "dfient",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83333847?s=72&u=2f17eac61c9afddb48753d27b13930f5e9384f9c&v=4",
-    "location": "switzerland",
-    "company": "dfient technologies",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-04-28T06:53:30Z"
   },
   {
     "login": "MMANALYSIS",
