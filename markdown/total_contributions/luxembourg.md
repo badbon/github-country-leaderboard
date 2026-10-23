@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-23T08:23:58.157Z
+Generated: 2026-10-23T13:21:21.480Z
 
 Users: 2190
 
@@ -17,8 +17,8 @@ Users: 2190
 | 9 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 12187 |
 | 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11546 |
 | 11 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 10747 |
-| 12 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9506 |
-| 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 9137 |
+| 12 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 9912 |
+| 13 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9506 |
 | 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula |  |  | Luxembourg | 8733 |
 | 15 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 8230 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6927 |

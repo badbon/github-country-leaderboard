@@ -23,8 +23,8 @@ Indexed users: 2,190
 | 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 12,187 |
 | 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,546 |
 | 11 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 10,747 |
-| 12 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,506 |
-| 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 9,137 |
+| 12 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 9,912 |
+| 13 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,506 |
 | 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 8,733 |
 | 15 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 8,230 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,927 |
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 191 |
 
-Generated: 2026-10-23T08:23:58.157Z
+Generated: 2026-10-23T13:21:21.480Z

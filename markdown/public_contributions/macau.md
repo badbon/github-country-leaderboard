@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-23T08:24:01.494Z
+Generated: 2026-10-23T13:21:27.029Z
 
 Users: 438
 
@@ -8,7 +8,7 @@ Users: 438
 |---:|---|---|---|---|---|---:|
 | 1 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5672 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 5352 |
-| 3 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 3049 |
+| 3 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 3186 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2947 |
 | 5 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 2853 |
 | 6 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2299 |
@@ -18,8 +18,8 @@ Users: 438
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 969 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 794 |
-| 13 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
-| 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 744 |
+| 13 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 761 |
+| 14 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 660 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 584 |

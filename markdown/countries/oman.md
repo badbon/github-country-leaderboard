@@ -49,7 +49,7 @@ Indexed users: 991
 | 10 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 2,147 |
 | 11 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 2,135 |
 | 12 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
-| 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 1,872 |
+| 13 | [miladsoft](https://github.com/miladsoft) | Milad Raeisi | Oman | 1,859 |
 | 14 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 99 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-23T08:32:47.590Z
+Generated: 2026-10-23T13:29:44.290Z

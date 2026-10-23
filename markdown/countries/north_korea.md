@@ -24,7 +24,7 @@ Indexed users: 185
 | 10 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 592 |
 | 11 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 574 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
-| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 508 |
+| 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 512 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 477 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 416 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 367 |
@@ -40,7 +40,7 @@ Indexed users: 185
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,310 |
 | 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 886 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 574 |
-| 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 508 |
+| 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 512 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 350 |
 | 6 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 229 |
 | 7 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 221 |
@@ -67,9 +67,9 @@ Indexed users: 185
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 67 |
 | 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 62 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC | Pyongyang, North Korea | 32 |
-| 6 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 32 |
-| 7 | [shiftre](https://github.com/shiftre) | Shift | Pyongyang | 31 |
-| 8 | [SleekZ](https://github.com/SleekZ) | SleekZ | Pyongyang | 31 |
+| 6 | [SleekZ](https://github.com/SleekZ) | SleekZ | Pyongyang | 32 |
+| 7 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 32 |
+| 8 | [shiftre](https://github.com/shiftre) | Shift | Pyongyang | 31 |
 | 9 | [brendan-lee](https://github.com/brendan-lee) | Brendan Lee | Pyongyang, North Korea | 29 |
 | 10 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 27 |
 | 11 | [T1med0ut](https://github.com/T1med0ut) | Timedout | North Korea | 27 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-23T08:32:00.851Z
+Generated: 2026-10-23T13:28:30.252Z

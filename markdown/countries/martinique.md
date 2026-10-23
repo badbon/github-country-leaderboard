@@ -15,7 +15,7 @@ Indexed users: 75
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,330 |
 | 2 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 5,261 |
 | 3 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,198 |
-| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,613 |
+| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,615 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,111 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,488 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,104 |
@@ -55,8 +55,8 @@ Indexed users: 75
 | 16 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED | Martinique  | 126 |
 | 17 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° | Martinique | 90 |
 | 18 | [aldofwi](https://github.com/aldofwi) | Dominique ALMANDIN | Martinique | 74 |
-| 19 | [TCox972](https://github.com/TCox972) | Jean-Jérôme | Martinique | 33 |
-| 20 | [anthony-nosibor](https://github.com/anthony-nosibor) | Anthony nosibor | Martinique | 24 |
+| 19 | [carl-vdcs](https://github.com/carl-vdcs) | Carl VD | Martinique, French | 41 |
+| 20 | [TCox972](https://github.com/TCox972) | Jean-Jérôme | Martinique | 33 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-23T08:26:43.869Z
+Generated: 2026-10-23T13:23:23.727Z

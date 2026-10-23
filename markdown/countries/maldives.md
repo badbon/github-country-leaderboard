@@ -12,16 +12,16 @@ Indexed users: 354
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,472 |
-| 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 10,902 |
+| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,518 |
+| 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 10,926 |
 | 3 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 8,988 |
 | 4 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,711 |
 | 5 | [lishaan](https://github.com/lishaan) |  | Malé, Maldives | 7,866 |
 | 6 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 7,737 |
 | 7 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 7,202 |
-| 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,077 |
-| 9 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,794 |
-| 10 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,779 |
+| 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 6,114 |
+| 9 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,803 |
+| 10 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,794 |
 | 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 5,686 |
 | 12 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 5,590 |
 | 13 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 5,366 |
@@ -40,7 +40,7 @@ Indexed users: 354
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,559 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,331 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,312 |
-| 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,307 |
+| 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,308 |
 | 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 1,238 |
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 985 |
 | 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 956 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 42 |
 | 20 | [inash](https://github.com/inash) | Inash Zubair | Male', Maldives | 41 |
 
-Generated: 2026-10-23T08:25:20.250Z
+Generated: 2026-10-23T13:22:29.388Z

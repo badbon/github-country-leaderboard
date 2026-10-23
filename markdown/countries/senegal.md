@@ -14,7 +14,7 @@ Indexed users: 1,354
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 13,265 |
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 13,105 |
-| 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 10,735 |
+| 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 11,003 |
 | 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 10,293 |
 | 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | Dakar, Senegal | 9,055 |
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 8,106 |
@@ -54,7 +54,7 @@ Indexed users: 1,354
 | 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,292 |
 | 16 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,245 |
 | 17 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,158 |
-| 18 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
+| 18 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,144 |
 | 19 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
 | 20 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,054 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,354
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 143 |
 
-Generated: 2026-10-23T08:38:40.505Z
+Generated: 2026-10-23T13:35:00.769Z

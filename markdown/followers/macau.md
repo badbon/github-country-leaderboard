@@ -1,6 +1,6 @@
 # Followers - Macau
 
-Generated: 2026-10-23T08:24:01.494Z
+Generated: 2026-10-23T13:21:27.029Z
 
 Users: 438
 
@@ -20,8 +20,8 @@ Users: 438
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak |  |  | Macao | 110 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 |  | mengguyi | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 100 |
-| 15 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | University of Macau |  | Macau | 93 |
-| 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Harvard University | laochonlam | Macau | 92 |
+| 15 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Harvard University | laochonlam | Macau | 94 |
+| 16 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | University of Macau |  | Macau | 93 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong |  |  | Macau | 83 |
 | 18 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 69 |
 | 19 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 68 |
