@@ -150,7 +150,7 @@ Published countries: 236
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,090 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,137 | [View](./new_zealand.md) |
+| New Zealand | 12,136 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
 | Nigeria | 33,171 | [View](./nigeria.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T20:21:28.495Z
+Generated: 2026-10-23T20:24:38.711Z
