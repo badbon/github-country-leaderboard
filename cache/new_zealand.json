@@ -45187,7 +45187,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 12,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2018-07-10T02:50:49Z"
   },
@@ -45198,9 +45198,9 @@
     "location": "Auckland, New Zealand",
     "company": "University of Auckland",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 21,
     "createdAt": "2018-01-17T12:43:29Z"
   },
   {
@@ -45212,7 +45212,7 @@
     "twitterUsername": "",
     "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 183,
     "createdAt": "2018-01-22T05:41:38Z"
   },
   {
@@ -45223,8 +45223,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 6,
-    "publicContributions": 49,
+    "privateContributions": 11,
+    "publicContributions": 25,
     "createdAt": "2018-09-06T10:37:28Z"
   },
   {
@@ -45234,22 +45234,10 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 32,
     "privateContributions": 12,
     "publicContributions": 1,
     "createdAt": "2018-12-12T11:45:13Z"
-  },
-  {
-    "login": "dchu096",
-    "name": "Daniel Chu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39256422?s=72&u=550c2b2a3f7f12fafbc12d22f6285c35aecb6a5b&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 27,
-    "publicContributions": 80,
-    "createdAt": "2018-05-14T06:17:57Z"
   },
   {
     "login": "ENCROES",
@@ -45258,8 +45246,8 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 1505,
+    "followers": 37,
+    "privateContributions": 2137,
     "publicContributions": 13,
     "createdAt": "2018-11-26T19:07:10Z"
   },
@@ -45270,7 +45258,7 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 28,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2018-03-20T03:36:24Z"
@@ -45296,7 +45284,7 @@
     "twitterUsername": "Professor_jonny",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 239,
+    "publicContributions": 127,
     "createdAt": "2018-01-10T11:58:32Z"
   },
   {
@@ -45314,13 +45302,13 @@
   {
     "login": "viktigpetterr",
     "name": "Viktor Pettersson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36230100?s=72&u=4c4cccd563aa4ee59c99fc43c004c7694e6ece38&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36230100?s=72&u=725cbc3e71f957a6a63ddd1afdf14412e4d61c5d&v=4",
     "location": "Auckland, New Zealand",
     "company": "Lightspeed",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 546,
-    "publicContributions": 2,
+    "privateContributions": 616,
+    "publicContributions": 0,
     "createdAt": "2018-02-07T11:53:44Z"
   },
   {
@@ -45331,7 +45319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 853,
+    "privateContributions": 600,
     "publicContributions": 12,
     "createdAt": "2018-07-15T02:43:26Z"
   },
@@ -45342,9 +45330,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 589,
-    "publicContributions": 34,
+    "followers": 28,
+    "privateContributions": 488,
+    "publicContributions": 18,
     "createdAt": "2018-10-01T21:29:30Z"
   },
   {
@@ -45354,9 +45342,9 @@
     "location": "Wellington, New Zealand",
     "company": "Victoria university of Wellington",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 89,
     "createdAt": "2018-07-13T01:54:24Z"
   },
   {
@@ -45366,8 +45354,8 @@
     "location": "New Zealand",
     "company": "Authsignal",
     "twitterUsername": "hinocale",
-    "followers": 26,
-    "privateContributions": 813,
+    "followers": 24,
+    "privateContributions": 1635,
     "publicContributions": 8,
     "createdAt": "2018-11-23T01:10:26Z"
   },
@@ -45378,9 +45366,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 901,
-    "publicContributions": 88,
+    "followers": 30,
+    "privateContributions": 713,
+    "publicContributions": 78,
     "createdAt": "2018-09-26T19:58:55Z"
   },
   {
@@ -45390,9 +45378,9 @@
     "location": "Auckland, New Zealand",
     "company": "@t3i-tahi-bss",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 641,
-    "publicContributions": 331,
+    "followers": 27,
+    "privateContributions": 521,
+    "publicContributions": 162,
     "createdAt": "2018-07-21T03:26:37Z"
   },
   {
@@ -45402,9 +45390,9 @@
     "location": "New Zealand",
     "company": "@silverstripe",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 2179,
+    "publicContributions": 1659,
     "createdAt": "2018-02-11T03:46:46Z"
   },
   {
@@ -45414,8 +45402,8 @@
     "location": "Auckland, New Zealand",
     "company": "The University of Auckland",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 74,
+    "followers": 23,
+    "privateContributions": 47,
     "publicContributions": 17,
     "createdAt": "2018-02-15T11:45:40Z"
   },

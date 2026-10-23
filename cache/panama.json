@@ -4728,18 +4728,6 @@
     "createdAt": "2020-03-30T18:50:36Z"
   },
   {
-    "login": "joseantonioamaya",
-    "name": "Jose Amaya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68615071?s=72&u=29b84e4eae1ff2fa78455c8da4d66946c31b33f7&v=4",
-    "location": "Panama",
-    "company": "@pitbullsoft",
-    "twitterUsername": "syntaxter",
-    "followers": 2,
-    "privateContributions": 2122,
-    "publicContributions": 3,
-    "createdAt": "2020-07-21T19:55:39Z"
-  },
-  {
     "login": "razielnavarro",
     "name": "Raziel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75914116?s=72&u=1e2055ad8dc034457f9673aec02a21072f85cece&v=4",
@@ -4747,7 +4735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3837,
+    "privateContributions": 3846,
     "publicContributions": 12,
     "createdAt": "2020-12-12T22:03:00Z"
   },
