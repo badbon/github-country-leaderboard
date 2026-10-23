@@ -1,23 +1,23 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-23T14:13:34.998Z
+Generated: 2026-10-23T18:40:38.102Z
 
 Users: 86
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6250 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6252 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Freelance | DarmaJoachim | Guadeloupe | 3344 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2372 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2383 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 1690 |
-| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1627 |
-| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1474 |
+| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1628 |
+| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1480 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1396 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 989 |
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 969 |
 | 10 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 946 |
 | 11 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 755 |
-| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 707 |
+| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 714 |
 | 13 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 658 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 230 |
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 203 |

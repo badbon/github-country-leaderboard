@@ -1,17 +1,17 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-23T14:13:05.004Z
+Generated: 2026-10-23T18:39:46.370Z
 
 Users: 58
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 1997 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 2002 |
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1356 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 903 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj |  |  | Nuuk, Greenland | 692 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Tongji University |  | Greenland | 536 |
-| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 275 |
+| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 295 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland Business School |  | Greenland | 237 |
 | 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi |  |  | Greenland | 224 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes |  |  | Grønland, Oslo, Norge | 172 |

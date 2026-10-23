@@ -16,7 +16,7 @@ Indexed users: 488
 | 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 9,456 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,626 |
 | 4 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,561 |
-| 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 7,690 |
+| 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 8,146 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 6,738 |
 | 7 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 6,263 |
 | 8 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 6,240 |
@@ -25,7 +25,7 @@ Indexed users: 488
 | 11 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,262 |
 | 12 | [Chris000888](https://github.com/Chris000888) | Christopher DATO | Abidjan, Côte d'Ivoire | 5,088 |
 | 13 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 4,690 |
-| 14 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,597 |
+| 14 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,638 |
 | 15 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 4,371 |
 | 16 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev | Côte d'ivoire, Abidjan | 4,242 |
 | 17 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 4,183 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 
-Generated: 2026-10-23T14:19:14.071Z
+Generated: 2026-10-23T18:47:31.636Z

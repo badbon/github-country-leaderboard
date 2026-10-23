@@ -1,15 +1,15 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-23T14:12:47.505Z
+Generated: 2026-10-23T18:39:23.164Z
 
 Users: 79
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3783 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3244 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3249 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1638 |
-| 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1354 |
+| 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1363 |
 | 5 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | LBarrow | laminbarrow | Bakoteh, Gambia | 1345 |
 | 6 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane |  | alieundimz | Gambia | 1301 |
 | 7 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 830 |
@@ -18,7 +18,7 @@ Users: 79
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 642 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 579 |
 | 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 501 |
-| 13 | [Jordanlopez546](https://github.com/Jordanlopez546) | Jordan Nwabuike | Jordan In Tech |  | Gambia | 424 |
+| 13 | [Jordanlopez546](https://github.com/Jordanlopez546) | Jordan Nwabuike | Jordan In Tech |  | Gambia | 429 |
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 422 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 392 |
 | 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 263 |

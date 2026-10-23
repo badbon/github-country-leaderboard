@@ -76,11 +76,11 @@ Indexed users: 19,484
 | 12 | [witnessmenow](https://github.com/witnessmenow) | Brian Lough | Ireland | 1,325 |
 | 13 | [mhausenblas](https://github.com/mhausenblas) | Michael Hausenblas | Galway, Ireland | 1,321 |
 | 14 | [snrazavi](https://github.com/snrazavi) | Seyed Naser RAZAVI | Siemens, Dublin, Ireland | 1,279 |
-| 15 | [Hstkj23](https://github.com/Hstkj23) | Hase | Dublin | 1,266 |
+| 15 | [Hstkj23](https://github.com/Hstkj23) | Hase | Dublin | 1,265 |
 | 16 | [filipesilva](https://github.com/filipesilva) | Filipe Silva | Dublin, Ireland | 1,156 |
 | 17 | [stephenfewer](https://github.com/stephenfewer) | Stephen Fewer | Ireland | 1,126 |
 | 18 | [SergioChan](https://github.com/SergioChan) | Sergio | Dublin, CA | 1,095 |
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-23T14:17:50.295Z
+Generated: 2026-10-23T18:45:55.127Z

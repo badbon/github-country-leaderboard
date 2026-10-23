@@ -1,6 +1,6 @@
 # Iraq
 
-Indexed users: 2,230
+Indexed users: 2,229
 
 | Leaderboard | Link |
 |---|---|
@@ -21,7 +21,7 @@ Indexed users: 2,230
 | 7 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 8,938 |
 | 8 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 8,822 |
 | 9 | [laith43d](https://github.com/laith43d) | Layth Zahid | Baghdad | 8,032 |
-| 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Iraq | 7,950 |
+| 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Iraq | 7,937 |
 | 11 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,997 |
 | 12 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | Baghdad, Iraq | 6,990 |
 | 13 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 6,926 |
@@ -46,17 +46,17 @@ Indexed users: 2,230
 | 7 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 1,637 |
 | 8 | [mahmoodbashar08](https://github.com/mahmoodbashar08) | mahmood | iraq | 1,349 |
 | 9 | [Redo-San](https://github.com/Redo-San) | RedoSan | Iraq, Baghdad  | 1,232 |
-| 10 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Erbil, Iraq | 920 |
-| 11 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 914 |
-| 12 | [abdulazizacc](https://github.com/abdulazizacc) | Abdulaziz | Iraq  | 878 |
-| 13 | [itzHTH](https://github.com/itzHTH) | Huthaifa Mohammed | iraq | 875 |
-| 14 | [amoree-code](https://github.com/amoree-code) | Ameer Abdulkareem Lami | Iraq | 865 |
-| 15 | [3h0ll7](https://github.com/3h0ll7) | Hassan Salman | Iraq | 842 |
-| 16 | [specOper99](https://github.com/specOper99) | Mohammed Nawfal | Mosul, Iraq | 816 |
-| 17 | [hamagold](https://github.com/hamagold) | HamaGold | iraq/kurdistan/Erbil | 793 |
-| 18 | [Hussain7Abbas](https://github.com/Hussain7Abbas) | Hussain Abbas | Iraq - Baghdad | 738 |
-| 19 | [Riyam224](https://github.com/Riyam224) | Riyam Hazim | baghdad | 727 |
-| 20 | [haydercyber](https://github.com/haydercyber) | Haider Raed | Iraq, Baghdad | 721 |
+| 10 | [haydercyber](https://github.com/haydercyber) | Haider Raed | Iraq, Baghdad | 965 |
+| 11 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Erbil, Iraq | 920 |
+| 12 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 914 |
+| 13 | [Hussain7Abbas](https://github.com/Hussain7Abbas) | Hussain Abbas | Iraq - Baghdad | 895 |
+| 14 | [abdulazizacc](https://github.com/abdulazizacc) | Abdulaziz | Iraq  | 878 |
+| 15 | [itzHTH](https://github.com/itzHTH) | Huthaifa Mohammed | iraq | 875 |
+| 16 | [amoree-code](https://github.com/amoree-code) | Ameer Abdulkareem Lami | Iraq | 865 |
+| 17 | [3h0ll7](https://github.com/3h0ll7) | Hassan Salman | Iraq | 842 |
+| 18 | [specOper99](https://github.com/specOper99) | Mohammed Nawfal | Mosul, Iraq | 816 |
+| 19 | [hamagold](https://github.com/hamagold) | HamaGold | iraq/kurdistan/Erbil | 793 |
+| 20 | [Riyam224](https://github.com/Riyam224) | Riyam Hazim | baghdad | 727 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,230
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-23T14:17:07.010Z
+Generated: 2026-10-23T18:45:48.991Z

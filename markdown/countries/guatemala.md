@@ -66,7 +66,7 @@ Indexed users: 3,210
 | 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Guatemala | 332 |
 | 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez | Guatemala | 305 |
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco | Guatemala | 299 |
-| 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Guatemala | 280 |
+| 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Guatemala | 278 |
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Guatemala | 217 |
 | 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | Guatemala | 214 |
 | 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay | Guatemala | 186 |
@@ -74,13 +74,13 @@ Indexed users: 3,210
 | 10 | [luisespino](https://github.com/luisespino) | Luis Espino | Guatemala | 170 |
 | 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph | Guatemala | 165 |
 | 12 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro | Guatemala | 160 |
-| 13 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Guatemala | 160 |
+| 13 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Guatemala | 159 |
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | Guatemala | 137 |
 | 15 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Guatemala | 125 |
 | 16 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Guatemala | 123 |
-| 17 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop | Guatemala | 122 |
+| 17 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop | Guatemala | 121 |
 | 18 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-23T14:13:42.382Z
+Generated: 2026-10-23T18:41:49.966Z

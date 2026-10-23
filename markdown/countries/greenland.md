@@ -12,8 +12,8 @@ Indexed users: 58
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,952 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,830 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,958 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,868 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,356 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,260 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 903 |
@@ -28,8 +28,8 @@ Indexed users: 58
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 125 |
 | 15 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
 | 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 83 |
-| 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
-| 18 | [rokarolla](https://github.com/rokarolla) | Andrey E. | Station Nord, Greenland | 65 |
+| 17 | [rokarolla](https://github.com/rokarolla) | Andrey E. | Station Nord, Greenland | 69 |
+| 18 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
 | 19 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 41 |
 | 20 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 39 |
 
@@ -37,12 +37,12 @@ Indexed users: 58
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,997 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 2,002 |
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,356 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 903 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 692 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 536 |
-| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 275 |
+| 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 295 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
 | 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 224 |
 | 9 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 172 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-23T14:13:05.004Z
+Generated: 2026-10-23T18:39:46.370Z

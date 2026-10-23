@@ -1,6 +1,6 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-23T14:13:43.515Z
+Generated: 2026-10-23T18:41:58.959Z
 
 Users: 45
 
@@ -15,7 +15,7 @@ Users: 45
 | 7 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
 | 8 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
 | 9 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |
-| 10 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |
+| 10 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 9 |
 | 11 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 7 |
 | 12 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |
 | 13 | [TINZ](https://github.com/TINZ) | Paul Tinsley |  |  | Guernsey | 3 |

@@ -1,8 +1,8 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-23T14:17:07.010Z
+Generated: 2026-10-23T18:45:48.991Z
 
-Users: 2230
+Users: 2229
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 2230
 | 7 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 8938 |
 | 8 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Capsula | MujtabaFR | Iraq, Najaf | 8822 |
 | 9 | [laith43d](https://github.com/laith43d) | Layth Zahid | Twoabstracts |  | Baghdad | 8032 |
-| 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Al-jad |  | Iraq | 7950 |
+| 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Al-jad |  | Iraq | 7937 |
 | 11 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6997 |
 | 12 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | ZainCash |  | Baghdad, Iraq | 6990 |
 | 13 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 6926 |

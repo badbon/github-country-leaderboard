@@ -16,10 +16,10 @@ Indexed users: 93
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,641 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,221 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,278 |
-| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,079 |
-| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,391 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,140 |
+| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,392 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,278 |
-| 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,201 |
+| 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,229 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 783 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
 | 11 | [ronanmathew](https://github.com/ronanmathew) | Ronan Spoor | Gibraltar | 637 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-23T14:12:58.575Z
+Generated: 2026-10-23T18:39:37.273Z
