@@ -47024,7 +47024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-08-20T10:27:36Z"
   },
   {
@@ -47084,7 +47084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 92,
     "createdAt": "2024-07-24T21:29:24Z"
   },
   {
@@ -47107,8 +47107,8 @@
     "company": "Doowins",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 27,
+    "privateContributions": 4,
+    "publicContributions": 15,
     "createdAt": "2024-07-10T11:03:44Z"
   },
   {
@@ -47156,7 +47156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-08-04T20:56:41Z"
   },
   {
@@ -47168,7 +47168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 1,
     "createdAt": "2024-09-21T07:54:35Z"
   },
   {
@@ -47180,20 +47180,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 113,
     "createdAt": "2024-07-16T16:12:15Z"
-  },
-  {
-    "login": "Mercy-dev-web",
-    "name": "Mercy Gift Ijegbai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178929352?s=72&u=58e190397bbcb6da1d845ddb59a3f5696f1720bb&v=4",
-    "location": "Ibadan, Oyo State, Nigeria.",
-    "company": "Quickteller ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2024-08-20T16:47:29Z"
   },
   {
     "login": "marveldistinct",
@@ -47238,7 +47226,7 @@
     "location": "Lagos State, Nigeria",
     "company": "Mayami Foundations",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-03T14:17:15Z"
