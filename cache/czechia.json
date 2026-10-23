@@ -46420,11 +46420,11 @@
     "name": "Matej Matuška",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75834032?s=72&v=4",
     "location": "Czech Republic",
-    "company": "Red Hat",
+    "company": "@RedHatOfficial",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 258,
+    "publicContributions": 200,
     "createdAt": "2020-12-11T09:10:41Z"
   },
   {
@@ -46432,21 +46432,21 @@
     "name": "Ali Al-Sorehi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73449239?s=72&u=869bd645b7b11c5f5d2779386b2d170abf1dfea7&v=4",
     "location": "Brno, Czech Republic",
-    "company": "Red Hat & CRoCS",
+    "company": "@RedHatResearch @crocs-muni",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 308,
-    "publicContributions": 345,
+    "followers": 6,
+    "privateContributions": 53,
+    "publicContributions": 1117,
     "createdAt": "2020-10-26T00:00:46Z"
   },
   {
     "login": "KrisWav",
-    "name": "Kryštof Záhumenský",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59873108?s=72&u=55e45d86465ca55c5ae1f6d6712a47f9c417fd13&v=4",
+    "name": "Kristi Záhumenská",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59873108?s=72&u=511cfaec60b48727d9b7a1fc862ce889ee17b755&v=4",
     "location": "Prague, Czech Republic",
     "company": "Logmanager a.s.",
-    "twitterUsername": "krystofza",
-    "followers": 5,
+    "twitterUsername": "",
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-14T12:16:12Z"
@@ -46455,12 +46455,12 @@
     "login": "Iskamele",
     "name": "Oleksandr Novikov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74711003?s=72&u=ea7e4518634b2caae2ce176c7bfd74805572c8e5&v=4",
-    "location": "Prague, Czech Republic",
-    "company": "@igluu-cz",
+    "location": "Brno, Czech Republic",
+    "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 569,
-    "publicContributions": 25,
+    "followers": 6,
+    "privateContributions": 869,
+    "publicContributions": 66,
     "createdAt": "2020-11-19T10:22:15Z"
   },
   {
@@ -46470,7 +46470,7 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-02T23:30:19Z"
@@ -46483,7 +46483,7 @@
     "company": "",
     "twitterUsername": "DavidHuljak",
     "followers": 5,
-    "privateContributions": 53,
+    "privateContributions": 58,
     "publicContributions": 9,
     "createdAt": "2020-04-19T20:22:56Z"
   },
@@ -46496,7 +46496,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 286,
+    "publicContributions": 223,
     "createdAt": "2020-06-28T13:44:57Z"
   },
   {
@@ -46506,21 +46506,21 @@
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 54,
-    "publicContributions": 64,
+    "followers": 6,
+    "privateContributions": 57,
+    "publicContributions": 60,
     "createdAt": "2020-05-13T12:49:38Z"
   },
   {
     "login": "daniel-kindl",
     "name": "Daniel Kindl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74905817?s=72&u=045d314689e532e21cd548bf03ff65765d95788b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74905817?s=72&u=51b205d3b1e1727045aa2e36d2e6c8b1eaa78114&v=4",
     "location": "Czech Republic",
     "company": "",
-    "twitterUsername": "danielkindldev",
-    "followers": 5,
+    "twitterUsername": "",
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 593,
+    "publicContributions": 1458,
     "createdAt": "2020-11-23T10:39:59Z"
   },
   {
@@ -46532,7 +46532,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2020-08-01T09:32:43Z"
   },
   {
@@ -46563,12 +46563,12 @@
     "login": "MatejVykoukal",
     "name": "Matej Vykoukal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61636415?s=72&u=c5800d6d0002e9903f7658ce0082be5f436a0b52&v=4",
-    "location": "Prague, Czech Republic",
-    "company": "BudgetBakers",
+    "location": "Brno, Czech Republic",
+    "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "privateContributions": 88,
+    "publicContributions": 7,
     "createdAt": "2020-02-29T21:43:59Z"
   },
   {
@@ -46591,7 +46591,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 324,
     "publicContributions": 2,
     "createdAt": "2020-03-08T02:02:18Z"
   },
@@ -46604,7 +46604,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-06-01T13:00:03Z"
   },
   {
@@ -46640,7 +46640,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 947,
+    "publicContributions": 608,
     "createdAt": "2020-09-05T16:00:44Z"
   },
   {
@@ -46652,7 +46652,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 369,
     "createdAt": "2020-05-13T09:15:17Z"
   },
   {

@@ -46664,7 +46664,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 48,
     "createdAt": "2018-04-01T16:22:18Z"
   },
   {
@@ -46676,7 +46676,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 47,
     "createdAt": "2018-11-18T12:14:08Z"
   },
   {
@@ -46698,22 +46698,10 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-10-18T19:22:05Z"
-  },
-  {
-    "login": "jabahere",
-    "name": "Jaba K",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43106084?s=72&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 323,
-    "publicContributions": 17,
-    "createdAt": "2018-09-09T06:23:32Z"
   },
   {
     "login": "Bn1knb",
@@ -46747,20 +46735,20 @@
     "company": "",
     "twitterUsername": "berekashvili_",
     "followers": 5,
-    "privateContributions": 260,
+    "privateContributions": 273,
     "publicContributions": 0,
     "createdAt": "2018-10-27T19:14:27Z"
   },
   {
     "login": "zadykian",
-    "name": "Sasha Zadykian",
+    "name": "Aleksandr Zadykian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/42942521?s=72&u=8090e49ab3e946a220473d8d1696dbfb0fd5929e&v=4",
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1443,
-    "publicContributions": 5,
+    "privateContributions": 2289,
+    "publicContributions": 638,
     "createdAt": "2018-09-03T15:57:52Z"
   },
   {
@@ -46783,8 +46771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 104,
-    "publicContributions": 51,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2018-11-13T14:00:40Z"
   },
   {
@@ -46800,18 +46788,6 @@
     "createdAt": "2018-09-08T23:13:24Z"
   },
   {
-    "login": "Maksim-Lipenka",
-    "name": "Maksim Lipenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43496357?s=72&v=4",
-    "location": "Batumi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 8,
-    "publicContributions": 1,
-    "createdAt": "2018-09-22T12:49:17Z"
-  },
-  {
     "login": "lashapetriashvili",
     "name": "Lasha Petriashvili",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37162487?s=72&u=3d5e8b77772e548f40e1c92de29a7e5e8992ea32&v=4",
@@ -46819,8 +46795,8 @@
     "company": "@unidock",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3536,
-    "publicContributions": 18,
+    "privateContributions": 4161,
+    "publicContributions": 2,
     "createdAt": "2018-03-08T00:10:36Z"
   },
   {
@@ -46832,7 +46808,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2018-06-15T15:21:54Z"
   },
   {
@@ -46842,7 +46818,7 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-29T22:57:33Z"
@@ -46856,18 +46832,18 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 17,
     "createdAt": "2018-12-08T13:00:59Z"
   },
   {
     "login": "himark-dev",
     "name": "Mark",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38818961?s=72&u=db7b3491b4f9aa23d3943041407b2b9ef12d0c94&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38818961?s=72&u=013525c38972aa20897e6ed73219f68cc5d1cf8b&v=4",
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 183,
+    "privateContributions": 270,
     "publicContributions": 28,
     "createdAt": "2018-04-28T20:19:01Z"
   },

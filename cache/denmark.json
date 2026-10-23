@@ -46578,7 +46578,7 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2020-07-26T11:39:16Z"
@@ -46603,7 +46603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 89,
+    "privateContributions": 88,
     "publicContributions": 0,
     "createdAt": "2020-05-04T14:28:52Z"
   },
@@ -46626,9 +46626,9 @@
     "location": "Aarhus, Denmark",
     "company": "Aarhus University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 165,
     "createdAt": "2020-05-04T08:44:35Z"
   },
   {
@@ -46639,7 +46639,7 @@
     "company": "@peakon ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 105,
+    "privateContributions": 131,
     "publicContributions": 0,
     "createdAt": "2020-07-07T10:24:49Z"
   },
@@ -46651,8 +46651,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4,
-    "publicContributions": 47,
+    "privateContributions": 2,
+    "publicContributions": 42,
     "createdAt": "2020-09-22T15:21:40Z"
   },
   {
@@ -46664,7 +46664,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 78,
     "createdAt": "2020-10-01T12:40:45Z"
   },
   {
@@ -46723,21 +46723,9 @@
     "company": "AirPlate",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1787,
-    "publicContributions": 1161,
+    "privateContributions": 4024,
+    "publicContributions": 1099,
     "createdAt": "2020-02-18T16:52:49Z"
-  },
-  {
-    "login": "FullstackDevAdam",
-    "name": "Adam V Repenning",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62246948?s=72&u=a16104533c33d4aa77e037126d96f1f449a8a0e4&v=4",
-    "location": "Denmark",
-    "company": "MeridianGMT",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-16T12:51:35Z"
   },
   {
     "login": "MrLeafStick",
@@ -46746,7 +46734,7 @@
     "location": "Denmark",
     "company": "Aarhus TECH",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2020-06-30T19:55:25Z"
@@ -46794,9 +46782,9 @@
     "location": "Denmark, Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 292,
+    "publicContributions": 148,
     "createdAt": "2020-06-17T19:59:22Z"
   },
   {
