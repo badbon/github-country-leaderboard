@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 796
+Indexed users: 795
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 20 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 
-Generated: 2026-10-24T17:07:48.994Z
+Generated: 2026-10-24T18:19:14.697Z

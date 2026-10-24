@@ -13,7 +13,7 @@ Indexed users: 113
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 6,475 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,754 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,763 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,567 |
 | 4 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 3,050 |
 | 5 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,920 |
@@ -23,7 +23,7 @@ Indexed users: 113
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,218 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 778 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 760 |
-| 12 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 489 |
+| 12 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 490 |
 | 13 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 477 |
 | 14 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 461 |
 | 15 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron | Vaduz | 13 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-24T17:10:00.741Z
+Generated: 2026-10-24T18:22:50.093Z

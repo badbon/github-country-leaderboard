@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,245
+Indexed users: 3,244
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,245
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-24T17:08:37.125Z
+Generated: 2026-10-24T18:20:52.164Z
