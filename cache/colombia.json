@@ -48176,7 +48176,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2023-04-03T01:20:49Z"
   },
   {
@@ -48188,7 +48188,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 35,
     "createdAt": "2023-06-07T15:05:55Z"
   },
   {
@@ -48198,9 +48198,9 @@
     "location": "Cali, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 34,
-    "publicContributions": 56,
+    "followers": 4,
+    "privateContributions": 43,
+    "publicContributions": 46,
     "createdAt": "2023-05-15T23:14:27Z"
   },
   {
@@ -48212,7 +48212,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 29,
     "createdAt": "2023-04-23T18:07:30Z"
   },
   {
@@ -48220,11 +48220,11 @@
     "name": "Oscar Monsalve",
     "avatarUrl": "https://avatars.githubusercontent.com/u/137033070?s=72&u=356b75d55c41cf87b98262a0780a2f89bd70c8cf&v=4",
     "location": "Medellín, Colombia",
-    "company": "",
+    "company": "ITM University Institution",
     "twitterUsername": "OscarM0nsalve",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 430,
+    "publicContributions": 506,
     "createdAt": "2023-06-19T05:39:56Z"
   },
   {
@@ -48234,7 +48234,7 @@
     "location": "Colombia",
     "company": "Leo Burnett",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-04-10T18:34:28Z"
@@ -48246,7 +48246,7 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2023-06-01T05:29:26Z"
@@ -48272,7 +48272,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 492,
     "createdAt": "2023-06-10T14:21:26Z"
   },
   {
@@ -48282,9 +48282,9 @@
     "location": "Building software with ♥ from Bogota (Colombia) to the world.",
     "company": "@Freelancer for a while ♥.",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "followers": 2,
+    "privateContributions": 3,
+    "publicContributions": 13,
     "createdAt": "2023-06-27T15:51:07Z"
   },
   {
@@ -48295,8 +48295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 28,
-    "publicContributions": 5,
+    "privateContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2023-06-26T09:48:22Z"
   },
   {
@@ -48320,7 +48320,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 65,
     "createdAt": "2023-05-31T02:27:13Z"
   },
   {
@@ -48356,7 +48356,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2023-04-10T13:52:16Z"
   },
   {
@@ -48366,9 +48366,9 @@
     "location": "Bogotá, Colombia",
     "company": "ECI",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 427,
     "createdAt": "2023-06-21T22:45:43Z"
   },
   {
@@ -48392,7 +48392,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 469,
+    "publicContributions": 792,
     "createdAt": "2023-04-04T22:23:09Z"
   },
   {
@@ -349726,5 +349726,29 @@
     "privateContributions": 248,
     "publicContributions": 59,
     "createdAt": "2018-07-19T15:06:34Z"
+  },
+  {
+    "login": "Kaori-Sensei",
+    "name": "Luis Alberto Castillo Sanabria",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299369053?s=72&u=e86ad4ee138b7151a8acd2e66be126624c867249&v=4",
+    "location": "Bogotá, Colombia",
+    "company": "Universidad Nacional de Colombia -Sede Bogotá",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-07-03T03:55:07Z"
+  },
+  {
+    "login": "HaroldHoffmann",
+    "name": "Elvia Galindo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299427953?s=72&v=4",
+    "location": "Colombia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-07-03T07:37:50Z"
   }
 ]

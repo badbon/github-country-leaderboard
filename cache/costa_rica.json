@@ -48864,25 +48864,13 @@
     "createdAt": "2015-06-23T22:30:40Z"
   },
   {
-    "login": "alvarole",
-    "name": "Alvaro López-Espinoza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13154718?s=72&u=0256b254a8c79e997055644dbeb98db8d1f41674&v=4",
-    "location": "Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-07-02T17:23:42Z"
-  },
-  {
     "login": "ChristianVT20",
     "name": "Christian",
     "avatarUrl": "https://avatars.githubusercontent.com/u/13111483?s=72&u=9628928fb42327a4d17033196182e8ae2dd7c784&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-06-30T02:29:23Z"
@@ -48908,7 +48896,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2015-08-14T01:20:25Z"
   },
   {
@@ -48942,7 +48930,7 @@
     "location": "San Jose, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-14T20:20:43Z"
@@ -48955,7 +48943,7 @@
     "company": "fyourd.co",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 54,
     "publicContributions": 0,
     "createdAt": "2015-10-20T17:15:15Z"
   },
@@ -48966,9 +48954,9 @@
     "location": "Costa Rica",
     "company": "Universidad Nacional ",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 43,
     "createdAt": "2015-12-05T04:10:03Z"
   },
   {
@@ -48978,9 +48966,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 727,
+    "publicContributions": 966,
     "createdAt": "2015-10-10T20:26:10Z"
   },
   {
@@ -49051,7 +49039,7 @@
     "company": "Snowflake",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 40,
+    "privateContributions": 73,
     "publicContributions": 3,
     "createdAt": "2015-11-08T04:51:10Z"
   },
@@ -49063,7 +49051,7 @@
     "company": "Tecnodev",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2671,
+    "privateContributions": 3336,
     "publicContributions": 0,
     "createdAt": "2015-01-27T19:39:48Z"
   },
@@ -49075,7 +49063,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 102,
+    "privateContributions": 114,
     "publicContributions": 30,
     "createdAt": "2015-08-17T06:36:43Z"
   },
