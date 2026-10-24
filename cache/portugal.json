@@ -49495,8 +49495,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 289,
-    "publicContributions": 66,
+    "privateContributions": 282,
+    "publicContributions": 33,
     "createdAt": "2023-12-20T13:42:13Z"
   },
   {
@@ -49507,20 +49507,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 299,
-    "publicContributions": 18,
+    "privateContributions": 226,
+    "publicContributions": 20,
     "createdAt": "2023-04-18T09:54:39Z"
   },
   {
     "login": "Pac0MG",
     "name": "Gonçalo Malta Vacas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130558847?s=72&u=61ad2f9c1dfe3d0c9aba6d6aa2d3109a3eb689d8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130558847?s=72&u=f30b42b1fd905bedcf0df135cba95cbc664edc2e&v=4",
     "location": "Lisbon",
-    "company": "",
+    "company": "Innovation Makers",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-04-12T10:44:38Z"
   },
   {
@@ -49554,7 +49554,7 @@
     "location": "Lisbon",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2023-12-22T11:52:55Z"
@@ -49592,7 +49592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-09-16T21:06:40Z"
   },
   {
@@ -49604,7 +49604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2023-08-09T14:13:26Z"
   },
   {
@@ -49627,8 +49627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 149,
-    "publicContributions": 0,
+    "privateContributions": 91,
+    "publicContributions": 50,
     "createdAt": "2023-01-23T15:06:39Z"
   },
   {
@@ -49652,7 +49652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 0,
     "createdAt": "2023-11-21T08:35:40Z"
   },
   {
@@ -49698,7 +49698,7 @@
     "location": "Lisbon",
     "company": "NOS SGPS",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2023-10-14T00:04:44Z"
@@ -49714,18 +49714,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2023-07-03T16:15:41Z"
-  },
-  {
-    "login": "diogofvo",
-    "name": "Diogo Oliveira",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123608832?s=72&u=65849578d55fe2c35a25b09bfcf93a043b7d198c&v=4",
-    "location": "Lisbon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-01-26T01:28:50Z"
   },
   {
     "login": "teusto",

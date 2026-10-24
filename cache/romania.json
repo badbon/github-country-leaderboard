@@ -49506,22 +49506,10 @@
     "location": "Romania",
     "company": "@Oracle ",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 2204,
+    "followers": 21,
+    "privateContributions": 27000,
+    "publicContributions": 2625,
     "createdAt": "2020-02-06T13:51:07Z"
-  },
-  {
-    "login": "ultramarine256",
-    "name": "Evgeny Platonov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60038102?s=72&u=e618fcb5917162fe836f77c98b0bd185b79ef308&v=4",
-    "location": "Romania, Bucharest",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 218,
-    "publicContributions": 34,
-    "createdAt": "2020-01-18T14:20:34Z"
   },
   {
     "login": "mtimaN",
@@ -49530,9 +49518,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 166,
-    "publicContributions": 21,
+    "publicContributions": 25,
     "createdAt": "2020-06-08T18:33:55Z"
   },
   {
@@ -49544,7 +49532,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 33,
     "createdAt": "2020-03-10T22:04:47Z"
   },
   {
@@ -49554,9 +49542,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 45,
     "createdAt": "2020-05-28T09:18:37Z"
   },
   {
@@ -49564,11 +49552,11 @@
     "name": "Savin Angel-Mario",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63855941?s=72&u=7835d9aae898bfebc702bc7330b8d0f31cb974a9&v=4",
     "location": "Romania",
-    "company": "",
+    "company": "@withgiolt",
     "twitterUsername": "notangelmario",
     "followers": 17,
-    "privateContributions": 626,
-    "publicContributions": 70,
+    "privateContributions": 982,
+    "publicContributions": 400,
     "createdAt": "2020-04-17T12:32:45Z"
   },
   {
@@ -49580,7 +49568,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 267,
+    "publicContributions": 234,
     "createdAt": "2020-05-17T09:42:04Z"
   },
   {
@@ -49590,8 +49578,8 @@
     "location": "Iasi, Romania",
     "company": "Facultatea de Informatica Iasi",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 0,
+    "followers": 19,
+    "privateContributions": 3,
     "publicContributions": 1,
     "createdAt": "2020-04-14T16:02:07Z"
   },
@@ -49602,9 +49590,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2020-04-03T09:36:23Z"
   },
   {
@@ -49626,7 +49614,7 @@
     "location": "Bucharest, Romania",
     "company": "Cegeka",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-19T06:18:11Z"
@@ -49639,8 +49627,8 @@
     "company": "Universitatea Politehnica of Bucharest, Romania",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 47,
-    "publicContributions": 21,
+    "privateContributions": 68,
+    "publicContributions": 20,
     "createdAt": "2020-04-30T07:37:10Z"
   },
   {
@@ -49650,7 +49638,7 @@
     "location": "Brașov, Romania",
     "company": "PhotonSpark",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 8,
     "publicContributions": 33,
     "createdAt": "2020-04-22T11:14:04Z"
@@ -49663,8 +49651,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 612,
-    "publicContributions": 8,
+    "privateContributions": 1042,
+    "publicContributions": 11,
     "createdAt": "2020-04-25T10:41:18Z"
   },
   {
@@ -49674,9 +49662,9 @@
     "location": "Arad, Romania",
     "company": "Raiffeisen",
     "twitterUsername": "ciociandorin",
-    "followers": 14,
-    "privateContributions": 263,
-    "publicContributions": 1,
+    "followers": 12,
+    "privateContributions": 587,
+    "publicContributions": 21,
     "createdAt": "2020-05-19T14:18:59Z"
   },
   {
@@ -49688,7 +49676,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-02-05T16:28:17Z"
   },
   {
@@ -49710,9 +49698,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 2799,
-    "publicContributions": 7,
+    "followers": 17,
+    "privateContributions": 2758,
+    "publicContributions": 18,
     "createdAt": "2020-03-02T08:42:07Z"
   },
   {
@@ -49722,9 +49710,9 @@
     "location": "Romania",
     "company": "Dacosoft Solution",
     "twitterUsername": "a_carmici",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2020-05-31T17:28:44Z"
   },
   {
@@ -49735,8 +49723,8 @@
     "company": "@analogdevicesinc",
     "twitterUsername": "5b080d46efa1438",
     "followers": 13,
-    "privateContributions": 356,
-    "publicContributions": 24,
+    "privateContributions": 227,
+    "publicContributions": 19,
     "createdAt": "2020-03-24T15:25:53Z"
   },
   {
@@ -179506,5 +179494,17 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2026-07-02T08:11:22Z"
+  },
+  {
+    "login": "heib4u",
+    "name": "Cosmin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299333181?s=72&u=1212e93020025e6067f4a634cb9640878417fe01&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-07-03T00:55:29Z"
   }
 ]

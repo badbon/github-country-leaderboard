@@ -1680,18 +1680,6 @@
     "createdAt": "2024-07-29T21:09:09Z"
   },
   {
-    "login": "crkautza",
-    "name": "Caio Richard Oliveira Kautza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178322234?s=72&u=0f52e756222745605a18d3fa29dbbf9935ea2836&v=4",
-    "location": "Encarnacíon, Itapúa, Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 4196,
-    "publicContributions": 84,
-    "createdAt": "2024-08-13T18:02:51Z"
-  },
-  {
     "login": "Eliasbenitezz",
     "name": "Elias",
     "avatarUrl": "https://avatars.githubusercontent.com/u/174978690?s=72&u=ff596119cb68767cd62a6a1c614fdb3a965975ce&v=4",
@@ -1711,7 +1699,7 @@
     "company": "Cooperativa Loma Plata",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1295,
+    "privateContributions": 1274,
     "publicContributions": 13,
     "createdAt": "2024-03-05T10:01:03Z"
   },
@@ -1724,7 +1712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-05-23T17:38:25Z"
   },
   {
@@ -1772,7 +1760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 9,
     "createdAt": "2024-07-23T15:32:37Z"
   },
   {
@@ -1807,14 +1795,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 122,
+    "privateContributions": 119,
     "publicContributions": 47,
     "createdAt": "2024-03-29T20:55:36Z"
   },
   {
     "login": "Richard-Alvarez",
     "name": "Richard Alvarez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156125798?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156125798?s=72&u=c77f39448bc71cf3b88e7e347b8de4105281c64f&v=4",
     "location": "Paraguay",
     "company": "CODE100 S.A.",
     "twitterUsername": "",
@@ -1831,7 +1819,7 @@
     "company": "@ittidigital",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 295,
+    "privateContributions": 271,
     "publicContributions": 0,
     "createdAt": "2024-06-05T13:32:28Z"
   },
@@ -1892,7 +1880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 21,
     "createdAt": "2024-05-05T13:35:50Z"
   },
   {
@@ -1903,7 +1891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2024-01-30T20:23:08Z"
   },

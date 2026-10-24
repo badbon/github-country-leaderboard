@@ -49904,7 +49904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2020-05-13T15:00:15Z"
   },
   {
@@ -49976,7 +49976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2020-02-04T10:42:49Z"
   },
   {
@@ -50036,7 +50036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 44,
     "createdAt": "2020-05-23T19:38:34Z"
   },
   {
@@ -50047,7 +50047,7 @@
     "company": "Kaia Solutions AS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2698,
+    "privateContributions": 3314,
     "publicContributions": 5,
     "createdAt": "2020-01-11T08:26:07Z"
   },
@@ -50059,8 +50059,8 @@
     "company": "@InsuranceTechnologySolutions ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 776,
-    "publicContributions": 9,
+    "privateContributions": 756,
+    "publicContributions": 8,
     "createdAt": "2020-06-03T09:24:41Z"
   },
   {
@@ -50083,8 +50083,8 @@
     "company": "@NordicSemiconductor",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 132,
+    "privateContributions": 75,
+    "publicContributions": 126,
     "createdAt": "2020-02-10T08:58:50Z"
   },
   {
@@ -50107,8 +50107,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 64,
-    "publicContributions": 33,
+    "privateContributions": 60,
+    "publicContributions": 37,
     "createdAt": "2020-05-03T16:21:22Z"
   },
   {
@@ -50119,21 +50119,9 @@
     "company": "Equinor",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 403,
-    "publicContributions": 15,
+    "privateContributions": 361,
+    "publicContributions": 45,
     "createdAt": "2020-02-24T09:37:49Z"
-  },
-  {
-    "login": "CatherineALSKFF",
-    "name": "Catherine Al Skaff",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59645107?s=72&u=23fee5a113c2f6458a00d656d05097a8d54fa1d5&v=4",
-    "location": "Norway",
-    "company": "https://lanuitech.com",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 852,
-    "publicContributions": 87,
-    "createdAt": "2020-01-08T09:29:05Z"
   },
   {
     "login": "ravng",
