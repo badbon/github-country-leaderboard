@@ -49316,7 +49316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2021-01-23T10:11:01Z"
   },
   {
@@ -49326,9 +49326,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 3,
     "createdAt": "2021-02-28T17:44:19Z"
   },
   {
@@ -49340,7 +49340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 35,
     "createdAt": "2021-10-04T15:20:18Z"
   },
   {
@@ -49351,8 +49351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 851,
-    "publicContributions": 0,
+    "privateContributions": 960,
+    "publicContributions": 1,
     "createdAt": "2021-03-02T09:14:15Z"
   },
   {
@@ -49388,7 +49388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-03T15:59:54Z"
   },
   {
@@ -49424,19 +49424,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 45,
     "createdAt": "2021-06-28T17:59:55Z"
   },
   {
     "login": "TayyibI",
     "name": "Tayyib Ismail",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94107654?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/94107654?s=72&u=6965218860f42e9bf521efd05f4e6defb6a4e454&v=4",
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 81,
-    "publicContributions": 68,
+    "privateContributions": 0,
+    "publicContributions": 49,
     "createdAt": "2021-11-11T09:02:44Z"
   },
   {
@@ -49472,7 +49472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 67,
     "createdAt": "2021-10-18T19:33:02Z"
   },
   {

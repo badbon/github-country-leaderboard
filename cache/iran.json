@@ -49398,21 +49398,21 @@
     "location": "Tehran, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 43,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 1,
     "createdAt": "2022-12-29T04:50:22Z"
   },
   {
     "login": "Mahdi-mortazavi",
     "name": "Mahdi Mortazavi | مهدی مرتضوی😎",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127998145?s=72&u=0d1db56d554564029eeba0e44cb89f395c74e5e3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127998145?s=72&u=b7cf14cd4cc77e6d8536c85434b30deb90cbe6a6&v=4",
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 180,
-    "publicContributions": 381,
+    "followers": 56,
+    "privateContributions": 652,
+    "publicContributions": 659,
     "createdAt": "2023-03-15T21:49:41Z"
   },
   {
@@ -49422,7 +49422,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 42,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2023-03-20T18:19:46Z"
@@ -49446,7 +49446,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 36,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-03-11T17:34:21Z"
@@ -49458,7 +49458,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-15T05:56:43Z"
@@ -49472,7 +49472,7 @@
     "twitterUsername": "",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 45,
     "createdAt": "2023-03-06T19:11:21Z"
   },
   {
@@ -49484,20 +49484,8 @@
     "twitterUsername": "",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 29,
     "createdAt": "2023-01-17T15:09:56Z"
-  },
-  {
-    "login": "arianahejazyan",
-    "name": "Ariana",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128381061?s=72&u=636849b65a8ad8a0c524ed8861fbfdb960866235&v=4",
-    "location": "Tehran, Iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 178,
-    "publicContributions": 371,
-    "createdAt": "2023-03-20T12:06:21Z"
   },
   {
     "login": "sisyx",
@@ -49507,8 +49495,8 @@
     "company": "Ravanaa",
     "twitterUsername": "sajaadun",
     "followers": 32,
-    "privateContributions": 766,
-    "publicContributions": 32,
+    "privateContributions": 788,
+    "publicContributions": 45,
     "createdAt": "2023-01-13T15:56:05Z"
   },
   {
@@ -49518,9 +49506,9 @@
     "location": "Tehran/Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 162,
-    "publicContributions": 444,
+    "followers": 29,
+    "privateContributions": 170,
+    "publicContributions": 450,
     "createdAt": "2023-03-08T00:15:48Z"
   },
   {
@@ -49530,9 +49518,9 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 29,
     "privateContributions": 326,
-    "publicContributions": 30,
+    "publicContributions": 14,
     "createdAt": "2023-03-13T09:29:40Z"
   },
   {
@@ -49542,22 +49530,10 @@
     "location": "Tehran, Tehran Province, Iran",
     "company": "Institute of AI & Cognitive Technologies, Bank Mellat",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 38,
     "createdAt": "2023-01-11T18:54:41Z"
-  },
-  {
-    "login": "thekourox",
-    "name": "Kourosh Marandi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123269558?s=72&u=a5e3139671acd87fdc078060ba56ffc3dabf68c9&v=4",
-    "location": "Iran",
-    "company": "Chito",
-    "twitterUsername": "kouroxdev",
-    "followers": 31,
-    "privateContributions": 473,
-    "publicContributions": 47,
-    "createdAt": "2023-01-21T19:52:57Z"
   },
   {
     "login": "AliAramideh",
@@ -49566,7 +49542,7 @@
     "location": "Tehran,Iran",
     "company": "Sharif University of Technology",
     "twitterUsername": "Ali_s_aram",
-    "followers": 31,
+    "followers": 30,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-12T08:42:25Z"
@@ -49578,9 +49554,9 @@
     "location": "Gorgan, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 0,
-    "publicContributions": 21,
+    "followers": 32,
+    "privateContributions": 291,
+    "publicContributions": 32,
     "createdAt": "2023-01-21T07:31:46Z"
   },
   {
@@ -49590,9 +49566,9 @@
     "location": "Tehran, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-03-25T06:46:03Z"
   },
   {
@@ -49602,19 +49578,19 @@
     "location": "Iran|Qom",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 128,
-    "publicContributions": 48,
+    "followers": 31,
+    "privateContributions": 133,
+    "publicContributions": 1,
     "createdAt": "2023-03-28T14:23:39Z"
   },
   {
     "login": "AliZare0101",
     "name": "Mohammad Ali Zare",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125291159?s=72&u=988b9f33c7986f114f101bff40ad46d910887776&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125291159?s=72&u=d64a3343915189c84aab9d7f4cd20761825f2d1f&v=4",
     "location": "IRAN",
     "company": "",
     "twitterUsername": "AliYazd235796",
-    "followers": 28,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2023-02-13T15:49:21Z"
@@ -49626,9 +49602,9 @@
     "location": "Iran, Golestan",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 152,
-    "publicContributions": 505,
+    "followers": 31,
+    "privateContributions": 197,
+    "publicContributions": 451,
     "createdAt": "2023-01-05T13:17:53Z"
   },
   {
