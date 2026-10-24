@@ -50372,7 +50372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 204,
     "createdAt": "2020-04-11T14:12:43Z"
   },
   {
@@ -50431,8 +50431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
-    "publicContributions": 221,
+    "privateContributions": 22,
+    "publicContributions": 229,
     "createdAt": "2020-02-07T07:22:25Z"
   },
   {
@@ -50442,9 +50442,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1280,
-    "publicContributions": 15,
+    "followers": 2,
+    "privateContributions": 1904,
+    "publicContributions": 141,
     "createdAt": "2020-05-04T21:38:24Z"
   },
   {
@@ -50460,18 +50460,6 @@
     "createdAt": "2020-02-27T10:51:58Z"
   },
   {
-    "login": "Waleed-Azam",
-    "name": "Waleed Azam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61116278?s=72&u=091572ce6f441a352affc5da3888f9982a36c743&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2020-02-16T14:55:48Z"
-  },
-  {
     "login": "HDkarlsen",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61544920?s=72&u=b82fd5982f287ebbfd3a314afe5ba2bb5c614fc2&v=4",
@@ -50480,7 +50468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2020-02-27T11:34:49Z"
   },
   {
@@ -50564,7 +50552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 5,
     "createdAt": "2020-02-05T12:57:57Z"
   },
   {
