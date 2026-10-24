@@ -1,8 +1,8 @@
 # Followers - Pakistan
 
-Generated: 2026-10-24T13:30:44.891Z
+Generated: 2026-10-24T14:23:12.329Z
 
-Users: 41839
+Users: 41840
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

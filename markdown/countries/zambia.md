@@ -48,7 +48,7 @@ Indexed users: 1,336
 | 9 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 963 |
 | 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
 | 11 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 769 |
-| 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 742 |
+| 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 727 |
 | 13 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 697 |
 | 14 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 683 |
 | 15 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 658 |
@@ -83,4 +83,4 @@ Indexed users: 1,336
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-24T12:33:51.442Z
+Generated: 2026-10-24T14:03:25.034Z

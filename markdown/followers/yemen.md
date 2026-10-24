@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-24T12:33:49.181Z
+Generated: 2026-10-24T14:01:58.837Z
 
 Users: 1204
 
@@ -17,12 +17,12 @@ Users: 1204
 | 9 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 332 |
 | 10 | [k-j-alarashi](https://github.com/k-j-alarashi) | Khaled Jalal Al-arashi |  | k_j_alarashi | Yemen , Sana'a | 283 |
 | 11 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Freelancer |  | Yemen/Mukalla | 275 |
-| 12 | [doctor-he](https://github.com/doctor-he) | Dr. He |  |  | Yemen, Sanaa | 273 |
+| 12 | [doctor-he](https://github.com/doctor-he) | Dr. He |  |  | Yemen, Sanaa | 272 |
 | 13 | [suaad997](https://github.com/suaad997) | SuadAljuaid | UST Unversity |  | yemen ,sana'a | 227 |
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️ |  | YEMEN | 188 |
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 183 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | alemadtr.com |  | Yemen | 172 |
-| 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais |  |  | Sana'a, Yemen | 160 |
-| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 159 |
+| 17 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 160 |
+| 18 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais |  |  | Sana'a, Yemen | 160 |
 | 19 | [MohammedAwadah](https://github.com/MohammedAwadah) | MohammedAwadah |  |  | Sana'a, Yemen | 159 |
 | 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 158 |

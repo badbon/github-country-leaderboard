@@ -1,6 +1,6 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-24T12:45:19.242Z
+Generated: 2026-10-24T14:16:10.215Z
 
 Users: 1794
 
@@ -17,12 +17,12 @@ Users: 1794
 | 9 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja |  |  | Cameroon | 1859 |
 | 10 | [Chu29](https://github.com/Chu29) | Malik Chu | REBASE CODE CAMP | unku_chu | Yaounde, Cameroon | 1845 |
 | 11 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall |  | kynmmarshall | Cameroon | 1819 |
-| 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1736 |
-| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | XyberClan | AlmightJosias | Cameroon | 1529 |
-| 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1487 |
-| 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1446 |
-| 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1421 |
-| 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1411 |
-| 18 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 1393 |
-| 19 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1388 |
-| 20 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 1374 |
+| 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | DigiMark Consulting & Revive | kanjo_elkamira | Yaoundé Cameroon | 1739 |
+| 13 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 1681 |
+| 14 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | XyberClan | AlmightJosias | Cameroon | 1529 |
+| 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1487 |
+| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1446 |
+| 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1421 |
+| 18 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1411 |
+| 19 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 1393 |
+| 20 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1388 |

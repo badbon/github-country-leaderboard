@@ -48,15 +48,15 @@ Indexed users: 1,794
 | 9 | [freddychoudja](https://github.com/freddychoudja) | Freddy Choudja | Cameroon | 1,859 |
 | 10 | [Chu29](https://github.com/Chu29) | Malik Chu | Yaounde, Cameroon | 1,845 |
 | 11 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,819 |
-| 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,736 |
-| 13 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,529 |
-| 14 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,487 |
-| 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,446 |
-| 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,421 |
-| 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,411 |
-| 18 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 1,393 |
-| 19 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,388 |
-| 20 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 1,374 |
+| 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,739 |
+| 13 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,681 |
+| 14 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,529 |
+| 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,487 |
+| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,446 |
+| 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,421 |
+| 18 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,411 |
+| 19 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 1,393 |
+| 20 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,388 |
 
 ## Followers
 
@@ -66,7 +66,7 @@ Indexed users: 1,794
 | 2 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 1,238 |
 | 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 691 |
 | 4 | [bonzum](https://github.com/bonzum) | Mark legend | Cameroon | 556 |
-| 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 511 |
+| 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 526 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | Cameroon | 504 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Cameroon, Bangangte | 359 |
 | 8 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga | Yaoundé, CM | 340 |
@@ -78,9 +78,9 @@ Indexed users: 1,794
 | 14 | [Daniel-TheProgrammer](https://github.com/Daniel-TheProgrammer) | Nji Daniel  | Buea,Cameroon | 226 |
 | 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | Buea, Cameroon | 224 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | Douala, Cameroon | 221 |
-| 17 | [Clovremix](https://github.com/Clovremix) |  | Yaounde Cameroon  | 179 |
-| 18 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 176 |
-| 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
-| 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 168 |
+| 17 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 208 |
+| 18 | [Clovremix](https://github.com/Clovremix) |  | Yaounde Cameroon  | 179 |
+| 19 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 176 |
+| 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 
-Generated: 2026-10-24T12:45:19.242Z
+Generated: 2026-10-24T14:16:10.215Z

@@ -1,13 +1,13 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-24T12:33:49.181Z
+Generated: 2026-10-24T14:01:58.837Z
 
 Users: 1204
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 93569 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43100 |
+| 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 398693 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43099 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 20091 |
 | 4 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6363 |
 | 5 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | NLT Software (Malaysia) | alqubatihakim | Yemen | 3500 |

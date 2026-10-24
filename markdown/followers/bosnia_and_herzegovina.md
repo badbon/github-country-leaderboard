@@ -1,6 +1,6 @@
 # Followers - Bosnia and Herzegovina
 
-Generated: 2026-10-24T13:39:09.773Z
+Generated: 2026-10-24T14:12:04.891Z
 
 Users: 2127
 
@@ -20,7 +20,7 @@ Users: 2127
 | 12 | [vladotesanovic](https://github.com/vladotesanovic) | Vlado Tesanovic | @TOB-BA  |  | Sarajevo, Earth | 149 |
 | 13 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | BiOptimizers |  | Sarajevo | 147 |
 | 14 | [almirvuk](https://github.com/almirvuk) | Almir Vuk | run.events GmbH | almirvuk | Sarajevo, Bosna i Hercegovina | 141 |
-| 15 | [nenadg](https://github.com/nenadg) | Nenad Golubovic |  |  | Banja Luka, Bosnia and Herzegovina | 134 |
+| 15 | [nenadg](https://github.com/nenadg) | Nenad Golubovic |  |  | Banja Luka, Bosnia and Herzegovina | 133 |
 | 16 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  |  |  | Bijeljina, Bosnia and Herzegovina | 132 |
 | 17 | [borisdj](https://github.com/borisdj) | Boris Djurdjevic | @codis-tech |  | Banja Luka, Bosnia and Herzegovina | 129 |
 | 18 | [xiprox](https://github.com/xiprox) | İhsan Işık |  |  | Sarajevo | 123 |

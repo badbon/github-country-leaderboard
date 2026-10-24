@@ -19,7 +19,7 @@ Indexed users: 459
 | 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,540 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,129 |
 | 7 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,113 |
-| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,789 |
+| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,812 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,674 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,260 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 4,098 |
@@ -50,7 +50,7 @@ Indexed users: 459
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,123 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 706 |
 | 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 639 |
-| 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 537 |
+| 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 539 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 513 |
 | 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 475 |
@@ -65,7 +65,7 @@ Indexed users: 459
 | 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,914 |
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 619 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 463 |
-| 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 343 |
+| 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 342 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 227 |
 | 6 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 200 |
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 185 |
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-24T12:37:35.509Z
+Generated: 2026-10-24T14:05:16.822Z

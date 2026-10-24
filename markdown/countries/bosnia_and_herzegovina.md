@@ -76,11 +76,11 @@ Indexed users: 2,127
 | 12 | [vladotesanovic](https://github.com/vladotesanovic) | Vlado Tesanovic | Sarajevo, Earth | 149 |
 | 13 | [Aldin-SXR](https://github.com/Aldin-SXR) | Aldin Kovačević | Sarajevo | 147 |
 | 14 | [almirvuk](https://github.com/almirvuk) | Almir Vuk | Sarajevo, Bosna i Hercegovina | 141 |
-| 15 | [nenadg](https://github.com/nenadg) | Nenad Golubovic | Banja Luka, Bosnia and Herzegovina | 134 |
+| 15 | [nenadg](https://github.com/nenadg) | Nenad Golubovic | Banja Luka, Bosnia and Herzegovina | 133 |
 | 16 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  | Bijeljina, Bosnia and Herzegovina | 132 |
 | 17 | [borisdj](https://github.com/borisdj) | Boris Djurdjevic | Banja Luka, Bosnia and Herzegovina | 129 |
 | 18 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-24T13:39:09.773Z
+Generated: 2026-10-24T14:12:04.891Z

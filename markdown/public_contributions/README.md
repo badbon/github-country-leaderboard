@@ -80,7 +80,7 @@ Published countries: 236
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
-| Georgia | 6,865 | [View](./georgia.md) |
+| Georgia | 6,864 | [View](./georgia.md) |
 | Ghana | 7,069 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,527 | [View](./greece.md) |
@@ -161,7 +161,7 @@ Published countries: 236
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,617 | [View](./norway.md) |
 | Oman | 991 | [View](./oman.md) |
-| Pakistan | 41,839 | [View](./pakistan.md) |
+| Pakistan | 41,840 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,195 | [View](./palestine.md) |
 | Panama | 1,069 | [View](./panama.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T13:54:38.780Z
+Generated: 2026-10-24T14:25:48.778Z

@@ -12,8 +12,8 @@ Indexed users: 1,204
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 93,569 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,100 |
+| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 398,693 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,099 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 28,617 |
 | 4 | [Anwar-alhitar](https://github.com/Anwar-alhitar) | Anwar_alhitar  | Yemen sana'a  | 28,077 |
 | 5 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi | Yemen , Sana'a | 12,798 |
@@ -21,9 +21,9 @@ Indexed users: 1,204
 | 7 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | sana'a Yemen | 9,641 |
 | 8 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | Yemen | 9,391 |
 | 9 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 8,722 |
-| 10 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Sana'a Yemen | 8,166 |
-| 11 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 8,061 |
-| 12 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali | Yemen | 8,016 |
+| 10 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 8,611 |
+| 11 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Sana'a Yemen | 8,166 |
+| 12 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali | Yemen | 7,870 |
 | 13 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Yemen | 7,830 |
 | 14 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Yemen | 7,405 |
 | 15 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | Yemen ,sanaa | 6,978 |
@@ -37,8 +37,8 @@ Indexed users: 1,204
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 93,569 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,100 |
+| 1 | [thejulan](https://github.com/thejulan) | Julan | Yemen | 398,693 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني | Yemen | 43,099 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 20,091 |
 | 4 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,363 |
 | 5 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | Yemen | 3,500 |
@@ -73,14 +73,14 @@ Indexed users: 1,204
 | 9 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya | Yemen | 332 |
 | 10 | [k-j-alarashi](https://github.com/k-j-alarashi) | Khaled Jalal Al-arashi | Yemen , Sana'a | 283 |
 | 11 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Yemen/Mukalla | 275 |
-| 12 | [doctor-he](https://github.com/doctor-he) | Dr. He | Yemen, Sanaa | 273 |
+| 12 | [doctor-he](https://github.com/doctor-he) | Dr. He | Yemen, Sanaa | 272 |
 | 13 | [suaad997](https://github.com/suaad997) | SuadAljuaid | yemen ,sana'a | 227 |
 | 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | YEMEN | 188 |
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Yemen | 183 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | Yemen | 172 |
-| 17 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 160 |
-| 18 | [0-d3y](https://github.com/0-d3y) | S4Tech | Yemen | 159 |
+| 17 | [0-d3y](https://github.com/0-d3y) | S4Tech | Yemen | 160 |
+| 18 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 160 |
 | 19 | [MohammedAwadah](https://github.com/MohammedAwadah) | MohammedAwadah | Sana'a, Yemen | 159 |
 | 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 158 |
 
-Generated: 2026-10-24T12:33:49.181Z
+Generated: 2026-10-24T14:01:58.837Z
