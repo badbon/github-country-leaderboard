@@ -15,7 +15,7 @@ Published countries: 236
 | Antarctica | 459 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
 | Argentina | 50,710 | [View](./argentina.md) |
-| Armenia | 4,022 | [View](./armenia.md) |
+| Armenia | 4,021 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
 | Austria | 18,242 | [View](./austria.md) |
 | Azerbaijan | 5,041 | [View](./azerbaijan.md) |
@@ -27,7 +27,7 @@ Published countries: 236
 | Belgium | 18,369 | [View](./belgium.md) |
 | Belize | 94 | [View](./belize.md) |
 | Benin | 471 | [View](./benin.md) |
-| Bermuda | 897 | [View](./bermuda.md) |
+| Bermuda | 896 | [View](./bermuda.md) |
 | Bhutan | 266 | [View](./bhutan.md) |
 | Bolivia | 1,781 | [View](./bolivia.md) |
 | Bosnia and Herzegovina | 2,126 | [View](./bosnia_and_herzegovina.md) |
@@ -57,7 +57,7 @@ Published countries: 236
 | Cuba | 1,272 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,721 | [View](./cyprus.md) |
-| Czechia | 16,201 | [View](./czechia.md) |
+| Czechia | 16,200 | [View](./czechia.md) |
 | Denmark | 19,292 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
@@ -234,11 +234,11 @@ Published countries: 236
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,605 | [View](./venezuela.md) |
-| Vietnam | 25,825 | [View](./vietnam.md) |
+| Vietnam | 25,823 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,204 | [View](./yemen.md) |
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,656 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-23T23:50:13.847Z
+Generated: 2026-10-24T00:12:33.685Z

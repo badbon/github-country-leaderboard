@@ -24,14 +24,14 @@ Indexed users: 5,626
 | 10 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
 | 11 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
 | 12 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño | Costa Rica | 7,319 |
-| 13 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
-| 14 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
-| 15 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 6,736 |
-| 16 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
-| 17 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
-| 18 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
-| 19 | [elianortega](https://github.com/elianortega) | Elian Ortega | San Jose, Costa Rica | 6,029 |
-| 20 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora | Costa Rica 🇨🇷 | 5,844 |
+| 13 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Santa Ana, San Jose Costa Rica | 7,301 |
+| 14 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
+| 15 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
+| 16 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 6,736 |
+| 17 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
+| 18 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
+| 19 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
+| 20 | [elianortega](https://github.com/elianortega) | Elian Ortega | San Jose, Costa Rica | 6,029 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,626
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-23T23:24:08.948Z
+Generated: 2026-10-24T00:08:26.451Z

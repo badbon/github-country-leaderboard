@@ -1,13 +1,13 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-23T22:55:11.449Z
+Generated: 2026-10-24T00:08:35.310Z
 
 Users: 1272
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 20503 |
-| 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio |  |  | Havana - Cuba - Spain - Mexico | 18542 |
+| 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio |  |  | Havana - Cuba - Spain - Mexico | 20404 |
 | 3 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 15902 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | @begonlabs  | Walkercitodt | 🌍 Coding from Cienfuegos, Cuba | 12349 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 9311 |

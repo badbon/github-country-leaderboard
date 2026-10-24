@@ -1,21 +1,21 @@
 # Public Contributions - El Salvador
 
-Generated: 2026-10-23T22:57:38.437Z
+Generated: 2026-10-24T00:11:07.920Z
 
 Users: 2378
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Staff Engineer @praxent |  | San Salvador, El Salvador | 8750 |
-| 2 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 5336 |
+| 2 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 5702 |
 | 3 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | Abaco Capital | sthbryan_ | El Salvador | 4953 |
 | 4 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4488 |
 | 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 2052 |
-| 6 | [AugustoPedraza](https://github.com/AugustoPedraza) | Augusto | @snapcall-me  |  | San Salvador de Jujuy | 1768 |
-| 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | @fundacion-poma @glimmer-labs |  | El Salvador | 1724 |
-| 8 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 |  | Forte11Cuba | El Salvador | 1709 |
-| 9 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 1655 |
-| 10 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez |  |  | El Salvador | 1616 |
+| 6 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez |  |  | El Salvador | 1810 |
+| 7 | [AugustoPedraza](https://github.com/AugustoPedraza) | Augusto | @snapcall-me  |  | San Salvador de Jujuy | 1768 |
+| 8 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | @fundacion-poma @glimmer-labs |  | El Salvador | 1724 |
+| 9 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 |  | Forte11Cuba | El Salvador | 1709 |
+| 10 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 1655 |
 | 11 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 1262 |
 | 12 | [daiv05](https://github.com/daiv05) | David DV | Secretaría de Innovación | daiv_09 | San Salvador | 1223 |
 | 13 | [C3SC0-V4113](https://github.com/C3SC0-V4113) | Francisco José Valle Cornejo |  | c3_sc0 | El Salvador, San Salvador | 1190 |

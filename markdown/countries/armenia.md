@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,022
+Indexed users: 4,021
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 4,022
 | 17 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
 | 18 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 2,015 |
 | 19 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,982 |
-| 20 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,740 |
+| 20 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,749 |
 
 ## Followers
 
@@ -66,7 +66,7 @@ Indexed users: 4,022
 | 2 | [vardan444](https://github.com/vardan444) |  | Armenia | 1,091 |
 | 3 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Yerevan | 1,084 |
 | 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan | Armenia | 933 |
-| 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko | Armenia | 797 |
+| 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko | Armenia | 802 |
 | 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad | Yerevan, Armenia | 622 |
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 609 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has | Yerevan, Armenia | 578 |
@@ -83,4 +83,4 @@ Indexed users: 4,022
 | 19 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 234 |
 | 20 | [norayr](https://github.com/norayr) | Norayr Chilingarian | Yerevan, Armenia | 233 |
 
-Generated: 2026-10-23T22:44:46.358Z
+Generated: 2026-10-23T23:57:43.172Z

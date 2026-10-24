@@ -19,13 +19,13 @@ Indexed users: 2,378
 | 5 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 10,175 |
 | 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 10,137 |
 | 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,644 |
-| 8 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 7,596 |
+| 8 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 8,453 |
 | 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,318 |
-| 10 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 7,270 |
-| 11 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 7,264 |
-| 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,290 |
-| 13 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,032 |
-| 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,913 |
+| 10 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 7,264 |
+| 11 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 6,716 |
+| 12 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 6,305 |
+| 13 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,290 |
+| 14 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,032 |
 | 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 5,193 |
 | 16 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 5,044 |
 | 17 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,964 |
@@ -38,15 +38,15 @@ Indexed users: 2,378
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 8,750 |
-| 2 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,336 |
+| 2 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,702 |
 | 3 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 4,953 |
 | 4 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,488 |
 | 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 2,052 |
-| 6 | [AugustoPedraza](https://github.com/AugustoPedraza) | Augusto | San Salvador de Jujuy | 1,768 |
-| 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,724 |
-| 8 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,709 |
-| 9 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,655 |
-| 10 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 1,616 |
+| 6 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 1,810 |
+| 7 | [AugustoPedraza](https://github.com/AugustoPedraza) | Augusto | San Salvador de Jujuy | 1,768 |
+| 8 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | El Salvador | 1,724 |
+| 9 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 | El Salvador | 1,709 |
+| 10 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 1,655 |
 | 11 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 1,262 |
 | 12 | [daiv05](https://github.com/daiv05) | David DV | San Salvador | 1,223 |
 | 13 | [C3SC0-V4113](https://github.com/C3SC0-V4113) | Francisco José Valle Cornejo | El Salvador, San Salvador | 1,190 |
@@ -64,7 +64,7 @@ Indexed users: 2,378
 |---:|---|---|---|---:|
 | 1 | [MelvinAguilar](https://github.com/MelvinAguilar) | Melvin Aguilar | El Salvador | 492 |
 | 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro | El Salvador | 403 |
-| 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | El Salvador | 205 |
+| 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | El Salvador | 206 |
 | 4 | [baylagas](https://github.com/baylagas) | Balbino Aylagas | San Salvador, El Salvador | 185 |
 | 5 | [oicrruf](https://github.com/oicrruf) | Víctor M. Reyes | San Salvador, El Salvador  | 164 |
 | 6 | [chepecarlos](https://github.com/chepecarlos) | Jose Carlos Garcia Diaz | San Miguel, El Salvador | 158 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-23T22:57:38.437Z
+Generated: 2026-10-24T00:11:07.920Z

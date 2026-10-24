@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-23T22:55:15.968Z
+Generated: 2026-10-24T00:09:03.407Z
 
 Users: 53
 
@@ -25,4 +25,4 @@ Users: 53
 | 17 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 7 |
 | 18 | [michaelfinies](https://github.com/michaelfinies) | Michelangelo Finies | Student |  | Curaçao | 6 |
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 6 |
-| 20 | [coinversus](https://github.com/coinversus) | CoinVersus | coinversus | coinversus | Curaçao | 5 |
+| 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 5 |

@@ -13,10 +13,10 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 25,037 |
-| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,700 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,717 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,409 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,061 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,649 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,657 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,055 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,828 |
 | 8 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,462 |
@@ -30,7 +30,7 @@ Indexed users: 236
 | 16 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 642 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 558 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 371 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 375 |
 | 20 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 346 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-23T22:45:22.638Z
+Generated: 2026-10-23T23:59:16.358Z

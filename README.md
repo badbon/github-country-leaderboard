@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Sierra Leone](markdown/countries/sierra_leone.md) | 442 | [Public](markdown/public_contributions/sierra_leone.md) | [Total](markdown/total_contributions/sierra_leone.md) | [Followers](markdown/followers/sierra_leone.md) |
-| [Gibraltar](markdown/countries/gibraltar.md) | 93 | [Public](markdown/public_contributions/gibraltar.md) | [Total](markdown/total_contributions/gibraltar.md) | [Followers](markdown/followers/gibraltar.md) |
-| [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
-| [Isle of Man](markdown/countries/isle_of_man.md) | 155 | [Public](markdown/public_contributions/isle_of_man.md) | [Total](markdown/total_contributions/isle_of_man.md) | [Followers](markdown/followers/isle_of_man.md) |
-| [Faroe Islands](markdown/countries/faroe_islands.md) | 68 | [Public](markdown/public_contributions/faroe_islands.md) | [Total](markdown/total_contributions/faroe_islands.md) | [Followers](markdown/followers/faroe_islands.md) |
+| [Macau](markdown/countries/macau.md) | 438 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
+| [United Arab Emirates](markdown/countries/united_arab_emirates.md) | 4,205 | [Public](markdown/public_contributions/united_arab_emirates.md) | [Total](markdown/total_contributions/united_arab_emirates.md) | [Followers](markdown/followers/united_arab_emirates.md) |
+| [Poland](markdown/countries/poland.md) | 58,091 | [Public](markdown/public_contributions/poland.md) | [Total](markdown/total_contributions/poland.md) | [Followers](markdown/followers/poland.md) |
+| [Niue](markdown/countries/niue.md) | 4 | [Public](markdown/public_contributions/niue.md) | [Total](markdown/total_contributions/niue.md) | [Followers](markdown/followers/niue.md) |
+| [Ukraine](markdown/countries/ukraine.md) | 47,715 | [Public](markdown/public_contributions/ukraine.md) | [Total](markdown/total_contributions/ukraine.md) | [Followers](markdown/followers/ukraine.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-23T23:50:13.847Z
+Generated: 2026-10-24T00:12:33.685Z

@@ -1,8 +1,8 @@
 # Followers - Armenia
 
-Generated: 2026-10-23T22:44:46.358Z
+Generated: 2026-10-23T23:57:43.172Z
 
-Users: 4022
+Users: 4021
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 4022
 | 2 | [vardan444](https://github.com/vardan444) |  |  | worldnft777 | Armenia | 1091 |
 | 3 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Civitta |  | Yerevan | 1084 |
 | 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan |  |  | Armenia | 933 |
-| 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko |  | paaleksey | Armenia | 797 |
+| 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko |  | paaleksey | Armenia | 802 |
 | 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad |  |  | Yerevan, Armenia | 622 |
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 609 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has |  |  | Yerevan, Armenia | 578 |

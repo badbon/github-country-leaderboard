@@ -1,6 +1,6 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-23T23:24:08.948Z
+Generated: 2026-10-24T00:08:26.451Z
 
 Users: 5626
 
@@ -18,11 +18,11 @@ Users: 5626
 | 10 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 7663 |
 | 11 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | @Gordon-Web-Studio  | alexgordon25 | Costa Rica | 7434 |
 | 12 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño |  |  | Costa Rica | 7319 |
-| 13 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 |  | HenryMarn08 | Costa Rica | 7023 |
-| 14 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Edenia | xaviercr | Costa Rica | 6797 |
-| 15 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | @wootit | teygarciam | San José, Costa Rica | 6736 |
-| 16 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano |  | 0xBeja | Costa Rica | 6549 |
-| 17 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz |  |  | Costa Rica | 6187 |
-| 18 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |
-| 19 | [elianortega](https://github.com/elianortega) | Elian Ortega |  | ElianMOrtega | San Jose, Costa Rica | 6029 |
-| 20 | [Fuabioo](https://github.com/Fuabioo) | Fabio Mora |  |  | Costa Rica 🇨🇷 | 5844 |
+| 13 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Citidot |  | Santa Ana, San Jose Costa Rica | 7301 |
+| 14 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 |  | HenryMarn08 | Costa Rica | 7023 |
+| 15 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Edenia | xaviercr | Costa Rica | 6797 |
+| 16 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | @wootit | teygarciam | San José, Costa Rica | 6736 |
+| 17 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano |  | 0xBeja | Costa Rica | 6549 |
+| 18 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz |  |  | Costa Rica | 6187 |
+| 19 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |
+| 20 | [elianortega](https://github.com/elianortega) | Elian Ortega |  | ElianMOrtega | San Jose, Costa Rica | 6029 |

@@ -1,13 +1,13 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-23T22:45:25.721Z
+Generated: 2026-10-23T23:59:21.913Z
 
 Users: 726
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri |  |  | Bahrain | 119533 |
-| 2 | [a7md](https://github.com/a7md) | {ahmed} |  |  | Bahrain | 13261 |
+| 2 | [a7md](https://github.com/a7md) | {ahmed} |  |  | Bahrain | 13301 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 10273 |
 | 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 7764 |
 | 5 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 6470 |
@@ -21,7 +21,7 @@ Users: 726
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4439 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4347 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 4121 |
-| 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3734 |
+| 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3756 |
 | 17 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3711 |
 | 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3638 |
 | 19 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3625 |

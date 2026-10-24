@@ -1,16 +1,16 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-23T22:45:22.638Z
+Generated: 2026-10-23T23:59:16.358Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 25037 |
-| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3700 |
+| 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3717 |
 | 3 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3409 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3061 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2649 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2657 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2055 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1828 |
 | 8 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 1462 |
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 724 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 642 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 558 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 371 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 375 |
 | 20 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | FrankLabs |  | Nassau, Bahamas | 346 |
