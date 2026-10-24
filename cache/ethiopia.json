@@ -48140,7 +48140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 33,
     "createdAt": "2022-12-12T16:08:06Z"
   },
   {
@@ -48156,27 +48156,15 @@
     "createdAt": "2022-07-15T07:17:48Z"
   },
   {
-    "login": "musshh",
-    "name": "Eyoel Shimeles",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100666761?s=72&u=bc07cabed291dd60437421cae75b5d7efc542a50&v=4",
-    "location": "Addis Ababa",
-    "company": "Ethiopian Airlines",
-    "twitterUsername": "flyethiopian",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-03-01T05:50:04Z"
-  },
-  {
     "login": "YosephSE",
     "name": "Yoseph Kedir",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88291669?s=72&u=3f148e45819288aa4d2d0036c54ff6cbb65b1acc&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "GiveThanks",
     "twitterUsername": "YosephKedir",
-    "followers": 382,
-    "privateContributions": 1008,
-    "publicContributions": 980,
+    "followers": 377,
+    "privateContributions": 1067,
+    "publicContributions": 1003,
     "createdAt": "2021-08-01T21:01:22Z"
   },
   {
@@ -48185,10 +48173,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/77967123?s=72&u=ee041c6b4df86c968b14545da13584b4a4b45cc9&v=4",
     "location": "Addis Ababa, Ethiopia ",
     "company": "",
-    "twitterUsername": "25endale",
-    "followers": 266,
-    "privateContributions": 1253,
-    "publicContributions": 77,
+    "twitterUsername": "",
+    "followers": 248,
+    "privateContributions": 1717,
+    "publicContributions": 14,
     "createdAt": "2021-01-25T11:01:36Z"
   },
   {
@@ -48196,11 +48184,11 @@
     "name": "yegetaneh firew",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80381617?s=72&u=0a78cdd903db82ddb2d5285f6ec9f358ef653b62&v=4",
     "location": "Ethiopia",
-    "company": "Xylo",
+    "company": "XyloLabs",
     "twitterUsername": "0xnahtty",
-    "followers": 193,
-    "privateContributions": 396,
-    "publicContributions": 171,
+    "followers": 178,
+    "privateContributions": 903,
+    "publicContributions": 320,
     "createdAt": "2021-03-10T06:43:38Z"
   },
   {
@@ -48210,9 +48198,9 @@
     "location": "Ethiopia, Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 162,
-    "privateContributions": 2055,
-    "publicContributions": 474,
+    "followers": 161,
+    "privateContributions": 2484,
+    "publicContributions": 516,
     "createdAt": "2021-11-29T23:26:01Z"
   },
   {
@@ -48222,9 +48210,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "iCog Labs",
     "twitterUsername": "",
-    "followers": 150,
+    "followers": 146,
     "privateContributions": 0,
-    "publicContributions": 928,
+    "publicContributions": 1010,
     "createdAt": "2021-10-03T13:35:22Z"
   },
   {
@@ -48234,7 +48222,7 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "BitcoinBirr",
     "twitterUsername": "bitcoinbirr",
-    "followers": 147,
+    "followers": 148,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-12T01:11:35Z"
@@ -48242,24 +48230,24 @@
   {
     "login": "mrnpro",
     "name": "Natnael Fikadu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88460514?s=72&u=ed25aab30ba19f96c0afdd297f963499d0eeb30f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88460514?s=72&u=4a8d9d60b0f8b69a7517b5c031783a491cda04d6&v=4",
     "location": "Ethiopia , Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 120,
-    "privateContributions": 2076,
-    "publicContributions": 21,
+    "followers": 121,
+    "privateContributions": 2140,
+    "publicContributions": 149,
     "createdAt": "2021-08-04T20:46:40Z"
   },
   {
     "login": "sentayhu19",
     "name": "Sentayhu berhanu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77745775?s=72&u=7fa8ddec5e26101302afc2c33c307602a5922bd8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77745775?s=72&u=eee3689143cd163f7dc7e2cb371c35c82718c008&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "Full-stack developer ",
     "twitterUsername": "VoltageBerhanu",
-    "followers": 111,
-    "privateContributions": 3657,
+    "followers": 112,
+    "privateContributions": 4162,
     "publicContributions": 52,
     "createdAt": "2021-01-20T17:24:20Z"
   },
@@ -48270,9 +48258,9 @@
     "location": "Adiss Ababa, Ethiopia",
     "company": "Get_tech",
     "twitterUsername": "GETAHUNEALEMAYH",
-    "followers": 101,
+    "followers": 87,
     "privateContributions": 0,
-    "publicContributions": 509,
+    "publicContributions": 386,
     "createdAt": "2021-03-12T11:21:13Z"
   },
   {
@@ -48282,22 +48270,10 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "Full Stack web dev and Tech. enthusiast",
     "twitterUsername": "",
-    "followers": 95,
-    "privateContributions": 200,
-    "publicContributions": 14,
+    "followers": 97,
+    "privateContributions": 196,
+    "publicContributions": 22,
     "createdAt": "2021-12-21T11:21:24Z"
-  },
-  {
-    "login": "samuelm43",
-    "name": "samuel megersa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83492360?s=72&u=d471d7f9e1de4d4cf37cf822e862c5d57c347bc5&v=4",
-    "location": "Ethiopia",
-    "company": "",
-    "twitterUsername": "samuel_megerssa",
-    "followers": 92,
-    "privateContributions": 3097,
-    "publicContributions": 8,
-    "createdAt": "2021-05-01T07:46:10Z"
   },
   {
     "login": "kibrug",
@@ -48306,7 +48282,7 @@
     "location": "Ethiopia ",
     "company": "ProFix Tech Solutions ",
     "twitterUsername": "devkibru",
-    "followers": 82,
+    "followers": 65,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-07-10T20:12:07Z"
@@ -48318,9 +48294,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "YeneHealth",
     "twitterUsername": "Ruth__dot",
-    "followers": 81,
-    "privateContributions": 629,
-    "publicContributions": 137,
+    "followers": 77,
+    "privateContributions": 518,
+    "publicContributions": 135,
     "createdAt": "2021-08-11T09:08:41Z"
   },
   {
@@ -48331,8 +48307,8 @@
     "company": "",
     "twitterUsername": "wube_Z",
     "followers": 78,
-    "privateContributions": 1518,
-    "publicContributions": 2,
+    "privateContributions": 1246,
+    "publicContributions": 0,
     "createdAt": "2021-06-14T14:46:29Z"
   },
   {
@@ -48342,8 +48318,8 @@
     "location": "Mekelle, ትግራይ, Ethiopia",
     "company": "Mekelle University",
     "twitterUsername": "",
-    "followers": 78,
-    "privateContributions": 80,
+    "followers": 63,
+    "privateContributions": 78,
     "publicContributions": 0,
     "createdAt": "2021-09-13T06:17:57Z"
   },
@@ -48354,9 +48330,9 @@
     "location": "Ethiopia, Addis Ababa",
     "company": "Addis Ababa University",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 2391,
-    "publicContributions": 86,
+    "followers": 74,
+    "privateContributions": 2237,
+    "publicContributions": 96,
     "createdAt": "2021-11-22T08:47:13Z"
   },
   {
@@ -48367,7 +48343,7 @@
     "company": "ALX - Holberton School",
     "twitterUsername": "franol_",
     "followers": 72,
-    "privateContributions": 14,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-22T08:33:35Z"
   },

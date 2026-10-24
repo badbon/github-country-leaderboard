@@ -21272,7 +21272,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2018-10-03T09:38:21Z"
   },
   {
@@ -21331,7 +21331,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 153,
+    "privateContributions": 134,
     "publicContributions": 0,
     "createdAt": "2018-10-06T20:24:47Z"
   },
@@ -21379,7 +21379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 19,
+    "privateContributions": 22,
     "publicContributions": 0,
     "createdAt": "2018-06-17T13:52:45Z"
   },
@@ -21450,7 +21450,7 @@
     "location": "Iraq",
     "company": "Rami",
     "twitterUsername": "",
-    "followers": 2055,
+    "followers": 2060,
     "privateContributions": 0,
     "publicContributions": 66,
     "createdAt": "2017-11-15T22:34:39Z"
@@ -21462,8 +21462,8 @@
     "location": "Erbil, Iraq",
     "company": "Ovanya",
     "twitterUsername": "mira_01001110",
-    "followers": 166,
-    "privateContributions": 763,
+    "followers": 165,
+    "privateContributions": 747,
     "publicContributions": 9,
     "createdAt": "2017-10-07T12:47:33Z"
   },
@@ -21476,7 +21476,7 @@
     "twitterUsername": "",
     "followers": 111,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 17,
     "createdAt": "2017-08-09T19:15:15Z"
   },
   {
@@ -21486,9 +21486,9 @@
     "location": "Baghdad, Iraq",
     "company": "ISC",
     "twitterUsername": "",
-    "followers": 88,
-    "privateContributions": 564,
-    "publicContributions": 18,
+    "followers": 89,
+    "privateContributions": 557,
+    "publicContributions": 17,
     "createdAt": "2017-09-05T17:23:38Z"
   },
   {
@@ -21499,7 +21499,7 @@
     "company": "Lelav",
     "twitterUsername": "SharoZeyad",
     "followers": 73,
-    "privateContributions": 1282,
+    "privateContributions": 1295,
     "publicContributions": 2,
     "createdAt": "2017-10-28T13:21:07Z"
   },

@@ -47467,7 +47467,7 @@
     "company": "Chirp",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 113,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-23T10:59:08Z"
   },
@@ -47479,8 +47479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 47,
-    "publicContributions": 47,
+    "privateContributions": 33,
+    "publicContributions": 44,
     "createdAt": "2021-03-06T22:56:37Z"
   },
   {
@@ -47490,9 +47490,9 @@
     "location": "Dublin",
     "company": "EctoSpace",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 5133,
-    "publicContributions": 34,
+    "followers": 3,
+    "privateContributions": 11219,
+    "publicContributions": 40,
     "createdAt": "2021-11-01T14:49:02Z"
   },
   {
@@ -47539,7 +47539,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 9,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2021-08-09T07:53:43Z"
   },
@@ -47563,7 +47563,7 @@
     "company": "Kota",
     "twitterUsername": "baligadeepak",
     "followers": 4,
-    "privateContributions": 693,
+    "privateContributions": 787,
     "publicContributions": 6,
     "createdAt": "2021-10-29T15:31:14Z"
   },
@@ -47598,9 +47598,9 @@
     "location": "Dublin",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 137,
     "createdAt": "2021-04-26T03:39:06Z"
   },
   {
@@ -47612,7 +47612,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 24,
     "createdAt": "2021-10-12T04:58:58Z"
   },
   {
@@ -47636,7 +47636,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1309,
+    "publicContributions": 1793,
     "createdAt": "2021-02-19T16:40:11Z"
   },
   {
@@ -47646,9 +47646,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 133,
-    "publicContributions": 176,
+    "followers": 5,
+    "privateContributions": 59,
+    "publicContributions": 163,
     "createdAt": "2021-04-25T18:46:04Z"
   },
   {
