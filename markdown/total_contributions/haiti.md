@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-24T21:57:17.198Z
+Generated: 2026-10-24T23:23:03.474Z
 
 Users: 339
 
@@ -17,7 +17,7 @@ Users: 339
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2175 |
 | 10 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1979 |
 | 11 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1967 |
-| 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1833 |
+| 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1858 |
 | 13 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1823 |
 | 14 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1745 |
 | 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1691 |

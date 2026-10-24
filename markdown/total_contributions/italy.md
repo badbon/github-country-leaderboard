@@ -1,6 +1,6 @@
 # Total Contributions - Italy
 
-Generated: 2026-10-24T23:03:45.256Z
+Generated: 2026-10-24T23:26:58.678Z
 
 Users: 48997
 
@@ -18,10 +18,10 @@ Users: 48997
 | 10 | [luduvigo](https://github.com/luduvigo) | Paolo Antonio Rossi | Gorilli | luduvigo | Milano | 27890 |
 | 11 | [napo](https://github.com/napo) | Maurizio Napolitano | FBK | napo | Trento, Italy | 27490 |
 | 12 | [nomed](https://github.com/nomed) | Daniele Favara | Retex SPA |  | Milano, Italy | 27372 |
-| 13 | [vjt](https://github.com/vjt) | Marcello Barnaba | @facebook | vjt | Rome, Italy | 25277 |
-| 14 | [jowharshamshiri](https://github.com/jowharshamshiri) | Bahram Joharshamshiri |  |  | Italy | 22458 |
-| 15 | [oco-adam](https://github.com/oco-adam) | Adam Harris | Omnified |  | Padova, Italy | 21755 |
-| 16 | [eKisNonos](https://github.com/eKisNonos) | A. Erik | @NON-OS  |  | Italy | 20524 |
+| 13 | [eKisNonos](https://github.com/eKisNonos) | eK  | @NON-OS  |  | Italy | 26285 |
+| 14 | [vjt](https://github.com/vjt) | Marcello Barnaba | @facebook | vjt | Rome, Italy | 25277 |
+| 15 | [jowharshamshiri](https://github.com/jowharshamshiri) | Bahram Joharshamshiri |  |  | Italy | 22458 |
+| 16 | [oco-adam](https://github.com/oco-adam) | Adam Harris | Omnified |  | Padova, Italy | 21755 |
 | 17 | [Roberdan](https://github.com/Roberdan) | Roberdan | Microsoft and FightTheStroke.org |  | Italy | 19948 |
 | 18 | [Balestrino](https://github.com/Balestrino) |  | OctoLabs |  | Italy | 19928 |
 | 19 | [giulio-leone](https://github.com/giulio-leone) | Giulio Leone | AI Systems Architect & Solutions Consultant |  | Italy \| Open to Relocation (EU / UAE / USA) | 19013 |

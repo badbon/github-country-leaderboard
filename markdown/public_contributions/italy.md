@@ -1,6 +1,6 @@
 # Public Contributions - Italy
 
-Generated: 2026-10-24T23:03:45.256Z
+Generated: 2026-10-24T23:26:58.678Z
 
 Users: 48997
 
@@ -13,12 +13,12 @@ Users: 48997
 | 5 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | privato |  | Italia | 32995 |
 | 6 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini |  |  | Milan, Italy | 28837 |
 | 7 | [napo](https://github.com/napo) | Maurizio Napolitano | FBK | napo | Trento, Italy | 27450 |
-| 8 | [eKisNonos](https://github.com/eKisNonos) | A. Erik | @NON-OS  |  | Italy | 19985 |
-| 9 | [Emasoft](https://github.com/Emasoft) | Emanuele Sabetta |  | fmuaddib | Rome, Italy | 17954 |
-| 10 | [Roberdan](https://github.com/Roberdan) | Roberdan | Microsoft and FightTheStroke.org |  | Italy | 16674 |
-| 11 | [m0s4ik](https://github.com/m0s4ik) | Andrea |  |  | Italy | 14927 |
-| 12 | [leopu00](https://github.com/leopu00) | Leone Emanuel Puglisi |  |  | Rome | 14591 |
-| 13 | [aborruso](https://github.com/aborruso) | Andrea Borruso |  | aborruso | Palermo, Italy | 14043 |
+| 8 | [Emasoft](https://github.com/Emasoft) | Emanuele Sabetta |  | fmuaddib | Rome, Italy | 17954 |
+| 9 | [Roberdan](https://github.com/Roberdan) | Roberdan | Microsoft and FightTheStroke.org |  | Italy | 16674 |
+| 10 | [m0s4ik](https://github.com/m0s4ik) | Andrea |  |  | Italy | 14927 |
+| 11 | [leopu00](https://github.com/leopu00) | Leone Emanuel Puglisi |  |  | Rome | 14591 |
+| 12 | [aborruso](https://github.com/aborruso) | Andrea Borruso |  | aborruso | Palermo, Italy | 14043 |
+| 13 | [eKisNonos](https://github.com/eKisNonos) | eK  | @NON-OS  |  | Italy | 13767 |
 | 14 | [vjt](https://github.com/vjt) | Marcello Barnaba | @facebook | vjt | Rome, Italy | 13443 |
 | 15 | [amadvance](https://github.com/amadvance) | Andrea Mazzoleni |  |  | Bergamo, Italy | 13436 |
 | 16 | [fabriziosalmi](https://github.com/fabriziosalmi) | fab |  |  | Italy | 13339 |

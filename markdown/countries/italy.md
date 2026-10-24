@@ -24,10 +24,10 @@ Indexed users: 48,997
 | 10 | [luduvigo](https://github.com/luduvigo) | Paolo Antonio Rossi | Milano | 27,890 |
 | 11 | [napo](https://github.com/napo) | Maurizio Napolitano | Trento, Italy | 27,490 |
 | 12 | [nomed](https://github.com/nomed) | Daniele Favara | Milano, Italy | 27,372 |
-| 13 | [vjt](https://github.com/vjt) | Marcello Barnaba | Rome, Italy | 25,277 |
-| 14 | [jowharshamshiri](https://github.com/jowharshamshiri) | Bahram Joharshamshiri | Italy | 22,458 |
-| 15 | [oco-adam](https://github.com/oco-adam) | Adam Harris | Padova, Italy | 21,755 |
-| 16 | [eKisNonos](https://github.com/eKisNonos) | A. Erik | Italy | 20,524 |
+| 13 | [eKisNonos](https://github.com/eKisNonos) | eK  | Italy | 26,285 |
+| 14 | [vjt](https://github.com/vjt) | Marcello Barnaba | Rome, Italy | 25,277 |
+| 15 | [jowharshamshiri](https://github.com/jowharshamshiri) | Bahram Joharshamshiri | Italy | 22,458 |
+| 16 | [oco-adam](https://github.com/oco-adam) | Adam Harris | Padova, Italy | 21,755 |
 | 17 | [Roberdan](https://github.com/Roberdan) | Roberdan | Italy | 19,948 |
 | 18 | [Balestrino](https://github.com/Balestrino) |  | Italy | 19,928 |
 | 19 | [giulio-leone](https://github.com/giulio-leone) | Giulio Leone | Italy \| Open to Relocation (EU / UAE / USA) | 19,013 |
@@ -44,12 +44,12 @@ Indexed users: 48,997
 | 5 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | Italia | 32,995 |
 | 6 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini | Milan, Italy | 28,837 |
 | 7 | [napo](https://github.com/napo) | Maurizio Napolitano | Trento, Italy | 27,450 |
-| 8 | [eKisNonos](https://github.com/eKisNonos) | A. Erik | Italy | 19,985 |
-| 9 | [Emasoft](https://github.com/Emasoft) | Emanuele Sabetta | Rome, Italy | 17,954 |
-| 10 | [Roberdan](https://github.com/Roberdan) | Roberdan | Italy | 16,674 |
-| 11 | [m0s4ik](https://github.com/m0s4ik) | Andrea | Italy | 14,927 |
-| 12 | [leopu00](https://github.com/leopu00) | Leone Emanuel Puglisi | Rome | 14,591 |
-| 13 | [aborruso](https://github.com/aborruso) | Andrea Borruso | Palermo, Italy | 14,043 |
+| 8 | [Emasoft](https://github.com/Emasoft) | Emanuele Sabetta | Rome, Italy | 17,954 |
+| 9 | [Roberdan](https://github.com/Roberdan) | Roberdan | Italy | 16,674 |
+| 10 | [m0s4ik](https://github.com/m0s4ik) | Andrea | Italy | 14,927 |
+| 11 | [leopu00](https://github.com/leopu00) | Leone Emanuel Puglisi | Rome | 14,591 |
+| 12 | [aborruso](https://github.com/aborruso) | Andrea Borruso | Palermo, Italy | 14,043 |
+| 13 | [eKisNonos](https://github.com/eKisNonos) | eK  | Italy | 13,767 |
 | 14 | [vjt](https://github.com/vjt) | Marcello Barnaba | Rome, Italy | 13,443 |
 | 15 | [amadvance](https://github.com/amadvance) | Andrea Mazzoleni | Bergamo, Italy | 13,436 |
 | 16 | [fabriziosalmi](https://github.com/fabriziosalmi) | fab | Italy | 13,339 |
@@ -83,4 +83,4 @@ Indexed users: 48,997
 | 19 | [flaviocopes](https://github.com/flaviocopes) | Flavio Copes | Italy | 2,316 |
 | 20 | [Err0r-ICA](https://github.com/Err0r-ICA) | *Err0r_HB* | Italia  | 2,254 |
 
-Generated: 2026-10-24T23:03:45.256Z
+Generated: 2026-10-24T23:26:58.678Z

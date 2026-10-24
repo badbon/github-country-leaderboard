@@ -16,8 +16,8 @@ Indexed users: 93
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,629 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,222 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,276 |
-| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,208 |
-| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,394 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,232 |
+| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,395 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,267 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,229 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 781 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 12 |
 | 20 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 12 |
 
-Generated: 2026-10-24T21:56:04.358Z
+Generated: 2026-10-24T23:19:04.751Z

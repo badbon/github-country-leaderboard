@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-24T21:56:17.856Z
+Generated: 2026-10-24T23:20:46.517Z
 
 Users: 86
 
@@ -8,7 +8,7 @@ Users: 86
 |---:|---|---|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6236 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Freelance | DarmaJoachim | Guadeloupe | 3344 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2381 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2383 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 1686 |
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1615 |
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1485 |

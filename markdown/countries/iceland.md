@@ -40,7 +40,7 @@ Indexed users: 1,579
 | 1 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 6,540 |
 | 2 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 5,735 |
 | 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 4,480 |
-| 4 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,577 |
+| 4 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,597 |
 | 5 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,378 |
 | 6 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 2,845 |
 | 7 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,838 |
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [kevien](https://github.com/kevien) | K3vin | iceland | 204 |
 
-Generated: 2026-10-24T21:58:44.517Z
+Generated: 2026-10-24T23:24:13.914Z

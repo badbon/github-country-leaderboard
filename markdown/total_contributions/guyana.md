@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-24T21:57:13.376Z
+Generated: 2026-10-24T23:23:00.085Z
 
 Users: 187
 
@@ -18,11 +18,11 @@ Users: 187
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3206 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3016 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2379 |
-| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 2016 |
+| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 2040 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1608 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1496 |
-| 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1477 |
-| 17 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1461 |
+| 16 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1486 |
+| 17 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1477 |
 | 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1453 |
 | 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1407 |
 | 20 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Tyler Technologies |  | Georgetown, Kentucky | 1307 |

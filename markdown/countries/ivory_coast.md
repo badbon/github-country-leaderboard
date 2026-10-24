@@ -17,7 +17,7 @@ Indexed users: 488
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,706 |
 | 4 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,525 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 8,146 |
-| 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 6,738 |
+| 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 6,854 |
 | 7 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 6,263 |
 | 8 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 6,240 |
 | 9 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | abidjan, côte d'ivoire | 5,979 |
@@ -28,10 +28,10 @@ Indexed users: 488
 | 14 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,638 |
 | 15 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 4,371 |
 | 16 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev | Côte d'ivoire, Abidjan | 4,300 |
-| 17 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 4,183 |
+| 17 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 4,205 |
 | 18 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme | Ivory Coast | 4,028 |
 | 19 | [elinguiuriel](https://github.com/elinguiuriel) | ELINGUI Pascal Uriel | Côte d'Ivoire | 4,015 |
-| 20 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,806 |
+| 20 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,792 |
 
 ## Public Contributions
 
@@ -48,15 +48,15 @@ Indexed users: 488
 | 9 | [zampou-code](https://github.com/zampou-code) | Zi Code | Abidjan, Ivory Coast | 561 |
 | 10 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou | Abidjan, Côte d'ivoire | 545 |
 | 11 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 504 |
-| 12 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 426 |
+| 12 | [DPYTHA](https://github.com/DPYTHA) | Agoua Moua | Ivory Coast | 402 |
 | 13 | [pmkod](https://github.com/pmkod) | Kodossou | Abidjan, Côte d'Ivoire | 390 |
 | 14 | [houphouet](https://github.com/houphouet) | KOUADIO Houphouët | Abidjan, Côte d'Ivoire  | 389 |
-| 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
-| 16 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 361 |
-| 17 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 361 |
-| 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 319 |
-| 19 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 308 |
-| 20 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 306 |
+| 15 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 381 |
+| 16 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
+| 17 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 361 |
+| 18 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 361 |
+| 19 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 319 |
+| 20 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 308 |
 
 ## Followers
 
@@ -74,13 +74,13 @@ Indexed users: 488
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 73 |
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI | Ivory Coast | 70 |
 | 12 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 64 |
-| 13 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 62 |
+| 13 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 63 |
 | 14 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 60 |
 | 15 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 58 |
 | 16 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | San Pedro, Côte d'Ivoire | 58 |
 | 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 51 |
 | 18 | [ourystd](https://github.com/ourystd) | Oury Diallo | Abidjan, Côte d'Ivoire | 48 |
-| 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
-| 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
+| 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
+| 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 42 |
 
-Generated: 2026-10-24T22:02:50.389Z
+Generated: 2026-10-24T23:27:07.312Z
