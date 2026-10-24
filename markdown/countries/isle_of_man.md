@@ -13,11 +13,11 @@ Indexed users: 155
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,562 |
-| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,528 |
+| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,575 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,609 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,591 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,727 |
-| 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,236 |
+| 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,259 |
 | 7 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,177 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 2,010 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,851 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-24T11:42:36.203Z
+Generated: 2026-10-24T13:07:24.672Z

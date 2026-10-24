@@ -74,7 +74,7 @@ Published countries: 236
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
-| Finland | 18,134 | [View](./finland.md) |
+| Finland | 18,133 | [View](./finland.md) |
 | French Guiana | 36 | [View](./french_guiana.md) |
 | French Polynesia | 60 | [View](./french_polynesia.md) |
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
@@ -83,7 +83,7 @@ Published countries: 236
 | Georgia | 6,865 | [View](./georgia.md) |
 | Ghana | 7,069 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
-| Greece | 15,528 | [View](./greece.md) |
+| Greece | 15,527 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
 | Grenada | 37 | [View](./grenada.md) |
 | Guadeloupe | 86 | [View](./guadeloupe.md) |
@@ -100,7 +100,7 @@ Published countries: 236
 | Hungary | 11,153 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,272 | [View](./indonesia.md) |
-| Iran | 26,844 | [View](./iran.md) |
+| Iran | 26,843 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
 | Ireland | 19,480 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
@@ -220,7 +220,7 @@ Published countries: 236
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,153 | [View](./tunisia.md) |
-| Turkey | 79,151 | [View](./turkey.md) |
+| Turkey | 79,152 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T12:54:22.928Z
+Generated: 2026-10-24T13:10:18.532Z

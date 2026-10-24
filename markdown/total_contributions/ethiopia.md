@@ -1,6 +1,6 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-24T11:33:23.000Z
+Generated: 2026-10-24T12:55:59.020Z
 
 Users: 6661
 
@@ -18,8 +18,8 @@ Users: 6661
 | 10 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha |  |  | Addis Ababa, Ethiopia | 10687 |
 | 11 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | @solvixteams | haxurn | Ethiopia, Addis Ababa | 10289 |
 | 12 | [yaftes](https://github.com/yaftes) | Yafet Tesfaye |  |  | Ethiopia , Adama | 10268 |
-| 13 | [LeulTew](https://github.com/LeulTew) | Leul Tewodros Agonafer |  |  | Addis Ababa, Ethiopia | 8541 |
-| 14 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew |  | natnaeln4d | Addis Ababa, Ethiopia | 8533 |
+| 13 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew |  | natnaeln4d | Addis Ababa, Ethiopia | 9365 |
+| 14 | [LeulTew](https://github.com/LeulTew) | Leul Tewodros Agonafer |  |  | Addis Ababa, Ethiopia | 8541 |
 | 15 | [abela12](https://github.com/abela12) | Abel Berhanu | @gashadigital @siltawi  |  | Ethiopia , Addis Abeba | 8394 |
 | 16 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed |  |  | Ethiopia | 8340 |
 | 17 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | @xgnosis |  | Addis Ababa, Ethiopia | 8205 |

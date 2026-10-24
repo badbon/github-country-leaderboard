@@ -1,17 +1,17 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-24T11:42:36.203Z
+Generated: 2026-10-24T13:07:24.672Z
 
 Users: 155
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Vannin Studio |  | Isle of Man | 11562 |
-| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 10528 |
+| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 10575 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 8609 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4591 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3727 |
-| 6 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 2236 |
+| 6 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 2259 |
 | 7 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2177 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 2010 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1851 |

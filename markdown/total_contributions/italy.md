@@ -1,6 +1,6 @@
 # Total Contributions - Italy
 
-Generated: 2026-10-24T11:44:23.049Z
+Generated: 2026-10-24T13:07:55.383Z
 
 Users: 49000
 
@@ -13,11 +13,11 @@ Users: 49000
 | 5 | [mfortini](https://github.com/mfortini) | Matteo Fortini |  |  | Italia | 48180 |
 | 6 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini |  |  | Milan, Italy | 38634 |
 | 7 | [LynxesExe](https://github.com/LynxesExe) |  |  |  | Italy | 34573 |
-| 8 | [blackms](https://github.com/blackms) | Alessio Rocchi | @AIgen-Solutions-s-r-l |  | Rome | 29042 |
-| 9 | [luduvigo](https://github.com/luduvigo) | Paolo Antonio Rossi | Gorilli | luduvigo | Milano | 27890 |
-| 10 | [napo](https://github.com/napo) | Maurizio Napolitano | FBK | napo | Trento, Italy | 27490 |
-| 11 | [nomed](https://github.com/nomed) | Daniele Favara | Retex SPA |  | Milano, Italy | 27372 |
-| 12 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | privato |  | Italia | 26854 |
+| 8 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | privato |  | Italia | 32995 |
+| 9 | [blackms](https://github.com/blackms) | Alessio Rocchi | @AIgen-Solutions-s-r-l |  | Rome | 29042 |
+| 10 | [luduvigo](https://github.com/luduvigo) | Paolo Antonio Rossi | Gorilli | luduvigo | Milano | 27890 |
+| 11 | [napo](https://github.com/napo) | Maurizio Napolitano | FBK | napo | Trento, Italy | 27490 |
+| 12 | [nomed](https://github.com/nomed) | Daniele Favara | Retex SPA |  | Milano, Italy | 27372 |
 | 13 | [vjt](https://github.com/vjt) | Marcello Barnaba | @facebook | vjt | Rome, Italy | 25277 |
 | 14 | [jowharshamshiri](https://github.com/jowharshamshiri) | Bahram Joharshamshiri |  |  | Italy | 22458 |
 | 15 | [oco-adam](https://github.com/oco-adam) | Adam Harris | Omnified |  | Padova, Italy | 21755 |

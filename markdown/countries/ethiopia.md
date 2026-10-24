@@ -24,8 +24,8 @@ Indexed users: 6,661
 | 10 | [Benomi](https://github.com/Benomi) | Binyam T. Fisseha | Addis Ababa, Ethiopia | 10,687 |
 | 11 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | Ethiopia, Addis Ababa | 10,289 |
 | 12 | [yaftes](https://github.com/yaftes) | Yafet Tesfaye | Ethiopia , Adama | 10,268 |
-| 13 | [LeulTew](https://github.com/LeulTew) | Leul Tewodros Agonafer | Addis Ababa, Ethiopia | 8,541 |
-| 14 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew | Addis Ababa, Ethiopia | 8,533 |
+| 13 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew | Addis Ababa, Ethiopia | 9,365 |
+| 14 | [LeulTew](https://github.com/LeulTew) | Leul Tewodros Agonafer | Addis Ababa, Ethiopia | 8,541 |
 | 15 | [abela12](https://github.com/abela12) | Abel Berhanu | Ethiopia , Addis Abeba | 8,394 |
 | 16 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed | Ethiopia | 8,340 |
 | 17 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 8,205 |
@@ -83,4 +83,4 @@ Indexed users: 6,661
 | 19 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 511 |
 | 20 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 501 |
 
-Generated: 2026-10-24T11:33:23.000Z
+Generated: 2026-10-24T12:55:59.020Z

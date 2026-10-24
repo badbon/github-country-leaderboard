@@ -1,6 +1,6 @@
 # Public Contributions - Italy
 
-Generated: 2026-10-24T11:44:23.049Z
+Generated: 2026-10-24T13:07:55.383Z
 
 Users: 49000
 
@@ -10,9 +10,9 @@ Users: 49000
 | 2 | [HaraldBregu](https://github.com/HaraldBregu) | Harald Bregu | Kucedr | HaraldBregu | Italy | 79243 |
 | 3 | [bocaletto-luca](https://github.com/bocaletto-luca) | Bocaletto Luca |  |  | Italy | 68458 |
 | 4 | [mfortini](https://github.com/mfortini) | Matteo Fortini |  |  | Italia | 48180 |
-| 5 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini |  |  | Milan, Italy | 28837 |
-| 6 | [napo](https://github.com/napo) | Maurizio Napolitano | FBK | napo | Trento, Italy | 27450 |
-| 7 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | privato |  | Italia | 26854 |
+| 5 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | privato |  | Italia | 32995 |
+| 6 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini |  |  | Milan, Italy | 28837 |
+| 7 | [napo](https://github.com/napo) | Maurizio Napolitano | FBK | napo | Trento, Italy | 27450 |
 | 8 | [eKisNonos](https://github.com/eKisNonos) | A. Erik | @NON-OS  |  | Italy | 19985 |
 | 9 | [Emasoft](https://github.com/Emasoft) | Emanuele Sabetta |  | fmuaddib | Rome, Italy | 17954 |
 | 10 | [Roberdan](https://github.com/Roberdan) | Roberdan | Microsoft and FightTheStroke.org |  | Italy | 16674 |

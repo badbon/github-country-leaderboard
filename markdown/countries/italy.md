@@ -19,11 +19,11 @@ Indexed users: 49,000
 | 5 | [mfortini](https://github.com/mfortini) | Matteo Fortini | Italia | 48,180 |
 | 6 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini | Milan, Italy | 38,634 |
 | 7 | [LynxesExe](https://github.com/LynxesExe) |  | Italy | 34,573 |
-| 8 | [blackms](https://github.com/blackms) | Alessio Rocchi | Rome | 29,042 |
-| 9 | [luduvigo](https://github.com/luduvigo) | Paolo Antonio Rossi | Milano | 27,890 |
-| 10 | [napo](https://github.com/napo) | Maurizio Napolitano | Trento, Italy | 27,490 |
-| 11 | [nomed](https://github.com/nomed) | Daniele Favara | Milano, Italy | 27,372 |
-| 12 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | Italia | 26,854 |
+| 8 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | Italia | 32,995 |
+| 9 | [blackms](https://github.com/blackms) | Alessio Rocchi | Rome | 29,042 |
+| 10 | [luduvigo](https://github.com/luduvigo) | Paolo Antonio Rossi | Milano | 27,890 |
+| 11 | [napo](https://github.com/napo) | Maurizio Napolitano | Trento, Italy | 27,490 |
+| 12 | [nomed](https://github.com/nomed) | Daniele Favara | Milano, Italy | 27,372 |
 | 13 | [vjt](https://github.com/vjt) | Marcello Barnaba | Rome, Italy | 25,277 |
 | 14 | [jowharshamshiri](https://github.com/jowharshamshiri) | Bahram Joharshamshiri | Italy | 22,458 |
 | 15 | [oco-adam](https://github.com/oco-adam) | Adam Harris | Padova, Italy | 21,755 |
@@ -41,9 +41,9 @@ Indexed users: 49,000
 | 2 | [HaraldBregu](https://github.com/HaraldBregu) | Harald Bregu | Italy | 79,243 |
 | 3 | [bocaletto-luca](https://github.com/bocaletto-luca) | Bocaletto Luca | Italy | 68,458 |
 | 4 | [mfortini](https://github.com/mfortini) | Matteo Fortini | Italia | 48,180 |
-| 5 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini | Milan, Italy | 28,837 |
-| 6 | [napo](https://github.com/napo) | Maurizio Napolitano | Trento, Italy | 27,450 |
-| 7 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | Italia | 26,854 |
+| 5 | [simonesugliano](https://github.com/simonesugliano) | simone sugliano | Italia | 32,995 |
+| 6 | [smm-h](https://github.com/smm-h) | Mahdi Hosseini | Milan, Italy | 28,837 |
+| 7 | [napo](https://github.com/napo) | Maurizio Napolitano | Trento, Italy | 27,450 |
 | 8 | [eKisNonos](https://github.com/eKisNonos) | A. Erik | Italy | 19,985 |
 | 9 | [Emasoft](https://github.com/Emasoft) | Emanuele Sabetta | Rome, Italy | 17,954 |
 | 10 | [Roberdan](https://github.com/Roberdan) | Roberdan | Italy | 16,674 |
@@ -83,4 +83,4 @@ Indexed users: 49,000
 | 19 | [flaviocopes](https://github.com/flaviocopes) | Flavio Copes | Italy | 2,316 |
 | 20 | [Err0r-ICA](https://github.com/Err0r-ICA) | *Err0r_HB* | Italia  | 2,254 |
 
-Generated: 2026-10-24T11:44:23.049Z
+Generated: 2026-10-24T13:07:55.383Z

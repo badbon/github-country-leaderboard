@@ -15,7 +15,7 @@ Indexed users: 488
 | 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 10,809 |
 | 2 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 9,456 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,706 |
-| 4 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,561 |
+| 4 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,525 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 8,146 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 6,738 |
 | 7 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 6,263 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 
-Generated: 2026-10-24T11:44:28.884Z
+Generated: 2026-10-24T13:07:58.598Z
