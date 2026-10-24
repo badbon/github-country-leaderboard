@@ -48548,7 +48548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-08-24T15:39:25Z"
   },
   {
@@ -48584,7 +48584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-10-02T20:58:32Z"
   },
   {
@@ -48620,7 +48620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 73,
     "createdAt": "2023-12-18T13:13:53Z"
   },
   {
@@ -48644,7 +48644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 158,
     "createdAt": "2023-11-20T20:01:08Z"
   },
   {
@@ -48703,8 +48703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
-    "publicContributions": 142,
+    "privateContributions": 68,
+    "publicContributions": 151,
     "createdAt": "2023-07-01T14:56:01Z"
   },
   {
@@ -48716,20 +48716,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 159,
     "createdAt": "2023-09-25T10:55:06Z"
-  },
-  {
-    "login": "PavloStovba",
-    "name": "Pavlo Stovba",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148049825?s=72&u=a11b9b09adcf56f28cd3b58c2e99a08ab83e022b&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2443,
-    "publicContributions": 5,
-    "createdAt": "2023-10-16T08:20:35Z"
   },
   {
     "login": "w1nzeen",
@@ -48740,19 +48728,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 34,
     "createdAt": "2023-11-05T16:06:34Z"
   },
   {
     "login": "Xenonmite",
-    "name": "Xenomite",
+    "name": "Xenonmite",
     "avatarUrl": "https://avatars.githubusercontent.com/u/148646789?s=72&u=daa33fb6645d9f2cfc4410b48d29991921f040a9&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2023-10-21T17:05:47Z"
   },
   {
@@ -48766,18 +48754,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-13T13:08:11Z"
-  },
-  {
-    "login": "OleksandrIOSDeveloper",
-    "name": "Oleksandr Roditieliev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145682019?s=72&u=89c5f98989fbf1e5278e76594693ebef71659974&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-09-21T13:10:44Z"
   },
   {
     "login": "AndreAnt1307",

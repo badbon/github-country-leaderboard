@@ -48248,7 +48248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-01-03T12:38:19Z"
   },
   {
@@ -48284,7 +48284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 19,
     "createdAt": "2022-03-16T08:21:28Z"
   },
   {
@@ -48307,7 +48307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 91,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2022-03-22T18:34:15Z"
   },
@@ -48318,9 +48318,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 270,
-    "publicContributions": 4,
+    "followers": 2,
+    "privateContributions": 276,
+    "publicContributions": 5,
     "createdAt": "2022-03-23T15:04:48Z"
   },
   {
@@ -48379,8 +48379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 50,
-    "publicContributions": 21,
+    "privateContributions": 35,
+    "publicContributions": 17,
     "createdAt": "2022-01-18T16:50:45Z"
   },
   {
@@ -48403,7 +48403,7 @@
     "company": "Vyrga Technologies AB",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1788,
+    "privateContributions": 1541,
     "publicContributions": 194,
     "createdAt": "2022-02-24T07:27:08Z"
   },
