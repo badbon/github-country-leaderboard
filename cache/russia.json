@@ -870754,5 +870754,113 @@
     "privateContributions": 312,
     "publicContributions": 1,
     "createdAt": "2012-06-08T18:04:10Z"
+  },
+  {
+    "login": "OsipovStas",
+    "name": "Osipov Stas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1499149?s=72&v=4",
+    "location": "St.-Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2012-03-04T10:48:13Z"
+  },
+  {
+    "login": "abuyanov",
+    "name": "Aleksandr Buyanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3146214?s=72&u=de642fd6c3b8a53a78f29e302fb809f106fc2a44&v=4",
+    "location": "St.-Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-29T04:54:10Z"
+  },
+  {
+    "login": "Shwance",
+    "name": "Shawn Wright",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2964273?s=72&v=4",
+    "location": "St. Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-04T18:33:20Z"
+  },
+  {
+    "login": "hostco",
+    "name": "HostCo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1396217?s=72&u=3747bc4d49189587c1138a15e058a1f8069b4d13&v=4",
+    "location": "St. Petersburg, Florida",
+    "company": "HostCo, Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1186,
+    "publicContributions": 0,
+    "createdAt": "2012-01-31T23:58:27Z"
+  },
+  {
+    "login": "AlexCSR",
+    "name": "Alexander",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3109188?s=72&u=393fa1996c80cd87a3779891dda60c79d3624a57&v=4",
+    "location": "St. Petersburg, RU",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-12-23T10:54:13Z"
+  },
+  {
+    "login": "Suet",
+    "name": "Suet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1531624?s=72&v=4",
+    "location": "St.-Petersburg",
+    "company": "Alidi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-13T05:21:42Z"
+  },
+  {
+    "login": "wjunkin",
+    "name": "Bill Junkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1895743?s=72&v=4",
+    "location": "St. Petersburg, FL 33711",
+    "company": "Eckerd College",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2012-06-26T20:22:24Z"
+  },
+  {
+    "login": "enikki",
+    "name": "Nikita",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2431656?s=72&u=3d37ce9b8873bb05932b156a1f100b9b220dba1e&v=4",
+    "location": "St. Petersburg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-09-26T20:27:33Z"
+  },
+  {
+    "login": "trawson",
+    "name": "Tony Rawson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1577029?s=72&v=4",
+    "location": "St Petersburg, FL",
+    "company": "Suncoast FCU",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-03-26T17:05:04Z"
   }
 ]
