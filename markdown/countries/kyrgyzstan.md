@@ -63,7 +63,7 @@ Indexed users: 2,439
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat | Bishkek, Kyrgyzstan | 2,218 |
-| 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) | Kyrgyzstan | 380 |
+| 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) | Kyrgyzstan | 378 |
 | 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Kyrgyzstan, Bishkek | 376 |
 | 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky | Bishkek | 255 |
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev | Kyrgyzstan, Bishkek | 209 |
@@ -83,4 +83,4 @@ Indexed users: 2,439
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 103 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 102 |
 
-Generated: 2026-10-24T11:47:37.265Z
+Generated: 2026-10-24T13:12:01.064Z

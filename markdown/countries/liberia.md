@@ -21,16 +21,16 @@ Indexed users: 210
 | 7 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,716 |
 | 8 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,517 |
 | 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,437 |
-| 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,411 |
+| 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,412 |
 | 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,251 |
 | 12 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
-| 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 877 |
+| 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 875 |
 | 14 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 863 |
 | 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 843 |
 | 16 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 837 |
-| 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 763 |
-| 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
-| 19 | [ryanafdahl](https://github.com/ryanafdahl) | Ryan Afdahl | Monrovia, CA | 700 |
+| 17 | [ryanafdahl](https://github.com/ryanafdahl) | Ryan Afdahl | Monrovia, CA | 795 |
+| 18 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 763 |
+| 19 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 20 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 639 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-24T11:50:18.354Z
+Generated: 2026-10-24T13:13:59.158Z

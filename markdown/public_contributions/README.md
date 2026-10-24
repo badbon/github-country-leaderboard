@@ -105,11 +105,11 @@ Published countries: 236
 | Ireland | 19,480 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,412 | [View](./israel.md) |
-| Italy | 49,000 | [View](./italy.md) |
+| Italy | 49,001 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
-| Jordan | 3,994 | [View](./jordan.md) |
+| Jordan | 3,993 | [View](./jordan.md) |
 | Kazakhstan | 5,616 | [View](./kazakhstan.md) |
 | Kenya | 24,003 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
@@ -117,7 +117,7 @@ Published countries: 236
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
 | Laos | 359 | [View](./laos.md) |
 | Latvia | 3,245 | [View](./latvia.md) |
-| Lebanon | 2,552 | [View](./lebanon.md) |
+| Lebanon | 2,551 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 740 | [View](./libya.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T13:10:18.532Z
+Generated: 2026-10-24T13:16:57.490Z

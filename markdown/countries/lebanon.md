@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,552
+Indexed users: 2,551
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,552
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-24T11:49:30.132Z
+Generated: 2026-10-24T13:12:52.625Z

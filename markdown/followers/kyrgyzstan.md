@@ -1,13 +1,13 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-24T11:47:37.265Z
+Generated: 2026-10-24T13:12:01.064Z
 
 Users: 2439
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat |  |  | Bishkek, Kyrgyzstan | 2218 |
-| 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) |  |  | Kyrgyzstan | 380 |
+| 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) |  |  | Kyrgyzstan | 378 |
 | 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Founder & CEO @CodexKG | binniev01 | Kyrgyzstan, Bishkek | 376 |
 | 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky |  |  | Bishkek | 255 |
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev |  | gen1us2k | Kyrgyzstan, Bishkek | 209 |

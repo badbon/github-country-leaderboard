@@ -1,8 +1,8 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-24T11:45:05.318Z
+Generated: 2026-10-24T13:11:22.673Z
 
-Users: 3994
+Users: 3993
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 3994
 | 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi |  |  | Jordan | 2784 |
 | 9 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 2686 |
 | 10 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 2095 |
-| 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 2042 |
-| 12 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1973 |
-| 13 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari |  |  | Jordan | 1783 |
-| 14 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1777 |
-| 15 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 1620 |
-| 16 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | @tajawal |  | Amman, Jordan | 1500 |
-| 17 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1369 |
-| 18 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb |  |  | Jordan | 1349 |
-| 19 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 1264 |
-| 20 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1256 |
+| 11 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 2049 |
+| 12 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 2042 |
+| 13 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1973 |
+| 14 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari |  |  | Jordan | 1783 |
+| 15 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1777 |
+| 16 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 1620 |
+| 17 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | @tajawal |  | Amman, Jordan | 1500 |
+| 18 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1369 |
+| 19 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb |  |  | Jordan | 1349 |
+| 20 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | @Null-Square  |  | Amman | 1264 |

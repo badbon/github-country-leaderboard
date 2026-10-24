@@ -52,7 +52,7 @@ Indexed users: 740
 | 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 423 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 413 |
 | 15 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat | Libya-Tripoli-Gorji | 375 |
-| 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 368 |
+| 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 369 |
 | 17 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 366 |
 | 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 352 |
 | 19 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 349 |
@@ -80,7 +80,7 @@ Indexed users: 740
 | 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar | Benghazi, Libya | 58 |
 | 17 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar | Tripoli, Libya | 57 |
 | 18 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 56 |
-| 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 51 |
+| 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-24T11:50:20.557Z
+Generated: 2026-10-24T13:14:41.056Z

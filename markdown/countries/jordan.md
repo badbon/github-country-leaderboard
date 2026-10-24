@@ -1,6 +1,6 @@
 # Jordan
 
-Indexed users: 3,994
+Indexed users: 3,993
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 3,994
 | 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
 | 9 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 2,686 |
 | 10 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 2,095 |
-| 11 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 2,042 |
-| 12 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,973 |
-| 13 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
-| 14 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,777 |
-| 15 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 1,620 |
-| 16 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | Amman, Jordan | 1,500 |
-| 17 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,369 |
-| 18 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb | Jordan | 1,349 |
-| 19 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | Amman | 1,264 |
-| 20 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,256 |
+| 11 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo | Jordan | 2,049 |
+| 12 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 2,042 |
+| 13 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,973 |
+| 14 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
+| 15 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,777 |
+| 16 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 1,620 |
+| 17 | [LinuxDevil](https://github.com/LinuxDevil) | Ali Mohammad | Amman, Jordan | 1,500 |
+| 18 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,369 |
+| 19 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb | Jordan | 1,349 |
+| 20 | [omar7altawil](https://github.com/omar7altawil) | Omar Tawil | Amman | 1,264 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,994
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 196 |
 
-Generated: 2026-10-24T11:45:05.318Z
+Generated: 2026-10-24T13:11:22.673Z

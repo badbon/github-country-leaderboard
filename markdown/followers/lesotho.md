@@ -1,6 +1,6 @@
 # Followers - Lesotho
 
-Generated: 2026-10-24T11:50:08.701Z
+Generated: 2026-10-24T13:13:23.604Z
 
 Users: 160
 
@@ -15,7 +15,7 @@ Users: 160
 | 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 44 |
 | 8 | [khobatha](https://github.com/khobatha) | Khobatha Setetemela | NUL |  | Maseru, Roma, Lesotho | 38 |
 | 9 | [AtomLaw](https://github.com/AtomLaw) | Hlompho | Private |  | Lesotho | 31 |
-| 10 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 30 |
+| 10 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 31 |
 | 11 | [Ntlele](https://github.com/Ntlele) | David |  |  | Lesotho | 25 |
 | 12 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 19 |
 | 13 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 15 |
