@@ -1,6 +1,6 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-24T14:09:11.803Z
+Generated: 2026-10-24T16:38:29.932Z
 
 Users: 471
 
@@ -13,12 +13,12 @@ Users: 471
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 7325 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 6465 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 5391 |
-| 8 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | @lixalistudio @lixalistudio-oss | elikemmedehou | Cotonou, Benin | 4649 |
-| 9 | [BOCOVO](https://github.com/BOCOVO) | bocovo | @BCV-TECH | juste_bocovo | Cotonou, Benin | 4428 |
-| 10 | [Block67](https://github.com/Block67) | Rahamane ₿ODA |  | Ramane_Boda | Benin, Cotonou | 4304 |
-| 11 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | ___ |  | Cotonou, Benin | 4221 |
-| 12 | [Richard6141](https://github.com/Richard6141) | Richard SALANON |  |  | Cotonou, Bénin | 4074 |
-| 13 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 4063 |
+| 8 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | @lixalistudio @lixalistudio-oss | elikemmedehou | Cotonou, Benin | 4959 |
+| 9 | [BOCOVO](https://github.com/BOCOVO) | bocovo | @BCV-TECH | juste_bocovo | Cotonou, Benin | 4381 |
+| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 4374 |
+| 11 | [Block67](https://github.com/Block67) | Rahamane ₿ODA |  | Ramane_Boda | Benin, Cotonou | 4304 |
+| 12 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | ___ |  | Cotonou, Benin | 4221 |
+| 13 | [Richard6141](https://github.com/Richard6141) | Richard SALANON |  |  | Cotonou, Bénin | 4074 |
 | 14 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 4022 |
 | 15 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 3978 |
 | 16 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Friym |  | Benin, Cotonou | 3977 |

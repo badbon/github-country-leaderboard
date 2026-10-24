@@ -24,14 +24,14 @@ Indexed users: 10,913
 | 10 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
 | 11 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 7,302 |
 | 12 | [dzmitryNz](https://github.com/dzmitryNz) |  | Belarus | 6,792 |
-| 13 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
-| 14 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
-| 15 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
-| 16 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
-| 17 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
-| 18 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
-| 19 | [aliskar](https://github.com/aliskar) | Aliaksandr Skarakhod | Belarus | 4,929 |
-| 20 | [SergeyGalaxyOrsik](https://github.com/SergeyGalaxyOrsik) | Siarhei Orsik | Minsk | 4,822 |
+| 13 | [LeonidShatilo](https://github.com/LeonidShatilo) | Leonid Shatilo | Gomel, Belarus | 6,427 |
+| 14 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
+| 15 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
+| 16 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
+| 17 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
+| 18 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
+| 19 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,006 |
+| 20 | [aliskar](https://github.com/aliskar) | Aliaksandr Skarakhod | Belarus | 4,929 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,913
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [alexzhirkevich](https://github.com/alexzhirkevich) | Alexander Zhirkevich | Belarus, Minsk | 165 |
 
-Generated: 2026-10-24T14:07:50.662Z
+Generated: 2026-10-24T16:36:14.131Z

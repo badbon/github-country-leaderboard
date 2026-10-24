@@ -13,7 +13,7 @@ Indexed users: 6,864
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [iknowl97](https://github.com/iknowl97) | iknowl | Georgia , Tbilisi | 40,001 |
-| 2 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 34,394 |
+| 2 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 38,811 |
 | 3 | [davidshq](https://github.com/davidshq) | Dave Mackey | Georgia | 32,093 |
 | 4 | [luzanovdm](https://github.com/luzanovdm) | Dmitry Luzanov | Georgia, Tbilisi | 25,747 |
 | 5 | [armanobosyan](https://github.com/armanobosyan) | Arman Obosyan | Tbilisi, Georgia | 25,465 |
@@ -37,7 +37,7 @@ Indexed users: 6,864
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 14,808 |
+| 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Tbilisi | 19,152 |
 | 2 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 13,900 |
 | 3 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov | Georgia | 12,796 |
 | 4 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 11,296 |
@@ -83,4 +83,4 @@ Indexed users: 6,864
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-24T14:03:32.990Z
+Generated: 2026-10-24T16:31:54.241Z

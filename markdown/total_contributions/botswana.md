@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-24T14:13:08.078Z
+Generated: 2026-10-24T16:39:42.893Z
 
 Users: 532
 
@@ -10,8 +10,8 @@ Users: 532
 | 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Alba Connect | soundninja0401 | Botswana,Gaborone | 8242 |
 | 3 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2961 |
 | 4 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 2746 |
-| 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 2682 |
-| 6 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 2679 |
+| 5 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 2719 |
+| 6 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 2682 |
 | 7 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 2505 |
 | 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | @africacodeacademy @wholeapp  |  | Gaborone, Botswana | 2426 |
 | 9 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Botswana International University of Science and Technology  |  | Gaborone, Botswana | 2290 |

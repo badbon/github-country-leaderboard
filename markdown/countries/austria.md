@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,240
+Indexed users: 18,239
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 18,240
 | 19 | [Empiree](https://github.com/Empiree) | Oleg Dubovoi | Vienna, Austria | 1,170 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-24T14:05:53.878Z
+Generated: 2026-10-24T16:35:10.845Z

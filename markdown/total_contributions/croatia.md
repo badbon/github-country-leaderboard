@@ -1,8 +1,8 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-24T14:18:29.459Z
+Generated: 2026-10-24T16:44:41.461Z
 
-Users: 5416
+Users: 5415
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 5416
 | 13 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Digital Nomad Agency |  | Pula, Croatia | 8428 |
 | 14 | [Norgul](https://github.com/Norgul) | Marko Dupor | PlusMusic |  | Rijeka, Croatia | 8372 |
 | 15 | [lbagic](https://github.com/lbagic) | Luka Bagic |  |  | Croatia | 8198 |
-| 16 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
-| 17 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
-| 18 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
-| 19 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 20 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |
+| 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | MetalHorse233 | Zagreb | 8142 |
+| 17 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
+| 18 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
+| 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
+| 20 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |

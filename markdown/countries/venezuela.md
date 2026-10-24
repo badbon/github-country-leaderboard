@@ -18,12 +18,12 @@ Indexed users: 6,603
 | 4 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez | Caracas, Venezuela | 12,706 |
 | 5 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 12,611 |
 | 6 | [bin-daldana](https://github.com/bin-daldana) | David Aldana | Venezuela | 11,960 |
-| 7 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
-| 8 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
-| 9 | [sosalejandro](https://github.com/sosalejandro) | Alejandro Sosa | Caracas | 10,196 |
-| 10 | [arturojose19](https://github.com/arturojose19) | Arturo Jose Linares Viola | Caracas, Venezuela | 9,830 |
-| 11 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
-| 12 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
+| 7 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 11,687 |
+| 8 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
+| 9 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
+| 10 | [sosalejandro](https://github.com/sosalejandro) | Alejandro Sosa | Caracas | 10,196 |
+| 11 | [arturojose19](https://github.com/arturojose19) | Arturo Jose Linares Viola | Caracas, Venezuela | 9,830 |
+| 12 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
 | 13 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
 | 14 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
 | 15 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 8,915 |
@@ -83,4 +83,4 @@ Indexed users: 6,603
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 182 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-24T14:01:45.520Z
+Generated: 2026-10-24T16:29:45.398Z

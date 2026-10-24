@@ -1,13 +1,13 @@
 # Total Contributions - Georgia
 
-Generated: 2026-10-24T14:03:32.990Z
+Generated: 2026-10-24T16:31:54.241Z
 
 Users: 6864
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [iknowl97](https://github.com/iknowl97) | iknowl | Ltd Coinmania |  | Georgia , Tbilisi | 40001 |
-| 2 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Garage IT |  | Tbilisi | 34394 |
+| 2 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Garage IT |  | Tbilisi | 38811 |
 | 3 | [davidshq](https://github.com/davidshq) | Dave Mackey | @Eccentric-Quality-Solutions  |  | Georgia | 32093 |
 | 4 | [luzanovdm](https://github.com/luzanovdm) | Dmitry Luzanov | tetri.app | DmitryLuzanov | Georgia, Tbilisi | 25747 |
 | 5 | [armanobosyan](https://github.com/armanobosyan) | Arman Obosyan | @Sugra-Systems | armanobosyan | Tbilisi, Georgia | 25465 |

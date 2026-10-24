@@ -48,15 +48,15 @@ Indexed users: 4,873
 | 9 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,954 |
 | 11 | [Disble](https://github.com/Disble) | Alejandro Arias | Ibarra, Ecuador | 2,836 |
-| 12 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,429 |
-| 13 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 2,376 |
-| 14 | [MigelAngelEC](https://github.com/MigelAngelEC) | Miguel Angel Esparza | Ecuador | 2,083 |
-| 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 2,051 |
-| 16 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
-| 17 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
-| 18 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde | Ecuador | 1,812 |
-| 19 | [DavidAucancela](https://github.com/DavidAucancela) |  | Quito, Ecuador | 1,742 |
-| 20 | [Alanjavier22](https://github.com/Alanjavier22) | Alan Mejia | Ecuador | 1,738 |
+| 12 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado | Ecuador, Manabí, Jipijapa | 2,458 |
+| 13 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,429 |
+| 14 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 2,376 |
+| 15 | [MigelAngelEC](https://github.com/MigelAngelEC) | Miguel Angel Esparza | Ecuador | 2,083 |
+| 16 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 2,051 |
+| 17 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
+| 18 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
+| 19 | [AndrezRecalde](https://github.com/AndrezRecalde) | Andres Recalde | Ecuador | 1,812 |
+| 20 | [DavidAucancela](https://github.com/DavidAucancela) |  | Quito, Ecuador | 1,742 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,873
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-24T14:23:18.972Z
+Generated: 2026-10-24T16:46:14.958Z

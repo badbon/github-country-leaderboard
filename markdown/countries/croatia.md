@@ -1,6 +1,6 @@
 # Croatia
 
-Indexed users: 5,416
+Indexed users: 5,415
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 5,416
 | 13 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Pula, Croatia | 8,428 |
 | 14 | [Norgul](https://github.com/Norgul) | Marko Dupor | Rijeka, Croatia | 8,372 |
 | 15 | [lbagic](https://github.com/lbagic) | Luka Bagic | Croatia | 8,198 |
-| 16 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
-| 17 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | Croatia | 8,044 |
-| 18 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
-| 19 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
-| 20 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
+| 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 8,142 |
+| 17 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
+| 18 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | Croatia | 8,044 |
+| 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
+| 20 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
 
 ## Public Contributions
 
@@ -54,8 +54,8 @@ Indexed users: 5,416
 | 15 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 3,513 |
 | 16 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
 | 17 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
-| 18 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 2,864 |
-| 19 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,786 |
+| 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,971 |
+| 19 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 2,864 |
 | 20 | [ipaleka](https://github.com/ipaleka) | Ivica Paleka | Zadar, Croatia | 2,627 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 5,416
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-24T14:18:29.459Z
+Generated: 2026-10-24T16:44:41.461Z

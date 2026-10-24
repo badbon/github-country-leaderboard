@@ -19,12 +19,12 @@ Indexed users: 471
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,325 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,465 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,391 |
-| 8 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 4,649 |
-| 9 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,428 |
-| 10 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,304 |
-| 11 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 4,221 |
-| 12 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,074 |
-| 13 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,063 |
+| 8 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 4,959 |
+| 9 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,381 |
+| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,374 |
+| 11 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,304 |
+| 12 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 4,221 |
+| 13 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,074 |
 | 14 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 4,022 |
 | 15 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 3,978 |
 | 16 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,977 |
@@ -66,7 +66,7 @@ Indexed users: 471
 | 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev | Benin | 468 |
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  | Benin 🇧🇯 | 442 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 240 |
-| 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 231 |
+| 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 233 |
 | 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Benin | 137 |
 | 7 | [florentak](https://github.com/florentak) | Florent Ayidedji | Cotonou, Littoral, Benin | 129 |
 | 8 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 113 |
@@ -81,6 +81,6 @@ Indexed users: 471
 | 17 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
-| 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
+| 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 70 |
 
-Generated: 2026-10-24T14:09:11.803Z
+Generated: 2026-10-24T16:38:29.932Z

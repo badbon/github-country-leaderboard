@@ -12,7 +12,7 @@ Indexed users: 726
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 119,533 |
+| 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 119,747 |
 | 2 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 13,301 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,273 |
 | 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 7,764 |
@@ -83,4 +83,4 @@ Indexed users: 726
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-24T14:07:32.747Z
+Generated: 2026-10-24T16:35:21.066Z

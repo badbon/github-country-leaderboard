@@ -20,7 +20,7 @@ Indexed users: 235
 | 6 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,719 |
 | 7 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,662 |
 | 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,576 |
-| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,481 |
+| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,478 |
 | 10 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,464 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,319 |
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,146 |
@@ -47,7 +47,7 @@ Indexed users: 235
 | 8 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 403 |
 | 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 263 |
-| 11 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 246 |
+| 11 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 234 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 229 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 192 |
 | 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 151 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-24T14:14:40.661Z
+Generated: 2026-10-24T16:41:49.075Z

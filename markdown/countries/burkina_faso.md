@@ -21,7 +21,7 @@ Indexed users: 486
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,824 |
 | 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,659 |
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,878 |
-| 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,594 |
+| 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,586 |
 | 11 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 2,376 |
 | 12 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,361 |
 | 13 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 2,103 |
@@ -69,7 +69,7 @@ Indexed users: 486
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 119 |
 | 6 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 107 |
 | 7 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 104 |
-| 8 | [honokini](https://github.com/honokini) | KINI Biè Honoré | Burkina Faso(Bobo-Dioulasso) | 104 |
+| 8 | [honokini](https://github.com/honokini) | KINI Biè Honoré | Burkina Faso(Bobo-Dioulasso) | 103 |
 | 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue | Burkina Faso - Ouagadougou | 98 |
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Burkina Faso | 93 |
 | 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 65 |
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 36 |
 
-Generated: 2026-10-24T14:14:12.902Z
+Generated: 2026-10-24T16:41:20.942Z

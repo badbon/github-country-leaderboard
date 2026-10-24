@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-24T14:04:09.672Z
+Generated: 2026-10-24T16:33:14.861Z
 
 Users: 1180
 
@@ -20,8 +20,8 @@ Users: 1180
 | 12 | [Damjanose](https://github.com/Damjanose) | Damjano |  |  | Albania, Tirana | 771 |
 | 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
 | 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 730 |
-| 15 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 691 |
-| 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 670 |
+| 15 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 670 |
+| 16 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 663 |
 | 17 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 647 |
 | 18 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 643 |
 | 19 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 633 |

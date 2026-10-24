@@ -14,7 +14,7 @@ Indexed users: 236
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 25,037 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,717 |
-| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,409 |
+| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,414 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,049 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,657 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,055 |
@@ -23,7 +23,7 @@ Indexed users: 236
 | 9 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,429 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,213 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
-| 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 830 |
+| 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 831 |
 | 13 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 738 |
 | 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 734 |
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 734 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-24T14:06:01.555Z
+Generated: 2026-10-24T16:35:17.015Z

@@ -51,8 +51,8 @@ Indexed users: 1,180
 | 12 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 771 |
 | 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
 | 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
-| 15 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 691 |
-| 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
+| 15 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
+| 16 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 663 |
 | 17 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 647 |
 | 18 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 643 |
 | 19 | [genciiv](https://github.com/genciiv) | G-code | Albania | 633 |
@@ -83,4 +83,4 @@ Indexed users: 1,180
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-24T14:04:09.672Z
+Generated: 2026-10-24T16:33:14.861Z

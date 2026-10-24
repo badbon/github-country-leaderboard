@@ -74,8 +74,8 @@ Indexed users: 124
 | 10 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 34 |
 | 11 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 32 |
 | 12 | [Galaxy-Crusader](https://github.com/Galaxy-Crusader) | JORDAN | Cayman Islands | 30 |
-| 13 | [andrewperry](https://github.com/andrewperry) | Andrew Perry | Cayman Islands | 21 |
-| 14 | [garthhumphreys](https://github.com/garthhumphreys) | Garth Humphreys | Cayman Islands | 21 |
+| 13 | [garthhumphreys](https://github.com/garthhumphreys) | Garth Humphreys | Cayman Islands | 21 |
+| 14 | [andrewperry](https://github.com/andrewperry) | Andrew Perry | Cayman Islands | 20 |
 | 15 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | Cayman Islands | 20 |
 | 16 | [HamoonSoleimani](https://github.com/HamoonSoleimani) | Hamoon Soleimani | Cayman Islands | 19 |
 | 17 | [renannery](https://github.com/renannery) | Nery | Cayman Islands | 18 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-24T14:16:20.175Z
+Generated: 2026-10-24T16:42:08.897Z

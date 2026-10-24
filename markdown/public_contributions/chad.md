@@ -1,6 +1,6 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-24T14:16:25.028Z
+Generated: 2026-10-24T16:42:54.026Z
 
 Users: 200
 
@@ -12,7 +12,7 @@ Users: 200
 | 4 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 267 |
 | 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 234 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
-| 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 180 |
+| 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 179 |
 | 8 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 163 |
 | 9 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 160 |
 | 10 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
@@ -23,6 +23,6 @@ Users: 200
 | 15 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 76 |
 | 16 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | treeofcontent.com |  | chad | 60 |
 | 17 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |
-| 18 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 55 |
-| 19 | [chupacker](https://github.com/chupacker) | chu pack | google |  | chad | 53 |
-| 20 | [Ahlam-Brahim](https://github.com/Ahlam-Brahim) | Ahlam Brahim |  |  | N'Djaména-Tchad | 46 |
+| 18 | [Makoundji](https://github.com/Makoundji) | Makoundji Francis Diakoundila  |  |  | N’DJAMENA,TCHAD | 57 |
+| 19 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 55 |
+| 20 | [chupacker](https://github.com/chupacker) | chu pack | google |  | chad | 53 |

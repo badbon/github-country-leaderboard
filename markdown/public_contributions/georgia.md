@@ -1,12 +1,12 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-24T14:03:32.990Z
+Generated: 2026-10-24T16:31:54.241Z
 
 Users: 6864
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Garage IT |  | Tbilisi | 14808 |
+| 1 | [po4yka](https://github.com/po4yka) | Nikita Pochaev | Garage IT |  | Tbilisi | 19152 |
 | 2 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister |  |  | Tbilisi | 13900 |
 | 3 | [andrei-shtanakov](https://github.com/andrei-shtanakov) | Andrei Shtanakov |  |  | Georgia | 12796 |
 | 4 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Individual | kevinthelago | Georgia | 11296 |
