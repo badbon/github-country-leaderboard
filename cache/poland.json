@@ -5586,9 +5586,9 @@
     "location": "Kraków, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1,
-    "publicContributions": 41,
+    "followers": 6,
+    "privateContributions": 4,
+    "publicContributions": 247,
     "createdAt": "2025-09-07T13:05:46Z"
   },
   {
@@ -5599,7 +5599,7 @@
     "company": "First Advantage",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 565,
+    "privateContributions": 514,
     "publicContributions": 0,
     "createdAt": "2025-07-02T12:21:01Z"
   },
@@ -5610,7 +5610,7 @@
     "location": "Poland/Warsaw",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 205,
     "createdAt": "2025-11-05T11:49:28Z"
@@ -5624,7 +5624,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-29T18:17:55Z"
   },
   {
@@ -5648,19 +5648,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 288,
+    "publicContributions": 281,
     "createdAt": "2025-12-24T21:33:23Z"
   },
   {
-    "login": "OfficialCodenaut",
+    "login": "officialcodenaut",
     "name": "Codenaut",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201373547?s=72&u=2627a99dacf10f2ab0863171f9dbc4f297ca2dcf&v=4",
     "location": "Poland",
     "company": "",
-    "twitterUsername": "codenaut_",
+    "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 226,
-    "publicContributions": 26,
+    "privateContributions": 246,
+    "publicContributions": 85,
     "createdAt": "2025-03-01T16:31:33Z"
   },
   {
@@ -5672,20 +5672,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 36,
-    "publicContributions": 16,
+    "publicContributions": 18,
     "createdAt": "2025-06-08T23:37:56Z"
-  },
-  {
-    "login": "usekiko",
-    "name": "usekiko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204347579?s=72&u=4a3bb23b7e191b5d326beff51fe739dde1c5a03e&v=4",
-    "location": "Poland",
-    "company": "@HypaLabs ",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 994,
-    "createdAt": "2025-03-21T12:37:10Z"
   },
   {
     "login": "D-Kniec",
@@ -5694,7 +5682,7 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 233,
     "createdAt": "2025-03-29T08:24:16Z"
@@ -5708,7 +5696,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2025-01-08T18:11:21Z"
   },
   {
@@ -5718,7 +5706,7 @@
     "location": "Poland",
     "company": "Hard recykling technologii ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-04-12T00:02:35Z"
@@ -5744,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 419,
+    "publicContributions": 302,
     "createdAt": "2025-02-04T11:16:05Z"
   },
   {
@@ -5754,22 +5742,10 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "chlebussss",
-    "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 22,
+    "followers": 4,
+    "privateContributions": 7,
+    "publicContributions": 18,
     "createdAt": "2025-02-26T19:48:52Z"
-  },
-  {
-    "login": "ClckHre",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207838895?s=72&u=2af92e5179173155720aa341217f1cfa80a911a5&v=4",
-    "location": "Poland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 64,
-    "publicContributions": 38,
-    "createdAt": "2025-04-16T08:28:33Z"
   },
   {
     "login": "nadolskimm-max",
@@ -5792,7 +5768,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 77,
     "createdAt": "2025-06-02T14:07:10Z"
   },
   {
@@ -5802,7 +5778,7 @@
     "location": "Katowice, Poland",
     "company": "Siemens Digital Industries Software",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-17T09:18:03Z"
