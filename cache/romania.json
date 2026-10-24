@@ -48812,7 +48812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 54,
     "createdAt": "2021-03-16T19:32:40Z"
   },
   {
@@ -48822,9 +48822,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 299,
+    "followers": 2,
+    "privateContributions": 57,
+    "publicContributions": 595,
     "createdAt": "2021-06-10T14:23:35Z"
   },
   {
@@ -48835,13 +48835,13 @@
     "company": "@microsoft",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 430,
-    "publicContributions": 86,
+    "privateContributions": 278,
+    "publicContributions": 48,
     "createdAt": "2021-07-06T20:28:32Z"
   },
   {
     "login": "en-droscut",
-    "name": "Dragoș Roșcuț",
+    "name": "Dragoș Roșcuț - Endava",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86292608?s=72&v=4",
     "location": "Bucharest",
     "company": "Endava",
@@ -48872,20 +48872,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2021-03-25T18:03:10Z"
-  },
-  {
-    "login": "emy247",
-    "name": "Baroian Daniel-Emanuel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82291397?s=72&u=5b2b18cd8f78cb651d02f237c8f33898cc820c2f&v=4",
-    "location": "Bucharest",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-04-10T21:43:48Z"
   },
   {
     "login": "bufnita",
@@ -48894,9 +48882,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 14,
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 72,
     "createdAt": "2021-01-29T21:58:00Z"
   },
   {
@@ -48908,7 +48896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 249,
     "createdAt": "2021-02-17T11:17:43Z"
   },
   {
@@ -48928,11 +48916,11 @@
     "name": "Delia Ioana Craciun",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94064078?s=72&v=4",
     "location": "Bucharest",
-    "company": "",
+    "company": "@adobe",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2021-11-10T15:17:08Z"
   },
   {
@@ -48955,8 +48943,8 @@
     "company": "@UiPath",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2772,
-    "publicContributions": 5,
+    "privateContributions": 3437,
+    "publicContributions": 6,
     "createdAt": "2021-07-06T13:15:52Z"
   },
   {
@@ -48980,7 +48968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-07-19T13:23:57Z"
   },
   {
@@ -49034,13 +49022,13 @@
   {
     "login": "3rd",
     "name": "Andrei Neculaesei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59587503?s=72&u=5132b926cdc5bda5ec1e8bc55f8bdefb42928eb7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59587503?s=72&u=7648167479a53ef1e702165d477762003a9e62b2&v=4",
     "location": "Romania",
     "company": "",
     "twitterUsername": "andrei_fyi",
     "followers": 236,
-    "privateContributions": 322,
-    "publicContributions": 489,
+    "privateContributions": 487,
+    "publicContributions": 493,
     "createdAt": "2020-01-07T00:54:25Z"
   },
   {

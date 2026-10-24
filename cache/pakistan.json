@@ -47912,7 +47912,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 100,
     "createdAt": "2025-12-03T09:04:07Z"
   },
   {
@@ -47948,7 +47948,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 106,
     "createdAt": "2025-12-11T12:50:35Z"
   },
   {
@@ -47958,9 +47958,9 @@
     "location": "Karachi, Pakistan, Division Sindh",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 91,
     "createdAt": "2025-11-05T12:27:01Z"
   },
   {
@@ -47972,7 +47972,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 146,
     "createdAt": "2025-12-11T16:11:06Z"
   },
   {
@@ -47982,21 +47982,21 @@
     "location": "Lahore, Pakistan",
     "company": "Computer Engineering Student @ UET Lahore",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 59,
-    "publicContributions": 37,
+    "followers": 5,
+    "privateContributions": 198,
+    "publicContributions": 114,
     "createdAt": "2025-10-08T14:39:27Z"
   },
   {
     "login": "alyahmadjan",
     "name": "Ali Ahmad Jan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/237115353?s=72&u=d63cb971e10a3d18e4e1e7b71ccb5f9465201ad0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237115353?s=72&u=ae9301ed2ea1da8811083cd970dd72087d1d4f65&v=4",
     "location": "Islamabad, Pakistan",
-    "company": "Quantum Spectra",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 36,
     "createdAt": "2025-10-09T19:37:45Z"
   },
   {
@@ -48008,7 +48008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 81,
     "createdAt": "2025-11-12T08:41:59Z"
   },
   {
@@ -48032,7 +48032,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2025-10-03T16:46:30Z"
   },
   {
@@ -48042,9 +48042,9 @@
     "location": "Lahore, Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 6,
+    "followers": 6,
+    "privateContributions": 9,
+    "publicContributions": 50,
     "createdAt": "2025-10-28T08:02:04Z"
   },
   {
@@ -48054,9 +48054,9 @@
     "location": "Mianwali, Punjab, Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 47,
     "createdAt": "2025-11-25T18:07:51Z"
   },
   {
@@ -48068,12 +48068,12 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-10-06T16:28:28Z"
   },
   {
     "login": "zayaamimran70-collab",
-    "name": "",
+    "name": "Zayaam Imran",
     "avatarUrl": "https://avatars.githubusercontent.com/u/244784194?s=72&u=81e77e04234673a83e4cf2a375cdf08f409ef972&v=4",
     "location": "Pakistan , Lahore",
     "company": "ZAYAAM.",
@@ -48092,7 +48092,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-10-23T18:18:04Z"
   },
   {
@@ -48102,9 +48102,9 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2025-10-18T16:52:51Z"
   },
   {
@@ -48116,19 +48116,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 106,
     "createdAt": "2025-09-28T13:23:50Z"
   },
   {
     "login": "Hashir284",
     "name": "Hashir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246994769?s=72&u=cd1a78eff06744d4ac127bafa38722d84a5a8c75&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246994769?s=72&u=7b706cf439ee15868234ae98bb9b813a03fbe50b&v=4",
     "location": "Karachi, Pakistan",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 418,
+    "publicContributions": 481,
     "createdAt": "2025-11-30T14:02:19Z"
   },
   {
@@ -48140,7 +48140,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 0,
     "createdAt": "2025-10-03T11:19:08Z"
   },
   {
