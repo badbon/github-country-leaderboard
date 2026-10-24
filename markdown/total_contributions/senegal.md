@@ -1,8 +1,8 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-24T15:10:01.081Z
+Generated: 2026-10-24T17:29:23.770Z
 
-Users: 1353
+Users: 1352
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

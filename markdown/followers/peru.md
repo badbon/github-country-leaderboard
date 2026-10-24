@@ -1,6 +1,6 @@
 # Followers - Peru
 
-Generated: 2026-10-24T15:02:41.196Z
+Generated: 2026-10-24T17:23:43.183Z
 
 Users: 9758
 
@@ -21,8 +21,8 @@ Users: 9758
 | 13 | [jorgemunozl](https://github.com/jorgemunozl) | jorge-munoz-lar | @NONHUMAN-SITE | jorgemunozla | Lima, Peru | 589 |
 | 14 | [csaybar](https://github.com/csaybar) | Cesar Aybar | @asterisk-labs  |  | Lima, Peru | 567 |
 | 15 | [goandreus](https://github.com/goandreus) | Andres Chavez | Citibank | GoAndreus | Lima - Peru | 558 |
-| 16 | [dcajasn](https://github.com/dcajasn) | Riskfolio |  | RiskfolioLib | Lima, Peru | 545 |
+| 16 | [dcajasn](https://github.com/dcajasn) | Riskfolio |  | RiskfolioLib | Lima, Peru | 552 |
 | 17 | [emedinaa](https://github.com/emedinaa) | Eduardo José Medina Alfaro | Mapsalud | eduardomedina | Lima, Peru | 506 |
-| 18 | [Franklin369](https://github.com/Franklin369) | codigo369.com | codigo369 |  | Peru | 445 |
+| 18 | [Franklin369](https://github.com/Franklin369) | codigo369.com | codigo369 |  | Peru | 442 |
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | National University of Engineering |  | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway |  |  | Lima - Perú | 413 |

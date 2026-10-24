@@ -1,13 +1,13 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-24T15:05:00.693Z
+Generated: 2026-10-24T17:26:32.985Z
 
 Users: 1073
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 5894 |
-| 2 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 4913 |
+| 2 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 5730 |
 | 3 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3894 |
 | 4 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 2544 |
 | 5 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1769 |
@@ -18,8 +18,8 @@ Users: 1073
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1229 |
 | 11 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 1141 |
 | 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1059 |
-| 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 972 |
-| 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 957 |
+| 13 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 981 |
+| 14 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 972 |
 | 15 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 839 |
 | 16 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 837 |
 | 17 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |

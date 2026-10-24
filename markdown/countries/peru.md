@@ -77,10 +77,10 @@ Indexed users: 9,758
 | 13 | [jorgemunozl](https://github.com/jorgemunozl) | jorge-munoz-lar | Lima, Peru | 589 |
 | 14 | [csaybar](https://github.com/csaybar) | Cesar Aybar | Lima, Peru | 567 |
 | 15 | [goandreus](https://github.com/goandreus) | Andres Chavez | Lima - Peru | 558 |
-| 16 | [dcajasn](https://github.com/dcajasn) | Riskfolio | Lima, Peru | 545 |
+| 16 | [dcajasn](https://github.com/dcajasn) | Riskfolio | Lima, Peru | 552 |
 | 17 | [emedinaa](https://github.com/emedinaa) | Eduardo José Medina Alfaro | Lima, Peru | 506 |
-| 18 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
+| 18 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 442 |
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-24T15:02:41.196Z
+Generated: 2026-10-24T17:23:43.183Z

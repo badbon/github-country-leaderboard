@@ -27,7 +27,7 @@ Indexed users: 438
 | 13 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,315 |
 | 14 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,299 |
 | 15 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,251 |
-| 16 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,143 |
+| 16 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,144 |
 | 17 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,808 |
 | 18 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,795 |
 | 19 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 1,780 |
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-24T14:49:15.674Z
+Generated: 2026-10-24T17:11:31.516Z

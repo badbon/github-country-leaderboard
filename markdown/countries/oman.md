@@ -41,8 +41,8 @@ Indexed users: 991
 | 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 5,485 |
 | 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood | Oman | 3,445 |
 | 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,977 |
-| 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
-| 6 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 2,690 |
+| 5 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 2,859 |
+| 6 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
 | 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Oman | 2,460 |
 | 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
 | 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 100 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-24T15:00:56.625Z
+Generated: 2026-10-24T17:22:22.659Z

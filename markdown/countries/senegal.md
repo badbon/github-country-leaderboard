@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,353
+Indexed users: 1,352
 
 | Leaderboard | Link |
 |---|---|
@@ -51,7 +51,7 @@ Indexed users: 1,353
 | 12 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,482 |
 | 13 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 1,418 |
 | 14 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,350 |
-| 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,292 |
+| 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,336 |
 | 16 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,245 |
 | 17 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,158 |
 | 18 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,144 |
@@ -83,4 +83,4 @@ Indexed users: 1,353
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 143 |
 
-Generated: 2026-10-24T15:10:01.081Z
+Generated: 2026-10-24T17:29:23.770Z

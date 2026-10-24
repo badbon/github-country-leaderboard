@@ -20,9 +20,9 @@ Indexed users: 899
 | 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,985 |
 | 7 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 5,569 |
 | 8 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Lilongwe, Malawi | 5,524 |
-| 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,954 |
-| 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,754 |
-| 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,739 |
+| 9 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 5,018 |
+| 10 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,954 |
+| 11 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,754 |
 | 12 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 4,347 |
 | 13 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 4,035 |
 | 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,759 |
@@ -48,7 +48,7 @@ Indexed users: 899
 | 9 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 740 |
 | 10 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
 | 11 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 649 |
-| 12 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 644 |
+| 12 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 643 |
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
 | 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 575 |
 | 15 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 523 |
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 132 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 
-Generated: 2026-10-24T14:49:22.673Z
+Generated: 2026-10-24T17:12:45.015Z

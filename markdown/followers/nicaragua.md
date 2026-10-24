@@ -1,13 +1,13 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-24T14:57:12.718Z
+Generated: 2026-10-24T17:20:19.210Z
 
 Users: 1395
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | StrivexLabs |  | Nicaragua | 2249 |
-| 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 214 |
+| 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 215 |
 | 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | Qor Dev |  | [Rivas, Nicaragua] | 187 |
 | 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno |  | openthe_window | Nicaragua | 157 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria |  |  | Mangua, Nicaragua | 147 |

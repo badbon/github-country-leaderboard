@@ -45,10 +45,10 @@ Indexed users: 58,089
 | 6 | [marko1olo](https://github.com/marko1olo) | Петушков А. | Warsaw | 22,308 |
 | 7 | [Sinity](https://github.com/Sinity) | Sinity | Poland | 20,506 |
 | 8 | [pr0d1r2](https://github.com/pr0d1r2) | Marcin Nowicki | Warsaw, Poland | 15,859 |
-| 9 | [pawelsalawa](https://github.com/pawelsalawa) | Paweł Salawa | Poland | 14,500 |
-| 10 | [szubster](https://github.com/szubster) | Tomasz Szuba | Warsaw | 14,360 |
-| 11 | [LinX64](https://github.com/LinX64) | Mo Rzna | Poland | 12,294 |
-| 12 | [michal92299](https://github.com/michal92299) | michal92299 | poland | 11,874 |
+| 9 | [michal92299](https://github.com/michal92299) | michal92299 | poland | 15,325 |
+| 10 | [pawelsalawa](https://github.com/pawelsalawa) | Paweł Salawa | Poland | 14,500 |
+| 11 | [szubster](https://github.com/szubster) | Tomasz Szuba | Warsaw | 14,360 |
+| 12 | [LinX64](https://github.com/LinX64) | Mo Rzna | Poland | 12,294 |
 | 13 | [bgord](https://github.com/bgord) | Bartosz Gordon | Poland | 11,030 |
 | 14 | [kjk](https://github.com/kjk) | Krzysztof Kowalczyk | Krakow, Poland | 10,885 |
 | 15 | [korneliuszburian](https://github.com/korneliuszburian) | KRN | Poland | 9,313 |
@@ -83,4 +83,4 @@ Indexed users: 58,089
 | 19 | [ivasik-k7](https://github.com/ivasik-k7) | Ivan | Gdansk, Poland | 1,559 |
 | 20 | [Blaizzy](https://github.com/Blaizzy) | Prince Canuma | Poland | 1,490 |
 
-Generated: 2026-10-24T15:04:31.253Z
+Generated: 2026-10-24T17:25:09.519Z

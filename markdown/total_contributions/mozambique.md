@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-24T14:55:19.963Z
+Generated: 2026-10-24T17:19:21.673Z
 
 Users: 1175
 
@@ -25,4 +25,4 @@ Users: 1175
 | 17 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2649 |
 | 18 | [singelodux](https://github.com/singelodux) | Singelo Dux | Geek Verso |  | Maputo, Moçambique | 2596 |
 | 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2575 |
-| 20 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2530 |
+| 20 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2554 |

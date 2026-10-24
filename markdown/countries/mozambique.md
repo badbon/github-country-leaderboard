@@ -31,7 +31,7 @@ Indexed users: 1,175
 | 17 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,649 |
 | 18 | [singelodux](https://github.com/singelodux) | Singelo Dux | Maputo, Moçambique | 2,596 |
 | 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,575 |
-| 20 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,530 |
+| 20 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,554 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 110 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-24T14:55:19.963Z
+Generated: 2026-10-24T17:19:21.673Z
