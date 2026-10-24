@@ -1,13 +1,13 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-24T21:24:48.959Z
+Generated: 2026-10-24T22:47:07.115Z
 
 Users: 3859
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [rmkasendwa](https://github.com/rmkasendwa) | Ronald M. Kasendwa | @Infinite-Debugger | rmkasendwa | Kampala, Uganda | 11876 |
-| 2 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7825 |
+| 2 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | @vixcpp @softadastra | g_kirira | Africa / Uganda / Kampala | 7733 |
 | 3 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Dabblelab | matovu100 | Uganda | 5929 |
 | 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale |  |  | Kampala | 4918 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 4890 |

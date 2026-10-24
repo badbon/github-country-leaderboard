@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-24T22:02:37.037Z
+Generated: 2026-10-24T22:53:02.792Z
 
 Users: 2498
 
@@ -16,8 +16,8 @@ Users: 2498
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6978 |
 | 9 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6593 |
 | 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 6103 |
-| 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
-| 12 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 5619 |
+| 11 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 5619 |
+| 12 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5608 |
 | 13 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5442 |
 | 14 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 4832 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4741 |

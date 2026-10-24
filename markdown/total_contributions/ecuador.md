@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-24T21:45:45.389Z
+Generated: 2026-10-24T23:12:05.293Z
 
 Users: 4873
 
@@ -11,18 +11,18 @@ Users: 4873
 | 3 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | FiftyFlowers |  | Ecuador | 15933 |
 | 4 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | IT Security |  | Ecuador | 13197 |
 | 5 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 11911 |
-| 6 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10133 |
-| 7 | [roberto910907](https://github.com/roberto910907) | Roberto Rielo |  |  | Quito, Ecuador | 9625 |
-| 8 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | @SantaPriscilaDevs  |  | Guayaquil, Ecuador | 9328 |
-| 9 | [leandrodreamer](https://github.com/leandrodreamer) | LeandroDreamer |  |  | Ecuador | 8704 |
-| 10 | [joffx](https://github.com/joffx) | Joffre Veloz | @fasterydev  |  | Ecuador | 8367 |
-| 11 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | WILDBIT |  | Guayaquil, Ecuador | 7955 |
-| 12 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7903 |
-| 13 | [luilliarcec](https://github.com/luilliarcec) | Luis Arce | @teamq-ec  |  | Ecuador | 7247 |
-| 14 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 7246 |
-| 15 | [chey3002](https://github.com/chey3002) | Carlos Valladarez |  | Sr_Chey | Ecuador | 7227 |
-| 16 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez |  |  | Ecuador | 7174 |
-| 17 | [astandre](https://github.com/astandre) | André Herrera | CondorSoft |  | Loja, Ecuador | 6623 |
-| 18 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
-| 19 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |
-| 20 | [JoaquinZc](https://github.com/JoaquinZc) | José Joaquín Zambrano Centeno |  |  | Ecuador | 6277 |
+| 6 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Jiban Advanced Systems |  | Ecuador | 11140 |
+| 7 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10133 |
+| 8 | [roberto910907](https://github.com/roberto910907) | Roberto Rielo |  |  | Quito, Ecuador | 9625 |
+| 9 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | @SantaPriscilaDevs  |  | Guayaquil, Ecuador | 9328 |
+| 10 | [leandrodreamer](https://github.com/leandrodreamer) | LeandroDreamer |  |  | Ecuador | 8704 |
+| 11 | [joffx](https://github.com/joffx) | Joffre Veloz | @fasterydev  |  | Ecuador | 8367 |
+| 12 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | WILDBIT |  | Guayaquil, Ecuador | 7955 |
+| 13 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7903 |
+| 14 | [luilliarcec](https://github.com/luilliarcec) | Luis Arce | @teamq-ec  |  | Ecuador | 7247 |
+| 15 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 7246 |
+| 16 | [chey3002](https://github.com/chey3002) | Carlos Valladarez |  | Sr_Chey | Ecuador | 7227 |
+| 17 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez |  |  | Ecuador | 7174 |
+| 18 | [astandre](https://github.com/astandre) | André Herrera | CondorSoft |  | Loja, Ecuador | 6623 |
+| 19 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
+| 20 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler |  |  | Guayaquil, Ecuador | 6539 |

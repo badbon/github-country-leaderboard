@@ -17,21 +17,21 @@ Indexed users: 4,873
 | 3 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 15,933 |
 | 4 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | Ecuador | 13,197 |
 | 5 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 11,911 |
-| 6 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
-| 7 | [roberto910907](https://github.com/roberto910907) | Roberto Rielo | Quito, Ecuador | 9,625 |
-| 8 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 9,328 |
-| 9 | [leandrodreamer](https://github.com/leandrodreamer) | LeandroDreamer | Ecuador | 8,704 |
-| 10 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 8,367 |
-| 11 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
-| 12 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
-| 13 | [luilliarcec](https://github.com/luilliarcec) | Luis Arce | Ecuador | 7,247 |
-| 14 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
-| 15 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 7,227 |
-| 16 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez | Ecuador | 7,174 |
-| 17 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 6,623 |
-| 18 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
-| 19 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
-| 20 | [JoaquinZc](https://github.com/JoaquinZc) | José Joaquín Zambrano Centeno | Ecuador | 6,277 |
+| 6 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 11,140 |
+| 7 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
+| 8 | [roberto910907](https://github.com/roberto910907) | Roberto Rielo | Quito, Ecuador | 9,625 |
+| 9 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 9,328 |
+| 10 | [leandrodreamer](https://github.com/leandrodreamer) | LeandroDreamer | Ecuador | 8,704 |
+| 11 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 8,367 |
+| 12 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
+| 13 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
+| 14 | [luilliarcec](https://github.com/luilliarcec) | Luis Arce | Ecuador | 7,247 |
+| 15 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
+| 16 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 7,227 |
+| 17 | [sanieni6](https://github.com/sanieni6) | Luis Sanchez | Ecuador | 7,174 |
+| 18 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 6,623 |
+| 19 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
+| 20 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 6,539 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,873
 | 19 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 116 |
 | 20 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 
-Generated: 2026-10-24T21:45:45.389Z
+Generated: 2026-10-24T23:12:05.293Z

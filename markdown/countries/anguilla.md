@@ -54,7 +54,7 @@ Indexed users: 15
 |---:|---|---|---|---:|
 | 1 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | In the Valley | 248 |
 | 2 | [jstncno](https://github.com/jstncno) | Justin Cano | somewhere in the valley | 49 |
-| 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley | the valley | 44 |
+| 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley | the valley | 43 |
 | 4 | [repsac](https://github.com/repsac) | Ed Caspersen | The Valley | 36 |
 | 5 | [KleinKodes](https://github.com/KleinKodes) | Klein | Anguilla | 11 |
 | 6 | [charliefourindia](https://github.com/charliefourindia) | William Knowles | The Valley, Anguilla | 8 |
@@ -68,4 +68,4 @@ Indexed users: 15
 | 14 | [Ugly8](https://github.com/Ugly8) | Martin Boone | The Valley of the Sun | 2 |
 | 15 | [warte-kurz](https://github.com/warte-kurz) | Warte Kurz | Anguilla | 1 |
 
-Generated: 2026-10-24T21:32:35.328Z
+Generated: 2026-10-24T22:53:05.836Z

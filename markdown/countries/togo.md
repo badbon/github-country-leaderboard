@@ -21,13 +21,13 @@ Indexed users: 676
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,063 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,960 |
 | 9 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 6,277 |
-| 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,613 |
+| 10 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,590 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,174 |
 | 12 | [Le-Sourcier](https://github.com/Le-Sourcier) | Yao David LOGAN | US, TOGO, UK | 5,133 |
 | 13 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 5,054 |
 | 14 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,559 |
 | 15 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,509 |
-| 16 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,143 |
+| 16 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,096 |
 | 17 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,879 |
 | 18 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,649 |
 | 19 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 3,626 |
@@ -41,7 +41,7 @@ Indexed users: 676
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,638 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,055 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,297 |
-| 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,184 |
+| 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,180 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,944 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,925 |
 | 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,874 |
@@ -83,4 +83,4 @@ Indexed users: 676
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-24T21:22:49.401Z
+Generated: 2026-10-24T22:43:17.227Z

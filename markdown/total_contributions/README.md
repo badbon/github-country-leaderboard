@@ -7,7 +7,7 @@ Published countries: 236
 | Afghanistan | 1,489 | [View](./afghanistan.md) |
 | Åland Islands | 61 | [View](./aland_islands.md) |
 | Albania | 1,180 | [View](./albania.md) |
-| Algeria | 5,770 | [View](./algeria.md) |
+| Algeria | 5,769 | [View](./algeria.md) |
 | American Samoa | 5 | [View](./american_samoa.md) |
 | Andorra | 215 | [View](./andorra.md) |
 | Angola | 2,498 | [View](./angola.md) |
@@ -17,11 +17,11 @@ Published countries: 236
 | Argentina | 50,707 | [View](./argentina.md) |
 | Armenia | 4,020 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
-| Austria | 18,238 | [View](./austria.md) |
+| Austria | 18,237 | [View](./austria.md) |
 | Azerbaijan | 5,040 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
-| Bangladesh | 55,293 | [View](./bangladesh.md) |
+| Bangladesh | 55,292 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,911 | [View](./belarus.md) |
 | Belgium | 18,368 | [View](./belgium.md) |
@@ -58,13 +58,13 @@ Published countries: 236
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,721 | [View](./cyprus.md) |
 | Czechia | 16,197 | [View](./czechia.md) |
-| Denmark | 19,288 | [View](./denmark.md) |
+| Denmark | 19,287 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,296 | [View](./dominican_republic.md) |
 | DR Congo | 701 | [View](./dr_congo.md) |
 | Ecuador | 4,873 | [View](./ecuador.md) |
-| Egypt | 34,067 | [View](./egypt.md) |
+| Egypt | 34,066 | [View](./egypt.md) |
 | El Salvador | 2,378 | [View](./el_salvador.md) |
 | Equatorial Guinea | 20 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
@@ -80,7 +80,7 @@ Published countries: 236
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
-| Georgia | 6,863 | [View](./georgia.md) |
+| Georgia | 6,862 | [View](./georgia.md) |
 | Ghana | 7,068 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,527 | [View](./greece.md) |
@@ -105,7 +105,7 @@ Published countries: 236
 | Ireland | 19,478 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,409 | [View](./israel.md) |
-| Italy | 48,998 | [View](./italy.md) |
+| Italy | 48,997 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -195,8 +195,8 @@ Published countries: 236
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
 | Singapore | 24,712 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
-| Slovakia | 4,655 | [View](./slovakia.md) |
-| Slovenia | 3,093 | [View](./slovenia.md) |
+| Slovakia | 4,654 | [View](./slovakia.md) |
+| Slovenia | 3,092 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,923 | [View](./south_africa.md) |
@@ -208,7 +208,7 @@ Published countries: 236
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
 | Sweden | 39,020 | [View](./sweden.md) |
-| Switzerland | 24,065 | [View](./switzerland.md) |
+| Switzerland | 24,064 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
 | Taiwan | 21,988 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
@@ -234,11 +234,11 @@ Published countries: 236
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,602 | [View](./venezuela.md) |
-| Vietnam | 25,822 | [View](./vietnam.md) |
+| Vietnam | 25,821 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,204 | [View](./yemen.md) |
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T22:36:12.783Z
+Generated: 2026-10-24T23:14:52.539Z

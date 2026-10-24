@@ -22,8 +22,8 @@ Indexed users: 2,498
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 6,978 |
 | 9 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,593 |
 | 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 6,103 |
-| 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,633 |
-| 12 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 5,619 |
+| 11 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 5,619 |
+| 12 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,608 |
 | 13 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,442 |
 | 14 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 4,832 |
 | 15 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,741 |
@@ -83,4 +83,4 @@ Indexed users: 2,498
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-24T22:02:37.037Z
+Generated: 2026-10-24T22:53:02.792Z

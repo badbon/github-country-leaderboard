@@ -18,20 +18,20 @@ Indexed users: 5,415
 | 4 | [dokicro](https://github.com/dokicro) | Domagoj Franc | Zagreb, Croatia | 13,637 |
 | 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 11,746 |
 | 6 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | Zagreb, Croatia | 10,938 |
-| 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Zagreb, Croatia | 9,779 |
-| 8 | [dabodamjan](https://github.com/dabodamjan) | Damjan Dabo | Zagreb | 9,744 |
-| 9 | [vuki656](https://github.com/vuki656) | Domagoj Vukovic | Croatia | 9,689 |
-| 10 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 9,634 |
-| 11 | [markoboras0712](https://github.com/markoboras0712) | mboras | Osijek, Croatia | 9,003 |
-| 12 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
-| 13 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Pula, Croatia | 8,428 |
-| 14 | [Norgul](https://github.com/Norgul) | Marko Dupor | Rijeka, Croatia | 8,372 |
-| 15 | [lbagic](https://github.com/lbagic) | Luka Bagic | Croatia | 8,198 |
-| 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 8,142 |
-| 17 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
-| 18 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | Croatia | 8,044 |
-| 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
-| 20 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
+| 7 | [flauc](https://github.com/flauc) | Filip Lauc | Osijek, Croatia | 10,360 |
+| 8 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Zagreb, Croatia | 9,779 |
+| 9 | [dabodamjan](https://github.com/dabodamjan) | Damjan Dabo | Zagreb | 9,744 |
+| 10 | [vuki656](https://github.com/vuki656) | Domagoj Vukovic | Croatia | 9,689 |
+| 11 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 9,634 |
+| 12 | [markoboras0712](https://github.com/markoboras0712) | mboras | Osijek, Croatia | 9,003 |
+| 13 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
+| 14 | [SempaiEcchi](https://github.com/SempaiEcchi) | Leo Radočaj | Pula, Croatia | 8,428 |
+| 15 | [Norgul](https://github.com/Norgul) | Marko Dupor | Rijeka, Croatia | 8,372 |
+| 16 | [lbagic](https://github.com/lbagic) | Luka Bagic | Croatia | 8,198 |
+| 17 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 8,142 |
+| 18 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
+| 19 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | Croatia | 8,044 |
+| 20 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,415
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 407 |
 | 20 | [bruno-](https://github.com/bruno-) | Bruno Sutic | Zagreb, Croatia | 362 |
 
-Generated: 2026-10-24T21:43:52.818Z
+Generated: 2026-10-24T23:06:41.986Z

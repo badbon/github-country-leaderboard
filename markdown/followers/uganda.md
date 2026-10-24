@@ -1,6 +1,6 @@
 # Followers - Uganda
 
-Generated: 2026-10-24T21:24:48.959Z
+Generated: 2026-10-24T22:47:07.115Z
 
 Users: 3859
 
@@ -14,15 +14,15 @@ Users: 3859
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | M2 Digital Technologies Afrique |  | Kampala | 561 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | ABAASA TECH |  | kampala | 521 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | J-SofTech | MarcinJesar | Uganda | 381 |
-| 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | MUTUNGO-KAMPALA |  | UGANDA | 330 |
+| 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | MUTUNGO-KAMPALA |  | UGANDA | 333 |
 | 10 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Uganda Christian University | MugangaCharles5 | Kampala | 327 |
 | 11 | [aivan2798](https://github.com/aivan2798) | aivan2798 |  |  | Kampala | 325 |
 | 12 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | e-Learning Platform | jesse_comedian | Kampala | 325 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | Microverse | KGWilliam60 | KAMPALA, UGANDA | 311 |
 | 14 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 298 |
 | 15 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Posit, PBC | HKibirige | Kampala, Uganda | 297 |
-| 16 | [kbjude](https://github.com/kbjude) | kbjude | git.eygo.biz | balindakj | Kampala | 218 |
-| 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya |  | ceasor_elvis | Kampala, Uganda | 209 |
+| 16 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya |  | ceasor_elvis | Kampala, Uganda | 218 |
+| 17 | [kbjude](https://github.com/kbjude) | kbjude | git.eygo.biz | balindakj | Kampala | 218 |
 | 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Loft  | mitalasam | Kampala | 203 |
 | 19 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | FahimWeblogic & CyberTechnologies | FWeblogic | Uganda | 186 |

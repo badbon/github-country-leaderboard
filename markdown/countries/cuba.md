@@ -14,7 +14,7 @@ Indexed users: 1,272
 |---:|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 20,503 |
 | 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 20,404 |
-| 3 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 15,902 |
+| 3 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 15,736 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,349 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,311 |
 | 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 7,733 |
@@ -37,7 +37,7 @@ Indexed users: 1,272
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 10,007 |
+| 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 9,569 |
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,105 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 8,604 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,492 |
@@ -80,7 +80,7 @@ Indexed users: 1,272
 | 16 | [ALbertE03](https://github.com/ALbertE03) | Albert | La Habana, Cuba | 74 |
 | 17 | [daironln](https://github.com/daironln) | Dairon Luis | Havana, Cuba | 74 |
 | 18 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | Camagüey, Cuba | 74 |
-| 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
-| 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
+| 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 73 |
+| 20 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 
-Generated: 2026-10-24T21:45:04.379Z
+Generated: 2026-10-24T23:06:48.363Z

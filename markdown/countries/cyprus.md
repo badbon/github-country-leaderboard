@@ -16,7 +16,7 @@ Indexed users: 2,721
 | 2 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 24,606 |
 | 3 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,809 |
 | 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 19,548 |
-| 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Cyprus, Nicosia | 17,697 |
+| 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Cyprus, Nicosia | 18,176 |
 | 6 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 16,997 |
 | 7 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 16,436 |
 | 8 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 15,244 |
@@ -83,4 +83,4 @@ Indexed users: 2,721
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-24T21:45:13.590Z
+Generated: 2026-10-24T23:08:08.606Z

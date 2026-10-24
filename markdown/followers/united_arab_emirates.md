@@ -1,6 +1,6 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-24T21:25:28.878Z
+Generated: 2026-10-24T22:47:13.368Z
 
 Users: 4202
 
@@ -24,5 +24,5 @@ Users: 4202
 | 16 | [abxhr](https://github.com/abxhr) | Abshar Mohammed Aslam | Emirates | abxhraslam | Dubai, United Arab Emirates | 401 |
 | 17 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 384 |
 | 18 | [kh4sh3i](https://github.com/kh4sh3i) | mohsen khashei | jetamooz | kh4sh3i_ | United Arab Emirates | 378 |
-| 19 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali |  |  | Abu Dhabi | 363 |
-| 20 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Jebel Quant Research | Thomster78 | Abu Dhabi, United Arab Emirates | 363 |
+| 19 | [garylab](https://github.com/garylab) | Gary Meng | G42 | garymengcom | Abu Dhabi, UAE | 375 |
+| 20 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali |  |  | Abu Dhabi | 363 |

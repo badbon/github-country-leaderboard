@@ -1,6 +1,6 @@
 # Followers - Cuba
 
-Generated: 2026-10-24T21:45:04.379Z
+Generated: 2026-10-24T23:06:48.363Z
 
 Users: 1272
 
@@ -24,5 +24,5 @@ Users: 1272
 | 16 | [ALbertE03](https://github.com/ALbertE03) | Albert | Universidad de la Habana |  | La Habana, Cuba | 74 |
 | 17 | [daironln](https://github.com/daironln) | Dairon Luis |  |  | Havana, Cuba | 74 |
 | 18 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | MailAD | co7wt | Camagüey, Cuba | 74 |
-| 19 | [markospy](https://github.com/markospy) | Marcos Avila |  |  | Cuba | 72 |
-| 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 69 |
+| 19 | [markospy](https://github.com/markospy) | Marcos Avila |  |  | Cuba | 73 |
+| 20 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | Freelance | leoglezdev | La Habana, Cuba | 70 |

@@ -38,7 +38,7 @@ Indexed users: 3,859
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [rmkasendwa](https://github.com/rmkasendwa) | Ronald M. Kasendwa | Kampala, Uganda | 11,876 |
-| 2 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 2 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,733 |
 | 3 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,929 |
 | 4 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 4,918 |
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,890 |
@@ -70,17 +70,17 @@ Indexed users: 3,859
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 561 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 521 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 381 |
-| 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 330 |
+| 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 333 |
 | 10 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 327 |
 | 11 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 325 |
 | 12 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | Kampala | 325 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | KAMPALA, UGANDA | 311 |
 | 14 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 298 |
 | 15 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Kampala, Uganda | 297 |
-| 16 | [kbjude](https://github.com/kbjude) | kbjude | Kampala | 218 |
-| 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 209 |
+| 16 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 218 |
+| 17 | [kbjude](https://github.com/kbjude) | kbjude | Kampala | 218 |
 | 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Kampala | 203 |
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-24T21:24:48.959Z
+Generated: 2026-10-24T22:47:07.115Z

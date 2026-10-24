@@ -1,6 +1,6 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-10-24T21:39:15.817Z
+Generated: 2026-10-24T23:02:57.642Z
 
 Users: 486
 
@@ -13,7 +13,7 @@ Users: 486
 | 5 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 4009 |
 | 6 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 3982 |
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 3824 |
-| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3659 |
+| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3623 |
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ticanalyse |  | Ouagadougou, Burkina Faso 🇧🇫 | 2878 |
 | 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | ODG Enterprise |  | Ouagadougou, Burkina Faso | 2586 |
 | 11 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Alternatives -IT |  | Burkina Faso | 2376 |

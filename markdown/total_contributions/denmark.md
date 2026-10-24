@@ -1,8 +1,8 @@
 # Total Contributions - Denmark
 
-Generated: 2026-10-24T21:45:19.198Z
+Generated: 2026-10-24T23:08:48.687Z
 
-Users: 19288
+Users: 19287
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

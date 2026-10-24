@@ -56,7 +56,7 @@ Indexed users: 256
 | 17 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 221 |
 | 18 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 204 |
 | 19 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 191 |
-| 20 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | Trinidad and Tobago | 179 |
+| 20 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | Trinidad and Tobago | 180 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-24T21:23:54.222Z
+Generated: 2026-10-24T22:43:22.373Z

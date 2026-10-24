@@ -45,7 +45,7 @@ Indexed users: 5,040
 | 6 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 5,197 |
 | 7 | [anaraydinli55](https://github.com/anaraydinli55) | Anar Aydinli | Azerbaijan | 4,093 |
 | 8 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | Azerbaijan,Baku | 3,937 |
-| 9 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade | Baku, Azerbaijan | 3,668 |
+| 9 | [tagizadeorxan](https://github.com/tagizadeorxan) | Orkhan Taghizade | Baku, Azerbaijan | 3,654 |
 | 10 | [theyali](https://github.com/theyali) | Ali Hajiyev | Azerbaijan | 3,342 |
 | 11 | [BilgeGates](https://github.com/BilgeGates) | Khatai Huseynzada | Azerbaijan | 3,195 |
 | 12 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev | Baku | 2,729 |
@@ -83,4 +83,4 @@ Indexed users: 5,040
 | 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 255 |
 | 20 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 
-Generated: 2026-10-24T21:33:19.726Z
+Generated: 2026-10-24T22:55:12.678Z

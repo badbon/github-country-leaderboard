@@ -1,12 +1,12 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-24T21:38:03.597Z
+Generated: 2026-10-24T23:01:04.420Z
 
 Users: 2127
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [kemo](https://github.com/kemo) |  |  | delalick | Sarajevo, Bosnia and Herzegovina | 16810 |
+| 1 | [kemo](https://github.com/kemo) |  |  | delalick | Sarajevo, Bosnia and Herzegovina | 17746 |
 | 2 | [mirzap](https://github.com/mirzap) | Mirza Pasic | @bosnadev  |  | Sarajevo | 10084 |
 | 3 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | @betastudio | itsnerminsehic | Bosnia and Herzegovina | 9848 |
 | 4 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 7561 |

@@ -48,8 +48,8 @@ Indexed users: 1,478
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,252 |
 | 10 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,208 |
 | 11 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,205 |
-| 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,193 |
-| 13 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,168 |
+| 12 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,196 |
+| 13 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,193 |
 | 14 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
 | 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,012 |
 | 16 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 1,007 |
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-24T21:21:09.141Z
+Generated: 2026-10-24T22:41:10.682Z

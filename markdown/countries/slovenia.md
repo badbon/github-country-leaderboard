@@ -1,6 +1,6 @@
 # Slovenia
 
-Indexed users: 3,093
+Indexed users: 3,092
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,093
 | 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-24T21:19:23.608Z
+Generated: 2026-10-24T22:37:11.388Z
