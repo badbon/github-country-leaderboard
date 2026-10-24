@@ -48559,8 +48559,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2020-01-01T18:13:15Z"
   },
   {
@@ -48607,8 +48607,8 @@
     "company": "SAMI-AEC ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 90,
-    "publicContributions": 35,
+    "privateContributions": 95,
+    "publicContributions": 34,
     "createdAt": "2020-04-11T13:13:44Z"
   },
   {
@@ -48619,8 +48619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 282,
-    "publicContributions": 25,
+    "privateContributions": 261,
+    "publicContributions": 13,
     "createdAt": "2020-06-01T09:24:05Z"
   },
   {
@@ -48632,7 +48632,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2020-04-17T22:43:53Z"
   },
   {
@@ -48644,7 +48644,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2020-09-13T12:14:45Z"
   },
   {
@@ -48655,7 +48655,7 @@
     "company": "SDAIA",
     "twitterUsername": "Eng_ibrahimhef",
     "followers": 7,
-    "privateContributions": 703,
+    "privateContributions": 708,
     "publicContributions": 0,
     "createdAt": "2020-03-27T08:56:23Z"
   },
@@ -48668,7 +48668,7 @@
     "twitterUsername": "vYjwupCyCUKOH3k",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 5,
     "createdAt": "2020-12-08T09:16:09Z"
   },
   {
@@ -48699,12 +48699,12 @@
     "login": "alialhawas",
     "name": "Ali Alhawas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/70563139?s=72&u=04a4b2879992bc9993031bda394016e6e25f5756&v=4",
-    "location": "Riyadh",
-    "company": "",
+    "location": "Riyadh, Saudi Arabia",
+    "company": "Hatif",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 3251,
-    "publicContributions": 9,
+    "followers": 8,
+    "privateContributions": 7042,
+    "publicContributions": 130,
     "createdAt": "2020-09-01T05:51:33Z"
   },
   {
@@ -48738,17 +48738,17 @@
     "location": "Riyadh",
     "company": "Wadaei",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 2248,
+    "followers": 5,
+    "privateContributions": 2208,
     "publicContributions": 21,
     "createdAt": "2020-09-13T19:07:03Z"
   },
   {
     "login": "danish674",
     "name": "Danish Ali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74286285?s=72&u=da8f596a3392acd28a36d63bffcd65fa7d036228&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74286285?s=72&v=4",
     "location": "Riyadh",
-    "company": "Saudi Investment Bank",
+    "company": "Madaar Intl Company",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,

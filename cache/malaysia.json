@@ -48440,7 +48440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-11-20T07:28:46Z"
   },
   {
@@ -48475,7 +48475,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2021-10-20T00:48:16Z"
   },
@@ -48514,18 +48514,6 @@
     "privateContributions": 2,
     "publicContributions": 26,
     "createdAt": "2021-08-03T03:05:02Z"
-  },
-  {
-    "login": "PlaybookX",
-    "name": "EduPlay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88563147?s=72&u=4e7fb939cb5c526102781cb7362f4b1e15eb8818&v=4",
-    "location": "Malaysia",
-    "company": "Eduplay Sdn Bhd",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-08-06T22:35:34Z"
   },
   {
     "login": "syafiqsallehudin",
@@ -48590,13 +48578,13 @@
   {
     "login": "frozenfussion",
     "name": "Faysal Aziz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96426152?s=72&u=d953655d229e7e94cebc0565fc58e81da21abdb4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96426152?s=72&u=c144f9daf776498de19e29fc1357af9feec380f9&v=4",
     "location": "Kuala Lumpur, Malaysia",
     "company": "Lutuk Enterprise",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 77,
     "createdAt": "2021-12-20T13:03:37Z"
   },
   {
@@ -48631,8 +48619,8 @@
     "company": "Shazwan Coding",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1195,
-    "publicContributions": 57,
+    "privateContributions": 1042,
+    "publicContributions": 41,
     "createdAt": "2021-11-02T07:38:15Z"
   },
   {
@@ -48644,7 +48632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 22,
     "createdAt": "2021-07-28T01:12:29Z"
   },
   {
@@ -48656,7 +48644,7 @@
     "twitterUsername": "EwxunWong",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 45,
     "createdAt": "2021-11-07T12:08:38Z"
   },
   {
@@ -48667,7 +48655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1204,
+    "privateContributions": 2990,
     "publicContributions": 191,
     "createdAt": "2021-08-20T07:06:24Z"
   },
