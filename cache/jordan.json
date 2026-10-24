@@ -956,7 +956,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2025-04-21T17:52:31Z"
   },
   {
@@ -978,9 +978,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 86,
     "createdAt": "2025-05-05T16:04:19Z"
   },
   {
@@ -992,7 +992,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 32,
     "createdAt": "2025-02-18T08:07:17Z"
   },
   {
@@ -1004,7 +1004,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 816,
+    "publicContributions": 838,
     "createdAt": "2024-12-30T14:47:19Z"
   },
   {
@@ -1026,7 +1026,7 @@
     "location": "Amman, Jordan",
     "company": "University of Jordan",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2025-07-18T16:39:28Z"
@@ -1038,9 +1038,9 @@
     "location": "Amman Jordan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 73,
-    "publicContributions": 135,
+    "followers": 13,
+    "privateContributions": 62,
+    "publicContributions": 102,
     "createdAt": "2025-06-12T03:10:01Z"
   },
   {
@@ -1052,7 +1052,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2025-04-16T23:41:15Z"
   },
   {
@@ -1064,7 +1064,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 9,
     "createdAt": "2025-07-19T14:00:41Z"
   },
   {
@@ -1074,9 +1074,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "JoudN2001",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 160,
     "createdAt": "2025-08-08T13:25:39Z"
   },
   {
@@ -1087,8 +1087,8 @@
     "company": "",
     "twitterUsername": "zaid_ejjo",
     "followers": 7,
-    "privateContributions": 612,
-    "publicContributions": 1129,
+    "privateContributions": 723,
+    "publicContributions": 2049,
     "createdAt": "2025-06-23T23:10:11Z"
   },
   {
@@ -1100,7 +1100,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 430,
-    "publicContributions": 422,
+    "publicContributions": 567,
     "createdAt": "2025-01-21T19:51:59Z"
   },
   {
@@ -1123,7 +1123,7 @@
     "company": "SB Route",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 127,
+    "privateContributions": 110,
     "publicContributions": 60,
     "createdAt": "2025-02-16T11:54:13Z"
   },
@@ -1135,7 +1135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 28,
+    "privateContributions": 29,
     "publicContributions": 13,
     "createdAt": "2025-04-01T20:25:49Z"
   },
@@ -1147,21 +1147,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 28,
-    "publicContributions": 170,
+    "privateContributions": 29,
+    "publicContributions": 171,
     "createdAt": "2025-10-04T21:53:48Z"
-  },
-  {
-    "login": "MohammedNairoukh06",
-    "name": "Mohammed Nairoukh ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236072381?s=72&u=15d281058acafaf1cd66c1232f3c4e20586bb579&v=4",
-    "location": "Amman , Amman Jordan ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 75,
-    "createdAt": "2025-10-04T15:04:18Z"
   },
   {
     "login": "emranbataineh5-max",
@@ -1178,13 +1166,13 @@
   {
     "login": "Mnourkh01",
     "name": "M.Nour",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209755747?s=72&u=8d61f00a0bf929bc81d71364e7f5677c14aa4e8b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209755747?s=72&u=6e630ee326fde91bdb96efd55bacd4cb66854daf&v=4",
     "location": "Jordan - Amman",
     "company": "Folowise",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 274,
     "createdAt": "2025-04-30T08:09:44Z"
   },
   {
