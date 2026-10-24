@@ -49628,7 +49628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2019-06-18T19:10:56Z"
   },
   {
@@ -49640,7 +49640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2019-02-15T20:38:08Z"
   },
   {
@@ -49696,10 +49696,10 @@
     "name": "Kanan Yusubov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44983544?s=72&u=a03a3efe2715d4036542e3c22bde2d13c776046d&v=4",
     "location": "Azerbaijan",
-    "company": "@azercell",
+    "company": "Azercell",
     "twitterUsername": "",
-    "followers": 204,
-    "privateContributions": 20,
+    "followers": 209,
+    "privateContributions": 9,
     "publicContributions": 84,
     "createdAt": "2018-11-12T20:37:16Z"
   },
@@ -49710,9 +49710,9 @@
     "location": "Baku, Azerbaijan",
     "company": "Remote",
     "twitterUsername": "",
-    "followers": 113,
-    "privateContributions": 20,
-    "publicContributions": 10,
+    "followers": 114,
+    "privateContributions": 19,
+    "publicContributions": 15,
     "createdAt": "2018-10-12T10:16:18Z"
   },
   {
@@ -49720,11 +49720,11 @@
     "name": "Javid  Z Salimov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44189780?s=72&u=9cb90d14b206f0294e0c4690a963167fb2f15ddc&v=4",
     "location": "Azerbaijan,Baku",
-    "company": "@3DOTSGLOBAL",
+    "company": "@cbar",
     "twitterUsername": "",
     "followers": 87,
-    "privateContributions": 1152,
-    "publicContributions": 75,
+    "privateContributions": 1200,
+    "publicContributions": 42,
     "createdAt": "2018-10-16T06:38:19Z"
   },
   {
@@ -49734,9 +49734,9 @@
     "location": "Baku, Azerbaijan",
     "company": "Xsolla",
     "twitterUsername": "",
-    "followers": 79,
+    "followers": 80,
     "privateContributions": 12,
-    "publicContributions": 261,
+    "publicContributions": 191,
     "createdAt": "2018-12-21T17:38:58Z"
   },
   {
@@ -49747,20 +49747,20 @@
     "company": "",
     "twitterUsername": "NamazzadeNijat",
     "followers": 75,
-    "privateContributions": 913,
+    "privateContributions": 960,
     "publicContributions": 7,
     "createdAt": "2018-08-17T10:07:49Z"
   },
   {
     "login": "tivole",
     "name": "Kamran Asgarov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45293435?s=72&u=be745de7b6956244d967a16bff245b10e946f75e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/45293435?s=72&u=4f3479cbd31aff7341601c8165f64996d1f4f2d8&v=4",
     "location": "Azerbaijan, Baku",
     "company": "R.I.S.K. Company",
     "twitterUsername": "",
-    "followers": 73,
-    "privateContributions": 1487,
-    "publicContributions": 12,
+    "followers": 75,
+    "privateContributions": 4710,
+    "publicContributions": 5,
     "createdAt": "2018-11-23T15:37:19Z"
   },
   {
@@ -49770,8 +49770,8 @@
     "location": "Baku, Azerbaijan",
     "company": "Azercell Telecom LLC",
     "twitterUsername": "hamiddev",
-    "followers": 71,
-    "privateContributions": 3690,
+    "followers": 72,
+    "privateContributions": 3424,
     "publicContributions": 0,
     "createdAt": "2018-02-17T21:06:53Z"
   },
@@ -49794,21 +49794,21 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "yasinughur",
-    "followers": 56,
-    "privateContributions": 2541,
+    "followers": 53,
+    "privateContributions": 4578,
     "publicContributions": 316,
     "createdAt": "2018-11-02T19:18:06Z"
   },
   {
     "login": "aminhesenov",
     "name": "Amin Hasanov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44285676?s=72&u=dc2ec3cc22bd9237daf3008285d27e4abed2f4ae&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44285676?s=72&u=178d1acdb74917e01585f694a4cc35a09a2bc004&v=4",
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 73,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 47,
     "createdAt": "2018-10-19T06:34:23Z"
   },
   {
@@ -49818,8 +49818,8 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 291,
+    "followers": 50,
+    "privateContributions": 412,
     "publicContributions": 0,
     "createdAt": "2018-02-04T08:17:19Z"
   },

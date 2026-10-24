@@ -49843,8 +49843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2020-07-20T14:11:59Z"
   },
   {
@@ -49870,18 +49870,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-31T13:23:26Z"
-  },
-  {
-    "login": "blazesnap",
-    "name": "Dmitry",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71186095?s=72&u=1aca7acaf3a077daee5ba90e5b5caadd0dcfe017&v=4",
-    "location": "Belarus, Minsk",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-09-12T16:09:38Z"
   },
   {
     "login": "PanasenkoAlexander",
@@ -49926,7 +49914,7 @@
     "location": "Belarus",
     "company": "EPAM",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-17T12:07:19Z"
@@ -49954,18 +49942,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-28T13:35:11Z"
-  },
-  {
-    "login": "andrey-rom",
-    "name": "Andrei Ramanenka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67024595?s=72&u=1109f04bf01591d71725432f99df96a97ba840f7&v=4",
-    "location": "Belarus, Gomel",
-    "company": "Self-Education Inc.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 90,
-    "createdAt": "2020-06-16T20:03:53Z"
   },
   {
     "login": "Rubynowich",
@@ -50006,13 +49982,13 @@
   {
     "login": "Psyxoz13",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70453252?s=72&u=36de25d41c49da382985bfb880b824befcde2b4d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70453252?s=72&u=019294fcbbd276f91f1ef6afb7d43bfcc6d967dd&v=4",
     "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 16,
     "createdAt": "2020-08-29T21:42:11Z"
   },
   {

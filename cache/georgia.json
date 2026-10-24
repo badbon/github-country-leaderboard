@@ -49728,18 +49728,6 @@
     "createdAt": "2018-02-18T19:18:36Z"
   },
   {
-    "login": "kh1msh0",
-    "name": "George",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/37814487?s=72&u=fa7de47b51b46d340057ab2045d3faf7b647c634&v=4",
-    "location": "Tbilisi",
-    "company": "4TWIGGERS",
-    "twitterUsername": "GKhimshiashvil",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 344,
-    "createdAt": "2018-03-26T19:39:59Z"
-  },
-  {
     "login": "rosjerry",
     "name": "Rostomi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36961172?s=72&u=e354e70c0707789c203aaddc0107648fd4415eed&v=4",
@@ -49748,7 +49736,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 23,
     "createdAt": "2018-03-01T14:46:44Z"
   },
   {
@@ -49760,7 +49748,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2018-09-29T14:30:53Z"
   },
   {
@@ -49783,14 +49771,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 810,
+    "privateContributions": 676,
     "publicContributions": 0,
     "createdAt": "2018-05-23T07:24:58Z"
   },
   {
     "login": "Ach113",
     "name": "Archil",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41070955?s=72&u=cc88d3a4dc5685db188bae39772f8e80e95733fc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41070955?s=72&v=4",
     "location": "Tbilisi, GE",
     "company": "EPAM",
     "twitterUsername": "",
@@ -49806,9 +49794,9 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1655,
-    "publicContributions": 20,
+    "followers": 9,
+    "privateContributions": 5161,
+    "publicContributions": 16,
     "createdAt": "2018-09-27T16:48:41Z"
   },
   {
@@ -49819,8 +49807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 678,
-    "publicContributions": 335,
+    "privateContributions": 429,
+    "publicContributions": 318,
     "createdAt": "2018-10-16T11:27:49Z"
   },
   {
@@ -49830,9 +49818,9 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "esaia__",
-    "followers": 7,
-    "privateContributions": 829,
-    "publicContributions": 515,
+    "followers": 9,
+    "privateContributions": 1589,
+    "publicContributions": 493,
     "createdAt": "2018-03-29T09:12:24Z"
   },
   {
@@ -49843,8 +49831,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 155,
-    "publicContributions": 85,
+    "privateContributions": 192,
+    "publicContributions": 107,
     "createdAt": "2018-02-20T07:48:41Z"
   },
   {
@@ -49855,8 +49843,8 @@
     "company": "@Exactpro",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 12,
-    "publicContributions": 5,
+    "privateContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2018-12-27T10:05:11Z"
   },
   {
@@ -49867,8 +49855,8 @@
     "company": "KAGAME",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 103,
-    "publicContributions": 11,
+    "privateContributions": 76,
+    "publicContributions": 3,
     "createdAt": "2018-12-20T20:30:20Z"
   },
   {
@@ -49890,9 +49878,9 @@
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1146,
-    "publicContributions": 2,
+    "followers": 9,
+    "privateContributions": 1445,
+    "publicContributions": 1,
     "createdAt": "2018-07-06T15:17:02Z"
   },
   {
@@ -49902,9 +49890,9 @@
     "location": "Tbilisi",
     "company": "Setanta Sports",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 3397,
-    "publicContributions": 22,
+    "followers": 9,
+    "privateContributions": 3973,
+    "publicContributions": 21,
     "createdAt": "2018-11-06T21:11:11Z"
   },
   {
@@ -49916,7 +49904,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 337,
+    "publicContributions": 338,
     "createdAt": "2018-03-28T09:15:06Z"
   },
   {
@@ -49927,8 +49915,8 @@
     "company": "funtico",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 845,
-    "publicContributions": 60,
+    "privateContributions": 1258,
+    "publicContributions": 48,
     "createdAt": "2018-07-27T10:50:30Z"
   },
   {
@@ -51462,7 +51450,7 @@
     "location": "Georgia, Atlanta",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-02T23:07:29Z"

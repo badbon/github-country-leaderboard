@@ -236890,5 +236890,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-07-02T08:36:07Z"
+  },
+  {
+    "login": "laxamanasr-blip",
+    "name": "Sid Laxamana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299495542?s=72&u=2e0a2debf33f1e4351892b857b2cc98b18417c51&v=4",
+    "location": "Eastwood, Quezon City, Philippines",
+    "company": "Probe Cx",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 216,
+    "createdAt": "2026-07-03T11:11:26Z"
+  },
+  {
+    "login": "MonarchStar",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299535712?s=72&u=bccffae968662075685cbad704a862ea09f3c66a&v=4",
+    "location": "Philippines, Davao",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 69,
+    "publicContributions": 13,
+    "createdAt": "2026-07-03T13:20:33Z"
   }
 ]

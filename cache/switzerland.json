@@ -49196,7 +49196,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 707,
+    "publicContributions": 850,
     "createdAt": "2021-08-31T10:34:39Z"
   },
   {
@@ -49207,7 +49207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
+    "privateContributions": 13,
     "publicContributions": 43,
     "createdAt": "2021-08-20T14:10:53Z"
   },
@@ -49218,8 +49218,8 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 5,
+    "followers": 3,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2021-09-21T07:58:59Z"
   },
@@ -49232,20 +49232,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2021-09-27T16:29:49Z"
-  },
-  {
-    "login": "wkagebo",
-    "name": "William Kågebo ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89011379?s=72&u=0471fd393efd388119d770bee67fb9f5e4ae6556&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 32,
-    "createdAt": "2021-08-16T08:58:50Z"
   },
   {
     "login": "MagnusBaneWBS",
@@ -49279,8 +49267,8 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 38,
+    "privateContributions": 12,
+    "publicContributions": 36,
     "createdAt": "2021-08-30T11:25:38Z"
   },
   {
@@ -49291,8 +49279,8 @@
     "company": "CERN",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 224,
-    "publicContributions": 15,
+    "privateContributions": 387,
+    "publicContributions": 24,
     "createdAt": "2021-08-30T23:43:17Z"
   },
   {
@@ -49302,9 +49290,9 @@
     "location": "Switzerland",
     "company": "Centris AG",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 2,
     "createdAt": "2021-08-01T16:33:43Z"
   },
   {
@@ -49315,21 +49303,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 264,
+    "privateContributions": 284,
     "publicContributions": 1,
     "createdAt": "2021-08-08T09:00:45Z"
-  },
-  {
-    "login": "guillaume-mueller",
-    "name": "Guillaume",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91306086?s=72&u=cfb71aa8ce841a61663010a9a4d1a6a581a6e9a2&v=4",
-    "location": "🇨🇭 Switzerland (French-speaking)",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 19,
-    "publicContributions": 16,
-    "createdAt": "2021-09-24T05:16:27Z"
   },
   {
     "login": "RobynnTournemine",
@@ -49352,7 +49328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 28,
     "createdAt": "2021-09-15T09:18:04Z"
   },
   {
@@ -49399,7 +49375,7 @@
     "company": "High Stakes Switzerland",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 472,
+    "privateContributions": 436,
     "publicContributions": 1,
     "createdAt": "2021-08-08T15:45:15Z"
   },
@@ -49411,8 +49387,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 305,
-    "publicContributions": 16,
+    "privateContributions": 215,
+    "publicContributions": 13,
     "createdAt": "2021-08-09T21:08:18Z"
   },
   {

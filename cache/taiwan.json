@@ -42632,7 +42632,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 34,
     "createdAt": "2021-11-16T23:17:38Z"
   },
   {
@@ -42655,20 +42655,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 66,
-    "publicContributions": 66,
+    "privateContributions": 77,
+    "publicContributions": 65,
     "createdAt": "2021-07-23T05:15:17Z"
   },
   {
-    "login": "NeilChen0812",
-    "name": "Neil Chen",
+    "login": "neilchen0812",
+    "name": "Tai-Lin Chen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88068175?s=72&v=4",
     "location": "Taiwan",
-    "company": "",
+    "company": "@linux-odyssey ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 29,
     "createdAt": "2021-07-28T02:12:55Z"
   },
   {
@@ -42680,7 +42680,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2021-07-16T01:15:58Z"
   },
   {
@@ -42702,9 +42702,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1627,
-    "publicContributions": 93,
+    "followers": 4,
+    "privateContributions": 2989,
+    "publicContributions": 170,
     "createdAt": "2021-12-16T11:15:03Z"
   },
   {
@@ -42716,7 +42716,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 37,
     "createdAt": "2021-09-19T14:25:29Z"
   },
   {
@@ -42728,19 +42728,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2021-09-21T08:29:54Z"
   },
   {
     "login": "theohsiung",
     "name": "Theo Hsiung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90186852?s=72&u=87855742b0efb9ffdb006afc4f9be61ae6c79a6a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90186852?s=72&u=7e7dddba90d1a08ff32c55edbcb0d9027896d7fc&v=4",
     "location": "Taiwan",
     "company": "Delta Electronics",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 210,
-    "publicContributions": 426,
+    "followers": 9,
+    "privateContributions": 211,
+    "publicContributions": 551,
     "createdAt": "2021-09-06T09:50:03Z"
   },
   {
@@ -42750,7 +42750,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-16T05:32:57Z"
@@ -42764,7 +42764,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2021-09-21T03:05:22Z"
   },
   {
@@ -42774,15 +42774,15 @@
     "location": "Taipei, Taiwan",
     "company": "@futures-ai ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 126,
     "createdAt": "2021-07-30T23:59:27Z"
   },
   {
     "login": "LuceZi",
     "name": "Xinyu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89438544?s=72&u=a8ec7d16f64567af70848f1348bcce4a17d486d9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89438544?s=72&u=f84614238083c2a9789b432b600e9bb26cb4d939&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
@@ -42793,14 +42793,14 @@
   },
   {
     "login": "tom1030507",
-    "name": "陳聖勳",
+    "name": "Sheng-Xun Chen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92637787?s=72&v=4",
     "location": "Taoyuan, Taiwan",
     "company": "National Central University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 610,
-    "publicContributions": 136,
+    "privateContributions": 938,
+    "publicContributions": 430,
     "createdAt": "2021-10-16T14:21:25Z"
   },
   {
@@ -42810,7 +42810,7 @@
     "location": "Taiwan",
     "company": "1",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-24T06:42:19Z"
@@ -42824,7 +42824,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 30,
     "createdAt": "2021-12-13T14:15:44Z"
   },
   {
@@ -42835,20 +42835,20 @@
     "company": "National Taipei University of Technology",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 25,
-    "publicContributions": 116,
+    "privateContributions": 18,
+    "publicContributions": 83,
     "createdAt": "2021-10-18T08:52:24Z"
   },
   {
     "login": "chiu20060726",
     "name": "Ching Shun CHIU",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96660932?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96660932?s=72&u=703f523a4d48db257fe686db44f287dd376ff987&v=4",
     "location": "Puli, Nantou Country, Taiwan",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 61,
     "createdAt": "2021-12-25T16:49:45Z"
   },
   {
@@ -42860,7 +42860,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 19,
     "createdAt": "2021-10-24T06:11:12Z"
   },
   {

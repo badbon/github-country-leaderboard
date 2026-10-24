@@ -49016,7 +49016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2024-04-26T07:03:25Z"
   },
   {
@@ -49064,7 +49064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 61,
     "createdAt": "2024-03-21T12:53:56Z"
   },
   {
@@ -49098,8 +49098,8 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 79,
+    "followers": 2,
+    "privateContributions": 497,
     "publicContributions": 0,
     "createdAt": "2024-01-03T16:41:46Z"
   },
@@ -49122,9 +49122,9 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 644,
+    "followers": 630,
     "privateContributions": 0,
-    "publicContributions": 623,
+    "publicContributions": 617,
     "createdAt": "2024-07-17T08:12:23Z"
   },
   {
@@ -49134,9 +49134,9 @@
     "location": "Istanbul, Turkey",
     "company": "Marmara University",
     "twitterUsername": "",
-    "followers": 513,
+    "followers": 453,
     "privateContributions": 0,
-    "publicContributions": 426,
+    "publicContributions": 309,
     "createdAt": "2024-09-03T19:20:55Z"
   },
   {
@@ -49146,21 +49146,21 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 277,
-    "privateContributions": 363,
+    "followers": 295,
+    "privateContributions": 340,
     "publicContributions": 7,
     "createdAt": "2024-10-05T12:37:39Z"
   },
   {
     "login": "EbiAraz",
-    "name": "Ebi-Mhmdli",
+    "name": "Ebi Mhmdli",
     "avatarUrl": "https://avatars.githubusercontent.com/u/189632741?s=72&u=d2543b1e3c0ff27b535dce89ea3fa01a9f65e163&v=4",
     "location": "Istanbul/Turkey",
-    "company": "Open to Work",
+    "company": "",
     "twitterUsername": "",
-    "followers": 272,
+    "followers": 365,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 154,
     "createdAt": "2024-11-25T14:24:40Z"
   },
   {
@@ -49170,9 +49170,9 @@
     "location": "Ankara, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 199,
-    "privateContributions": 113,
-    "publicContributions": 20,
+    "followers": 182,
+    "privateContributions": 108,
+    "publicContributions": 16,
     "createdAt": "2024-11-16T23:44:13Z"
   },
   {
@@ -49182,9 +49182,9 @@
     "location": "Istanbul/Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 168,
+    "followers": 169,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 48,
     "createdAt": "2024-10-25T17:00:18Z"
   },
   {
@@ -49194,9 +49194,9 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 137,
+    "followers": 187,
     "privateContributions": 0,
-    "publicContributions": 243,
+    "publicContributions": 164,
     "createdAt": "2024-07-25T12:02:55Z"
   },
   {
@@ -49206,7 +49206,7 @@
     "location": "Ankara, Turkey",
     "company": "Patika.Dev",
     "twitterUsername": "",
-    "followers": 113,
+    "followers": 107,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-11-12T17:11:31Z"
@@ -49214,13 +49214,13 @@
   {
     "login": "orayyilmaz16",
     "name": "Oray Yılmaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187287231?s=72&u=b93933ab2310f81a8d7939cb6a028a9d8f88782c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187287231?s=72&u=9e3a3c7e7828aee7e8df845030f5059bdb3951ce&v=4",
     "location": "Bursa, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 105,
-    "privateContributions": 0,
-    "publicContributions": 119,
+    "followers": 91,
+    "privateContributions": 32,
+    "publicContributions": 18,
     "createdAt": "2024-11-04T13:14:41Z"
   },
   {

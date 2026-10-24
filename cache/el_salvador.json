@@ -21120,18 +21120,6 @@
     "createdAt": "2017-11-12T21:42:20Z"
   },
   {
-    "login": "ich0x",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25590184?s=72&v=4",
-    "location": "El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 72,
-    "createdAt": "2017-02-06T16:24:33Z"
-  },
-  {
     "login": "ocorea",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/7795749?s=72&u=86e802cb42bf41ea7c352bb914e06b2dd78120b9&v=4",
@@ -21198,8 +21186,8 @@
     "location": "El Salvador",
     "company": "@KnotAPI",
     "twitterUsername": "",
-    "followers": 61,
-    "privateContributions": 990,
+    "followers": 60,
+    "privateContributions": 983,
     "publicContributions": 0,
     "createdAt": "2016-09-17T03:16:09Z"
   },
@@ -21223,8 +21211,8 @@
     "company": "",
     "twitterUsername": "AaronReynoza",
     "followers": 29,
-    "privateContributions": 561,
-    "publicContributions": 28,
+    "privateContributions": 454,
+    "publicContributions": 27,
     "createdAt": "2016-12-21T22:09:07Z"
   },
   {
@@ -21247,7 +21235,7 @@
     "company": "@elaniin",
     "twitterUsername": "vlasscontreras",
     "followers": 27,
-    "privateContributions": 1926,
+    "privateContributions": 2194,
     "publicContributions": 0,
     "createdAt": "2016-03-09T16:40:50Z"
   },
@@ -21270,8 +21258,8 @@
     "location": "El Salvador",
     "company": "@Applaudo",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 10172,
+    "followers": 16,
+    "privateContributions": 11969,
     "publicContributions": 3,
     "createdAt": "2016-11-17T16:41:57Z"
   },
@@ -21294,9 +21282,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 24,
     "createdAt": "2016-04-21T14:34:07Z"
   },
   {
