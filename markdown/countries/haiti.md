@@ -12,7 +12,7 @@ Indexed users: 339
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,711 |
+| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,716 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,878 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,561 |
 | 4 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,502 |
@@ -24,7 +24,7 @@ Indexed users: 339
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,945 |
 | 11 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,943 |
 | 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,833 |
-| 13 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,766 |
+| 13 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,823 |
 | 14 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,746 |
 | 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,691 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,480 |
@@ -64,9 +64,9 @@ Indexed users: 339
 |---:|---|---|---|---:|
 | 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 265 |
 | 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 89 |
-| 3 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
-| 4 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
-| 5 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 71 |
+| 3 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 72 |
+| 4 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
+| 5 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
 | 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 63 |
 | 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 59 |
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles | Haiti | 56 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 31 |
 
-Generated: 2026-10-24T01:35:21.975Z
+Generated: 2026-10-24T06:22:02.219Z

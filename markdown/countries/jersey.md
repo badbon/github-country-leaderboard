@@ -38,7 +38,7 @@ Indexed users: 139
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 38,549 |
-| 2 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 776 |
+| 2 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 802 |
 | 3 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 731 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 711 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 560 |
@@ -48,7 +48,7 @@ Indexed users: 139
 | 9 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 412 |
 | 10 | [doobox](https://github.com/doobox) | Doobox | Jersey | 409 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 221 |
-| 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 186 |
+| 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 189 |
 | 13 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 156 |
 | 14 | [devdanio](https://github.com/devdanio) | Dan | Jersey | 139 |
 | 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 134 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 21 |
 | 20 | [garyedwards](https://github.com/garyedwards) | Gary Edwards | Jersey, Channel Islands | 21 |
 
-Generated: 2026-10-24T01:39:22.230Z
+Generated: 2026-10-24T06:25:15.751Z

@@ -17,12 +17,12 @@ Indexed users: 160
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 2,412 |
 | 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 2,187 |
 | 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 2,033 |
-| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | Maseru, Lesotho | 1,015 |
+| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | Maseru, Lesotho | 1,032 |
 | 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 998 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | Maseru | 814 |
 | 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 694 |
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 689 |
-| 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 587 |
+| 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 578 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 507 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 432 |
 | 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 420 |
@@ -31,7 +31,7 @@ Indexed users: 160
 | 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 298 |
 | 18 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 282 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 262 |
-| 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 225 |
+| 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 224 |
 
 ## Public Contributions
 
@@ -52,7 +52,7 @@ Indexed users: 160
 | 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Maseru | 101 |
 | 14 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 98 |
 | 15 | [Mampheteng](https://github.com/Mampheteng) | Mampheteng Koote | Maseru Lesotho | 93 |
-| 16 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 92 |
+| 16 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana | Upper Thamae Maseru | 88 |
 | 17 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi | Lesotho | 88 |
 | 18 | [Tlotliso-Wiinc](https://github.com/Tlotliso-Wiinc) | Tlotliso Mafantiri | Maseru, Lesotho | 77 |
 | 19 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg | Lesotho, Maseru | 75 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-24T01:41:48.438Z
+Generated: 2026-10-24T06:28:34.240Z

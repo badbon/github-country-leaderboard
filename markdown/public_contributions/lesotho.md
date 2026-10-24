@@ -1,6 +1,6 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-24T01:41:48.438Z
+Generated: 2026-10-24T06:28:34.240Z
 
 Users: 160
 
@@ -21,7 +21,7 @@ Users: 160
 | 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Mindforge AI |  | Maseru | 101 |
 | 14 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 98 |
 | 15 | [Mampheteng](https://github.com/Mampheteng) | Mampheteng Koote |  |  | Maseru Lesotho | 93 |
-| 16 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana |  |  | Upper Thamae Maseru | 92 |
+| 16 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana |  |  | Upper Thamae Maseru | 88 |
 | 17 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi |  |  | Lesotho | 88 |
 | 18 | [Tlotliso-Wiinc](https://github.com/Tlotliso-Wiinc) | Tlotliso Mafantiri |  |  | Maseru, Lesotho | 77 |
 | 19 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg |  | ThisisNapoQheku | Lesotho, Maseru | 75 |

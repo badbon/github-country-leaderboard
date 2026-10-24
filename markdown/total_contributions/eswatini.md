@@ -1,6 +1,6 @@
 # Total Contributions - Eswatini
 
-Generated: 2026-10-24T01:29:24.519Z
+Generated: 2026-10-24T06:14:39.934Z
 
 Users: 108
 
@@ -22,7 +22,7 @@ Users: 108
 | 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Onswaziline |  | Mbabane, Swaziland | 167 |
 | 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx |  |  | Manzini, Swaziland | 98 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 |  |  | Mbabane,Eswatini | 94 |
-| 17 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 74 |
+| 17 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 73 |
 | 18 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 65 |
 | 19 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  |  |  Eswatini | 65 |
 | 20 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 60 |

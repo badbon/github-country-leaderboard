@@ -1,12 +1,12 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-24T01:30:55.492Z
+Generated: 2026-10-24T06:18:27.433Z
 
 Users: 79
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3803 |
+| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3809 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3249 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1659 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1363 |
@@ -22,7 +22,7 @@ Users: 79
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 422 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 392 |
 | 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 263 |
-| 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 246 |
+| 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 261 |
 | 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 169 |
 | 19 | [fiture99](https://github.com/fiture99) | Lamin Jawneh |  | jawneh_lamin | Banjul, Gambia | 168 |
 | 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 145 |

@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-24T01:32:37.651Z
+Generated: 2026-10-24T06:20:16.648Z
 
 Users: 86
 
@@ -16,7 +16,7 @@ Users: 86
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 991 |
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 977 |
 | 10 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 944 |
-| 11 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 755 |
+| 11 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 754 |
 | 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 720 |
 | 13 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 658 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 230 |

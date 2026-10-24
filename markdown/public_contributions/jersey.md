@@ -1,13 +1,13 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-24T01:39:22.230Z
+Generated: 2026-10-24T06:25:15.751Z
 
 Users: 139
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @wpallstars @evergreenjersey @awardsapp | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 38549 |
-| 2 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 776 |
+| 2 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 802 |
 | 3 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 731 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 711 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 560 |
@@ -17,7 +17,7 @@ Users: 139
 | 9 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 412 |
 | 10 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 409 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 221 |
-| 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 186 |
+| 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 189 |
 | 13 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 156 |
 | 14 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
 | 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 134 |

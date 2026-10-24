@@ -1,13 +1,13 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-24T01:43:25.046Z
+Generated: 2026-10-24T06:29:54.843Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 2077 |
-| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1704 |
+| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1705 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1218 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 760 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 686 |

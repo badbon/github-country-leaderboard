@@ -1,13 +1,13 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-24T01:31:22.748Z
+Generated: 2026-10-24T06:19:13.115Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | AntheaConsulting |  | Gibraltar | 29171 |
-| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5644 |
+| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5629 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 5221 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz |  |  | Gibraltar | 3278 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 3161 |

@@ -18,7 +18,7 @@ Published countries: 236
 | Armenia | 4,021 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
 | Austria | 18,242 | [View](./austria.md) |
-| Azerbaijan | 5,041 | [View](./azerbaijan.md) |
+| Azerbaijan | 5,040 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
 | Bangladesh | 55,299 | [View](./bangladesh.md) |
@@ -36,7 +36,7 @@ Published countries: 236
 | British Indian Ocean Territory | 3 | [View](./british_indian_ocean_territory.md) |
 | British Virgin Islands | 38 | [View](./british_virgin_islands.md) |
 | Brunei | 254 | [View](./brunei.md) |
-| Bulgaria | 14,061 | [View](./bulgaria.md) |
+| Bulgaria | 14,062 | [View](./bulgaria.md) |
 | Burkina Faso | 486 | [View](./burkina_faso.md) |
 | Burundi | 235 | [View](./burundi.md) |
 | Cambodia | 2,858 | [View](./cambodia.md) |
@@ -70,7 +70,7 @@ Published countries: 236
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,896 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,664 | [View](./ethiopia.md) |
+| Ethiopia | 6,662 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
@@ -100,17 +100,17 @@ Published countries: 236
 | Hungary | 11,152 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,267 | [View](./indonesia.md) |
-| Iran | 26,848 | [View](./iran.md) |
+| Iran | 26,846 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
 | Ireland | 19,482 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,413 | [View](./israel.md) |
-| Italy | 49,003 | [View](./italy.md) |
+| Italy | 49,001 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 3,995 | [View](./jordan.md) |
-| Kazakhstan | 5,617 | [View](./kazakhstan.md) |
+| Kazakhstan | 5,616 | [View](./kazakhstan.md) |
 | Kenya | 24,004 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T06:14:14.945Z
+Generated: 2026-10-24T06:31:45.480Z
