@@ -1,18 +1,18 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-24T17:14:38.431Z
+Generated: 2026-10-24T18:28:04.877Z
 
 Users: 288
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4095 |
+| 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4098 |
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 1219 |
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 880 |
 | 4 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Next Technology | 3lh_j | Nouakchott-Mauritanie | 799 |
 | 5 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | ACPEC SARL |  | Nouakchott | 673 |
-| 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 650 |
-| 7 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | supnum |  | Mauritania  | 403 |
+| 6 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 649 |
+| 7 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | supnum |  | Mauritania  | 405 |
 | 8 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 381 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh |  | SidiMaadh | Nouakchott | 378 |
 | 10 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 311 |

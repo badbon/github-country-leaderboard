@@ -1,6 +1,6 @@
 # Public Contributions - Republic of the Congo
 
-Generated: 2026-10-24T17:26:52.375Z
+Generated: 2026-10-24T18:40:15.913Z
 
 Users: 297
 
@@ -19,7 +19,7 @@ Users: 297
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | PossaCode |  | Brazzaville | 362 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Extravaganza |  | Congo | 354 |
 | 13 | [Kingcedloga](https://github.com/Kingcedloga) | Meced Loga | Royal Software |  | Kinshasa, Congo | 317 |
-| 14 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 311 |
+| 14 | [leloeduk](https://github.com/leloeduk) | Lelo  | Lelo eduk |  | Congo | 310 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | AKIENI ACADEMY |  | Congo-Brazzaville | 307 |
 | 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 300 |
 | 17 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac |  |  | Congo | 248 |

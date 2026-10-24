@@ -1,13 +1,13 @@
 # Public Contributions - Papua New Guinea
 
-Generated: 2026-10-24T17:23:37.917Z
+Generated: 2026-10-24T18:38:22.564Z
 
 Users: 296
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 3315 |
-| 2 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3120 |
+| 2 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3129 |
 | 3 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 1857 |
 | 4 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 816 |
 | 5 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 540 |
@@ -16,7 +16,7 @@ Users: 296
 | 8 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 280 |
 | 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 245 |
 | 10 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 |  |  | Port Moresby | 242 |
-| 11 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino |  |  | Port Moresby, NCDC | 234 |
+| 11 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino |  |  | Port Moresby, NCDC | 236 |
 | 12 | [projekt-kombil](https://github.com/projekt-kombil) | Alefay Kombil |  |  | Papua New Guinea | 226 |
 | 13 | [Thafundraiser007](https://github.com/Thafundraiser007) | Jamill Naipao  |  |  | Papua New Guinea, NCD, Port Moresby  | 225 |
 | 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga |  |  | Papua New Guinea | 216 |

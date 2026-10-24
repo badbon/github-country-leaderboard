@@ -17,21 +17,21 @@ Indexed users: 14,959
 | 3 | [suciumarius](https://github.com/suciumarius) | Marius-Cornel Suciu | Romania | 35,283 |
 | 4 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 34,226 |
 | 5 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | Romania | 30,414 |
-| 6 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Craiova, Romania | 23,800 |
-| 7 | [zenprocess](https://github.com/zenprocess) | Zen Process | Bucharest, Romania | 19,586 |
-| 8 | [algunion](https://github.com/algunion) | Marius Fersigan | Romania | 18,770 |
-| 9 | [danlex](https://github.com/danlex) | Alexandru Dan | Bucharest, Romania | 18,445 |
-| 10 | [SPIRY-RO](https://github.com/SPIRY-RO) | Spiry | Romania | 17,159 |
-| 11 | [teodoravadani](https://github.com/teodoravadani) | Teodor | Romania | 15,357 |
-| 12 | [eliandoran](https://github.com/eliandoran) | Elian Doran | Sibiu, Romania | 13,740 |
-| 13 | [webmyc](https://github.com/webmyc) | Mihai Dragomirescu | Brasov, Romania | 12,397 |
-| 14 | [cristianuibar](https://github.com/cristianuibar) | Cristian Uibar | Timișoara, Romania, EU | 12,194 |
-| 15 | [sasurobert](https://github.com/sasurobert) | Robert Sasu | Romania | 11,910 |
-| 16 | [andreiavram](https://github.com/andreiavram) | Andrei Avram | Cluj-Napoca, Romania | 11,748 |
-| 17 | [mercer](https://github.com/mercer) | Emilian Losneanu | Bucharest, Romania | 11,174 |
-| 18 | [afurculita](https://github.com/afurculita) | Alexandru Furculita | Iasi, Romania   | 11,030 |
-| 19 | [rfksna](https://github.com/rfksna) | Neacsu Daniel | Bucharest & Cluj-Napoca | 10,823 |
-| 20 | [flvmnt](https://github.com/flvmnt) | Munteanu Flavius-Ioan | Romania | 10,765 |
+| 6 | [adibirzu](https://github.com/adibirzu) | Adrian Birzu | Romania | 29,625 |
+| 7 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Craiova, Romania | 23,800 |
+| 8 | [zenprocess](https://github.com/zenprocess) | Zen Process | Bucharest, Romania | 19,586 |
+| 9 | [algunion](https://github.com/algunion) | Marius Fersigan | Romania | 18,770 |
+| 10 | [danlex](https://github.com/danlex) | Alexandru Dan | Bucharest, Romania | 18,445 |
+| 11 | [SPIRY-RO](https://github.com/SPIRY-RO) | Spiry | Romania | 17,159 |
+| 12 | [teodoravadani](https://github.com/teodoravadani) | Teodor | Romania | 15,357 |
+| 13 | [eliandoran](https://github.com/eliandoran) | Elian Doran | Sibiu, Romania | 13,740 |
+| 14 | [webmyc](https://github.com/webmyc) | Mihai Dragomirescu | Brasov, Romania | 12,397 |
+| 15 | [cristianuibar](https://github.com/cristianuibar) | Cristian Uibar | Timișoara, Romania, EU | 12,194 |
+| 16 | [sasurobert](https://github.com/sasurobert) | Robert Sasu | Romania | 11,910 |
+| 17 | [andreiavram](https://github.com/andreiavram) | Andrei Avram | Cluj-Napoca, Romania | 11,748 |
+| 18 | [mercer](https://github.com/mercer) | Emilian Losneanu | Bucharest, Romania | 11,174 |
+| 19 | [afurculita](https://github.com/afurculita) | Alexandru Furculita | Iasi, Romania   | 11,030 |
+| 20 | [rfksna](https://github.com/rfksna) | Neacsu Daniel | Bucharest & Cluj-Napoca | 10,823 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 14,959
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-24T17:26:59.990Z
+Generated: 2026-10-24T18:41:54.405Z

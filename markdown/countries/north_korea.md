@@ -31,7 +31,7 @@ Indexed users: 185
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 308 |
 | 19 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 288 |
-| 20 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 254 |
+| 20 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 253 |
 
 ## Public Contributions
 
@@ -47,7 +47,7 @@ Indexed users: 185
 | 8 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 208 |
 | 9 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 207 |
 | 10 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 195 |
-| 11 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 191 |
+| 11 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 190 |
 | 12 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 189 |
 | 13 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
 | 14 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 184 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-24T17:22:09.839Z
+Generated: 2026-10-24T18:35:50.312Z

@@ -43,7 +43,7 @@ Indexed users: 291
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,061 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 6 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 693 |
-| 7 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 688 |
+| 7 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 687 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 524 |
 | 9 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 465 |
 | 10 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 450 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-24T17:17:18.624Z
+Generated: 2026-10-24T18:31:02.416Z

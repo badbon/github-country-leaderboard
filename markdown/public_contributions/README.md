@@ -24,7 +24,7 @@ Published countries: 236
 | Bangladesh | 55,294 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,911 | [View](./belarus.md) |
-| Belgium | 18,369 | [View](./belgium.md) |
+| Belgium | 18,368 | [View](./belgium.md) |
 | Belize | 94 | [View](./belize.md) |
 | Benin | 471 | [View](./benin.md) |
 | Bermuda | 896 | [View](./bermuda.md) |
@@ -127,7 +127,7 @@ Published countries: 236
 | Macau | 438 | [View](./macau.md) |
 | Madagascar | 1,899 | [View](./madagascar.md) |
 | Malawi | 899 | [View](./malawi.md) |
-| Malaysia | 11,773 | [View](./malaysia.md) |
+| Malaysia | 11,772 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 347 | [View](./mali.md) |
 | Malta | 1,223 | [View](./malta.md) |
@@ -136,7 +136,7 @@ Published countries: 236
 | Mauritania | 288 | [View](./mauritania.md) |
 | Mauritius | 714 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
-| Mexico | 23,472 | [View](./mexico.md) |
+| Mexico | 23,471 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,744 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
@@ -145,7 +145,7 @@ Published countries: 236
 | Montserrat | 291 | [View](./montserrat.md) |
 | Morocco | 9,605 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
-| Myanmar | 2,056 | [View](./myanmar.md) |
+| Myanmar | 2,055 | [View](./myanmar.md) |
 | Namibia | 474 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,086 | [View](./nepal.md) |
@@ -153,25 +153,25 @@ Published countries: 236
 | New Zealand | 12,132 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
-| Nigeria | 33,167 | [View](./nigeria.md) |
+| Nigeria | 33,166 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
 | North Macedonia | 1,921 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
-| Norway | 19,619 | [View](./norway.md) |
+| Norway | 19,618 | [View](./norway.md) |
 | Oman | 991 | [View](./oman.md) |
-| Pakistan | 41,849 | [View](./pakistan.md) |
+| Pakistan | 41,848 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,195 | [View](./palestine.md) |
 | Panama | 1,069 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
-| Paraguay | 2,013 | [View](./paraguay.md) |
-| Peru | 9,758 | [View](./peru.md) |
+| Paraguay | 2,012 | [View](./paraguay.md) |
+| Peru | 9,757 | [View](./peru.md) |
 | Philippines | 19,743 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Poland | 58,091 | [View](./poland.md) |
-| Portugal | 28,425 | [View](./portugal.md) |
+| Portugal | 28,424 | [View](./portugal.md) |
 | Puerto Rico | 1,530 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 297 | [View](./republic_of_the_congo.md) |
@@ -193,7 +193,7 @@ Published countries: 236
 | Serbia | 10,645 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,709 | [View](./singapore.md) |
+| Singapore | 24,708 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,655 | [View](./slovakia.md) |
 | Slovenia | 3,093 | [View](./slovenia.md) |
@@ -213,7 +213,7 @@ Published countries: 236
 | Taiwan | 21,988 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
-| Thailand | 14,972 | [View](./thailand.md) |
+| Thailand | 14,973 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
 | Togo | 676 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T18:23:38.248Z
+Generated: 2026-10-24T18:48:21.367Z

@@ -50,7 +50,7 @@ Indexed users: 297
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 362 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 354 |
 | 13 | [Kingcedloga](https://github.com/Kingcedloga) | Meced Loga | Kinshasa, Congo | 317 |
-| 14 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 311 |
+| 14 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 310 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 307 |
 | 16 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 300 |
 | 17 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 248 |
@@ -83,4 +83,4 @@ Indexed users: 297
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 26 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Congo | 23 |
 
-Generated: 2026-10-24T17:26:52.375Z
+Generated: 2026-10-24T18:40:15.913Z

@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-24T17:23:37.917Z
+Generated: 2026-10-24T18:38:22.564Z
 
 Users: 296
 
@@ -9,9 +9,9 @@ Users: 296
 | 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 19885 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 13626 |
 | 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10574 |
-| 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4409 |
+| 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4362 |
 | 5 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 3141 |
-| 6 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3120 |
+| 6 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3129 |
 | 7 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 1518 |
 | 8 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 1510 |
 | 9 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 1448 |

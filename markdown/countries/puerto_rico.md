@@ -31,7 +31,7 @@ Indexed users: 1,530
 | 17 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 6,086 |
 | 18 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,948 |
 | 19 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 5,932 |
-| 20 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,790 |
+| 20 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,782 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,530
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-24T17:25:56.299Z
+Generated: 2026-10-24T18:40:08.311Z

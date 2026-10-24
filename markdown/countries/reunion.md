@@ -40,7 +40,7 @@ Indexed users: 212
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,982 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,729 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,139 |
-| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 919 |
+| 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 909 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 884 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 766 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 697 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-24T17:26:56.218Z
+Generated: 2026-10-24T18:40:19.448Z

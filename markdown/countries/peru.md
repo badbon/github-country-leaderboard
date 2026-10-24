@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,758
+Indexed users: 9,757
 
 | Leaderboard | Link |
 |---|---|
@@ -55,7 +55,7 @@ Indexed users: 9,758
 | 16 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 2,762 |
 | 17 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | Imperial - Cañete - Lima | 2,684 |
 | 18 | [Dreamcoder08](https://github.com/Dreamcoder08) | Dreamcoder08 | Piura, Peru | 2,660 |
-| 19 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | Peru | 2,652 |
+| 19 | [Ryzeon](https://github.com/Ryzeon) | Alex Avila | Peru | 2,655 |
 | 20 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | Lima, Peru | 2,602 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 9,758
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-24T17:23:43.183Z
+Generated: 2026-10-24T18:39:31.733Z

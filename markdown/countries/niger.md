@@ -26,7 +26,7 @@ Indexed users: 175
 | 12 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 892 |
 | 13 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 842 |
 | 14 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 779 |
-| 15 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 754 |
+| 15 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 749 |
 | 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 591 |
 | 17 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 18 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 480 |
@@ -52,7 +52,7 @@ Indexed users: 175
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | Niamey-Niger | 138 |
 | 14 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 127 |
 | 15 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 127 |
-| 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 119 |
+| 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 120 |
 | 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 103 |
 | 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
 | 19 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
@@ -83,4 +83,4 @@ Indexed users: 175
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 18 |
 
-Generated: 2026-10-24T17:20:57.186Z
+Generated: 2026-10-24T18:34:00.506Z
