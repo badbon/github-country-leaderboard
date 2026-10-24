@@ -24,7 +24,7 @@ Indexed users: 235
 | 10 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,464 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,319 |
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,158 |
-| 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,105 |
+| 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,104 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,043 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,014 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 968 |
@@ -50,7 +50,7 @@ Indexed users: 235
 | 11 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 246 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 229 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 192 |
-| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 152 |
+| 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 151 |
 | 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
 | 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | Burundi | 124 |
 | 17 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha | Burundi | 112 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-24T06:02:13.832Z
+Generated: 2026-10-24T07:28:31.777Z

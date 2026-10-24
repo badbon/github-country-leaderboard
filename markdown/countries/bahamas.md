@@ -27,7 +27,7 @@ Indexed users: 236
 | 13 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 738 |
 | 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 734 |
 | 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 734 |
-| 16 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 724 |
+| 16 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 686 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 642 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 558 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 375 |
@@ -37,7 +37,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 724 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 686 |
 | 2 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 346 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 302 |
 | 4 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 262 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-24T05:56:56.257Z
+Generated: 2026-10-24T07:24:25.534Z

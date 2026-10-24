@@ -20,7 +20,7 @@ Indexed users: 532
 | 6 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,679 |
 | 7 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,505 |
 | 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | Gaborone, Botswana | 2,426 |
-| 9 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,370 |
+| 9 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,290 |
 | 10 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,246 |
 | 11 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 2,149 |
 | 12 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,090 |
@@ -83,4 +83,4 @@ Indexed users: 532
 | 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 34 |
 | 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-24T05:59:48.695Z
+Generated: 2026-10-24T07:27:24.054Z

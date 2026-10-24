@@ -1,8 +1,8 @@
 # Public Contributions - Vietnam
 
-Generated: 2026-10-24T05:48:20.543Z
+Generated: 2026-10-24T07:16:40.237Z
 
-Users: 25823
+Users: 25822
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 25823
 | 15 | [KhoaDayy](https://github.com/KhoaDayy) | Hasu |  |  | Viet Nam | 7897 |
 | 16 | [vantt](https://github.com/vantt) | Van Tran | Anphabe JSC |  | Ho Chi Minh city, Vietnam | 6872 |
 | 17 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | Freelancer | predatorphantom | viet nam | 6592 |
-| 18 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt |  | datlechin | Ho Chi Minh, Vietnam | 6129 |
-| 19 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen |  |  | Viet Nam | 5911 |
-| 20 | [RyanLurn](https://github.com/RyanLurn) | Ryan Luong |  | theryanlurn | Ho Chi Minh City, Vietnam | 5407 |
+| 18 | [RyanLurn](https://github.com/RyanLurn) | Ryan Luong |  | theryanlurn | Ho Chi Minh City, Vietnam | 6571 |
+| 19 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt |  | datlechin | Ho Chi Minh, Vietnam | 6129 |
+| 20 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen |  |  | Viet Nam | 5911 |

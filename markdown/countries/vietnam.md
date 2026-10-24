@@ -1,6 +1,6 @@
 # Vietnam
 
-Indexed users: 25,823
+Indexed users: 25,822
 
 | Leaderboard | Link |
 |---|---|
@@ -54,9 +54,9 @@ Indexed users: 25,823
 | 15 | [KhoaDayy](https://github.com/KhoaDayy) | Hasu | Viet Nam | 7,897 |
 | 16 | [vantt](https://github.com/vantt) | Van Tran | Ho Chi Minh city, Vietnam | 6,872 |
 | 17 | [lamtran8566](https://github.com/lamtran8566) | hangvinh | viet nam | 6,592 |
-| 18 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt | Ho Chi Minh, Vietnam | 6,129 |
-| 19 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen | Viet Nam | 5,911 |
-| 20 | [RyanLurn](https://github.com/RyanLurn) | Ryan Luong | Ho Chi Minh City, Vietnam | 5,407 |
+| 18 | [RyanLurn](https://github.com/RyanLurn) | Ryan Luong | Ho Chi Minh City, Vietnam | 6,571 |
+| 19 | [datlechin](https://github.com/datlechin) | Ngô Quốc Đạt | Ho Chi Minh, Vietnam | 6,129 |
+| 20 | [thangnm93](https://github.com/thangnm93) | Thang Nguyen | Viet Nam | 5,911 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 25,823
 | 19 | [paulnguyen-mn](https://github.com/paulnguyen-mn) | Paul Nguyen | HCMC, Vietnam | 1,087 |
 | 20 | [qnblackcat](https://github.com/qnblackcat) | Nguyễn Đạt | Vietnam | 1,033 |
 
-Generated: 2026-10-24T05:48:20.543Z
+Generated: 2026-10-24T07:16:40.237Z

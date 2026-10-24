@@ -1,6 +1,6 @@
 # Followers - Cuba
 
-Generated: 2026-10-24T06:07:03.381Z
+Generated: 2026-10-24T07:33:45.353Z
 
 Users: 1272
 
@@ -10,18 +10,18 @@ Users: 1272
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo |  |  | Cuba | 391 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  |  | GamerHack93 | Cuba | 217 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro |  |  | La Habana, Cuba | 146 |
-| 5 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 134 |
+| 5 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 135 |
 | 6 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 132 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Illinois Natural History Survey |  | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | CUJAE  |  | La Habana, Cuba | 125 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | Universidad de La Habana |  | La Habana, Cuba | 116 |
-| 10 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro |  | vircoding | La Habana, Cuba | 112 |
-| 11 | [CJPD00](https://github.com/CJPD00) | CJPD00 |  |  | Cuba | 111 |
-| 12 | [Innavoj](https://github.com/Innavoj) | Innavoj | Freelance |  | Cuba | 110 |
+| 10 | [CJPD00](https://github.com/CJPD00) | CJPD00 |  |  | Cuba | 112 |
+| 11 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro |  | vircoding | La Habana, Cuba | 112 |
+| 12 | [Innavoj](https://github.com/Innavoj) | Innavoj | Freelance |  | Cuba | 111 |
 | 13 | [saulin18](https://github.com/saulin18) | Saúl Sondón |  |  | Holguín, Cuba | 95 |
 | 14 | [ObisoftDev](https://github.com/ObisoftDev) | Obisoft Dev | obisoftdev |  | Cuba | 76 |
-| 15 | [ALbertE03](https://github.com/ALbertE03) | Albert | Universidad de la Habana |  | La Habana, Cuba | 75 |
-| 16 | [dnielpy](https://github.com/dnielpy) | Daniel Quesada |  |  | Cuba | 75 |
+| 15 | [dnielpy](https://github.com/dnielpy) | Daniel Quesada |  |  | Cuba | 75 |
+| 16 | [ALbertE03](https://github.com/ALbertE03) | Albert | Universidad de la Habana |  | La Habana, Cuba | 74 |
 | 17 | [daironln](https://github.com/daironln) | Dairon Luis |  |  | Havana, Cuba | 74 |
 | 18 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | MailAD | co7wt | Camagüey, Cuba | 74 |
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila |  |  | Cuba | 72 |

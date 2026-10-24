@@ -69,7 +69,7 @@ Indexed users: 1,655
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 231 |
 | 6 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 199 |
 | 7 | [kculz](https://github.com/kculz) | Kudzai Munyama | Mutare, Zimbabwe | 194 |
-| 8 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 188 |
+| 8 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 189 |
 | 9 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Bulawayo, Zimbabwe | 184 |
 | 10 | [sirx2713](https://github.com/sirx2713) | iSAD | Zimbabwe | 172 |
 | 11 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 166 |
@@ -83,4 +83,4 @@ Indexed users: 1,655
 | 19 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 | 20 | [KudakwasheM](https://github.com/KudakwasheM) | Kudakwashe Masaya | Harare | 105 |
 
-Generated: 2026-10-24T05:50:22.752Z
+Generated: 2026-10-24T07:19:33.242Z

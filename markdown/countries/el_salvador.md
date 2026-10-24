@@ -20,18 +20,18 @@ Indexed users: 2,378
 | 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 10,137 |
 | 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,900 |
 | 8 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 8,453 |
-| 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,318 |
+| 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,491 |
 | 10 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 7,264 |
 | 11 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 6,716 |
 | 12 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 6,305 |
 | 13 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,290 |
 | 14 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,032 |
 | 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 5,193 |
-| 16 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 5,044 |
-| 17 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,964 |
-| 18 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
-| 19 | [gbumanzordev](https://github.com/gbumanzordev) | Gerson Umanzor | El Salvador | 4,922 |
-| 20 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,824 |
+| 16 | [carlosrecinos](https://github.com/carlosrecinos) | Carlos Recinos | Chalatenango, El Salvador | 5,159 |
+| 17 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 5,044 |
+| 18 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,964 |
+| 19 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
+| 20 | [gbumanzordev](https://github.com/gbumanzordev) | Gerson Umanzor | El Salvador | 4,922 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-24T06:11:07.501Z
+Generated: 2026-10-24T07:37:09.174Z

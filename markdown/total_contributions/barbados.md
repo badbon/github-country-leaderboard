@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-24T05:57:52.945Z
+Generated: 2026-10-24T07:24:35.567Z
 
 Users: 132
 
@@ -11,7 +11,7 @@ Users: 132
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4220 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3341 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 3078 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2856 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2857 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 2272 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1752 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1572 |
@@ -24,5 +24,5 @@ Users: 132
 | 16 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 593 |
 | 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 590 |
 | 18 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 441 |
-| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 436 |
+| 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 434 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |

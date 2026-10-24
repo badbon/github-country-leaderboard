@@ -14,7 +14,7 @@ Indexed users: 459
 |---:|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,741 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,404 |
-| 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,032 |
+| 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,029 |
 | 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,540 |
 | 5 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,129 |
@@ -23,9 +23,9 @@ Indexed users: 459
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,674 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,260 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 4,098 |
-| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,993 |
-| 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,569 |
-| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,530 |
+| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 4,004 |
+| 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,595 |
+| 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,569 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,509 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,292 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,746 |
@@ -40,9 +40,9 @@ Indexed users: 459
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,280 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,545 |
-| 4 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,289 |
-| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,232 |
-| 6 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,228 |
+| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,293 |
+| 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,289 |
+| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,232 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,186 |
 | 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,648 |
 | 9 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-24T05:54:34.671Z
+Generated: 2026-10-24T07:22:26.242Z
