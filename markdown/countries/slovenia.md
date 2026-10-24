@@ -53,10 +53,10 @@ Indexed users: 3,093
 | 14 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,873 |
 | 15 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,657 |
 | 16 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,654 |
-| 17 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
-| 18 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,276 |
-| 19 | [eriknovak](https://github.com/eriknovak) | Erik Novak | Slovenia | 2,225 |
-| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
+| 17 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,547 |
+| 18 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
+| 19 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,276 |
+| 20 | [eriknovak](https://github.com/eriknovak) | Erik Novak | Slovenia | 2,225 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,093
 | 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-24T07:03:27.798Z
+Generated: 2026-10-24T08:22:18.559Z

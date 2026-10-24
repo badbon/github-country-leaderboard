@@ -1,8 +1,8 @@
 # Followers - Sri Lanka
 
-Generated: 2026-10-24T07:04:45.238Z
+Generated: 2026-10-24T08:23:33.615Z
 
-Users: 18299
+Users: 18298
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

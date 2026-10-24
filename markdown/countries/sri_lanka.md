@@ -1,6 +1,6 @@
 # Sri Lanka
 
-Indexed users: 18,299
+Indexed users: 18,298
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 18,299
 | 19 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas | Colombo , Srilanka | 649 |
 | 20 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Sri Lanka | 648 |
 
-Generated: 2026-10-24T07:04:45.238Z
+Generated: 2026-10-24T08:23:33.615Z
