@@ -2568,18 +2568,6 @@
     "createdAt": "2023-07-02T23:32:19Z"
   },
   {
-    "login": "bojanugrinov",
-    "name": "Bojan Ugrinov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124455704?s=72&u=c61b3b4e900a10dc26f351c14ae24c724d631796&v=4",
-    "location": "Skopje, Macedonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 59,
-    "publicContributions": 112,
-    "createdAt": "2023-02-04T16:42:52Z"
-  },
-  {
     "login": "stambolce",
     "name": "</stambol>",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129373365?s=72&u=84692f712946127b373bbe018fdd66070667c03b&v=4",
@@ -2588,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 46,
     "createdAt": "2023-03-30T08:15:01Z"
   },
   {
@@ -2599,7 +2587,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 617,
+    "privateContributions": 615,
     "publicContributions": 0,
     "createdAt": "2023-08-04T12:21:37Z"
   },
@@ -2623,7 +2611,7 @@
     "company": "Technical Project Manager - Intertec.io",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 500,
+    "privateContributions": 487,
     "publicContributions": 2,
     "createdAt": "2023-01-29T09:34:38Z"
   },
