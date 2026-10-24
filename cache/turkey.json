@@ -48776,7 +48776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 132,
     "createdAt": "2024-05-11T11:10:08Z"
   },
   {
@@ -48836,7 +48836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-03-11T01:07:56Z"
   },
   {
@@ -48896,7 +48896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 25,
     "createdAt": "2024-03-26T21:07:17Z"
   },
   {
@@ -48907,7 +48907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 447,
+    "privateContributions": 439,
     "publicContributions": 3,
     "createdAt": "2024-04-15T20:23:39Z"
   },
@@ -48936,18 +48936,6 @@
     "createdAt": "2024-01-22T08:40:24Z"
   },
   {
-    "login": "zomyzox",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158114885?s=72&v=4",
-    "location": "Turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5670,
-    "publicContributions": 2,
-    "createdAt": "2024-01-30T00:26:05Z"
-  },
-  {
     "login": "rnlvnt",
     "name": "levent",
     "avatarUrl": "https://avatars.githubusercontent.com/u/155064380?s=72&u=1a6c55a73779b0afca042b21707e53b6618113ed&v=4",
@@ -48970,18 +48958,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2024-02-17T08:26:59Z"
-  },
-  {
-    "login": "webintekcomtr",
-    "name": "Webintek Internet Teknolojileri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158760633?s=72&u=58290278d78aa96e4eaad04b96171a66066d117e&v=4",
-    "location": "Istanbul - Turkey",
-    "company": "Webintek",
-    "twitterUsername": "webintekcomtr",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-02-03T16:16:45Z"
   },
   {
     "login": "alperdogank",

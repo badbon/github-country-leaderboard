@@ -48440,7 +48440,7 @@
     "twitterUsername": "PondOfCode",
     "followers": 1,
     "privateContributions": 34,
-    "publicContributions": 26,
+    "publicContributions": 23,
     "createdAt": "2022-04-12T21:04:12Z"
   },
   {
@@ -48452,7 +48452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-05-02T07:15:44Z"
   },
   {
@@ -48464,7 +48464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 39,
     "createdAt": "2022-05-10T09:39:58Z"
   },
   {
@@ -48476,7 +48476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 19,
     "createdAt": "2022-05-22T18:52:52Z"
   },
   {
@@ -48488,7 +48488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 49,
     "createdAt": "2022-05-09T12:33:29Z"
   },
   {
@@ -48500,7 +48500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 25,
     "createdAt": "2022-02-02T12:13:43Z"
   },
   {
@@ -48584,7 +48584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 19,
     "createdAt": "2022-06-23T08:34:46Z"
   },
   {
@@ -48600,27 +48600,15 @@
     "createdAt": "2022-06-01T18:10:49Z"
   },
   {
-    "login": "shaysucks",
-    "name": "shay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104021522?s=72&u=14253bc690af0ea58070b101065206d8b9e227dd&v=4",
-    "location": "Sweden",
-    "company": "shaysucksatcode",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2022-04-19T16:15:12Z"
-  },
-  {
     "login": "Zajfan",
     "name": "Zajfan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114745912?s=72&v=4",
     "location": "Sweden",
     "company": "The No Hands Company",
     "twitterUsername": "",
-    "followers": 381,
-    "privateContributions": 47,
-    "publicContributions": 2688,
+    "followers": 398,
+    "privateContributions": 814,
+    "publicContributions": 3671,
     "createdAt": "2022-09-30T12:30:01Z"
   },
   {
@@ -48630,7 +48618,7 @@
     "location": "Västerås, Sweden",
     "company": "Mälardalens University",
     "twitterUsername": "oppenheimerrrr",
-    "followers": 338,
+    "followers": 333,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-31T02:14:33Z"
@@ -48643,21 +48631,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 84,
-    "privateContributions": 452,
-    "publicContributions": 0,
+    "privateContributions": 392,
+    "publicContributions": 1,
     "createdAt": "2022-07-11T13:20:49Z"
-  },
-  {
-    "login": "MUmairAB",
-    "name": "Umair Akram",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120496694?s=72&u=f7b1a075f59c5c85cf308f573d28970b290d1ec8&v=4",
-    "location": "Karlskrona, Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 71,
-    "privateContributions": 333,
-    "publicContributions": 25,
-    "createdAt": "2022-12-13T16:38:39Z"
   },
   {
     "login": "isml34",
