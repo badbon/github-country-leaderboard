@@ -13,7 +13,7 @@ Indexed users: 471
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 17,513 |
-| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 9,656 |
+| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 9,752 |
 | 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 9,131 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,916 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,325 |
@@ -23,8 +23,8 @@ Indexed users: 471
 | 9 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,428 |
 | 10 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,304 |
 | 11 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 4,221 |
-| 12 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,063 |
-| 13 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,029 |
+| 12 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 4,074 |
+| 13 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,063 |
 | 14 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 3,978 |
 | 15 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,977 |
 | 16 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,976 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 71 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 71 |
 
-Generated: 2026-10-24T01:16:24.643Z
+Generated: 2026-10-24T05:58:29.064Z

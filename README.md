@@ -16,7 +16,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 |---|---:|---|---|---|
 | [Macau](markdown/countries/macau.md) | 438 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
 | [United Arab Emirates](markdown/countries/united_arab_emirates.md) | 4,205 | [Public](markdown/public_contributions/united_arab_emirates.md) | [Total](markdown/total_contributions/united_arab_emirates.md) | [Followers](markdown/followers/united_arab_emirates.md) |
-| [Poland](markdown/countries/poland.md) | 58,089 | [Public](markdown/public_contributions/poland.md) | [Total](markdown/total_contributions/poland.md) | [Followers](markdown/followers/poland.md) |
+| [Poland](markdown/countries/poland.md) | 58,090 | [Public](markdown/public_contributions/poland.md) | [Total](markdown/total_contributions/poland.md) | [Followers](markdown/followers/poland.md) |
 | [Niue](markdown/countries/niue.md) | 4 | [Public](markdown/public_contributions/niue.md) | [Total](markdown/total_contributions/niue.md) | [Followers](markdown/followers/niue.md) |
 | [Ukraine](markdown/countries/ukraine.md) | 47,714 | [Public](markdown/public_contributions/ukraine.md) | [Total](markdown/total_contributions/ukraine.md) | [Followers](markdown/followers/ukraine.md) |
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-24T05:45:25.088Z
+Generated: 2026-10-24T06:14:14.945Z

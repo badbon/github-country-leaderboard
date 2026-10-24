@@ -44,7 +44,7 @@ Indexed users: 459
 | 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 3,232 |
 | 6 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,228 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,186 |
-| 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,636 |
+| 8 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,648 |
 | 9 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 10 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,439 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,123 |
@@ -56,7 +56,7 @@ Indexed users: 459
 | 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 475 |
 | 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 | 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 442 |
-| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 435 |
+| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 433 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-24T01:09:53.642Z
+Generated: 2026-10-24T05:54:34.671Z
