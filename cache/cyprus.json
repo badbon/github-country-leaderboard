@@ -13400,7 +13400,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2018-01-30T03:11:11Z"
   },
   {
@@ -13411,8 +13411,8 @@
     "company": "@stapolar ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 20309,
-    "publicContributions": 3112,
+    "privateContributions": 14339,
+    "publicContributions": 9470,
     "createdAt": "2018-03-03T15:51:32Z"
   },
   {
@@ -13483,8 +13483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 40,
-    "publicContributions": 28,
+    "privateContributions": 44,
+    "publicContributions": 33,
     "createdAt": "2018-03-18T08:08:15Z"
   },
   {
@@ -13494,7 +13494,7 @@
     "location": "Limassol, Cyprus",
     "company": "inDrive",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 5,
     "publicContributions": 10,
     "createdAt": "2018-07-21T20:07:18Z"
@@ -13507,7 +13507,7 @@
     "company": "p2p.org",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 134,
+    "privateContributions": 124,
     "publicContributions": 122,
     "createdAt": "2018-12-27T22:24:37Z"
   },
@@ -13520,7 +13520,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 16,
     "createdAt": "2018-03-27T11:41:46Z"
   },
   {
@@ -13555,7 +13555,7 @@
     "company": "BrainRocket",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 53,
+    "privateContributions": 48,
     "publicContributions": 35,
     "createdAt": "2018-09-20T12:30:43Z"
   },
@@ -13615,7 +13615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1213,
+    "privateContributions": 1368,
     "publicContributions": 9,
     "createdAt": "2018-08-24T04:46:44Z"
   },

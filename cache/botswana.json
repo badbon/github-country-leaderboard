@@ -3451,8 +3451,8 @@
     "company": "Botswana International University of Science and Technology",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 934,
-    "publicContributions": 44,
+    "privateContributions": 937,
+    "publicContributions": 47,
     "createdAt": "2020-10-03T16:31:14Z"
   },
   {
@@ -3504,18 +3504,6 @@
     "createdAt": "2020-10-04T00:28:29Z"
   },
   {
-    "login": "CdeJohane",
-    "name": "JRT Johane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66422805?s=72&v=4",
-    "location": "Gaborone, Botswana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 5,
-    "createdAt": "2020-06-04T12:37:20Z"
-  },
-  {
     "login": "omoaletsane",
     "name": "Oduetse Moaletsane",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72808237?s=72&u=88ddd77185ec217e9d15d9c06f885ab384842398&v=4",
@@ -3535,7 +3523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 809,
+    "privateContributions": 795,
     "publicContributions": 0,
     "createdAt": "2020-02-24T19:09:56Z"
   },
