@@ -47228,7 +47228,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2019-02-15T11:02:48Z"
   },
   {
@@ -47240,7 +47240,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 28,
     "createdAt": "2019-02-21T08:13:03Z"
   },
   {
@@ -47250,9 +47250,9 @@
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2019-05-21T14:47:43Z"
   },
   {
@@ -47262,8 +47262,8 @@
     "location": "Hong Kong | Fukuoka",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1229,
+    "followers": 7,
+    "privateContributions": 1526,
     "publicContributions": 2,
     "createdAt": "2019-01-17T13:14:32Z"
   },
@@ -47287,8 +47287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 297,
-    "publicContributions": 17,
+    "privateContributions": 526,
+    "publicContributions": 15,
     "createdAt": "2019-06-14T08:19:31Z"
   },
   {
@@ -47298,9 +47298,9 @@
     "location": "Hong Kong",
     "company": "Private equity",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 38,
-    "publicContributions": 126,
+    "followers": 5,
+    "privateContributions": 119,
+    "publicContributions": 106,
     "createdAt": "2019-02-11T14:50:33Z"
   },
   {
@@ -47324,7 +47324,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2019-04-16T05:57:19Z"
   },
   {
@@ -47370,21 +47370,21 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 113,
-    "publicContributions": 24,
+    "followers": 6,
+    "privateContributions": 3,
+    "publicContributions": 21,
     "createdAt": "2019-05-06T02:57:11Z"
   },
   {
     "login": "Rhongomiant1227",
     "name": "Rhongomiant1227",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50875513?s=72&u=8d6936f8f5ef92cf19432a0e7db886f83bc95384&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/50875513?s=72&u=6ec0943b2d3069474e7524c5d8bd18970a1d33f3&v=4",
     "location": "Hong Kong",
-    "company": "",
+    "company": "CS PhD@CityUHK",
     "twitterUsername": "Rhongomiant1227",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 81,
     "createdAt": "2019-05-21T13:40:30Z"
   },
   {
@@ -47394,8 +47394,8 @@
     "location": "Hong Kong",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
+    "followers": 7,
+    "privateContributions": 476,
     "publicContributions": 0,
     "createdAt": "2019-06-26T08:38:22Z"
   },
@@ -47408,7 +47408,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 24,
     "createdAt": "2019-04-20T02:20:49Z"
   },
   {
@@ -47432,7 +47432,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 54,
     "createdAt": "2019-02-07T08:25:01Z"
   },
   {
@@ -47442,7 +47442,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-29T04:14:58Z"
@@ -92002,18 +92002,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-05-27T02:33:37Z"
-  },
-  {
-    "login": "calvinccs",
-    "name": "Calvin Cheung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15905401?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-11-18T09:38:04Z"
   },
   {
     "login": "clarkwkw",

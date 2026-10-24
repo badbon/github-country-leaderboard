@@ -47552,7 +47552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-11-01T22:55:52Z"
   },
   {
@@ -47598,7 +47598,7 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-21T16:56:28Z"
@@ -47636,7 +47636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 43,
     "createdAt": "2021-08-18T13:36:05Z"
   },
   {
@@ -47655,12 +47655,12 @@
     "login": "gyfantidis",
     "name": "Giannis Yfantidis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96373640?s=72&u=63fb591391408ff05fc29466fd8682d90199749e&v=4",
-    "location": "Kilkis, Greece",
-    "company": "",
+    "location": "Thessaloniki, Greece",
+    "company": "@ctrl-space-labs ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 315,
+    "publicContributions": 417,
     "createdAt": "2021-12-19T10:18:54Z"
   },
   {
@@ -47696,7 +47696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2021-11-27T19:55:49Z"
   },
   {
@@ -47725,27 +47725,15 @@
   },
   {
     "login": "evantampa129",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90140373?s=72&u=27b31dcb929b57ccbc95de9842360a2b40c5ca5a&v=4",
+    "name": "Evan Tampachaniotis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90140373?s=72&u=265e2a73a8578cec67439018b940c846280fe7dd&v=4",
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "evantampa129",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "privateContributions": 131,
+    "publicContributions": 5,
     "createdAt": "2021-09-05T12:54:27Z"
-  },
-  {
-    "login": "AnastasioSentas",
-    "name": "ANASTASIOS SENTAS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89640213?s=72&u=b818851cd92dc46d30ed587cfc6c00602e2734f0&v=4",
-    "location": "athens,greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 2,
-    "createdAt": "2021-08-27T11:04:24Z"
   },
   {
     "login": "iosifid",
