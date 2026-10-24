@@ -12,7 +12,7 @@ Indexed users: 79
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,817 |
+| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,819 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,274 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,679 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,363 |
@@ -27,7 +27,7 @@ Indexed users: 79
 | 13 | [Jordanlopez546](https://github.com/Jordanlopez546) | Jordan Nwabuike | Gambia | 429 |
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 422 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
-| 16 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 275 |
+| 16 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 287 |
 | 17 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 263 |
 | 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 169 |
 | 19 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 168 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-24T19:24:43.316Z
+Generated: 2026-10-24T21:53:55.437Z

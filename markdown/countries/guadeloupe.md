@@ -20,7 +20,7 @@ Indexed users: 86
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,485 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,396 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 994 |
-| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 977 |
+| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 980 |
 | 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 945 |
 | 11 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 754 |
 | 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 722 |
@@ -30,7 +30,7 @@ Indexed users: 86
 | 16 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 17 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 136 |
 | 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 96 |
-| 19 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 81 |
+| 19 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 86 |
 | 20 | [mperouma](https://github.com/mperouma) | Mathias P. | Guadeloupe | 80 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-24T19:26:02.569Z
+Generated: 2026-10-24T21:56:17.856Z

@@ -12,7 +12,7 @@ Indexed users: 93
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 29,262 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 29,418 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,629 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,222 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,276 |
@@ -28,7 +28,7 @@ Indexed users: 93
 | 14 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 592 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 520 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 492 |
-| 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 424 |
+| 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 432 |
 | 18 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
 | 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 398 |
 | 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 260 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 12 |
 | 20 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 12 |
 
-Generated: 2026-10-24T19:25:51.828Z
+Generated: 2026-10-24T21:56:04.358Z

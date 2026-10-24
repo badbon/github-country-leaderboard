@@ -29,9 +29,9 @@ Indexed users: 1,256
 | 15 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 5,814 |
 | 16 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,989 |
 | 17 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 4,548 |
-| 18 | [edgardoedgardo93](https://github.com/edgardoedgardo93) | Jonathan Núñez | Honduras | 4,488 |
-| 19 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,481 |
-| 20 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,438 |
+| 18 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 4,531 |
+| 19 | [edgardoedgardo93](https://github.com/edgardoedgardo93) | Jonathan Núñez | Honduras | 4,488 |
+| 20 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,481 |
 
 ## Public Contributions
 
@@ -47,9 +47,9 @@ Indexed users: 1,256
 | 8 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | Honduras | 1,478 |
 | 9 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,474 |
 | 10 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,196 |
-| 11 | [crafael23](https://github.com/crafael23) | Claudio Vasquez | San Pedro Sula, Honduras | 1,133 |
-| 12 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,118 |
-| 13 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 1,090 |
+| 11 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 1,139 |
+| 12 | [crafael23](https://github.com/crafael23) | Claudio Vasquez | San Pedro Sula, Honduras | 1,133 |
+| 13 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,118 |
 | 14 | [ingricardotoro](https://github.com/ingricardotoro) | MARVIN RICARDO TORO CRUZ | Tegucigalpa | 990 |
 | 15 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 954 |
 | 16 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 928 |
@@ -83,4 +83,4 @@ Indexed users: 1,256
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [galexbh](https://github.com/galexbh) | Gabriel Barrientos | Honduras | 56 |
 
-Generated: 2026-10-24T19:28:26.673Z
+Generated: 2026-10-24T21:57:56.989Z

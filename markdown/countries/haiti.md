@@ -13,16 +13,16 @@ Indexed users: 339
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,716 |
-| 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,878 |
+| 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,879 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,561 |
 | 4 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,502 |
 | 5 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,443 |
 | 6 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,442 |
 | 7 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 2,347 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,275 |
-| 9 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,173 |
+| 9 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,175 |
 | 10 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,979 |
-| 11 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,945 |
+| 11 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,967 |
 | 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,833 |
 | 13 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,823 |
 | 14 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,745 |
@@ -37,7 +37,7 @@ Indexed users: 339
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 833 |
+| 1 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 834 |
 | 2 | [lanovatechnologie-a11y](https://github.com/lanovatechnologie-a11y) | Lota | Limonade, Haiti | 692 |
 | 3 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 441 |
 | 4 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 439 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 20 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 31 |
 
-Generated: 2026-10-24T19:27:42.791Z
+Generated: 2026-10-24T21:57:17.198Z
