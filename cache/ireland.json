@@ -47684,7 +47684,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 2,
-    "publicContributions": 331,
+    "publicContributions": 243,
     "createdAt": "2021-09-14T14:02:07Z"
   },
   {
@@ -47695,8 +47695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 113,
-    "publicContributions": 242,
+    "privateContributions": 199,
+    "publicContributions": 511,
     "createdAt": "2021-07-18T12:22:10Z"
   },
   {
@@ -47743,8 +47743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 365,
-    "publicContributions": 2333,
+    "privateContributions": 397,
+    "publicContributions": 2557,
     "createdAt": "2021-11-23T12:01:05Z"
   },
   {
@@ -47792,7 +47792,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-10-26T18:03:36Z"
   },
   {
@@ -47862,22 +47862,10 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 54,
     "createdAt": "2021-08-20T19:33:02Z"
-  },
-  {
-    "login": "jackbransfield",
-    "name": "Jack Bransfield",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77617959?s=72&u=0b366cfb1a7000b35012a1babd14619eeeaf3af9&v=4",
-    "location": "Dublin City",
-    "company": "My WallSt",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-01-18T11:14:20Z"
   },
   {
     "login": "ryanmcg2203",
@@ -47887,8 +47875,8 @@
     "company": "Conjura",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1863,
-    "publicContributions": 249,
+    "privateContributions": 2071,
+    "publicContributions": 368,
     "createdAt": "2021-03-22T10:20:06Z"
   },
   {
@@ -47898,7 +47886,7 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2021-06-15T08:06:33Z"

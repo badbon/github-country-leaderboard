@@ -48224,7 +48224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2019-03-17T13:06:39Z"
   },
   {
@@ -48247,7 +48247,7 @@
     "company": "None",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 429,
+    "privateContributions": 557,
     "publicContributions": 9,
     "createdAt": "2019-05-10T07:28:35Z"
   },
@@ -48260,7 +48260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 128,
     "createdAt": "2019-05-14T06:08:58Z"
   },
   {
@@ -48282,9 +48282,9 @@
     "location": "Budapest",
     "company": "Dep. of Artificial Intelligence, College of Information Technology",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 73,
-    "publicContributions": 296,
+    "followers": 51,
+    "privateContributions": 64,
+    "publicContributions": 350,
     "createdAt": "2019-12-25T09:16:04Z"
   },
   {
@@ -48294,9 +48294,9 @@
     "location": "Budapest",
     "company": "@qdrant",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 3594,
-    "publicContributions": 1735,
+    "followers": 49,
+    "privateContributions": 6845,
+    "publicContributions": 4256,
     "createdAt": "2019-10-22T09:15:06Z"
   },
   {
@@ -48332,7 +48332,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 584,
     "createdAt": "2019-11-06T00:53:33Z"
   },
   {
@@ -48342,9 +48342,9 @@
     "location": "Budapest",
     "company": "Ifremer - DYNECO",
     "twitterUsername": "david_cunillera",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 22,
     "createdAt": "2019-03-25T06:54:38Z"
   },
   {
@@ -48368,7 +48368,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2019-09-08T12:21:01Z"
   },
   {
@@ -133822,5 +133822,17 @@
     "privateContributions": 116,
     "publicContributions": 190,
     "createdAt": "2023-12-03T11:33:01Z"
+  },
+  {
+    "login": "emmanuelkyeremeh",
+    "name": "Emmanuel Kyeremeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71068159?s=72&u=57cc053b60e37a821137b01df8d33628138f3850&v=4",
+    "location": "Debrecen, Hungary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 314,
+    "publicContributions": 234,
+    "createdAt": "2020-09-10T08:38:26Z"
   }
 ]

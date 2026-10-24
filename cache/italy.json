@@ -3800,7 +3800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 710,
+    "publicContributions": 909,
     "createdAt": "2026-03-11T11:38:48Z"
   },
   {
@@ -3860,7 +3860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 70,
     "createdAt": "2026-02-03T08:13:14Z"
   },
   {
@@ -3870,9 +3870,9 @@
     "location": "Torino | Viterbo",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 77,
-    "publicContributions": 35,
+    "followers": 12,
+    "privateContributions": 221,
+    "publicContributions": 73,
     "createdAt": "2026-02-03T14:36:57Z"
   },
   {
@@ -3882,9 +3882,9 @@
     "location": "Torino",
     "company": "Ailogio",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 41,
     "createdAt": "2026-02-25T21:51:02Z"
   },
   {
@@ -3920,7 +3920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 61,
     "createdAt": "2026-01-14T09:04:38Z"
   },
   {
@@ -3930,8 +3930,8 @@
     "location": "Torino",
     "company": "ameconviene.it finance",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 60,
+    "followers": 2,
+    "privateContributions": 211,
     "publicContributions": 1,
     "createdAt": "2026-04-13T09:42:01Z"
   },
@@ -3944,7 +3944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2026-04-03T10:33:42Z"
   },
   {
@@ -3954,9 +3954,9 @@
     "location": "Torino",
     "company": "Politecnico di Torino",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 20,
     "createdAt": "2026-02-23T14:37:39Z"
   },
   {
@@ -3990,22 +3990,10 @@
     "location": "Torino",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2026-03-20T17:52:14Z"
-  },
-  {
-    "login": "silvestroandrea135-hub",
-    "name": "Andrea Silvestro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269743303?s=72&v=4",
-    "location": "torino",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2026-03-20T14:20:02Z"
   },
   {
     "login": "gianluca-demichelis-eng",
