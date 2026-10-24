@@ -48812,7 +48812,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 4,
-    "publicContributions": 21,
+    "publicContributions": 32,
     "createdAt": "2017-02-05T14:36:02Z"
   },
   {
@@ -48834,9 +48834,9 @@
     "location": "Kazakhstan, Nur-Sultan",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 44,
     "createdAt": "2017-05-08T09:36:10Z"
   },
   {
@@ -48846,8 +48846,8 @@
     "location": "Almaty, Kazakhstan",
     "company": "alabs.team",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 3,
+    "followers": 23,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2017-10-07T12:20:35Z"
   },
@@ -48858,22 +48858,10 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-13T05:14:56Z"
-  },
-  {
-    "login": "neokofg",
-    "name": "neoko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33611354?s=72&u=bc3604859fc586cc97de8a5a3bfbc1d534466d61&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 8762,
-    "publicContributions": 331,
-    "createdAt": "2017-11-13T01:28:06Z"
   },
   {
     "login": "Flagrantior",
@@ -48882,9 +48870,9 @@
     "location": "kazakhstan, Astana",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 582,
-    "publicContributions": 51,
+    "followers": 20,
+    "privateContributions": 449,
+    "publicContributions": 25,
     "createdAt": "2017-11-05T21:24:14Z"
   },
   {
@@ -48894,9 +48882,9 @@
     "location": "Kazakhstan, Almaty",
     "company": "@TMM-corporation",
     "twitterUsername": "ToxesFoxes",
-    "followers": 18,
-    "privateContributions": 1885,
-    "publicContributions": 145,
+    "followers": 20,
+    "privateContributions": 2252,
+    "publicContributions": 174,
     "createdAt": "2017-07-03T18:25:29Z"
   },
   {
@@ -48906,9 +48894,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 9,
-    "publicContributions": 25,
+    "followers": 20,
+    "privateContributions": 26,
+    "publicContributions": 26,
     "createdAt": "2017-05-02T14:53:19Z"
   },
   {
@@ -48930,7 +48918,7 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 126,
     "createdAt": "2017-01-04T12:44:22Z"
@@ -48942,7 +48930,7 @@
     "location": "Nur-Sultan, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 121,
     "createdAt": "2017-11-21T04:28:24Z"
@@ -48954,9 +48942,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 1730,
+    "publicContributions": 1756,
     "createdAt": "2017-02-01T15:20:30Z"
   },
   {
@@ -48970,18 +48958,6 @@
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2017-03-17T10:00:48Z"
-  },
-  {
-    "login": "sabit-shaiholla",
-    "name": "Sabit Shaiholla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/27641562?s=72&u=1d23c1b71786ad43a24259ce0c5855d63cc021eb&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "Netcracker Technology",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 61,
-    "createdAt": "2017-04-16T19:38:42Z"
   },
   {
     "login": "TemirlanKudabayev",
@@ -49003,7 +48979,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 113,
+    "privateContributions": 116,
     "publicContributions": 3,
     "createdAt": "2017-12-12T13:59:13Z"
   },
@@ -49026,8 +49002,8 @@
     "location": "Karaganda, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 838,
+    "followers": 17,
+    "privateContributions": 1142,
     "publicContributions": 92,
     "createdAt": "2017-06-09T12:19:59Z"
   },
@@ -49038,8 +49014,8 @@
     "location": "Astana, Kazakhstan",
     "company": "@gitamego",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 1530,
+    "followers": 17,
+    "privateContributions": 1628,
     "publicContributions": 2,
     "createdAt": "2017-05-18T16:39:43Z"
   },
