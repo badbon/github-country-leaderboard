@@ -29,9 +29,9 @@ Indexed users: 1,180
 | 15 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 4,656 |
 | 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,633 |
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,609 |
-| 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,530 |
-| 19 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
-| 20 | [klevisndoka](https://github.com/klevisndoka) | Klevis Ndoka | Tirane, Albania | 4,282 |
+| 18 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 4,534 |
+| 19 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,530 |
+| 20 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,180
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-23T23:55:19.771Z
+Generated: 2026-10-24T01:08:13.788Z

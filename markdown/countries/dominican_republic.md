@@ -21,9 +21,9 @@ Indexed users: 3,297
 | 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 9,538 |
 | 8 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 9,203 |
 | 9 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 9,140 |
-| 10 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
-| 11 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | dominican republic | 8,494 |
-| 12 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
+| 10 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 9,032 |
+| 11 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 8,906 |
+| 12 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | dominican republic | 8,494 |
 | 13 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 7,206 |
 | 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 7,168 |
 | 15 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | Dominican Republic | 7,147 |
@@ -83,4 +83,4 @@ Indexed users: 3,297
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 147 |
 | 20 | [RaymondCoplin](https://github.com/RaymondCoplin) | Raymond Coplin | Dominican Republic, Santo Domingo | 120 |
 
-Generated: 2026-10-24T00:09:42.137Z
+Generated: 2026-10-24T01:25:09.191Z

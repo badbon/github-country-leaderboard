@@ -49,7 +49,7 @@ Indexed users: 236
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 92 |
 | 11 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 91 |
 | 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 90 |
-| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 63 |
+| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 62 |
 | 14 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 60 |
 | 15 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
 | 16 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | Nassau, The Bahamas | 50 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-23T23:59:16.358Z
+Generated: 2026-10-24T01:13:54.926Z

@@ -1,6 +1,6 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-24T00:40:04.418Z
+Generated: 2026-10-24T01:22:03.335Z
 
 Users: 5627
 
@@ -14,14 +14,14 @@ Users: 5627
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | MUSCLE |  | Costa Rica | 9771 |
 | 7 | [mrcMesen](https://github.com/mrcMesen) | Marco Mesén |  | mrcMesen | San José, Costa Rica | 9096 |
 | 8 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon |  |  | Santa Ana, Costa Rica | 8664 |
-| 9 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 7763 |
-| 10 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 7663 |
-| 11 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | @Gordon-Web-Studio  | alexgordon25 | Costa Rica | 7434 |
-| 12 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño |  |  | Costa Rica | 7319 |
-| 13 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Citidot |  | Santa Ana, San Jose Costa Rica | 7301 |
-| 14 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 |  | HenryMarn08 | Costa Rica | 7023 |
-| 15 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Edenia | xaviercr | Costa Rica | 6797 |
-| 16 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | @wootit | teygarciam | San José, Costa Rica | 6736 |
+| 9 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | @wootit | teygarciam | San José, Costa Rica | 8325 |
+| 10 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 7763 |
+| 11 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 7663 |
+| 12 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | @Gordon-Web-Studio  | alexgordon25 | Costa Rica | 7434 |
+| 13 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño |  |  | Costa Rica | 7319 |
+| 14 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Citidot |  | Santa Ana, San Jose Costa Rica | 7301 |
+| 15 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 |  | HenryMarn08 | Costa Rica | 7023 |
+| 16 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Edenia | xaviercr | Costa Rica | 6797 |
 | 17 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano |  | 0xBeja | Costa Rica | 6549 |
 | 18 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz |  |  | Costa Rica | 6187 |
 | 19 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |

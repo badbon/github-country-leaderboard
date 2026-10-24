@@ -14,9 +14,9 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,549 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,870 |
-| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,670 |
+| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,667 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,458 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,467 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,460 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,330 |
 | 7 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 927 |
 | 8 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 911 |
@@ -38,8 +38,8 @@ Indexed users: 53
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,458 |
-| 2 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 509 |
-| 3 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 508 |
+| 2 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 508 |
+| 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 507 |
 | 4 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 491 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-24T00:09:03.407Z
+Generated: 2026-10-24T01:23:54.828Z

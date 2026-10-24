@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-24T00:04:19.912Z
+Generated: 2026-10-24T01:20:22.444Z
 
 Users: 562
 
@@ -8,7 +8,7 @@ Users: 562
 |---:|---|---|---|---|---|---:|
 | 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo |  |  | Cape Verde | 459 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 436 |
-| 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 368 |
+| 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 366 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | @academia-de-codigo | DavidFNunes | Cape Verde | 214 |
 | 5 | [MiAfroki](https://github.com/MiAfroki) | Milena Camargo Reis | TCS - Tata Consultancy Services | miafroki | Praia Grande - SP | 142 |
 | 6 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | @cloudamqp @84codes  | luucaspole | Praia do Rosa/SC - Brasil | 138 |
@@ -23,6 +23,6 @@ Users: 562
 | 15 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  |  |  | Praia Grande - SP  | 75 |
 | 16 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos |  |  | Praia Grande - SP | 72 |
 | 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 61 |
-| 18 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo |  |  | Praia de Jatobá, SE - Brasil | 58 |
-| 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros |  |  | Praia, Cabo Verde | 57 |
+| 18 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros |  |  | Praia, Cabo Verde | 58 |
+| 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo |  |  | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares |  |  | Cape Verde | 55 |

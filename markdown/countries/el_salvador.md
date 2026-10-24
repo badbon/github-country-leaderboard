@@ -18,7 +18,7 @@ Indexed users: 2,378
 | 4 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,394 |
 | 5 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 10,175 |
 | 6 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 10,137 |
-| 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,644 |
+| 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 9,900 |
 | 8 | [MarvinQuevedo](https://github.com/MarvinQuevedo) | Marvin Quevedo | El Salvador | 8,453 |
 | 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,318 |
 | 10 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 7,264 |
@@ -39,7 +39,7 @@ Indexed users: 2,378
 |---:|---|---|---|---:|
 | 1 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 8,750 |
 | 2 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 5,702 |
-| 3 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 4,953 |
+| 3 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 5,104 |
 | 4 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,488 |
 | 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 2,052 |
 | 6 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez | El Salvador | 1,810 |
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-24T00:11:07.920Z
+Generated: 2026-10-24T01:26:14.486Z

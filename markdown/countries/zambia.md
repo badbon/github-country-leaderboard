@@ -41,7 +41,7 @@ Indexed users: 1,336
 | 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 2,836 |
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,191 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,778 |
-| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,688 |
+| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,697 |
 | 6 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,077 |
 | 7 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
 | 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,051 |
@@ -53,8 +53,8 @@ Indexed users: 1,336
 | 14 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 683 |
 | 15 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 658 |
 | 16 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 656 |
-| 17 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 637 |
-| 18 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
+| 17 | [mataa019](https://github.com/mataa019) | John Mataa | Zambia, Lusaka Province | 624 |
+| 18 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 615 |
 | 19 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 590 |
 | 20 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 583 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,336
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-23T23:54:00.820Z
+Generated: 2026-10-24T01:07:19.174Z

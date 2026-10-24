@@ -42,20 +42,20 @@ Indexed users: 896
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,672 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,034 |
 | 5 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 1,477 |
-| 6 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,414 |
+| 6 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,460 |
 | 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,400 |
 | 8 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,264 |
 | 9 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 1,256 |
 | 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,005 |
-| 11 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 898 |
-| 12 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 847 |
-| 13 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 842 |
+| 11 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 951 |
+| 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 898 |
+| 13 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 832 |
 | 14 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 806 |
 | 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 794 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 582 |
 | 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 566 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 512 |
-| 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 492 |
+| 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 498 |
 | 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | Hamilton, ON | 468 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 896
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 67 |
 
-Generated: 2026-10-24T00:00:06.333Z
+Generated: 2026-10-24T01:16:58.752Z

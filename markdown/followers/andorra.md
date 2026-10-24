@@ -1,6 +1,6 @@
 # Followers - Andorra
 
-Generated: 2026-10-23T23:56:02.122Z
+Generated: 2026-10-24T01:08:44.754Z
 
 Users: 215
 
@@ -12,7 +12,7 @@ Users: 215
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 156 |
 | 6 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 139 |
-| 7 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 133 |
+| 7 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 136 |
 | 8 | [matchilling](https://github.com/matchilling) | Matías J. Schilling | @chucknorris-io @tronalddump-io @bojo-ai @dogfooding @klarna @EqualExperts @jugendstil-io @NewStore  | matchilling | Andorra | 129 |
 | 9 | [JMariadlcs](https://github.com/JMariadlcs) | Jose María de la Cruz | Carlos III Madrid - RWTH Aachen University  | 0xjmaria | Andorra | 119 |
 | 10 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | https://tanukilabs.xyz/ |  | Andorra | 105 |

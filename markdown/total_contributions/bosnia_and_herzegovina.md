@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-24T00:00:56.015Z
+Generated: 2026-10-24T01:18:37.792Z
 
 Users: 2126
 
@@ -23,6 +23,6 @@ Users: 2126
 | 15 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 5737 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5720 |
 | 17 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 5332 |
-| 18 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5284 |
+| 18 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5222 |
 | 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 4899 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 4750 |

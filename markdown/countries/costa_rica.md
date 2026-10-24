@@ -20,14 +20,14 @@ Indexed users: 5,627
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,771 |
 | 7 | [mrcMesen](https://github.com/mrcMesen) | Marco Mesén | San José, Costa Rica | 9,096 |
 | 8 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon | Santa Ana, Costa Rica | 8,664 |
-| 9 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
-| 10 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
-| 11 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
-| 12 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño | Costa Rica | 7,319 |
-| 13 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Santa Ana, San Jose Costa Rica | 7,301 |
-| 14 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
-| 15 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
-| 16 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 6,736 |
+| 9 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 8,325 |
+| 10 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
+| 11 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
+| 12 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
+| 13 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño | Costa Rica | 7,319 |
+| 14 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Santa Ana, San Jose Costa Rica | 7,301 |
+| 15 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
+| 16 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
 | 17 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
 | 18 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
 | 19 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
@@ -83,4 +83,4 @@ Indexed users: 5,627
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-24T00:40:04.418Z
+Generated: 2026-10-24T01:22:03.335Z

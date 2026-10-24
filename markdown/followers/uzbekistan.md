@@ -1,6 +1,6 @@
 # Followers - Uzbekistan
 
-Generated: 2026-10-23T23:52:35.217Z
+Generated: 2026-10-24T01:05:36.317Z
 
 Users: 9511
 
@@ -11,14 +11,14 @@ Users: 9511
 | 3 | [romankh3](https://github.com/romankh3) | Roman Beskrovnyi | UzumTech |  | Tashkent | 1669 |
 | 4 | [Zuhriddin2010](https://github.com/Zuhriddin2010) | zuhriddin | IT park |  | uzbekistan | 955 |
 | 5 | [NazarovAsadbek](https://github.com/NazarovAsadbek) |  | UZUM TECHNOLOGY |  | Uzbekistan, Tashkent | 903 |
-| 6 | [the-coder-o](https://github.com/the-coder-o) | The Coder 🧑🏼‍💻 | OpenShop | portfoliocworld | Uzbekistan | 842 |
-| 7 | [AbdullohRazzoqov](https://github.com/AbdullohRazzoqov) | Abdulloh (Shohjahon) |  |  | Samarqand, Uzbekistan | 782 |
+| 6 | [the-coder-o](https://github.com/the-coder-o) | The Coder 🧑🏼‍💻 | OpenShop | portfoliocworld | Uzbekistan | 827 |
+| 7 | [AbdullohRazzoqov](https://github.com/AbdullohRazzoqov) | Abdulloh (Shohjahon) |  |  | Samarqand, Uzbekistan | 784 |
 | 8 | [sasomiddinov1](https://github.com/sasomiddinov1) | Sayfiddin | says |  | Tashkent/Uzbekistan | 541 |
 | 9 | [KhasanMeliev](https://github.com/KhasanMeliev) | Khasan Meliev |  | KhasanMeliev | Samarkand, Uzbekistan | 538 |
 | 10 | [Rakhimjon](https://github.com/Rakhimjon) | Rakhim Abdullayev | IMV Axborot Texnologilari Markazi |  | Tashkent | 490 |
 | 11 | [codeby-umar](https://github.com/codeby-umar) | Muhammad Umar | Freelancer |  | Uzbekistan  | 463 |
 | 12 | [Zukhrik](https://github.com/Zukhrik) | Зухриддин Камильжанов | KeySoft |  | Uzbekistan, Tashkent | 420 |
-| 13 | [abdu11aev-samandar](https://github.com/abdu11aev-samandar) | Samandar Abdullaev | UzInfocom |  | Uzbekistan | 386 |
+| 13 | [abdu11aev-samandar](https://github.com/abdu11aev-samandar) | Samandar Abdullaev | UzInfocom |  | Uzbekistan | 382 |
 | 14 | [orzklv](https://github.com/orzklv) | Orzklv | @uzinfocom-org chief technical advisor, oss department leader; @gov-uz advisor, analyst & researcher; @floss-uz maintainer |  | Tashkent, Uzbekistan | 366 |
 | 15 | [Muhammadjewel](https://github.com/Muhammadjewel) | Muhammadjavohir |  | muhammadjvhr | Tashkent | 352 |
 | 16 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | univel.uz |  | Chilonzor, Tashkent, Uzbekistan | 333 |

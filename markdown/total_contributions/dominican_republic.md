@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-24T00:09:42.137Z
+Generated: 2026-10-24T01:25:09.191Z
 
 Users: 3297
 
@@ -15,9 +15,9 @@ Users: 3297
 | 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks |  | Criisbanks | Dominican Republic  | 9538 |
 | 8 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | @Urpsoft  |  | Dominican Republic  | 9203 |
 | 9 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 9140 |
-| 10 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 8906 |
-| 11 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | UMA |  | dominican republic | 8494 |
-| 12 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 8493 |
+| 10 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 9032 |
+| 11 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 8906 |
+| 12 | [gmolinart](https://github.com/gmolinart) | Guillermo Molina | UMA |  | dominican republic | 8494 |
 | 13 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 7206 |
 | 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 7168 |
 | 15 | [Zyruks](https://github.com/Zyruks) | Samuel Llibre-Pillco | @uiguideline | zyruks | Dominican Republic | 7147 |

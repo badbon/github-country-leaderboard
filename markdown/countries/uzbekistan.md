@@ -67,14 +67,14 @@ Indexed users: 9,511
 | 3 | [romankh3](https://github.com/romankh3) | Roman Beskrovnyi | Tashkent | 1,669 |
 | 4 | [Zuhriddin2010](https://github.com/Zuhriddin2010) | zuhriddin | uzbekistan | 955 |
 | 5 | [NazarovAsadbek](https://github.com/NazarovAsadbek) |  | Uzbekistan, Tashkent | 903 |
-| 6 | [the-coder-o](https://github.com/the-coder-o) | The Coder 🧑🏼‍💻 | Uzbekistan | 842 |
-| 7 | [AbdullohRazzoqov](https://github.com/AbdullohRazzoqov) | Abdulloh (Shohjahon) | Samarqand, Uzbekistan | 782 |
+| 6 | [the-coder-o](https://github.com/the-coder-o) | The Coder 🧑🏼‍💻 | Uzbekistan | 827 |
+| 7 | [AbdullohRazzoqov](https://github.com/AbdullohRazzoqov) | Abdulloh (Shohjahon) | Samarqand, Uzbekistan | 784 |
 | 8 | [sasomiddinov1](https://github.com/sasomiddinov1) | Sayfiddin | Tashkent/Uzbekistan | 541 |
 | 9 | [KhasanMeliev](https://github.com/KhasanMeliev) | Khasan Meliev | Samarkand, Uzbekistan | 538 |
 | 10 | [Rakhimjon](https://github.com/Rakhimjon) | Rakhim Abdullayev | Tashkent | 490 |
 | 11 | [codeby-umar](https://github.com/codeby-umar) | Muhammad Umar | Uzbekistan  | 463 |
 | 12 | [Zukhrik](https://github.com/Zukhrik) | Зухриддин Камильжанов | Uzbekistan, Tashkent | 420 |
-| 13 | [abdu11aev-samandar](https://github.com/abdu11aev-samandar) | Samandar Abdullaev | Uzbekistan | 386 |
+| 13 | [abdu11aev-samandar](https://github.com/abdu11aev-samandar) | Samandar Abdullaev | Uzbekistan | 382 |
 | 14 | [orzklv](https://github.com/orzklv) | Orzklv | Tashkent, Uzbekistan | 366 |
 | 15 | [Muhammadjewel](https://github.com/Muhammadjewel) | Muhammadjavohir | Tashkent | 352 |
 | 16 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 333 |
@@ -83,4 +83,4 @@ Indexed users: 9,511
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-23T23:52:35.217Z
+Generated: 2026-10-24T01:05:36.317Z

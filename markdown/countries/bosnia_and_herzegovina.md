@@ -29,7 +29,7 @@ Indexed users: 2,126
 | 15 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 5,737 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,720 |
 | 17 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 5,332 |
-| 18 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,284 |
+| 18 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,222 |
 | 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 4,899 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 4,750 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-24T00:00:56.015Z
+Generated: 2026-10-24T01:18:37.792Z

@@ -1,8 +1,8 @@
 # Followers - Botswana
 
-Generated: 2026-10-24T00:01:00.794Z
+Generated: 2026-10-24T01:18:41.604Z
 
-Users: 533
+Users: 532
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -21,7 +21,7 @@ Published countries: 236
 | Azerbaijan | 5,041 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
-| Bangladesh | 55,290 | [View](./bangladesh.md) |
+| Bangladesh | 55,289 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,916 | [View](./belarus.md) |
 | Belgium | 18,369 | [View](./belgium.md) |
@@ -31,7 +31,7 @@ Published countries: 236
 | Bhutan | 266 | [View](./bhutan.md) |
 | Bolivia | 1,781 | [View](./bolivia.md) |
 | Bosnia and Herzegovina | 2,126 | [View](./bosnia_and_herzegovina.md) |
-| Botswana | 533 | [View](./botswana.md) |
+| Botswana | 532 | [View](./botswana.md) |
 | Bouvet Island | 6 | [View](./bouvet_island.md) |
 | British Indian Ocean Territory | 3 | [View](./british_indian_ocean_territory.md) |
 | British Virgin Islands | 38 | [View](./british_virgin_islands.md) |
@@ -64,7 +64,7 @@ Published countries: 236
 | Dominican Republic | 3,297 | [View](./dominican_republic.md) |
 | DR Congo | 701 | [View](./dr_congo.md) |
 | Ecuador | 4,874 | [View](./ecuador.md) |
-| Egypt | 34,072 | [View](./egypt.md) |
+| Egypt | 34,069 | [View](./egypt.md) |
 | El Salvador | 2,378 | [View](./el_salvador.md) |
 | Equatorial Guinea | 20 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
@@ -239,6 +239,6 @@ Published countries: 236
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,204 | [View](./yemen.md) |
 | Zambia | 1,336 | [View](./zambia.md) |
-| Zimbabwe | 1,656 | [View](./zimbabwe.md) |
+| Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T01:04:11.547Z
+Generated: 2026-10-24T01:28:26.844Z

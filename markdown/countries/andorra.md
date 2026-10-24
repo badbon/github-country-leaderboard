@@ -12,7 +12,7 @@ Indexed users: 215
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 50,659 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 50,731 |
 | 2 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 13,303 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 10,826 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 8,922 |
@@ -37,7 +37,7 @@ Indexed users: 215
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 50,659 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 50,731 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 3,032 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,473 |
 | 4 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 811 |
@@ -48,7 +48,7 @@ Indexed users: 215
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 613 |
 | 10 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 611 |
 | 11 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 514 |
-| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 446 |
+| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 437 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
 | 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 377 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 353 |
@@ -68,7 +68,7 @@ Indexed users: 215
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 156 |
 | 6 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 139 |
-| 7 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 133 |
+| 7 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 136 |
 | 8 | [matchilling](https://github.com/matchilling) | Matías J. Schilling | Andorra | 129 |
 | 9 | [JMariadlcs](https://github.com/JMariadlcs) | Jose María de la Cruz | Andorra | 119 |
 | 10 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | Andorra | 105 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-23T23:56:02.122Z
+Generated: 2026-10-24T01:08:44.754Z

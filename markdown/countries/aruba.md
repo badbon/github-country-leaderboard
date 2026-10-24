@@ -17,7 +17,7 @@ Indexed users: 37
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 568 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 560 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
-| 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
+| 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 178 |
 | 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 177 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 132 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
@@ -39,7 +39,7 @@ Indexed users: 37
 |---:|---|---|---|---:|
 | 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 560 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
-| 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
+| 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 178 |
 | 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 132 |
 | 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 114 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 | 20 | [JunyEngelhart](https://github.com/JunyEngelhart) | JunTech  (AWS Aruba) | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-23T23:58:27.354Z
+Generated: 2026-10-24T01:12:42.585Z

@@ -83,4 +83,4 @@ Indexed users: 6,866
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 400 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-23T23:55:10.707Z
+Generated: 2026-10-24T01:07:24.601Z

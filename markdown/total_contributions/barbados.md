@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-23T23:59:28.930Z
+Generated: 2026-10-24T01:14:04.567Z
 
 Users: 132
 
@@ -14,7 +14,7 @@ Users: 132
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2856 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 2272 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1752 |
-| 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1569 |
+| 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1572 |
 | 10 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1387 |
 | 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 1383 |
 | 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1235 |
