@@ -10488,27 +10488,15 @@
     "createdAt": "2020-05-21T09:06:57Z"
   },
   {
-    "login": "chrisAS12",
-    "name": "Krišjānis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65333249?s=72&u=d894b3f4e82313806c17e674fb8c179837ca43a3&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 5,
-    "publicContributions": 0,
-    "createdAt": "2020-05-14T07:11:22Z"
-  },
-  {
     "login": "ledlaux",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60392231?s=72&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 461,
+    "publicContributions": 464,
     "createdAt": "2020-01-28T13:26:55Z"
   },
   {
@@ -10519,8 +10507,8 @@
     "company": "University of Latvia",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 480,
-    "publicContributions": 168,
+    "privateContributions": 522,
+    "publicContributions": 177,
     "createdAt": "2020-04-04T20:57:15Z"
   },
   {
@@ -10530,7 +10518,7 @@
     "location": "Latvia, Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-20T19:31:34Z"
@@ -10555,7 +10543,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 4,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-07-07T17:14:45Z"
   },
@@ -10580,7 +10568,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 371,
     "createdAt": "2020-10-03T19:08:51Z"
   },
   {
@@ -10591,8 +10579,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 4075,
-    "publicContributions": 22,
+    "privateContributions": 4688,
+    "publicContributions": 461,
     "createdAt": "2020-03-17T16:10:47Z"
   },
   {
@@ -10604,7 +10592,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 181,
     "createdAt": "2020-09-06T18:37:51Z"
   },
   {
@@ -10615,8 +10603,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 174,
-    "publicContributions": 52,
+    "privateContributions": 169,
+    "publicContributions": 58,
     "createdAt": "2020-02-19T19:30:05Z"
   },
   {
@@ -10639,7 +10627,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 45,
+    "privateContributions": 39,
     "publicContributions": 238,
     "createdAt": "2020-09-01T17:37:55Z"
   },
@@ -10650,9 +10638,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 97,
     "createdAt": "2020-05-26T15:31:37Z"
   },
   {
@@ -10663,7 +10651,7 @@
     "company": "",
     "twitterUsername": "laame",
     "followers": 5,
-    "privateContributions": 620,
+    "privateContributions": 750,
     "publicContributions": 25,
     "createdAt": "2020-04-14T09:14:32Z"
   },
@@ -10686,9 +10674,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 225,
+    "publicContributions": 332,
     "createdAt": "2020-04-05T13:33:13Z"
   },
   {
@@ -10699,7 +10687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3,
+    "privateContributions": 2,
     "publicContributions": 10,
     "createdAt": "2020-09-20T00:59:23Z"
   },
