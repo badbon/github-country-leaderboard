@@ -15,7 +15,7 @@ Indexed users: 256
 | 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 6,852 |
 | 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 5,862 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 4,558 |
-| 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,178 |
+| 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,184 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 3,152 |
 | 6 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 3,111 |
 | 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,793 |
@@ -45,7 +45,7 @@ Indexed users: 256
 | 6 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 788 |
 | 7 | [Andrews3002](https://github.com/Andrews3002) | Alexangelo Andews | Trinidad and Tobago | 660 |
 | 8 | [JadeOfMaar](https://github.com/JadeOfMaar) | JadeOfMaar | Trinidad and Tobago | 420 |
-| 9 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | Trinidad and Tobago | 397 |
+| 9 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | Trinidad and Tobago | 394 |
 | 10 | [Somi-Project](https://github.com/Somi-Project) | Somi | Trinidad And Tobago | 363 |
 | 11 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 347 |
 | 12 | [dmcken](https://github.com/dmcken) | David Mc Ken | Trinidad and Tobago | 307 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-24T08:30:20.320Z
+Generated: 2026-10-24T12:27:59.921Z

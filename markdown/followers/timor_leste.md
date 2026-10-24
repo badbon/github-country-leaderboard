@@ -1,12 +1,12 @@
 # Followers - Timor-Leste
 
-Generated: 2026-10-24T08:29:49.096Z
+Generated: 2026-10-24T12:26:38.557Z
 
 Users: 77
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 74 |
+| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 75 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 35 |
 | 3 | [Evangelino](https://github.com/Evangelino) | Evangelino Ximenes | Internship Program in TIC TIMOR I.P. | ximenesevang | Hera, Dili, Timor Leste | 26 |
 | 4 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 17 |

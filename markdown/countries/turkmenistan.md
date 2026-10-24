@@ -23,8 +23,8 @@ Indexed users: 501
 | 9 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 3,755 |
 | 10 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,730 |
 | 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,376 |
-| 12 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,242 |
-| 13 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 3,190 |
+| 12 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 3,247 |
+| 13 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,242 |
 | 14 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 3,116 |
 | 15 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov | Turkmenistan, Turkmenbashi | 2,856 |
 | 16 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,599 |
@@ -66,7 +66,7 @@ Indexed users: 501
 | 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer | Ashgabat, Turkmenistan | 164 |
 | 3 | [MaysaShad](https://github.com/MaysaShad) |  | Ashgabat | 148 |
 | 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew | Turkmenistan | 139 |
-| 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 117 |
+| 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 118 |
 | 6 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Turkmenistan, Ashgabat | 117 |
 | 7 | [octonet29](https://github.com/octonet29) | Gulbahar | Ashgabat, Turkmenistan | 103 |
 | 8 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev | Turkmenistan, Ashgabat | 97 |
@@ -83,4 +83,4 @@ Indexed users: 501
 | 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 65 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-24T08:30:26.561Z
+Generated: 2026-10-24T12:28:09.103Z

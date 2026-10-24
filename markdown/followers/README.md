@@ -201,7 +201,7 @@ Published countries: 236
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,923 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,896 | [View](./south_korea.md) |
+| South Korea | 56,895 | [View](./south_korea.md) |
 | South Sudan | 131 | [View](./south_sudan.md) |
 | Sri Lanka | 18,298 | [View](./sri_lanka.md) |
 | Sudan | 725 | [View](./sudan.md) |
@@ -233,7 +233,7 @@ Published countries: 236
 | Uzbekistan | 9,510 | [View](./uzbekistan.md) |
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
-| Venezuela | 6,604 | [View](./venezuela.md) |
+| Venezuela | 6,603 | [View](./venezuela.md) |
 | Vietnam | 25,822 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T12:17:26.684Z
+Generated: 2026-10-24T12:30:28.766Z

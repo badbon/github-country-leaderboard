@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-24T08:28:14.825Z
+Generated: 2026-10-24T12:24:30.318Z
 
 Users: 1478
 
@@ -10,7 +10,7 @@ Users: 1478
 | 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares |  |  | Aleppo/Syria | 5742 |
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi |  |  | Homs, Syria | 5283 |
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4787 |
-| 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4651 |
+| 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4653 |
 | 6 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 3244 |
 | 7 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3223 |
 | 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 3118 |

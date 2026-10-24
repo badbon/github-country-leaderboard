@@ -1,8 +1,8 @@
 # Total Contributions - South Korea
 
-Generated: 2026-10-24T08:23:27.515Z
+Generated: 2026-10-24T12:20:42.159Z
 
-Users: 56896
+Users: 56895
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
