@@ -49472,7 +49472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-01-11T15:24:36Z"
   },
   {
@@ -49500,27 +49500,15 @@
     "createdAt": "2022-03-27T14:36:39Z"
   },
   {
-    "login": "gaspvr",
-    "name": "Gaspar Sepulveda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101269661?s=72&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2022-03-09T14:21:15Z"
-  },
-  {
     "login": "bastianbeckeru",
     "name": "Bastián Becker",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96827097?s=72&u=348c4658680ebb938959a893ebfc8cbffea529e9&v=4",
     "location": "Santiago, Chile.",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 166,
     "createdAt": "2021-12-29T12:48:47Z"
   },
   {
@@ -49566,7 +49554,7 @@
     "location": "Santiago de Chile",
     "company": "Pontificia Universidad Católica de Chile",
     "twitterUsername": "the_brokenHand",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-11T05:22:39Z"
@@ -49580,7 +49568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-03-16T00:02:24Z"
   },
   {
@@ -49592,7 +49580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 35,
     "createdAt": "2022-03-16T17:21:53Z"
   },
   {
@@ -49602,8 +49590,8 @@
     "location": "Stgo, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 111,
+    "followers": 2,
+    "privateContributions": 145,
     "publicContributions": 0,
     "createdAt": "2021-12-28T00:00:23Z"
   },
@@ -49638,7 +49626,7 @@
     "location": "Chile, Santiago",
     "company": "Duoc UC",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2022-03-09T18:39:25Z"
@@ -49652,7 +49640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 85,
     "createdAt": "2022-02-01T10:28:11Z"
   },
   {

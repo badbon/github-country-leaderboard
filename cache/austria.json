@@ -49423,8 +49423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 3289,
-    "publicContributions": 104,
+    "privateContributions": 4161,
+    "publicContributions": 117,
     "createdAt": "2020-05-01T17:03:33Z"
   },
   {
@@ -49434,22 +49434,10 @@
     "location": "Vienna, Austria",
     "company": "Sportradar",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-20T18:02:13Z"
-  },
-  {
-    "login": "vxweDev",
-    "name": "Florian",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71718236?s=72&u=0b35b056cc4e8665fce02e0325b215412946347c&v=4",
-    "location": "Austria",
-    "company": "@chif19 ",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-09-22T15:27:07Z"
   },
   {
     "login": "DreamyLynn",
@@ -49472,7 +49460,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 5,
-    "publicContributions": 33,
+    "publicContributions": 27,
     "createdAt": "2020-02-24T16:48:36Z"
   },
   {
@@ -49480,11 +49468,11 @@
     "name": "Hedwig Farthofer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66747385?s=72&v=4",
     "location": "Vienna, Austria",
-    "company": "Oracle",
+    "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-06-10T18:26:36Z"
   },
   {
@@ -49494,9 +49482,9 @@
     "location": "Austria",
     "company": "Refinq Gmbh",
     "twitterUsername": "FavourAkpasi",
-    "followers": 11,
-    "privateContributions": 890,
-    "publicContributions": 143,
+    "followers": 10,
+    "privateContributions": 678,
+    "publicContributions": 145,
     "createdAt": "2020-06-16T15:16:28Z"
   },
   {
@@ -49506,8 +49494,8 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 9,
+    "followers": 12,
+    "privateContributions": 2,
     "publicContributions": 98,
     "createdAt": "2020-01-08T11:14:09Z"
   },
@@ -49520,7 +49508,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2020-02-02T15:09:21Z"
   },
   {
@@ -49531,7 +49519,7 @@
     "company": "IST Austria",
     "twitterUsername": "simone_bombari",
     "followers": 11,
-    "privateContributions": 6,
+    "privateContributions": 13,
     "publicContributions": 4,
     "createdAt": "2020-03-07T01:53:57Z"
   },
@@ -49543,8 +49531,8 @@
     "company": "FH Campus Wien",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 979,
-    "publicContributions": 4,
+    "privateContributions": 1642,
+    "publicContributions": 3,
     "createdAt": "2020-05-21T12:50:30Z"
   },
   {
@@ -49555,8 +49543,8 @@
     "company": "",
     "twitterUsername": "tmprnjc",
     "followers": 11,
-    "privateContributions": 1345,
-    "publicContributions": 52,
+    "privateContributions": 1173,
+    "publicContributions": 46,
     "createdAt": "2020-05-03T19:58:40Z"
   },
   {
@@ -49603,8 +49591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 195,
-    "publicContributions": 2,
+    "privateContributions": 157,
+    "publicContributions": 0,
     "createdAt": "2020-08-24T15:31:46Z"
   },
   {
@@ -49614,9 +49602,9 @@
     "location": "Austria",
     "company": "MULTIMEDIAFABRIK ",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 3043,
-    "publicContributions": 116,
+    "followers": 8,
+    "privateContributions": 4410,
+    "publicContributions": 151,
     "createdAt": "2020-12-27T12:13:01Z"
   },
   {
@@ -49636,11 +49624,11 @@
     "name": "Jonas Grubbauer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63007476?s=72&u=9884b6c86ab3392580bb79487fbe9a58c3942990&v=4",
     "location": "Austria",
-    "company": "",
+    "company": "BT Systems",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 650,
-    "publicContributions": 10,
+    "privateContributions": 1176,
+    "publicContributions": 44,
     "createdAt": "2020-04-01T15:39:41Z"
   },
   {

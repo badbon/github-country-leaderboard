@@ -49170,9 +49170,9 @@
     "location": "Alexandria, Egypt ",
     "company": "CCE-Faculty OF Engineering Alexandria University ",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 92,
-    "publicContributions": 131,
+    "followers": 26,
+    "privateContributions": 30,
+    "publicContributions": 144,
     "createdAt": "2024-09-03T23:09:28Z"
   },
   {
@@ -49184,20 +49184,8 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2024-09-19T17:15:59Z"
-  },
-  {
-    "login": "Mohamed-Saeed-Hussein",
-    "name": "Mohamed Saeed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180985801?s=72&u=aa253b0e8fb23787a157b68e13d2fb2ec934e72e&v=4",
-    "location": "Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 5,
-    "publicContributions": 72,
-    "createdAt": "2024-09-09T15:42:57Z"
   },
   {
     "login": "Khaled-Abdelfattah",
@@ -49206,9 +49194,9 @@
     "location": "Assiut, Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 54,
     "createdAt": "2024-08-07T13:41:24Z"
   },
   {
@@ -49218,9 +49206,9 @@
     "location": "Giza ,Egypt",
     "company": "Faculty of Computer Science and Artificial Intelligence - Cairo University",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 63,
     "createdAt": "2024-09-22T18:50:25Z"
   },
   {
@@ -49231,8 +49219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 22,
-    "publicContributions": 40,
+    "privateContributions": 10,
+    "publicContributions": 35,
     "createdAt": "2024-08-10T07:13:00Z"
   },
   {
@@ -49242,9 +49230,9 @@
     "location": "Egypt, Sharqia",
     "company": "Zagazig National Universty",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 288,
+    "publicContributions": 162,
     "createdAt": "2024-06-28T16:59:47Z"
   },
   {
@@ -49254,21 +49242,21 @@
     "location": "Cairo, Egypt",
     "company": "Shoubra Benha Engineering University",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 832,
-    "publicContributions": 284,
+    "followers": 29,
+    "privateContributions": 1132,
+    "publicContributions": 71,
     "createdAt": "2024-07-01T16:19:21Z"
   },
   {
     "login": "omarelsheikh5",
     "name": "Omar Elsheikh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176661178?s=72&u=ed54eb5e7dfb634462d1845e8ea19c38d1168d2b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176661178?s=72&u=7c539622223b6c14d0b41a753e370575b41d2126&v=4",
     "location": "Egypt/Sharqia",
     "company": "",
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-07-26T08:11:30Z"
   },
   {
@@ -49276,11 +49264,11 @@
     "name": "Youssef El Sayed",
     "avatarUrl": "https://avatars.githubusercontent.com/u/179973060?s=72&u=c4253d0e6608913de19c4384e9173dd73b725a3e&v=4",
     "location": "Egypt",
-    "company": "",
+    "company": "@DN-Technologies",
     "twitterUsername": "constyoussef",
     "followers": 21,
-    "privateContributions": 3096,
-    "publicContributions": 130,
+    "privateContributions": 2828,
+    "publicContributions": 1561,
     "createdAt": "2024-08-30T20:19:27Z"
   },
   {
@@ -49290,9 +49278,9 @@
     "location": "Cairo, Egypt.",
     "company": "Information Technology Institute",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 726,
-    "publicContributions": 776,
+    "followers": 23,
+    "privateContributions": 1276,
+    "publicContributions": 593,
     "createdAt": "2024-08-19T09:16:53Z"
   },
   {
@@ -49302,9 +49290,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 215,
+    "publicContributions": 261,
     "createdAt": "2024-09-06T19:45:25Z"
   },
   {
@@ -49314,9 +49302,9 @@
     "location": "Cairo, Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 40,
     "createdAt": "2024-09-17T08:00:46Z"
   },
   {
@@ -49326,9 +49314,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 178,
     "createdAt": "2024-09-22T17:52:14Z"
   },
   {
@@ -49338,7 +49326,7 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2024-08-18T16:34:38Z"
@@ -49346,13 +49334,13 @@
   {
     "login": "assemkaram",
     "name": "Assem Karam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182381989?s=72&u=a205b6392caa6d81b49b2ef7b4fe1649b89b4a18&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182381989?s=72&u=bea1cc77008af1690df9518af7a62266208323ad&v=4",
     "location": "Egypt - Cairo",
-    "company": "",
+    "company": "Craft Coders",
     "twitterUsername": "Alexander56948",
-    "followers": 19,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 43,
     "createdAt": "2024-09-22T00:09:58Z"
   },
   {
@@ -49362,9 +49350,9 @@
     "location": "Egypt , Mansoura",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 516,
-    "publicContributions": 164,
+    "followers": 20,
+    "privateContributions": 849,
+    "publicContributions": 209,
     "createdAt": "2024-08-09T16:29:54Z"
   },
   {
@@ -49373,10 +49361,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/178116735?s=72&u=14cbc3b9411d30dacc33c11bba440e93026dbb11&v=4",
     "location": "Cairo,Egypt",
     "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 10,
-    "publicContributions": 86,
+    "twitterUsername": "omaaarrr___",
+    "followers": 32,
+    "privateContributions": 12,
+    "publicContributions": 67,
     "createdAt": "2024-08-11T23:22:15Z"
   },
   {
@@ -49386,9 +49374,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 145,
-    "publicContributions": 154,
+    "followers": 23,
+    "privateContributions": 139,
+    "publicContributions": 151,
     "createdAt": "2024-07-31T12:14:52Z"
   },
   {
@@ -49398,9 +49386,9 @@
     "location": "Cairo, Egypt",
     "company": "IT Instructor at NTG Clarity",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 79,
     "createdAt": "2024-08-03T20:37:18Z"
   },
   {

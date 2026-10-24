@@ -49291,8 +49291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 264,
-    "publicContributions": 56,
+    "privateContributions": 356,
+    "publicContributions": 28,
     "createdAt": "2022-12-03T22:00:58Z"
   },
   {
@@ -49302,9 +49302,9 @@
     "location": "Uzbekistan",
     "company": "",
     "twitterUsername": "Abdulbosit1215",
-    "followers": 12,
-    "privateContributions": 43,
-    "publicContributions": 68,
+    "followers": 16,
+    "privateContributions": 41,
+    "publicContributions": 71,
     "createdAt": "2022-08-01T19:00:22Z"
   },
   {
@@ -49326,8 +49326,8 @@
     "location": "Uzbekistan",
     "company": "HumbleBeeAI",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 207,
+    "followers": 11,
+    "privateContributions": 201,
     "publicContributions": 3,
     "createdAt": "2022-09-22T08:31:13Z"
   },
@@ -49339,7 +49339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 169,
+    "privateContributions": 162,
     "publicContributions": 0,
     "createdAt": "2022-09-14T14:16:39Z"
   },
@@ -49350,7 +49350,7 @@
     "location": "Uzbekistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-10T16:59:51Z"
@@ -49362,9 +49362,9 @@
     "location": "Uzbekistan",
     "company": "",
     "twitterUsername": "kamronbekdev",
-    "followers": 12,
-    "privateContributions": 1186,
-    "publicContributions": 662,
+    "followers": 15,
+    "privateContributions": 1181,
+    "publicContributions": 524,
     "createdAt": "2022-12-02T12:06:01Z"
   },
   {
@@ -49374,8 +49374,8 @@
     "location": "Tashkent, Uzbekistan",
     "company": "Tokbor",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 948,
+    "followers": 15,
+    "privateContributions": 610,
     "publicContributions": 72,
     "createdAt": "2022-11-12T06:15:58Z"
   },
@@ -49387,8 +49387,8 @@
     "company": "Najot Ta'lim ",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 202,
-    "publicContributions": 58,
+    "privateContributions": 155,
+    "publicContributions": 56,
     "createdAt": "2022-11-13T12:48:43Z"
   },
   {
@@ -49399,8 +49399,8 @@
     "company": "@aliftechuz",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1054,
-    "publicContributions": 6,
+    "privateContributions": 1356,
+    "publicContributions": 2,
     "createdAt": "2022-10-15T03:44:35Z"
   },
   {
@@ -49410,9 +49410,9 @@
     "location": "Tashkent, Uzbekistan",
     "company": "CyberNet",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2022-09-14T09:35:07Z"
   },
   {
@@ -49434,9 +49434,9 @@
     "location": "Tashkent, Uzbekistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 74,
     "createdAt": "2022-10-08T18:40:25Z"
   },
   {
@@ -49460,19 +49460,19 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 111,
     "createdAt": "2022-12-03T04:10:52Z"
   },
   {
     "login": "shohruzisroilov",
     "name": "Shohruz Isroilov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117011473?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117011473?s=72&u=5a8c65218fcfc88db712e4572d7573ab1c2681e1&v=4",
     "location": "Tashkent, Uzbekistan",
-    "company": "",
+    "company": "Freelancer",
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 207,
+    "publicContributions": 67,
     "createdAt": "2022-10-30T10:27:21Z"
   },
   {
@@ -49480,7 +49480,7 @@
     "name": "Bunyod Zaripov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/111201762?s=72&u=2ea58e458764c84c217be2c2eaa23b660f040438&v=4",
     "location": "Toshkent, Uzbekistan ",
-    "company": "",
+    "company": "Bookholic",
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
@@ -49494,9 +49494,9 @@
     "location": "Uzbekistan, Karshi",
     "company": "Open Web Academy",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 624,
-    "publicContributions": 15,
+    "followers": 12,
+    "privateContributions": 613,
+    "publicContributions": 13,
     "createdAt": "2022-10-21T13:48:10Z"
   },
   {
@@ -49506,7 +49506,7 @@
     "location": "Tashkent , Uzbekistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-02T13:35:23Z"

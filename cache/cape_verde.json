@@ -1448,7 +1448,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2023-05-25T18:48:43Z"
   },
   {
@@ -1459,8 +1459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2736,
-    "publicContributions": 52,
+    "privateContributions": 2750,
+    "publicContributions": 53,
     "createdAt": "2023-07-04T23:40:50Z"
   },
   {
@@ -1470,7 +1470,7 @@
     "location": "Praia Grande",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 83,
     "createdAt": "2023-09-30T00:08:04Z"
@@ -1603,7 +1603,7 @@
     "company": "@FacioCode",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 93,
+    "privateContributions": 107,
     "publicContributions": 45,
     "createdAt": "2023-08-21T19:44:16Z"
   },
