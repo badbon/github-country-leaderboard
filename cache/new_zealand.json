@@ -47816,7 +47816,7 @@
     "twitterUsername": "bgf_nz",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2018-03-11T23:38:44Z"
   },
   {
@@ -47887,7 +47887,7 @@
     "company": "@Neon-One ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 6513,
+    "privateContributions": 9042,
     "publicContributions": 0,
     "createdAt": "2018-10-23T22:43:32Z"
   },
@@ -47899,7 +47899,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1747,
+    "privateContributions": 970,
     "publicContributions": 5,
     "createdAt": "2018-01-29T08:00:06Z"
   },
@@ -47923,7 +47923,7 @@
     "company": "@mattrglobal",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 21,
+    "privateContributions": 17,
     "publicContributions": 2,
     "createdAt": "2018-02-27T08:02:08Z"
   },
@@ -47964,18 +47964,6 @@
     "createdAt": "2018-05-17T02:35:37Z"
   },
   {
-    "login": "jaime-king",
-    "name": "Jaime King",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42326864?s=72&u=2b2d0d4d964e6798a9d8e61a4135a8f748a24187&v=4",
-    "location": "New Zealand",
-    "company": "@IDEXX ",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 38,
-    "publicContributions": 5,
-    "createdAt": "2018-08-12T22:49:51Z"
-  },
-  {
     "login": "alexthekiwi",
     "name": "Alex Clark",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38124722?s=72&u=906640cf67375828c2f69a7dc40ea6951322ddae&v=4",
@@ -47983,8 +47971,8 @@
     "company": "@intuit-creative ",
     "twitterUsername": "alexthekiwi",
     "followers": 4,
-    "privateContributions": 7891,
-    "publicContributions": 279,
+    "privateContributions": 11197,
+    "publicContributions": 207,
     "createdAt": "2018-04-06T06:16:11Z"
   },
   {
@@ -48030,7 +48018,7 @@
     "location": " New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2018-10-10T20:55:58Z"
