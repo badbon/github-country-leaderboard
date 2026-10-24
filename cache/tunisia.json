@@ -48307,7 +48307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 17,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2020-10-05T21:24:50Z"
   },
@@ -48331,8 +48331,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 42,
-    "publicContributions": 53,
+    "privateContributions": 122,
+    "publicContributions": 81,
     "createdAt": "2020-11-22T19:24:08Z"
   },
   {
@@ -48342,7 +48342,7 @@
     "location": "Tunisia",
     "company": "INSAT",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-13T21:21:34Z"
@@ -48378,9 +48378,9 @@
     "location": "Tunisia",
     "company": "Harvest Group",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 2253,
-    "publicContributions": 8,
+    "followers": 10,
+    "privateContributions": 2413,
+    "publicContributions": 17,
     "createdAt": "2020-02-26T22:28:25Z"
   },
   {
@@ -48390,7 +48390,7 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-04T10:18:25Z"
@@ -48414,9 +48414,9 @@
     "location": "Tunisia ",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2020-07-05T09:26:10Z"
   },
   {
@@ -48428,7 +48428,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2020-09-18T21:09:39Z"
   },
   {
@@ -48436,11 +48436,11 @@
     "name": "malek annabi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60436343?s=72&u=905e92313822628d797c219468ccf028065126f1&v=4",
     "location": "Tunisia",
-    "company": "L'agence Telecom",
+    "company": "Advans International",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 115,
-    "publicContributions": 58,
+    "privateContributions": 142,
+    "publicContributions": 41,
     "createdAt": "2020-01-29T14:41:15Z"
   },
   {
@@ -48450,7 +48450,7 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-08-30T13:54:22Z"
@@ -48463,7 +48463,7 @@
     "company": "jmd solutions",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 126,
+    "privateContributions": 155,
     "publicContributions": 1,
     "createdAt": "2020-02-06T07:22:24Z"
   },
@@ -48475,8 +48475,8 @@
     "company": "Ecole supérieure privée d'ingénierie et de technologie",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 26,
+    "privateContributions": 2,
+    "publicContributions": 15,
     "createdAt": "2020-02-02T14:32:55Z"
   },
   {
@@ -48486,21 +48486,21 @@
     "location": "Tunisia",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 267,
+    "followers": 8,
+    "privateContributions": 273,
     "publicContributions": 1,
     "createdAt": "2020-06-12T10:24:12Z"
   },
   {
     "login": "WiemKhlifi",
     "name": "Wiem Khlifi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76517424?s=72&u=3ed0468a3eb574f525ac95a8e0d4e564eceb72c1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76517424?s=72&u=488af0944657f11894514f5f220ddcc19bae0029&v=4",
     "location": "Tunisia",
     "company": "InstaDeep Ltd",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 9,
-    "publicContributions": 5,
+    "privateContributions": 40,
+    "publicContributions": 7,
     "createdAt": "2020-12-23T10:09:44Z"
   },
   {
@@ -48516,27 +48516,15 @@
     "createdAt": "2020-06-12T10:40:53Z"
   },
   {
-    "login": "MohamedElyesZormati",
-    "name": "Mohamed Elyes Zormati",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74208663?s=72&u=2bbf6f4342bc4c3507b4d4a61d57036676f4eec2&v=4",
-    "location": "Tunis, Tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-11-09T19:06:31Z"
-  },
-  {
     "login": "isfiaya",
     "name": "Aymen Isfiaya",
     "avatarUrl": "https://avatars.githubusercontent.com/u/64421540?s=72&u=90b7d8ce1d9f906dbe665ff2c2b54897bff50c88&v=4",
     "location": "Sfax,, Tunisia",
     "company": "Creativas",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 306,
-    "publicContributions": 19,
+    "followers": 7,
+    "privateContributions": 308,
+    "publicContributions": 2,
     "createdAt": "2020-04-27T14:19:39Z"
   },
   {

@@ -48236,7 +48236,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-07-29T08:34:36Z"
   },
   {
@@ -48246,7 +48246,7 @@
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 1,
     "publicContributions": 2,
     "createdAt": "2021-09-26T07:31:03Z"
@@ -48259,7 +48259,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 595,
+    "privateContributions": 2455,
     "publicContributions": 2,
     "createdAt": "2021-07-18T16:56:00Z"
   },
@@ -48270,9 +48270,9 @@
     "location": "Switzerland",
     "company": "CERN",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 835,
+    "publicContributions": 697,
     "createdAt": "2021-08-12T07:06:52Z"
   },
   {
@@ -48283,8 +48283,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 80,
-    "publicContributions": 3,
+    "privateContributions": 64,
+    "publicContributions": 125,
     "createdAt": "2021-09-01T19:33:23Z"
   },
   {
@@ -48294,9 +48294,9 @@
     "location": "Switzerland",
     "company": "@CMInformatik ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 467,
-    "publicContributions": 66,
+    "followers": 6,
+    "privateContributions": 568,
+    "publicContributions": 86,
     "createdAt": "2021-08-16T07:51:34Z"
   },
   {
@@ -48306,7 +48306,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-04T16:07:00Z"
@@ -48331,8 +48331,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 164,
-    "publicContributions": 68,
+    "privateContributions": 232,
+    "publicContributions": 75,
     "createdAt": "2021-07-29T18:39:59Z"
   },
   {
@@ -48343,8 +48343,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 746,
-    "publicContributions": 6,
+    "privateContributions": 647,
+    "publicContributions": 0,
     "createdAt": "2021-08-18T06:58:58Z"
   },
   {
@@ -48354,9 +48354,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 20,
-    "publicContributions": 60,
+    "publicContributions": 83,
     "createdAt": "2021-07-26T08:34:49Z"
   },
   {
@@ -48391,7 +48391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2021-09-16T09:56:52Z"
   },
@@ -48404,7 +48404,7 @@
     "twitterUsername": "saranya8989",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 5,
     "createdAt": "2021-09-10T06:52:30Z"
   },
   {
@@ -48414,9 +48414,9 @@
     "location": "Zürich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 53,
     "createdAt": "2021-09-07T13:07:45Z"
   },
   {
@@ -48427,8 +48427,8 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 423,
-    "publicContributions": 262,
+    "privateContributions": 402,
+    "publicContributions": 369,
     "createdAt": "2021-07-19T10:14:53Z"
   },
   {
@@ -48440,13 +48440,13 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 39,
     "createdAt": "2021-09-18T16:20:42Z"
   },
   {
     "login": "christianhauschel",
     "name": "Chris",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90248888?s=72&u=2660d11e9af386a53085a64cf671f135892aab90&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90248888?s=72&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
@@ -48464,7 +48464,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 149,
     "createdAt": "2021-09-20T10:48:42Z"
   },
   {

@@ -48092,13 +48092,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-06-27T12:05:09Z"
   },
   {
     "login": "batuhanataman",
     "name": "Batuhan Ataman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162621177?s=72&u=80e559c6825dca93d6755e36f6459ad46baa4269&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162621177?s=72&u=d7085eeac26268f3b52b44a407bcdd9e4118a8ca&v=4",
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
@@ -48115,8 +48115,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 83,
-    "publicContributions": 16,
+    "privateContributions": 115,
+    "publicContributions": 75,
     "createdAt": "2024-01-02T21:54:58Z"
   },
   {
@@ -48150,7 +48150,7 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-30T13:07:10Z"
@@ -48187,7 +48187,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2024-03-16T15:12:42Z"
   },
@@ -48234,34 +48234,10 @@
     "location": "Karabük, Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2024-04-27T14:47:35Z"
-  },
-  {
-    "login": "yalin-alagul",
-    "name": "Yalın Alagül",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170943605?s=72&u=09fa625ebd77a24f104cad6e33de26bf142649db&v=4",
-    "location": "Turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2024-05-27T11:47:47Z"
-  },
-  {
-    "login": "umttur",
-    "name": "Umut Tur",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169036021?s=72&u=27ae48175a3f57741a5dbffb16d6e10741912b32&v=4",
-    "location": "Turkey/İstanbul",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 30,
-    "createdAt": "2024-05-06T08:40:53Z"
   },
   {
     "login": "imYigit",
@@ -48308,7 +48284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2024-04-30T09:30:10Z"
   },
   {
