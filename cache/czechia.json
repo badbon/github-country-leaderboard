@@ -49028,7 +49028,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 0,
     "createdAt": "2020-03-16T18:30:01Z"
   },
   {
@@ -49040,7 +49040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 27,
     "createdAt": "2020-08-18T08:41:05Z"
   },
   {
@@ -49050,8 +49050,8 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 205,
+    "followers": 4,
+    "privateContributions": 225,
     "publicContributions": 9,
     "createdAt": "2020-11-29T15:37:25Z"
   },
@@ -49076,7 +49076,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 90,
     "createdAt": "2020-10-26T14:07:13Z"
   },
   {
@@ -49110,9 +49110,9 @@
     "location": "Slovakia/Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 242,
-    "publicContributions": 41,
+    "followers": 21,
+    "privateContributions": 155,
+    "publicContributions": 31,
     "createdAt": "2015-02-06T18:52:01Z"
   },
   {
@@ -49122,9 +49122,9 @@
     "location": "Beluša, Slovakia; Brno, Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 270,
+    "publicContributions": 254,
     "createdAt": "2015-08-20T17:41:07Z"
   },
   {
@@ -49171,8 +49171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 166,
-    "publicContributions": 23,
+    "privateContributions": 585,
+    "publicContributions": 33,
     "createdAt": "2020-12-15T18:27:13Z"
   },
   {
@@ -49202,13 +49202,13 @@
   {
     "login": "DiligentElZee",
     "name": "Diligent ElZee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66642556?s=72&u=25b86aaf7a384bf50960b059ea426800dc29a802&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66642556?s=72&u=2ab14dc4f9be8855c48fb3601e5c0404af0bc779&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2020-06-08T19:02:21Z"
   },
   {
@@ -49225,7 +49225,7 @@
   },
   {
     "login": "jara155",
-    "name": "Jája",
+    "name": "Jaroslav Matějka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74739998?s=72&u=50c93cd142ca76c9e4b4f1b989da3ebbd63c2984&v=4",
     "location": "Czech Republic",
     "company": "",
@@ -49242,8 +49242,8 @@
     "location": "Olomouc, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 45,
+    "followers": 3,
+    "privateContributions": 167,
     "publicContributions": 0,
     "createdAt": "2020-07-07T08:26:59Z"
   },

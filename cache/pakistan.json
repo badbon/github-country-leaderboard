@@ -267163,8 +267163,8 @@
     "company": "Zexware (Private) Limited. @zexware ",
     "twitterUsername": "i0x46",
     "followers": 4,
-    "privateContributions": 808,
-    "publicContributions": 23,
+    "privateContributions": 531,
+    "publicContributions": 36,
     "createdAt": "2021-01-02T19:45:00Z"
   },
   {
@@ -267224,7 +267224,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 46,
     "createdAt": "2021-01-18T08:21:46Z"
   },
   {
@@ -272382,7 +272382,7 @@
     "location": "Hyderabad, Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-26T08:28:26Z"
@@ -502066,5 +502066,17 @@
     "privateContributions": 794,
     "publicContributions": 187,
     "createdAt": "2020-09-22T03:19:35Z"
+  },
+  {
+    "login": "huzaifali24",
+    "name": "Huzaifa Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80360413?s=72&u=58693a8de08c4188c0cfcf404fa5c34b0f3a257f&v=4",
+    "location": "Hyderabad, Pakistan",
+    "company": "",
+    "twitterUsername": "Huzaif_999",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2021-03-09T20:39:23Z"
   }
 ]
