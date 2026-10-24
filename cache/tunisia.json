@@ -48079,8 +48079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 533,
-    "publicContributions": 177,
+    "privateContributions": 550,
+    "publicContributions": 181,
     "createdAt": "2020-04-25T15:02:43Z"
   },
   {
@@ -48091,7 +48091,7 @@
     "company": "Maibornwolff ",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-16T08:39:10Z"
   },
@@ -48115,7 +48115,7 @@
     "company": "Rbk",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 243,
+    "privateContributions": 291,
     "publicContributions": 19,
     "createdAt": "2020-02-25T21:16:02Z"
   },
@@ -48152,7 +48152,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 1,
-    "publicContributions": 51,
+    "publicContributions": 57,
     "createdAt": "2020-04-30T17:15:14Z"
   },
   {
@@ -48163,8 +48163,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2020-05-07T07:59:13Z"
   },
   {
@@ -48174,21 +48174,21 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 22,
+    "followers": 9,
+    "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2020-02-29T20:22:16Z"
   },
   {
     "login": "mrsnifo",
     "name": "Sofien Hichri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72699591?s=72&u=4d20341589ac51ceea3853bed16208d205d2d0f6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72699591?s=72&u=930852ac700b938273d89a55221416ac1e30a901&v=4",
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 239,
-    "publicContributions": 145,
+    "followers": 11,
+    "privateContributions": 221,
+    "publicContributions": 110,
     "createdAt": "2020-10-11T14:53:05Z"
   },
   {
@@ -48200,20 +48200,8 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2020-10-28T11:14:18Z"
-  },
-  {
-    "login": "MrKammounYT",
-    "name": "Ahmed Kammoun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67042273?s=72&u=b92f1a0f3bcec04590137c1d055b55b0f6198b9e&v=4",
-    "location": "Tunisia",
-    "company": "@Eagle-Studios ",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 86,
-    "createdAt": "2020-06-17T06:28:21Z"
   },
   {
     "login": "fareschobba",
@@ -48222,7 +48210,7 @@
     "location": "Moknine, Monastir, Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-11-22T18:30:34Z"
@@ -48235,8 +48223,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 543,
-    "publicContributions": 43,
+    "privateContributions": 641,
+    "publicContributions": 52,
     "createdAt": "2020-11-14T00:50:19Z"
   },
   {
@@ -48258,9 +48246,9 @@
     "location": "Tunis, Tunisia",
     "company": "",
     "twitterUsername": "AbdelazizFiras",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 72,
-    "publicContributions": 13,
+    "publicContributions": 2,
     "createdAt": "2020-07-22T02:55:21Z"
   },
   {
@@ -48270,7 +48258,7 @@
     "location": "Tunisia",
     "company": "ISI",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-03-30T20:54:43Z"
@@ -48282,9 +48270,9 @@
     "location": "Tunisia",
     "company": "Capgemini",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 396,
-    "publicContributions": 47,
+    "followers": 11,
+    "privateContributions": 361,
+    "publicContributions": 46,
     "createdAt": "2020-12-12T17:39:20Z"
   },
   {
@@ -48294,9 +48282,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 206,
-    "publicContributions": 119,
+    "followers": 10,
+    "privateContributions": 187,
+    "publicContributions": 121,
     "createdAt": "2020-07-01T13:22:06Z"
   },
   {
@@ -48307,8 +48295,8 @@
     "company": " ReBootKamp Tunisia",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 52,
-    "publicContributions": 11,
+    "privateContributions": 83,
+    "publicContributions": 38,
     "createdAt": "2020-11-13T09:10:20Z"
   },
   {

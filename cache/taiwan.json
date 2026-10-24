@@ -41460,18 +41460,6 @@
     "createdAt": "2021-07-03T09:24:55Z"
   },
   {
-    "login": "NoelTW",
-    "name": "Noel Yang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95574602?s=72&u=0bf2735f3f3c5bbe1132c30e389b9970bc681842&v=4",
-    "location": "Taiwan",
-    "company": "Micron",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 120,
-    "createdAt": "2021-12-05T13:20:02Z"
-  },
-  {
     "login": "shiroe345",
     "name": "Cheng-Jhe",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90889006?s=72&v=4",
@@ -41479,7 +41467,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
+    "privateContributions": 102,
     "publicContributions": 0,
     "createdAt": "2021-09-17T05:29:10Z"
   },
@@ -41491,8 +41479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 423,
-    "publicContributions": 260,
+    "privateContributions": 277,
+    "publicContributions": 242,
     "createdAt": "2021-10-13T08:49:02Z"
   },
   {
@@ -41526,9 +41514,9 @@
     "location": "Hsinchu, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 2,
-    "publicContributions": 67,
+    "followers": 5,
+    "privateContributions": 55,
+    "publicContributions": 69,
     "createdAt": "2021-07-09T09:50:29Z"
   },
   {
@@ -41538,9 +41526,9 @@
     "location": "Taiwan",
     "company": "National Central University",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 73,
     "createdAt": "2021-07-16T10:00:19Z"
   },
   {
@@ -41551,8 +41539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 22,
+    "privateContributions": 2,
+    "publicContributions": 15,
     "createdAt": "2021-09-24T03:43:18Z"
   },
   {
@@ -41563,8 +41551,8 @@
     "company": "@prinsur ",
     "twitterUsername": "ron1oad",
     "followers": 6,
-    "privateContributions": 2576,
-    "publicContributions": 1293,
+    "privateContributions": 3609,
+    "publicContributions": 1419,
     "createdAt": "2021-10-05T23:24:42Z"
   },
   {
@@ -41588,7 +41576,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 21,
     "createdAt": "2021-07-08T02:13:39Z"
   },
   {
@@ -41598,9 +41586,9 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1193,
-    "publicContributions": 144,
+    "followers": 7,
+    "privateContributions": 1441,
+    "publicContributions": 53,
     "createdAt": "2021-08-04T10:53:32Z"
   },
   {
@@ -41612,7 +41600,7 @@
     "twitterUsername": "JudyWei_VRC",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-09T01:38:06Z"
   },
   {
@@ -41622,9 +41610,9 @@
     "location": "Taipei, Taiwan",
     "company": "National Taiwan University",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 3,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2021-09-28T01:31:48Z"
   },
   {
@@ -41636,7 +41624,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 33,
     "createdAt": "2021-07-15T00:56:31Z"
   },
   {
@@ -41646,9 +41634,9 @@
     "location": "Taiwan",
     "company": "@Yomisana-Lab",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1164,
-    "publicContributions": 212,
+    "followers": 7,
+    "privateContributions": 1057,
+    "publicContributions": 657,
     "createdAt": "2021-11-03T14:20:53Z"
   },
   {
@@ -41658,8 +41646,8 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 6,
+    "followers": 7,
+    "privateContributions": 11,
     "publicContributions": 2,
     "createdAt": "2021-10-02T12:13:42Z"
   },
@@ -41683,7 +41671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 797,
+    "privateContributions": 684,
     "publicContributions": 0,
     "createdAt": "2021-09-22T06:16:43Z"
   },
