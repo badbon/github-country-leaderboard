@@ -49555,8 +49555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 182,
+    "privateContributions": 52,
+    "publicContributions": 170,
     "createdAt": "2023-04-09T07:07:19Z"
   },
   {
@@ -49586,13 +49586,13 @@
   {
     "login": "abduljabbarr",
     "name": "AJ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129831668?s=72&u=0d69dc7c36f717593a5438cf91f61b34b9c9a286&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129831668?s=72&u=ecb3b22737b5b8b3a63a1ce29f57cff47449f3d0&v=4",
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 311,
-    "publicContributions": 6,
+    "privateContributions": 371,
+    "publicContributions": 0,
     "createdAt": "2023-04-04T06:51:27Z"
   },
   {
@@ -49604,7 +49604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 11,
     "createdAt": "2023-03-06T05:47:35Z"
   },
   {
@@ -49616,7 +49616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 86,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2023-03-01T07:11:59Z"
   },
   {
@@ -49632,18 +49632,6 @@
     "createdAt": "2023-03-19T14:20:35Z"
   },
   {
-    "login": "KennyyMaster",
-    "name": "kennyy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133776778?s=72&u=d0e95a91f7a8312871144d21295ee176b7270109&v=4",
-    "location": "Philippines",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 996,
-    "publicContributions": 23,
-    "createdAt": "2023-05-16T12:56:20Z"
-  },
-  {
     "login": "AliTabugger",
     "name": "Jhon Michael Flores",
     "avatarUrl": "https://avatars.githubusercontent.com/u/128368659?s=72&u=e8e217706c2d6772a37efa374a000b5804940893&v=4",
@@ -49652,20 +49640,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 30,
     "createdAt": "2023-03-20T09:49:12Z"
-  },
-  {
-    "login": "ya-shiii",
-    "name": "Joshua Jumamil Vicente",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127636476?s=72&u=eb276acb8690bda23f23742f50ef5b799f9d3680&v=4",
-    "location": "Philippines",
-    "company": "OIC @ TECHSAVVY Community",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 47,
-    "createdAt": "2023-03-12T00:22:38Z"
   },
   {
     "login": "SmolDuck02",
@@ -49675,7 +49651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
+    "privateContributions": 28,
     "publicContributions": 102,
     "createdAt": "2023-04-25T03:54:26Z"
   },
@@ -49698,9 +49674,9 @@
     "location": "Metro Manila, Philippines",
     "company": "De La Salle University",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 408,
-    "publicContributions": 570,
+    "followers": 2,
+    "privateContributions": 374,
+    "publicContributions": 591,
     "createdAt": "2023-05-08T08:35:23Z"
   },
   {
@@ -49711,8 +49687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 322,
-    "publicContributions": 55,
+    "privateContributions": 496,
+    "publicContributions": 67,
     "createdAt": "2023-03-27T06:42:46Z"
   },
   {
@@ -49746,9 +49722,9 @@
     "location": "Dasmariñas City, Cavite, Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 132,
     "createdAt": "2023-01-27T16:41:20Z"
   },
   {
