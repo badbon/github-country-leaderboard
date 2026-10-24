@@ -47815,8 +47815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 24,
+    "privateContributions": 422,
+    "publicContributions": 31,
     "createdAt": "2016-09-27T00:52:19Z"
   },
   {
@@ -47850,9 +47850,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 434,
-    "publicContributions": 84,
+    "followers": 3,
+    "privateContributions": 823,
+    "publicContributions": 148,
     "createdAt": "2016-08-07T15:11:45Z"
   },
   {
@@ -47900,7 +47900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2016-09-05T22:59:53Z"
   },
   {
@@ -47971,7 +47971,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 726,
+    "privateContributions": 762,
     "publicContributions": 0,
     "createdAt": "2016-07-03T22:02:51Z"
   },
@@ -47983,7 +47983,7 @@
     "company": "Sparq",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 119,
     "publicContributions": 0,
     "createdAt": "2016-08-16T18:16:28Z"
   },
@@ -48025,14 +48025,14 @@
   },
   {
     "login": "Fran99",
-    "name": "Francisco Pepe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20957319?s=72&u=4f079e22021103693ded821f342a994f384f48be&v=4",
+    "name": "Francisco Pepe Mantero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/20957319?s=72&u=492cf7c71ca4286604d6f9a3d2c57bd8986ebfbd&v=4",
     "location": "Montevideo, Uruguay",
-    "company": "LocalProcess",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 640,
-    "publicContributions": 1,
+    "privateContributions": 1090,
+    "publicContributions": 34,
     "createdAt": "2016-08-10T20:39:23Z"
   },
   {

@@ -991,8 +991,8 @@
     "company": "ostub",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 72,
-    "publicContributions": 7,
+    "privateContributions": 61,
+    "publicContributions": 0,
     "createdAt": "2025-03-23T13:26:31Z"
   },
   {
@@ -1040,7 +1040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 206,
     "createdAt": "2025-11-30T17:44:36Z"
   },
   {
@@ -1076,7 +1076,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 101,
     "createdAt": "2025-10-10T20:02:52Z"
   },
   {
@@ -1123,7 +1123,7 @@
     "company": "William's Great Stategy",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 658,
+    "privateContributions": 688,
     "publicContributions": 17,
     "createdAt": "2025-06-11T00:31:31Z"
   },
@@ -1135,7 +1135,7 @@
     "company": "Apilox software",
     "twitterUsername": "yohanamx",
     "followers": 2,
-    "privateContributions": 1104,
+    "privateContributions": 1156,
     "publicContributions": 105,
     "createdAt": "2025-11-12T09:08:06Z"
   },
@@ -1152,18 +1152,6 @@
     "createdAt": "2025-11-16T12:42:32Z"
   },
   {
-    "login": "Shambhavi-DSAI2006",
-    "name": "Shambhavi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204382700?s=72&v=4",
-    "location": "Zanzibar, Tanzania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 50,
-    "createdAt": "2025-03-21T17:08:13Z"
-  },
-  {
     "login": "mrjeston",
     "name": "Raymond Jestone Makuka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/211202103?s=72&u=71b74070e651856047337dd834d633b033458ac3&v=4",
@@ -1172,7 +1160,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 78,
     "createdAt": "2025-05-11T09:11:55Z"
   },
   {

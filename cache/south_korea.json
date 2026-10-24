@@ -49136,7 +49136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2023-03-06T16:16:00Z"
   },
   {
@@ -49147,8 +49147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 73,
-    "publicContributions": 29,
+    "privateContributions": 0,
+    "publicContributions": 80,
     "createdAt": "2023-03-06T01:37:10Z"
   },
   {
@@ -49160,20 +49160,8 @@
     "twitterUsername": "impengdori",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 79,
     "createdAt": "2023-02-26T11:57:19Z"
-  },
-  {
-    "login": "krchanyang",
-    "name": "Chan-Yang Ju",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131846586?s=72&v=4",
-    "location": "Republic of korea",
-    "company": "Hanyang University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-04-26T05:31:18Z"
   },
   {
     "login": "zener9233",
@@ -49208,7 +49196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2023-09-01T06:14:52Z"
   },
   {
@@ -49268,7 +49256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2023-03-05T07:50:29Z"
   },
   {
@@ -49280,7 +49268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 11,
     "createdAt": "2023-03-05T09:25:07Z"
   },
   {
@@ -49350,9 +49338,9 @@
     "location": "Seoul, Republic of Korea",
     "company": "Seoul National University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 54,
     "createdAt": "2023-08-24T06:08:34Z"
   },
   {

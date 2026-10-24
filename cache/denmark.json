@@ -49908,18 +49908,6 @@
     "createdAt": "2020-04-29T08:25:10Z"
   },
   {
-    "login": "grnspl",
-    "name": "MGI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66433006?s=72&u=f45b980f3830e1bd3a789ae69902e006b71c1744&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 417,
-    "publicContributions": 9,
-    "createdAt": "2020-06-04T16:11:55Z"
-  },
-  {
     "login": "TheKillerSpoon",
     "name": "TheKillerSpoon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75366115?s=72&u=d694b15eb76174aa83e5eb8f4a7c224ec77f29f0&v=4",
@@ -49927,21 +49915,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 172,
-    "publicContributions": 173,
+    "privateContributions": 140,
+    "publicContributions": 143,
     "createdAt": "2020-12-02T10:19:54Z"
-  },
-  {
-    "login": "Robertxdd",
-    "name": "Robert-Alexandru Raducanu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61576777?s=72&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 107,
-    "createdAt": "2020-02-28T07:06:26Z"
   },
   {
     "login": "Mette-Hansen",
@@ -49964,7 +49940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 14,
     "createdAt": "2020-12-05T14:31:56Z"
   },
   {
@@ -49975,7 +49951,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11500,
+    "privateContributions": 7064,
     "publicContributions": 0,
     "createdAt": "2020-03-07T04:13:58Z"
   },
@@ -50010,9 +49986,9 @@
     "location": "Kolding, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 77,
-    "publicContributions": 1304,
+    "followers": 2,
+    "privateContributions": 5,
+    "publicContributions": 1756,
     "createdAt": "2020-05-17T16:00:56Z"
   },
   {
@@ -50035,8 +50011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 765,
-    "publicContributions": 36,
+    "privateContributions": 744,
+    "publicContributions": 37,
     "createdAt": "2020-05-21T10:38:23Z"
   },
   {
@@ -50048,20 +50024,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 47,
     "createdAt": "2020-05-29T06:48:51Z"
-  },
-  {
-    "login": "Handberg",
-    "name": "J.H.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63225470?s=72&v=4",
-    "location": "Northen Jutland, Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2020-04-06T06:35:04Z"
   },
   {
     "login": "ICaragiannis",

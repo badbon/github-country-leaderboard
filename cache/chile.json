@@ -49920,18 +49920,6 @@
     "createdAt": "2022-02-09T20:16:31Z"
   },
   {
-    "login": "dcontardo",
-    "name": "Davicho_DevOps",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97867370?s=72&u=2298a322b2992de8356731c735f48c0ca4e23ab8&v=4",
-    "location": "Santiago, Chile",
-    "company": "Kibernum",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-17T04:50:51Z"
-  },
-  {
     "login": "MaRuCien",
     "name": "Maria Rubio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100109406?s=72&u=f7516c7eaacb357e8497de9f3f61e36dfdd2f525&v=4",
@@ -49939,7 +49927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2022-02-21T04:14:08Z"
   },
@@ -49964,7 +49952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-03-09T18:30:53Z"
   },
   {
@@ -50024,7 +50012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 77,
     "createdAt": "2022-03-21T00:40:46Z"
   },
   {
@@ -50047,8 +50035,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 48,
+    "privateContributions": 4,
+    "publicContributions": 11,
     "createdAt": "2022-03-29T06:25:07Z"
   },
   {
@@ -50060,7 +50048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 11,
     "createdAt": "2022-01-26T20:10:49Z"
   },
   {
@@ -50094,9 +50082,9 @@
     "location": "Chile",
     "company": "Python Developer ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 33,
     "createdAt": "2022-01-30T05:37:22Z"
   },
   {
@@ -50106,9 +50094,9 @@
     "location": "Chile",
     "company": "Universidad de Concepción",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 63,
+    "followers": 4,
+    "privateContributions": 13,
+    "publicContributions": 69,
     "createdAt": "2022-01-05T17:21:21Z"
   },
   {
@@ -50120,7 +50108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-03-22T20:12:29Z"
   },
   {
@@ -50131,8 +50119,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 479,
-    "publicContributions": 21,
+    "privateContributions": 633,
+    "publicContributions": 22,
     "createdAt": "2022-01-14T05:16:30Z"
   },
   {
@@ -50142,7 +50130,7 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-02-27T23:25:21Z"
@@ -50154,9 +50142,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 88,
     "createdAt": "2022-03-17T21:27:33Z"
   },
   {
