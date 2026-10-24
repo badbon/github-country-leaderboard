@@ -16,10 +16,10 @@ Indexed users: 28,424
 | 2 | [tfantas](https://github.com/tfantas) | Thiago Antas | Lisbon, Portugal | 118,493 |
 | 3 | [paulojmorais](https://github.com/paulojmorais) | Paulo Jorge Morais | Portugal | 87,237 |
 | 4 | [pmcostadev](https://github.com/pmcostadev) | Pedro Costa | Portugal | 81,461 |
-| 5 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
-| 6 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
-| 7 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
-| 8 | [cloud-devops-expert](https://github.com/cloud-devops-expert) | Miguel Goncalves | Braga, Portugal | 41,237 |
+| 5 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
+| 6 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
+| 7 | [cloud-devops-expert](https://github.com/cloud-devops-expert) | Miguel Goncalves | Braga, Portugal | 41,237 |
+| 8 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 41,080 |
 | 9 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | Porto, Portugal | 38,158 |
 | 10 | [daniel3303](https://github.com/daniel3303) | Daniel Oliveira | Lisbon | 35,696 |
 | 11 | [goncaloalves](https://github.com/goncaloalves) | Gonçalo Alves | Lisboa, Portugal | 33,740 |
@@ -37,9 +37,9 @@ Indexed users: 28,424
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
-| 2 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
-| 3 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
+| 1 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
+| 2 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
+| 3 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 41,080 |
 | 4 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | Porto, Portugal | 38,027 |
 | 5 | [JarbasAl](https://github.com/JarbasAl) | JarbasAI | Portugal | 25,251 |
 | 6 | [rcarmo](https://github.com/rcarmo) | Rui Carmo | Lisbon, Portugal | 17,784 |
@@ -83,4 +83,4 @@ Indexed users: 28,424
 | 19 | [abo-abo](https://github.com/abo-abo) | Oleh Krehel | Matosinhos, Portugal | 1,857 |
 | 20 | [SimCoderYoutube](https://github.com/SimCoderYoutube) | SimCoder | Porto, Portugal | 1,831 |
 
-Generated: 2026-10-24T22:25:05.950Z
+Generated: 2026-10-24T23:53:05.018Z

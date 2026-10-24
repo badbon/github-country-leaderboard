@@ -1,6 +1,6 @@
 # Total Contributions - Portugal
 
-Generated: 2026-10-24T22:25:05.950Z
+Generated: 2026-10-24T23:53:05.018Z
 
 Users: 28424
 
@@ -10,10 +10,10 @@ Users: 28424
 | 2 | [tfantas](https://github.com/tfantas) | Thiago Antas | Capgemini |  | Lisbon, Portugal | 118493 |
 | 3 | [paulojmorais](https://github.com/paulojmorais) | Paulo Jorge Morais |  |  | Portugal | 87237 |
 | 4 | [pmcostadev](https://github.com/pmcostadev) | Pedro Costa | @cryptohub-agency | pmcostadev | Portugal | 81461 |
-| 5 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | @codigo-LIVRE  | LIVREpt | Portugal | 57673 |
-| 6 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Flamingo Ponderado Unipessoal LDA |  | Portugal | 50784 |
-| 7 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  |  |  | Data, Portugal | 41613 |
-| 8 | [cloud-devops-expert](https://github.com/cloud-devops-expert) | Miguel Goncalves |  |  | Braga, Portugal | 41237 |
+| 5 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Flamingo Ponderado Unipessoal LDA |  | Portugal | 50784 |
+| 6 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  |  |  | Data, Portugal | 41613 |
+| 7 | [cloud-devops-expert](https://github.com/cloud-devops-expert) | Miguel Goncalves |  |  | Braga, Portugal | 41237 |
+| 8 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | @codigo-LIVRE  | LIVREpt | Portugal | 41080 |
 | 9 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | valantic LCS | correiajpv | Porto, Portugal | 38158 |
 | 10 | [daniel3303](https://github.com/daniel3303) | Daniel Oliveira | OneIQ | daniel_not_nerd | Lisbon | 35696 |
 | 11 | [goncaloalves](https://github.com/goncaloalves) | Gonçalo Alves |  | iamgoncaloalves | Lisboa, Portugal | 33740 |

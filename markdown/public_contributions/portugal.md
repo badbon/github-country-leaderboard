@@ -1,14 +1,14 @@
 # Public Contributions - Portugal
 
-Generated: 2026-10-24T22:25:05.950Z
+Generated: 2026-10-24T23:53:05.018Z
 
 Users: 28424
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | @codigo-LIVRE  | LIVREpt | Portugal | 57673 |
-| 2 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Flamingo Ponderado Unipessoal LDA |  | Portugal | 50784 |
-| 3 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  |  |  | Data, Portugal | 41613 |
+| 1 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Flamingo Ponderado Unipessoal LDA |  | Portugal | 50784 |
+| 2 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  |  |  | Data, Portugal | 41613 |
+| 3 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | @codigo-LIVRE  | LIVREpt | Portugal | 41080 |
 | 4 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | valantic LCS | correiajpv | Porto, Portugal | 38027 |
 | 5 | [JarbasAl](https://github.com/JarbasAl) | JarbasAI | @OpenVoiceOS |  | Portugal | 25251 |
 | 6 | [rcarmo](https://github.com/rcarmo) | Rui Carmo | @Microsoft | rcarmo | Lisbon, Portugal | 17784 |
