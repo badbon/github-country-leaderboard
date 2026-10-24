@@ -1,6 +1,6 @@
 # Followers - Bulgaria
 
-Generated: 2026-10-24T16:40:46.915Z
+Generated: 2026-10-24T17:54:23.356Z
 
 Users: 14062
 
@@ -20,7 +20,7 @@ Users: 14062
 | 12 | [bobbyiliev](https://github.com/bobbyiliev) | Bobby Iliev | @MaterializeInc | bobbyiliev_ | Sofia, Bulgaria | 1191 |
 | 13 | [zahariev-webbersof](https://github.com/zahariev-webbersof) | Mario Zahariev | SoftUni |  | Sofia | 1159 |
 | 14 | [ivailopapazov](https://github.com/ivailopapazov) | Ivaylo Papazov |  |  | Sofia, Bulgaria | 1060 |
-| 15 | [DiyanKalaydzhiev23](https://github.com/DiyanKalaydzhiev23) | Diyan Kalaydzhiev | hedgehog lab \| Softuni \| NBU |  | Sofia | 816 |
+| 15 | [DiyanKalaydzhiev23](https://github.com/DiyanKalaydzhiev23) | Diyan Kalaydzhiev | hedgehog lab \| Softuni \| NBU |  | Sofia | 821 |
 | 16 | [DesislavaTopuzakova](https://github.com/DesislavaTopuzakova) | Desislava Topuzakova | SAP | d_topuzakova | Sofia, Bulgaria | 686 |
 | 17 | [skanev](https://github.com/skanev) | Stefan Kanev | Dext | skanev | Sofia, Bulgaria | 658 |
 | 18 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan |  |  | Bulgaria | 637 |

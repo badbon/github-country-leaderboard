@@ -25,12 +25,12 @@ Indexed users: 1,180
 | 11 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,884 |
 | 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,733 |
 | 13 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,609 |
-| 14 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,719 |
+| 14 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,703 |
 | 15 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 4,645 |
 | 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,633 |
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,609 |
-| 18 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 4,534 |
-| 19 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,530 |
+| 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,547 |
+| 19 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 4,534 |
 | 20 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 4,420 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 1,180
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-24T16:33:14.861Z
+Generated: 2026-10-24T17:46:31.226Z

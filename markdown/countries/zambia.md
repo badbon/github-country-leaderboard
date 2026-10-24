@@ -45,7 +45,7 @@ Indexed users: 1,336
 | 6 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,077 |
 | 7 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
 | 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,051 |
-| 9 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 963 |
+| 9 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 975 |
 | 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
 | 11 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 769 |
 | 12 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 727 |
@@ -83,4 +83,4 @@ Indexed users: 1,336
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 101 |
 
-Generated: 2026-10-24T16:31:13.477Z
+Generated: 2026-10-24T17:45:48.477Z

@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-24T16:33:14.861Z
+Generated: 2026-10-24T17:46:31.226Z
 
 Users: 1180
 
@@ -19,10 +19,10 @@ Users: 1180
 | 11 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5884 |
 | 12 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5733 |
 | 13 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5609 |
-| 14 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4719 |
+| 14 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4703 |
 | 15 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | @DiceMasterIO |  | Tirana, Albania | 4645 |
 | 16 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4633 |
 | 17 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | @zedigitaltech |  | Tirana, Albania | 4609 |
-| 18 | [dionverushi](https://github.com/dionverushi) | Dion Verushi |  |  | Tirana | 4534 |
-| 19 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4530 |
+| 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4547 |
+| 19 | [dionverushi](https://github.com/dionverushi) | Dion Verushi |  |  | Tirana | 4534 |
 | 20 | [fadion](https://github.com/fadion) | Fadion Dashi |  |  | Tirana, Albania | 4420 |

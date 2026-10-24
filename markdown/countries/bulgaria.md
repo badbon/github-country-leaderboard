@@ -76,11 +76,11 @@ Indexed users: 14,062
 | 12 | [bobbyiliev](https://github.com/bobbyiliev) | Bobby Iliev | Sofia, Bulgaria | 1,191 |
 | 13 | [zahariev-webbersof](https://github.com/zahariev-webbersof) | Mario Zahariev | Sofia | 1,159 |
 | 14 | [ivailopapazov](https://github.com/ivailopapazov) | Ivaylo Papazov | Sofia, Bulgaria | 1,060 |
-| 15 | [DiyanKalaydzhiev23](https://github.com/DiyanKalaydzhiev23) | Diyan Kalaydzhiev | Sofia | 816 |
+| 15 | [DiyanKalaydzhiev23](https://github.com/DiyanKalaydzhiev23) | Diyan Kalaydzhiev | Sofia | 821 |
 | 16 | [DesislavaTopuzakova](https://github.com/DesislavaTopuzakova) | Desislava Topuzakova | Sofia, Bulgaria | 686 |
 | 17 | [skanev](https://github.com/skanev) | Stefan Kanev | Sofia, Bulgaria | 658 |
 | 18 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan | Bulgaria | 637 |
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-24T16:40:46.915Z
+Generated: 2026-10-24T17:54:23.356Z

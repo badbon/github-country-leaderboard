@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,860
+Indexed users: 3,859
 
 | Leaderboard | Link |
 |---|---|
@@ -68,7 +68,7 @@ Indexed users: 3,860
 | 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Kampala | 757 |
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | Kampala, Uganda | 592 |
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 561 |
-| 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 510 |
+| 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 521 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 381 |
 | 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 330 |
 | 10 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 327 |
@@ -83,4 +83,4 @@ Indexed users: 3,860
 | 19 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 190 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-24T15:23:41.247Z
+Generated: 2026-10-24T17:42:48.923Z

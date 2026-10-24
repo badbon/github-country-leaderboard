@@ -30,7 +30,7 @@ Indexed users: 2,858
 | 16 | [kuth-chi](https://github.com/kuth-chi) | Kuth | Cambodia | 5,052 |
 | 17 | [sothea578](https://github.com/sothea578) | Nuon Sothea | Phnom Penh, Cambodia | 5,029 |
 | 18 | [DamonKert](https://github.com/DamonKert) | Damon | Cambodia | 4,975 |
-| 19 | [tykealy](https://github.com/tykealy) | Tykea Ly | Phnom Penh, Cambodia | 4,898 |
+| 19 | [tykealy](https://github.com/tykealy) | Tykea Ly | Phnom Penh, Cambodia | 4,824 |
 | 20 | [siveing](https://github.com/siveing) | Siveing | Cambodia | 4,242 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 2,858
 | 19 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 128 |
 | 20 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 119 |
 
-Generated: 2026-10-24T16:41:52.269Z
+Generated: 2026-10-24T17:54:34.736Z

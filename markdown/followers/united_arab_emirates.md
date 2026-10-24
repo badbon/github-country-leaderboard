@@ -1,8 +1,8 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-23T20:32:25.751Z
+Generated: 2026-10-24T17:43:58.399Z
 
-Users: 4205
+Users: 4204
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 4205
 | 17 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 384 |
 | 18 | [kh4sh3i](https://github.com/kh4sh3i) | mohsen khashei | jetamooz | kh4sh3i_ | United Arab Emirates | 378 |
 | 19 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali |  |  | Abu Dhabi | 363 |
-| 20 | [yusufusta](https://github.com/yusufusta) | Yusuf Usta |  | fuszf | Dubai, United Arab Emirates | 361 |
+| 20 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Jebel Quant Research | Thomster78 | Abu Dhabi, United Arab Emirates | 363 |
