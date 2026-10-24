@@ -1,8 +1,8 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-24T07:52:00.092Z
+Generated: 2026-10-24T11:49:30.132Z
 
-Users: 2553
+Users: 2552
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,9 +13,9 @@ Users: 2553
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 12654 |
 | 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12370 |
 | 7 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad |  |  | Lebanon | 11325 |
-| 8 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 10061 |
-| 9 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 9676 |
-| 10 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9233 |
+| 8 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 10139 |
+| 9 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 10061 |
+| 10 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 9676 |
 | 11 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | TN Cheesecake |  | Lebanon, TN | 8237 |
 | 12 | [osmankh](https://github.com/osmankh) | Osman Taha | @uscoalitiononsustainability  |  | Zgharta District, North Governorate, Lebanon | 8102 |
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 8068 |

@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-24T07:49:54.510Z
+Generated: 2026-10-24T11:44:55.039Z
 
 Users: 1270
 
@@ -14,9 +14,9 @@ Users: 1270
 | 6 | [kenoButler](https://github.com/kenoButler) | KenoB |  |  | Kingston, Jamaica | 8803 |
 | 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 8674 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 8358 |
-| 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 7419 |
-| 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 7003 |
-| 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 6392 |
+| 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 8153 |
+| 10 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 7419 |
+| 11 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 7003 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 6287 |
 | 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 6247 |
 | 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5470 |

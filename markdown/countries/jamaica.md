@@ -20,9 +20,9 @@ Indexed users: 1,270
 | 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,803 |
 | 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,674 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 8,358 |
-| 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 7,419 |
-| 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 7,003 |
-| 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 6,392 |
+| 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 8,153 |
+| 10 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 7,419 |
+| 11 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 7,003 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,287 |
 | 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 6,247 |
 | 14 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,470 |
@@ -83,4 +83,4 @@ Indexed users: 1,270
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 96 |
 
-Generated: 2026-10-24T07:49:54.510Z
+Generated: 2026-10-24T11:44:55.039Z

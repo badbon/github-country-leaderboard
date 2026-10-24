@@ -15,7 +15,7 @@ Indexed users: 155
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,562 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,528 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 8,609 |
-| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,579 |
+| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,591 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,727 |
 | 6 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 2,236 |
 | 7 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,177 |
@@ -23,15 +23,15 @@ Indexed users: 155
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,851 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,845 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,712 |
-| 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,678 |
-| 13 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
-| 14 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,486 |
-| 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,244 |
+| 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,666 |
+| 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,486 |
+| 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,459 |
+| 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,242 |
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,218 |
 | 17 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,190 |
 | 18 | [AshLeece](https://github.com/AshLeece) | Ash Leece | Isle of Man | 1,142 |
-| 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,128 |
-| 20 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 1,115 |
+| 19 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 1,130 |
+| 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,128 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-24T07:49:03.361Z
+Generated: 2026-10-24T11:42:36.203Z

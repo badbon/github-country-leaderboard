@@ -1,14 +1,14 @@
 # Total Contributions - Indonesia
 
-Generated: 2026-10-24T07:47:07.514Z
+Generated: 2026-10-24T11:41:21.454Z
 
 Users: 63267
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | FN-Project |  | Asia/Jakarta | 1683963 |
-| 2 | [ruef](https://github.com/ruef) |  |  |  | Indonesia | 592454 |
-| 3 | [Rosellines](https://github.com/Rosellines) | Roselline Mikasa | PT. Tilder Technology | mikasa_Enix | Indonesia | 480548 |
+| 2 | [Rosellines](https://github.com/Rosellines) | Roselline Mikasa | PT. Tilder Technology | mikasa_Enix | Indonesia | 480548 |
+| 3 | [ruef](https://github.com/ruef) |  |  |  | Indonesia | 371205 |
 | 4 | [antono4](https://github.com/antono4) | Antono |  |  | West Java, Indonesia | 275682 |
 | 5 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Choirul Ramadhani  | Edge Computing |  | Indonesia  | 219784 |
 | 6 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | .. |  | Sumatera barat, Indonesia | 191245 |

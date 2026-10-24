@@ -70,7 +70,7 @@ Published countries: 236
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,896 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,662 | [View](./ethiopia.md) |
+| Ethiopia | 6,661 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
@@ -81,7 +81,7 @@ Published countries: 236
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,866 | [View](./georgia.md) |
-| Ghana | 7,070 | [View](./ghana.md) |
+| Ghana | 7,069 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,528 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
@@ -100,11 +100,11 @@ Published countries: 236
 | Hungary | 11,153 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,267 | [View](./indonesia.md) |
-| Iran | 26,845 | [View](./iran.md) |
+| Iran | 26,844 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
-| Ireland | 19,481 | [View](./ireland.md) |
+| Ireland | 19,480 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,413 | [View](./israel.md) |
+| Israel | 12,412 | [View](./israel.md) |
 | Italy | 49,000 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
@@ -117,7 +117,7 @@ Published countries: 236
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
 | Laos | 359 | [View](./laos.md) |
 | Latvia | 3,245 | [View](./latvia.md) |
-| Lebanon | 2,553 | [View](./lebanon.md) |
+| Lebanon | 2,552 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 740 | [View](./libya.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T08:59:18.065Z
+Generated: 2026-10-24T11:53:00.857Z

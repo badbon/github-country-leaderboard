@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,553
+Indexed users: 2,552
 
 | Leaderboard | Link |
 |---|---|
@@ -19,9 +19,9 @@ Indexed users: 2,553
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 12,654 |
 | 6 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,370 |
 | 7 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 11,325 |
-| 8 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 10,061 |
-| 9 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,676 |
-| 10 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,233 |
+| 8 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 10,139 |
+| 9 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 10,061 |
+| 10 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,676 |
 | 11 | [wwilson1017](https://github.com/wwilson1017) | Will Wilson | Lebanon, TN | 8,237 |
 | 12 | [osmankh](https://github.com/osmankh) | Osman Taha | Zgharta District, North Governorate, Lebanon | 8,102 |
 | 13 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 8,068 |
@@ -83,4 +83,4 @@ Indexed users: 2,553
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 102 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 101 |
 
-Generated: 2026-10-24T07:52:00.092Z
+Generated: 2026-10-24T11:49:30.132Z
