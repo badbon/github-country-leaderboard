@@ -102518,7 +102518,7 @@
       "lastDiscoveryAt": "2026-10-24T22:31:52.830Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-24T22:24:44.479Z",
+      "lastCacheChangeAt": "2026-10-24T22:35:34.460Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
@@ -142545,19 +142545,19 @@
           "kept": 56
         }
       },
-      "lastDiscoveryAt": "2026-10-24T22:21:14.276Z",
+      "lastDiscoveryAt": "2026-10-24T22:35:34.460Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-24T22:21:14.276Z",
+      "lastCacheChangeAt": "2026-10-24T22:35:34.460Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 3100,
-        "enrichmentRequests": 2652,
-        "usersDiscovered": 150141,
-        "usersEnriched": 51852,
+        "searchRequests": 3101,
+        "enrichmentRequests": 2656,
+        "usersDiscovered": 150241,
+        "usersEnriched": 51932,
         "usersRefreshed": 0,
         "usersKept": 34088
       }
@@ -246985,20 +246985,20 @@
       "lastDiscoveryAt": "2026-10-24T19:17:41.748Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-23",
-      "lastCacheChangeAt": "2026-10-24T20:03:44.200Z",
+      "lastCacheChangeAt": "2026-10-24T22:35:41.032Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-24T12:15:32.220Z",
       "lastError": null,
       "stats": {
         "searchRequests": 84,
-        "enrichmentRequests": 261,
+        "enrichmentRequests": 262,
         "usersDiscovered": 629,
-        "usersEnriched": 4712,
-        "usersRefreshed": 4083,
+        "usersEnriched": 4732,
+        "usersRefreshed": 4103,
         "usersKept": 442
       },
-      "refreshCursor": 100
+      "refreshCursor": 120
     },
     "singapore": {
       "slug": "singapore",
@@ -248872,7 +248872,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-24T20:05:24.618Z"
+        "at": "2026-10-24T22:36:09.519Z"
       },
       "stats": {
         "searchRequests": 690,
@@ -314731,18 +314731,18 @@
       "refreshCursor": 898
     }
   },
-  "nextCountryIndex": 101,
+  "nextCountryIndex": 111,
   "nextDeltaCountryIndex": 234,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-24T22:27:42.206Z",
-  "lastRunFinishedAt": "2026-10-24T22:33:47.789Z",
+  "lastRunStartedAt": "2026-10-24T22:34:16.180Z",
+  "lastRunFinishedAt": "2026-10-24T22:36:09.596Z",
   "stats": {
-    "searchRequests": 91832,
-    "enrichmentRequests": 244282,
-    "usersDiscovered": 5942843,
-    "usersEnriched": 4600170,
-    "usersRefreshed": 860410,
+    "searchRequests": 91833,
+    "enrichmentRequests": 244287,
+    "usersDiscovered": 5942943,
+    "usersEnriched": 4600270,
+    "usersRefreshed": 860430,
     "usersKept": 2774107
   }
 }
