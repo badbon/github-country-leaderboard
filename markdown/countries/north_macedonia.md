@@ -1,6 +1,6 @@
 # North Macedonia
 
-Indexed users: 1,922
+Indexed users: 1,921
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,922
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 167 |
 | 20 | [tino097](https://github.com/tino097) | Konstantin Sivakov | Bitola, North Macedonia | 152 |
 
-Generated: 2026-10-24T05:14:35.463Z
+Generated: 2026-10-24T06:46:23.818Z

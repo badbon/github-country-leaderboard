@@ -43,7 +43,7 @@ Indexed users: 714
 | 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,805 |
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,676 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,517 |
-| 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,437 |
+| 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,514 |
 | 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,403 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,306 |
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,287 |
@@ -55,7 +55,7 @@ Indexed users: 714
 | 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 632 |
 | 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 611 |
 | 18 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 603 |
-| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 594 |
+| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 593 |
 | 20 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 573 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-24T05:10:19.363Z
+Generated: 2026-10-24T06:42:03.459Z

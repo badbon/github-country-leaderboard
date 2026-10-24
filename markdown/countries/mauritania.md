@@ -22,7 +22,7 @@ Indexed users: 288
 | 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 3,738 |
 | 9 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,477 |
 | 10 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 2,746 |
-| 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed | Nouakchott, Mauritania | 2,569 |
+| 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed | Nouakchott, Mauritania | 2,567 |
 | 12 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,392 |
 | 13 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,383 |
 | 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,973 |
@@ -52,8 +52,8 @@ Indexed users: 288
 | 13 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
 | 14 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 215 |
 | 15 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 214 |
-| 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 208 |
-| 17 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 207 |
+| 16 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 211 |
+| 17 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 208 |
 | 18 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 188 |
 | 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 177 |
 | 20 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 172 |
@@ -83,4 +83,4 @@ Indexed users: 288
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 24 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-24T05:09:37.146Z
+Generated: 2026-10-24T06:40:58.651Z

@@ -29,9 +29,9 @@ Indexed users: 1,354
 | 15 | [crossben](https://github.com/crossben) |  | Dakar | 4,937 |
 | 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,855 |
 | 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,467 |
-| 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,452 |
-| 19 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,393 |
-| 20 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,378 |
+| 18 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,454 |
+| 19 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,452 |
+| 20 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,393 |
 
 ## Public Contributions
 
@@ -43,7 +43,7 @@ Indexed users: 1,354
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,805 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,478 |
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
-| 7 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,778 |
+| 7 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,826 |
 | 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
 | 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
 | 10 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 1,621 |
@@ -72,7 +72,7 @@ Indexed users: 1,354
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye | Dakar, Senegal | 197 |
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | Dakar, Senegal | 196 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Dakar | 194 |
-| 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | Senegal | 186 |
+| 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | Senegal | 187 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | Dakar | 179 |
 | 13 | [yayediop2](https://github.com/yayediop2) | Yaye Diop | Dakar, Sn | 175 |
 | 14 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko | Dakar, Senegal | 171 |
@@ -83,4 +83,4 @@ Indexed users: 1,354
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 143 |
 
-Generated: 2026-10-24T05:25:37.970Z
+Generated: 2026-10-24T06:56:55.438Z

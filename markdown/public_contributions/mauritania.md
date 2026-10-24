@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-24T05:09:37.146Z
+Generated: 2026-10-24T06:40:58.651Z
 
 Users: 288
 
@@ -21,8 +21,8 @@ Users: 288
 | 13 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  |  |  | Nouakchott mauritanie  | 246 |
 | 14 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef |  |  | Mauritania | 215 |
 | 15 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 214 |
-| 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 208 |
-| 17 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 207 |
+| 16 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 211 |
+| 17 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 208 |
 | 18 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 188 |
 | 19 | [saeedbark](https://github.com/saeedbark) | saeedbark |  |  | mauritania | 177 |
 | 20 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya |  |  | nouakchott mauritania | 172 |

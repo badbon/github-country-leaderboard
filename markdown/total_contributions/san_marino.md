@@ -1,19 +1,19 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-24T05:24:53.914Z
+Generated: 2026-10-24T06:56:14.822Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14675 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14701 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10337 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4827 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3313 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2294 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2263 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2210 |
-| 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 2130 |
+| 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 2125 |
 | 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 1310 |
 | 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 827 |
 | 11 | [thu105](https://github.com/thu105) | Hein Moe Thu |  |  | San Marino, CA | 777 |

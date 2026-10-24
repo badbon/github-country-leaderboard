@@ -1,6 +1,6 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-24T05:14:01.337Z
+Generated: 2026-10-24T06:45:58.833Z
 
 Users: 175
 
@@ -18,7 +18,7 @@ Users: 175
 | 10 | [5mamane](https://github.com/5mamane) | Mamane I. |  |  | Niamey | 983 |
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 959 |
 | 12 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 892 |
-| 13 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 830 |
+| 13 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 842 |
 | 14 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 782 |
 | 15 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | @Sakona-Ne | godi_Souleymane | Niger | 754 |
 | 16 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 591 |

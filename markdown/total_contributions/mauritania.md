@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-24T05:09:37.146Z
+Generated: 2026-10-24T06:40:58.651Z
 
 Users: 288
 
@@ -16,7 +16,7 @@ Users: 288
 | 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 3738 |
 | 9 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3477 |
 | 10 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 2746 |
-| 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed |  |  | Nouakchott, Mauritania | 2569 |
+| 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed |  |  | Nouakchott, Mauritania | 2567 |
 | 12 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 2392 |
 | 13 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar |  | mohamed_hadramy | Nouakchott, Mauritania | 2383 |
 | 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 1973 |

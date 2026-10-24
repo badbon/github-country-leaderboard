@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-24T05:12:54.137Z
+Generated: 2026-10-24T06:45:07.361Z
 
 Users: 111
 
@@ -16,10 +16,10 @@ Users: 111
 | 8 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 377 |
 | 9 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 375 |
 | 10 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 349 |
-| 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 271 |
+| 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 276 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 223 |
-| 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 216 |
-| 14 | [nevizsh](https://github.com/nevizsh) | Nevi |  |  | New Caledonia | 181 |
+| 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 215 |
+| 14 | [nevizsh](https://github.com/nevizsh) | Nevi |  |  | New Caledonia | 188 |
 | 15 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B |  |  | New-Caledonia | 155 |
 | 16 | [trara538](https://github.com/trara538) | Rara Soro | South Pacific Community  |  | Noumea, New Caledonia | 152 |
 | 17 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 141 |

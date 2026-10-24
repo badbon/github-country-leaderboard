@@ -50,9 +50,9 @@ Indexed users: 2,190
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,366 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 2,146 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,119 |
-| 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,983 |
-| 15 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon | Luxembourg | 1,974 |
-| 16 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,955 |
+| 14 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 2,035 |
+| 15 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,983 |
+| 16 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon | Luxembourg | 1,974 |
 | 17 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 1,935 |
 | 18 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,862 |
 | 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,664 |
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 191 |
 
-Generated: 2026-10-24T05:06:53.092Z
+Generated: 2026-10-24T06:37:30.670Z

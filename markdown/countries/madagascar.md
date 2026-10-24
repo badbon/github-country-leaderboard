@@ -43,7 +43,7 @@ Indexed users: 1,900
 | 4 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 4,044 |
 | 5 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 3,943 |
 | 6 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 3,285 |
-| 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | Madagascar | 3,107 |
+| 7 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | Madagascar | 3,204 |
 | 8 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 2,984 |
 | 9 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 2,973 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 1,981 |
@@ -83,4 +83,4 @@ Indexed users: 1,900
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 141 |
 
-Generated: 2026-10-24T05:07:19.421Z
+Generated: 2026-10-24T06:37:37.513Z
