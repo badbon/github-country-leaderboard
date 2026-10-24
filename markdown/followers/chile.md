@@ -1,12 +1,12 @@
 # Followers - Chile
 
-Generated: 2026-10-24T19:12:52.029Z
+Generated: 2026-10-24T21:42:46.567Z
 
 Users: 19367
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [NachoOFC](https://github.com/NachoOFC) | Nacho | @CodeBrosSystems @Laboratorio-nacho @Github |  | Puerto Montt, Chile | 1737 |
+| 1 | [NachoOFC](https://github.com/NachoOFC) | Nacho | @CodeBrosSystems @Laboratorio-nacho @FetchVault @Valnex-Digital @Github |  | Puerto Montt, Chile | 2223 |
 | 2 | [bluuweb](https://github.com/bluuweb) | bluuweb | bluuweb | bluuweb | Chile | 1498 |
 | 3 | [Mjrovai](https://github.com/Mjrovai) | Marcelo Rovai | UNIFEI |  | Santiago, Chile | 1188 |
 | 4 | [furendyna](https://github.com/furendyna) | Furen | NUBISON |  | Santiago | 1104 |

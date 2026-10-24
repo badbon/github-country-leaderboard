@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-24T18:56:44.538Z
+Generated: 2026-10-24T21:22:36.666Z
 
 Users: 2037
 
@@ -24,5 +24,5 @@ Users: 2037
 | 16 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1505 |
 | 17 | [zayqu](https://github.com/zayqu) | Daraja | MzHoldings |  | Dar Es Salaam, Tanzania | 1466 |
 | 18 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1438 |
-| 19 | [cephasgm](https://github.com/cephasgm) | CephasGM |  |  | Dar Es Salaam, Tanzania | 1385 |
-| 20 | [Gideonamani](https://github.com/Gideonamani) | Gideonamani A. Marress |  |  | Dar es Salaam, Tanzania | 1372 |
+| 19 | [Gideonamani](https://github.com/Gideonamani) | Gideonamani A. Marress |  |  | Dar es Salaam, Tanzania | 1372 |
+| 20 | [cephasgm](https://github.com/cephasgm) | CephasGM |  |  | Dar Es Salaam, Tanzania | 1255 |

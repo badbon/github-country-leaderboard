@@ -26,12 +26,12 @@ Indexed users: 5,040
 | 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | Baku, Azerbaijan | 6,319 |
 | 13 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | Azerbaijan | 6,223 |
 | 14 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Azerbaijan, Baku | 6,193 |
-| 15 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,891 |
-| 16 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
-| 17 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Baku, Azerbaijan | 5,561 |
-| 18 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
-| 19 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
-| 20 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov | Azerbaijan | 5,262 |
+| 15 | [aslan564](https://github.com/aslan564) | Aslan | Azerbaijan Baku | 6,065 |
+| 16 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov | Baku, Azerbaijan | 5,891 |
+| 17 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | Baku, Azerbaijan | 5,607 |
+| 18 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Baku, Azerbaijan | 5,561 |
+| 19 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli | Baku,Azerbaijan | 5,281 |
+| 20 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin | Baku, Azerbaijan | 5,267 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,040
 | 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 255 |
 | 20 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 253 |
 
-Generated: 2026-10-24T19:06:54.038Z
+Generated: 2026-10-24T21:33:19.726Z

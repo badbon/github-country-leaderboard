@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-24T19:16:07.654Z
+Generated: 2026-10-24T21:45:13.590Z
 
 Users: 2721
 
@@ -11,10 +11,10 @@ Users: 2721
 | 3 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 23809 |
 | 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 19548 |
 | 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Retrocket |  | Cyprus, Nicosia | 17697 |
-| 6 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 16436 |
-| 7 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 15244 |
-| 8 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 14639 |
-| 9 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 14379 |
+| 6 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 16997 |
+| 7 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 16436 |
+| 8 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 15244 |
+| 9 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 14639 |
 | 10 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 13492 |
 | 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 12273 |
 | 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 11829 |

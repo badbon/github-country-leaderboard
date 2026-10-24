@@ -51,9 +51,9 @@ Indexed users: 19,367
 | 12 | [ignaciocorball](https://github.com/ignaciocorball) | Ignacio Corball | Chile | 7,678 |
 | 13 | [JackStar6677-1](https://github.com/JackStar6677-1) | JackStar | Chile. Santiago, Padre Hurtado | 6,769 |
 | 14 | [VforVitorio](https://github.com/VforVitorio) | Victor | Santiago de Compostela · Hybrid in A Coruña | 6,386 |
-| 15 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 5,769 |
-| 16 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Chile | 5,525 |
-| 17 | [madkoding](https://github.com/madkoding) | madKoding | Chile | 5,507 |
+| 15 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Chile | 5,525 |
+| 16 | [madkoding](https://github.com/madkoding) | madKoding | Chile | 5,507 |
+| 17 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 5,030 |
 | 18 | [nmorabowen](https://github.com/nmorabowen) | Nicolas Mora Bowen | Chile | 4,980 |
 | 19 | [jsgrrchg](https://github.com/jsgrrchg) | José Gurruchaga | Chile | 4,906 |
 | 20 | [richonguzman](https://github.com/richonguzman) | Ricardo Guzman | Viña del Mar, Chile | 4,899 |
@@ -62,7 +62,7 @@ Indexed users: 19,367
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 1,737 |
+| 1 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 2,223 |
 | 2 | [bluuweb](https://github.com/bluuweb) | bluuweb | Chile | 1,498 |
 | 3 | [Mjrovai](https://github.com/Mjrovai) | Marcelo Rovai | Santiago, Chile | 1,188 |
 | 4 | [furendyna](https://github.com/furendyna) | Furen | Santiago | 1,104 |
@@ -83,4 +83,4 @@ Indexed users: 19,367
 | 19 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 | 20 | [Dieg0Code](https://github.com/Dieg0Code) | Diego | Chile | 420 |
 
-Generated: 2026-10-24T19:12:52.029Z
+Generated: 2026-10-24T21:42:46.567Z

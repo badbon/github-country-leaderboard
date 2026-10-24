@@ -1,6 +1,6 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-24T19:10:28.603Z
+Generated: 2026-10-24T21:39:15.817Z
 
 Users: 486
 
@@ -18,8 +18,8 @@ Users: 486
 | 10 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO |  |  | Burkina Faso | 664 |
 | 11 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Ecole Centrale Casablanca - Institut Internationale de l'Eau et de l'Environnement |  | Casablanca - Ouagadougou | 634 |
 | 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | @mojaloop  |  | Burkina Faso | 622 |
-| 13 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 595 |
-| 14 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon |  | SimeonGango | Ouagadougou | 586 |
+| 13 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon |  | SimeonGango | Ouagadougou | 597 |
+| 14 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 595 |
 | 15 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Alternatives -IT |  | Burkina Faso | 558 |
 | 16 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ticanalyse |  | Ouagadougou, Burkina Faso 🇧🇫 | 556 |
 | 17 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Inference |  | Ouagadougou, Burkina Faso | 532 |

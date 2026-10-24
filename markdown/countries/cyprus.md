@@ -17,10 +17,10 @@ Indexed users: 2,721
 | 3 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,809 |
 | 4 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 19,548 |
 | 5 | [megasteve19](https://github.com/megasteve19) | Abdulkadir Cemiloğlu | Cyprus, Nicosia | 17,697 |
-| 6 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 16,436 |
-| 7 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 15,244 |
-| 8 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 14,639 |
-| 9 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 14,379 |
+| 6 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 16,997 |
+| 7 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 16,436 |
+| 8 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 15,244 |
+| 9 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 14,639 |
 | 10 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 13,492 |
 | 11 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 12,273 |
 | 12 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 11,829 |
@@ -83,4 +83,4 @@ Indexed users: 2,721
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 245 |
 
-Generated: 2026-10-24T19:16:07.654Z
+Generated: 2026-10-24T21:45:13.590Z

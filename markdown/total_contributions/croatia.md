@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-24T19:37:40.008Z
+Generated: 2026-10-24T21:43:52.818Z
 
 Users: 5415
 
@@ -10,8 +10,8 @@ Users: 5415
 | 2 | [NoSync](https://github.com/NoSync) | Alessio Re | @Klartika  |  | Zagreb, Croatia | 16383 |
 | 3 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | @LumiVerseHR |  | Zagreb, Croatia | 15965 |
 | 4 | [dokicro](https://github.com/dokicro) | Domagoj Franc | Upstream | DomagojFranc | Zagreb, Croatia | 13637 |
-| 5 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 10938 |
-| 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 10662 |
+| 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 11746 |
+| 6 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 10938 |
 | 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Caffeinated Code |  | Zagreb, Croatia | 9779 |
 | 8 | [dabodamjan](https://github.com/dabodamjan) | Damjan Dabo | Dabotech Studio d.o.o. | DaboDamjan | Zagreb | 9744 |
 | 9 | [vuki656](https://github.com/vuki656) | Domagoj Vukovic |  | domagoj_vkv | Croatia | 9689 |
@@ -25,4 +25,4 @@ Users: 5415
 | 17 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
 | 18 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | SpaceShard | edisinovcic | Croatia | 8044 |
 | 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 7764 |
-| 20 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
+| 20 | [mbrcic](https://github.com/mbrcic) | Mario Brcic |  |  | Zagreb, Croatia | 7336 |

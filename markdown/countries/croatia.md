@@ -16,8 +16,8 @@ Indexed users: 5,415
 | 2 | [NoSync](https://github.com/NoSync) | Alessio Re | Zagreb, Croatia | 16,383 |
 | 3 | [tihomirjauk](https://github.com/tihomirjauk) | Tihomir Jauk | Zagreb, Croatia | 15,965 |
 | 4 | [dokicro](https://github.com/dokicro) | Domagoj Franc | Zagreb, Croatia | 13,637 |
-| 5 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | Zagreb, Croatia | 10,938 |
-| 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 10,662 |
+| 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 11,746 |
+| 6 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | Zagreb, Croatia | 10,938 |
 | 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Zagreb, Croatia | 9,779 |
 | 8 | [dabodamjan](https://github.com/dabodamjan) | Damjan Dabo | Zagreb | 9,744 |
 | 9 | [vuki656](https://github.com/vuki656) | Domagoj Vukovic | Croatia | 9,689 |
@@ -31,7 +31,7 @@ Indexed users: 5,415
 | 17 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
 | 18 | [edisinovcic](https://github.com/edisinovcic) | Edi Sinovcic | Croatia | 8,044 |
 | 19 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 7,764 |
-| 20 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
+| 20 | [mbrcic](https://github.com/mbrcic) | Mario Brcic | Zagreb, Croatia | 7,336 |
 
 ## Public Contributions
 
@@ -39,24 +39,24 @@ Indexed users: 5,415
 |---:|---|---|---|---:|
 | 1 | [stepanic](https://github.com/stepanic) | Matija Stepanic | Zagreb, Croatia | 34,404 |
 | 2 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | Zagreb, Croatia | 8,073 |
-| 3 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,359 |
-| 4 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 6,695 |
-| 5 | [TVCTC](https://github.com/TVCTC) | Tomislav | Zagreb | 6,555 |
+| 3 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 6,695 |
+| 4 | [TVCTC](https://github.com/TVCTC) | Tomislav | Zagreb | 6,555 |
+| 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 6,248 |
 | 6 | [ivanjuras](https://github.com/ivanjuras) | Ivan Juras | Zagreb, Croatia | 6,238 |
-| 7 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 5,346 |
+| 7 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 5,815 |
 | 8 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 4,846 |
 | 9 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Zagreb | 4,748 |
 | 10 | [Ino-Bagaric](https://github.com/Ino-Bagaric) | Ivan Bagarić | Croatia | 4,254 |
 | 11 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Croatia | 4,225 |
 | 12 | [chefsale](https://github.com/chefsale) | Sandi Fatic | Croatia | 3,819 |
 | 13 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Zagreb/Trogir | 3,806 |
-| 14 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA | Zagreb | 3,700 |
-| 15 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 3,513 |
-| 16 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
-| 17 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
-| 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,971 |
-| 19 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 2,864 |
-| 20 | [ipaleka](https://github.com/ipaleka) | Ivica Paleka | Zadar, Croatia | 2,627 |
+| 14 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Veli Lošinj, Croatia | 3,753 |
+| 15 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA | Zagreb | 3,700 |
+| 16 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 3,513 |
+| 17 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
+| 18 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
+| 19 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,971 |
+| 20 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 2,864 |
 
 ## Followers
 
@@ -72,7 +72,7 @@ Indexed users: 5,415
 | 8 | [matiadev](https://github.com/matiadev) | Matia | Zagreb, Croatia | 844 |
 | 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rijeka, Croatia | 815 |
 | 10 | [Swader](https://github.com/Swader) | Bruno Škvorc | Zagreb, Croatia | 780 |
-| 11 | [ivandoric](https://github.com/ivandoric) | Ivan Dorić | Osijek, Croatia | 770 |
+| 11 | [ivandoric](https://github.com/ivandoric) | Ivan Dorić | Osijek, Croatia | 769 |
 | 12 | [ivan-sincek](https://github.com/ivan-sincek) | Ivan Šincek | Croatia | 673 |
 | 13 | [stsrki](https://github.com/stsrki) | Mladen Macanović | Split, Croatia | 622 |
 | 14 | [kost](https://github.com/kost) | kost | Zagreb, Croatia | 580 |
@@ -80,7 +80,7 @@ Indexed users: 5,415
 | 16 | [Raxone](https://github.com/Raxone) | RaleGale | Croatia | 438 |
 | 17 | [filbabic](https://github.com/filbabic) | Filip Babic | Osijek, Croatia | 416 |
 | 18 | [silvenon](https://github.com/silvenon) | Matija Marohnić | Zagreb, Croatia | 415 |
-| 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
-| 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
+| 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 407 |
+| 20 | [bruno-](https://github.com/bruno-) | Bruno Sutic | Zagreb, Croatia | 362 |
 
-Generated: 2026-10-24T19:37:40.008Z
+Generated: 2026-10-24T21:43:52.818Z

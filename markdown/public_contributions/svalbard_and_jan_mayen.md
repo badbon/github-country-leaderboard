@@ -1,6 +1,6 @@
 # Public Contributions - Svalbard and Jan Mayen
 
-Generated: 2026-10-24T18:53:22.698Z
+Generated: 2026-10-24T21:21:02.005Z
 
 Users: 10
 
@@ -11,7 +11,7 @@ Users: 10
 | 3 | [danavitski](https://github.com/danavitski) | Daan Kivits | Svalbard Integrated Arctic Earth Observing System (SIOS) |  | Longyearbyen, Svalbard | 59 |
 | 4 | [sunnyerteit](https://github.com/sunnyerteit) | S🌞nny | Store Norske Spitsbergen Kulkompani AS |  | Longyearbyen | 31 |
 | 5 | [elden-l0rd](https://github.com/elden-l0rd) |  |  |  | Longyearbyen | 13 |
-| 6 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | of giants |  | Svalbard and Jan Mayen | 10 |
+| 6 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | of giants |  | Svalbard and Jan Mayen | 12 |
 | 7 | [slipeer](https://github.com/slipeer) | Pavel |  |  | Barentsburg, Svalbard og Jan Mayen | 8 |
 | 8 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby |  |  | Longyearbyen | 0 |
 | 9 | [Rainbowed](https://github.com/Rainbowed) | Cake |  |  | Longyearbyen, Svalbard | 0 |

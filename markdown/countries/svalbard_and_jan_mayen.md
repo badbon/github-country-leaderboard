@@ -14,7 +14,7 @@ Indexed users: 10
 |---:|---|---|---|---:|
 | 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1,166 |
 | 2 | [encrize](https://github.com/encrize) | encrize | Svalbard og Jan Mayen | 647 |
-| 3 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 178 |
+| 3 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 180 |
 | 4 | [ThalesAbyss](https://github.com/ThalesAbyss) | David Parmenter | Longyearbyen, Svalbard & Jan Mayen | 171 |
 | 5 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 105 |
 | 6 | [elden-l0rd](https://github.com/elden-l0rd) |  | Longyearbyen | 43 |
@@ -32,7 +32,7 @@ Indexed users: 10
 | 3 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 59 |
 | 4 | [sunnyerteit](https://github.com/sunnyerteit) | S🌞nny | Longyearbyen | 31 |
 | 5 | [elden-l0rd](https://github.com/elden-l0rd) |  | Longyearbyen | 13 |
-| 6 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 10 |
+| 6 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 12 |
 | 7 | [slipeer](https://github.com/slipeer) | Pavel | Barentsburg, Svalbard og Jan Mayen | 8 |
 | 8 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby | Longyearbyen | 0 |
 | 9 | [Rainbowed](https://github.com/Rainbowed) | Cake | Longyearbyen, Svalbard | 0 |
@@ -53,4 +53,4 @@ Indexed users: 10
 | 9 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 1 |
 | 10 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 1 |
 
-Generated: 2026-10-24T18:53:22.698Z
+Generated: 2026-10-24T21:21:02.005Z

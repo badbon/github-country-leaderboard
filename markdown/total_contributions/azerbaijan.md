@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-24T19:06:54.038Z
+Generated: 2026-10-24T21:33:19.726Z
 
 Users: 5040
 
@@ -20,9 +20,9 @@ Users: 5040
 | 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6319 |
 | 13 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | @Ogt.ai | ogtayhuseynov0 | Azerbaijan | 6223 |
 | 14 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Chevveek LLC |  | Azerbaijan, Baku | 6193 |
-| 15 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5891 |
-| 16 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
-| 17 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Personal |  | Baku, Azerbaijan | 5561 |
-| 18 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
-| 19 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin |  |  | Baku, Azerbaijan | 5267 |
-| 20 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5262 |
+| 15 | [aslan564](https://github.com/aslan564) | Aslan | KodCraft |  | Azerbaijan Baku | 6065 |
+| 16 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5891 |
+| 17 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
+| 18 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | Personal |  | Baku, Azerbaijan | 5561 |
+| 19 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
+| 20 | [mahammad-ibrahimli](https://github.com/mahammad-ibrahimli) | Admin |  |  | Baku, Azerbaijan | 5267 |

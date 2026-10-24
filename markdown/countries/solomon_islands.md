@@ -70,8 +70,8 @@ Indexed users: 19
 | 8 | [h-a-s-k](https://github.com/h-a-s-k) | Hask | Solomon Islands | 5 |
 | 9 | [replica47](https://github.com/replica47) | Emmanuel Tora Jnr | Solomon Islands | 4 |
 | 10 | [lininn](https://github.com/lininn) | Emerson Towne | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 3 |
-| 11 | [japhliet](https://github.com/japhliet) | Rouhanna.japhliet | Solomon Islands | 2 |
-| 12 | [mangiBr](https://github.com/mangiBr) | Brian Mangi | Honiara, Solomon Islands | 2 |
+| 11 | [mangiBr](https://github.com/mangiBr) | Brian Mangi | Honiara, Solomon Islands | 3 |
+| 12 | [japhliet](https://github.com/japhliet) | Rouhanna.japhliet | Solomon Islands | 2 |
 | 13 | [seishimaybeC](https://github.com/seishimaybeC) | Saria | Solomon Islands | 2 |
 | 14 | [Sneethe](https://github.com/Sneethe) | Charles Tamzarian | Solomon Islands | 2 |
 | 15 | [forum-fisheries-agency](https://github.com/forum-fisheries-agency) | FFA | Honiara, Solomon Islands | 1 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 1 |
 | 19 | [token-ek](https://github.com/token-ek) | ekausimae | Solomon Islands | 1 |
 
-Generated: 2026-10-24T18:51:44.807Z
+Generated: 2026-10-24T21:19:45.270Z

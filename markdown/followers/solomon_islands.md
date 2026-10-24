@@ -1,6 +1,6 @@
 # Followers - Solomon Islands
 
-Generated: 2026-10-24T18:51:44.807Z
+Generated: 2026-10-24T21:19:45.270Z
 
 Users: 19
 
@@ -16,8 +16,8 @@ Users: 19
 | 8 | [h-a-s-k](https://github.com/h-a-s-k) | Hask |  |  | Solomon Islands | 5 |
 | 9 | [replica47](https://github.com/replica47) | Emmanuel Tora Jnr |  | _replica47_ | Solomon Islands | 4 |
 | 10 | [lininn](https://github.com/lininn) | Emerson Towne | Hamill-Bechtelar |  | 029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands | 3 |
-| 11 | [japhliet](https://github.com/japhliet) | Rouhanna.japhliet | Freelance | Rouhannakj | Solomon Islands | 2 |
-| 12 | [mangiBr](https://github.com/mangiBr) | Brian Mangi | ITSUP | mangibr | Honiara, Solomon Islands | 2 |
+| 11 | [mangiBr](https://github.com/mangiBr) | Brian Mangi | ITSUP | mangibr | Honiara, Solomon Islands | 3 |
+| 12 | [japhliet](https://github.com/japhliet) | Rouhanna.japhliet | Freelance | Rouhannakj | Solomon Islands | 2 |
 | 13 | [seishimaybeC](https://github.com/seishimaybeC) | Saria | Super Mana Potion |  | Solomon Islands | 2 |
 | 14 | [Sneethe](https://github.com/Sneethe) | Charles Tamzarian |  |  | Solomon Islands | 2 |
 | 15 | [forum-fisheries-agency](https://github.com/forum-fisheries-agency) | FFA | Forum Fisheries Agency |  | Honiara, Solomon Islands | 1 |

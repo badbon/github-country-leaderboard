@@ -1,6 +1,6 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-24T19:04:07.936Z
+Generated: 2026-10-24T21:31:00.493Z
 
 Users: 5770
 
@@ -15,8 +15,8 @@ Users: 5770
 | 7 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7876 |
 | 8 | [Achour](https://github.com/Achour) | Achour Meguenni |  |  | Algeria | 7789 |
 | 9 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 7386 |
-| 10 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli |  | rand0m_walk3r | Algiers, Algeria | 7090 |
-| 11 | [sedaradji](https://github.com/sedaradji) | Sdj |  |  | Algeria | 6781 |
+| 10 | [sedaradji](https://github.com/sedaradji) | Sdj |  |  | Algeria | 6781 |
+| 11 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli |  | rand0m_walk3r | Algiers, Algeria | 6642 |
 | 12 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | @YAtechnologies | hocineelhadj | Algeria  | 6447 |
 | 13 | [ubugnu](https://github.com/ubugnu) | Bouzid Badreddine | ubugnu |  | Algeria | 6389 |
 | 14 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi |  |  | Algeria | 6239 |

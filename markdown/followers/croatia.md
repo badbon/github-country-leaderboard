@@ -1,6 +1,6 @@
 # Followers - Croatia
 
-Generated: 2026-10-24T19:37:40.008Z
+Generated: 2026-10-24T21:43:52.818Z
 
 Users: 5415
 
@@ -16,7 +16,7 @@ Users: 5415
 | 8 | [matiadev](https://github.com/matiadev) | Matia |  | joyofcodedev | Zagreb, Croatia | 844 |
 | 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rasta Finance |  | Rijeka, Croatia | 815 |
 | 10 | [Swader](https://github.com/Swader) | Bruno Škvorc | Bitfalls.com | swader | Zagreb, Croatia | 780 |
-| 11 | [ivandoric](https://github.com/ivandoric) | Ivan Dorić | COBE GmbH | ivan_doric | Osijek, Croatia | 770 |
+| 11 | [ivandoric](https://github.com/ivandoric) | Ivan Dorić | COBE GmbH | ivan_doric | Osijek, Croatia | 769 |
 | 12 | [ivan-sincek](https://github.com/ivan-sincek) | Ivan Šincek |  | IvanSincek | Croatia | 673 |
 | 13 | [stsrki](https://github.com/stsrki) | Mladen Macanović | Megabit | MladenMacanovic | Split, Croatia | 622 |
 | 14 | [kost](https://github.com/kost) | kost | Marlink Cyber | k0st | Zagreb, Croatia | 580 |
@@ -24,5 +24,5 @@ Users: 5415
 | 16 | [Raxone](https://github.com/Raxone) | RaleGale |  |  | Croatia | 438 |
 | 17 | [filbabic](https://github.com/filbabic) | Filip Babic | Noom |  | Osijek, Croatia | 416 |
 | 18 | [silvenon](https://github.com/silvenon) | Matija Marohnić |  |  | Zagreb, Croatia | 415 |
-| 19 | [loboris](https://github.com/loboris) | Boris Lovosevic |  |  | Zagreb, Croatia | 406 |
-| 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 364 |
+| 19 | [loboris](https://github.com/loboris) | Boris Lovosevic |  |  | Zagreb, Croatia | 407 |
+| 20 | [bruno-](https://github.com/bruno-) | Bruno Sutic |  |  | Zagreb, Croatia | 362 |
