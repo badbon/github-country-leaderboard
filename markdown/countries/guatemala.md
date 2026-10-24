@@ -45,8 +45,8 @@ Indexed users: 3,210
 | 6 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | Guatemala | 1,700 |
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | Guatemala | 1,633 |
 | 8 | [eduardordev](https://github.com/eduardordev) | Eduardo Ramírez | Guatemala | 1,536 |
-| 9 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes | Guatemala | 1,447 |
-| 10 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,439 |
+| 9 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez | Guatemala | 1,439 |
+| 10 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes | Guatemala | 1,430 |
 | 11 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Guatemala | 1,407 |
 | 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano | Guatemala | 1,358 |
 | 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | Guatemala | 1,305 |
@@ -83,4 +83,4 @@ Indexed users: 3,210
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-24T06:20:22.953Z
+Generated: 2026-10-24T07:45:05.227Z

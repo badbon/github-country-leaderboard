@@ -81,7 +81,7 @@ Published countries: 236
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
 | Georgia | 6,866 | [View](./georgia.md) |
-| Ghana | 7,072 | [View](./ghana.md) |
+| Ghana | 7,070 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,528 | [View](./greece.md) |
 | Greenland | 58 | [View](./greenland.md) |
@@ -97,27 +97,27 @@ Published countries: 236
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,256 | [View](./honduras.md) |
 | Hong Kong | 10,242 | [View](./hong_kong.md) |
-| Hungary | 11,152 | [View](./hungary.md) |
+| Hungary | 11,153 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,267 | [View](./indonesia.md) |
-| Iran | 26,846 | [View](./iran.md) |
+| Iran | 26,845 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
-| Ireland | 19,482 | [View](./ireland.md) |
+| Ireland | 19,481 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,413 | [View](./israel.md) |
-| Italy | 49,001 | [View](./italy.md) |
+| Italy | 49,000 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
-| Jordan | 3,995 | [View](./jordan.md) |
+| Jordan | 3,994 | [View](./jordan.md) |
 | Kazakhstan | 5,616 | [View](./kazakhstan.md) |
-| Kenya | 24,004 | [View](./kenya.md) |
+| Kenya | 24,003 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
 | Laos | 359 | [View](./laos.md) |
 | Latvia | 3,245 | [View](./latvia.md) |
-| Lebanon | 2,554 | [View](./lebanon.md) |
+| Lebanon | 2,553 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 210 | [View](./liberia.md) |
 | Libya | 740 | [View](./libya.md) |
@@ -179,7 +179,7 @@ Published countries: 236
 | Romania | 14,963 | [View](./romania.md) |
 | Rwanda | 3,497 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
-| Saint Helena, Ascension and Tristan da Cunha | 25 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
+| Saint Helena, Ascension and Tristan da Cunha | 26 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
 | Saint Kitts and Nevis | 5 | [View](./saint_kitts_and_nevis.md) |
 | Saint Lucia | 35 | [View](./saint_lucia.md) |
 | Saint Martin | 8 | [View](./saint_martin.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T07:38:57.171Z
+Generated: 2026-10-24T07:55:23.826Z

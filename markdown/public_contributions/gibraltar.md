@@ -1,6 +1,6 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-24T06:19:13.115Z
+Generated: 2026-10-24T07:41:26.778Z
 
 Users: 93
 
@@ -14,7 +14,7 @@ Users: 93
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 259 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Heaventree |  | Gibraltar | 237 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Dether |  | Gibraltar | 196 |
-| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | University of Gibraltar |  | Gibraltar | 171 |
+| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | University of Gibraltar |  | Gibraltar | 170 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade |  |  | Gibraltar | 156 |
 | 11 | [llmora](https://github.com/llmora) | Lluis Mora |  | lluismh | Gibraltar | 126 |
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski |  |  | Gibraltar | 85 |

@@ -16,15 +16,15 @@ Indexed users: 68
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,654 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,318 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,469 |
-| 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,837 |
+| 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,829 |
 | 6 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,623 |
-| 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,368 |
+| 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,367 |
 | 8 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,366 |
 | 9 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,183 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,046 |
-| 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Faroe Islands | 1,906 |
-| 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,550 |
-| 13 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,537 |
+| 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Faroe Islands | 1,898 |
+| 12 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,537 |
+| 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,531 |
 | 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,044 |
 | 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 1,019 |
 | 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 918 |
@@ -83,4 +83,4 @@ Indexed users: 68
 | 19 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 7 |
 | 20 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 7 |
 
-Generated: 2026-10-24T06:15:57.530Z
+Generated: 2026-10-24T07:39:52.111Z

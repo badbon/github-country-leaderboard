@@ -1,8 +1,8 @@
 # Total Contributions - Hungary
 
-Generated: 2026-10-24T06:22:30.251Z
+Generated: 2026-10-24T07:47:01.436Z
 
-Users: 11152
+Users: 11153
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 11152
 | 13 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár |  | sagikazarmark | Budapest, Hungary | 15825 |
 | 14 | [tenxlenx](https://github.com/tenxlenx) | Norbert Domcsek |  |  | Budapest | 15425 |
 | 15 | [zcserei](https://github.com/zcserei) | Cserei Zoltán | @vernusone  | zcserei | Budapest | 12777 |
-| 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes |  |  | Budapest | 10868 |
-| 17 | [stt08](https://github.com/stt08) | Samat Tamerlan | @Ericsson |  | Budapest, HU | 10859 |
-| 18 | [danko-david](https://github.com/danko-david) | David Danko |  |  | Hungary, Miskolc | 10779 |
-| 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | @wraithlight |  | Budapest, HU | 10644 |
-| 20 | [lipi4242](https://github.com/lipi4242) | Krisztián Lipcsei |  |  | Budapest, Hungary | 9733 |
+| 16 | [dancixx](https://github.com/dancixx) | Daniel Boros | @qdrant |  | Budapest | 11101 |
+| 17 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes |  |  | Budapest | 10868 |
+| 18 | [stt08](https://github.com/stt08) | Samat Tamerlan | @Ericsson |  | Budapest, HU | 10859 |
+| 19 | [danko-david](https://github.com/danko-david) | David Danko |  |  | Hungary, Miskolc | 10779 |
+| 20 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | @wraithlight |  | Budapest, HU | 10644 |

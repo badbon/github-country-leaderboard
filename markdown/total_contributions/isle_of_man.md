@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-24T06:23:53.992Z
+Generated: 2026-10-24T07:49:03.361Z
 
 Users: 155
 
@@ -14,7 +14,7 @@ Users: 155
 | 6 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 2236 |
 | 7 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2177 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 2010 |
-| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1855 |
+| 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1851 |
 | 10 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin |  |  | Douglas, Isle of Man | 1845 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1712 |
 | 12 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1678 |
@@ -23,6 +23,6 @@ Users: 155
 | 15 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1244 |
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1218 |
 | 17 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1190 |
-| 18 | [AshLeece](https://github.com/AshLeece) | Ash Leece |  |  | Isle of Man | 1141 |
+| 18 | [AshLeece](https://github.com/AshLeece) | Ash Leece |  |  | Isle of Man | 1142 |
 | 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1128 |
 | 20 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin |  |  | Isle of Man | 1115 |

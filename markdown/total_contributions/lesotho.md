@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-24T06:28:34.240Z
+Generated: 2026-10-24T07:53:03.279Z
 
 Users: 160
 
@@ -9,12 +9,12 @@ Users: 160
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 7781 |
 | 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Ducens PTY LTD |  | Maseru | 2453 |
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 2412 |
-| 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 2187 |
+| 4 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 2188 |
 | 5 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 2033 |
 | 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1032 |
 | 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 998 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | AliansImperium PTY LTD | MRamokhele | Maseru | 814 |
-| 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 694 |
+| 9 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 691 |
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi |  | _Moremi_ | Maseru | 689 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Eazy Tech Solutions |  | Maseru, Lesotho | 578 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 507 |

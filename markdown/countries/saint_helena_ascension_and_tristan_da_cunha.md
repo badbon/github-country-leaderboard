@@ -1,6 +1,6 @@
 # Saint Helena, Ascension and Tristan da Cunha
 
-Indexed users: 25
+Indexed users: 26
 
 | Leaderboard | Link |
 |---|---|
@@ -14,49 +14,49 @@ Indexed users: 25
 |---:|---|---|---|---:|
 | 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 1,475 |
 | 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 201 |
-| 3 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 120 |
-| 4 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 67 |
-| 5 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 60 |
-| 6 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
-| 7 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 21 |
-| 8 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 10 |
-| 9 | [ReviewEdge](https://github.com/ReviewEdge) | Logan Richardson | Jamestown, NY | 3 |
-| 10 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Jamestown, KY | 1 |
-| 11 | [ryan-k-anderson](https://github.com/ryan-k-anderson) | Ryan Kristopher Anderson | Jamestown, NY | 1 |
-| 12 | [selenegough](https://github.com/selenegough) | Selene Gough | Jamestown, St Helena | 1 |
-| 13 | [AdvanceWM](https://github.com/AdvanceWM) | Tony Lush | Jamestown, Rhode Island, US | 0 |
-| 14 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 0 |
-| 15 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 0 |
-| 16 | [JaredBrown138](https://github.com/JaredBrown138) | Jared Brown | Jamestown, NY | 0 |
-| 17 | [jmoreno3d](https://github.com/jmoreno3d) | Johnny Moreno | Jamestown, NC | 0 |
-| 18 | [justedd09](https://github.com/justedd09) | Joshua Eddy | Jamestown NY | 0 |
-| 19 | [MMA4CMT](https://github.com/MMA4CMT) | Richard Wheeler | Jamestown, Ca | 0 |
-| 20 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 0 |
+| 3 | [strifero](https://github.com/strifero) | Strife Technologies | Jamestown, RI USA | 171 |
+| 4 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 120 |
+| 5 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 67 |
+| 6 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 60 |
+| 7 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
+| 8 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 21 |
+| 9 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 10 |
+| 10 | [ReviewEdge](https://github.com/ReviewEdge) | Logan Richardson | Jamestown, NY | 3 |
+| 11 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Jamestown, KY | 1 |
+| 12 | [ryan-k-anderson](https://github.com/ryan-k-anderson) | Ryan Kristopher Anderson | Jamestown, NY | 1 |
+| 13 | [selenegough](https://github.com/selenegough) | Selene Gough | Jamestown, St Helena | 1 |
+| 14 | [AdvanceWM](https://github.com/AdvanceWM) | Tony Lush | Jamestown, Rhode Island, US | 0 |
+| 15 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 0 |
+| 16 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 0 |
+| 17 | [JaredBrown138](https://github.com/JaredBrown138) | Jared Brown | Jamestown, NY | 0 |
+| 18 | [jmoreno3d](https://github.com/jmoreno3d) | Johnny Moreno | Jamestown, NC | 0 |
+| 19 | [justedd09](https://github.com/justedd09) | Joshua Eddy | Jamestown NY | 0 |
+| 20 | [MMA4CMT](https://github.com/MMA4CMT) | Richard Wheeler | Jamestown, Ca | 0 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 99 |
-| 2 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
-| 3 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 33 |
-| 4 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 12 |
-| 5 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 10 |
-| 6 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 10 |
-| 7 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 3 |
-| 8 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Jamestown, KY | 1 |
-| 9 | [selenegough](https://github.com/selenegough) | Selene Gough | Jamestown, St Helena | 1 |
-| 10 | [AdvanceWM](https://github.com/AdvanceWM) | Tony Lush | Jamestown, Rhode Island, US | 0 |
-| 11 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 0 |
-| 12 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 0 |
-| 13 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 0 |
-| 14 | [JaredBrown138](https://github.com/JaredBrown138) | Jared Brown | Jamestown, NY | 0 |
-| 15 | [jmoreno3d](https://github.com/jmoreno3d) | Johnny Moreno | Jamestown, NC | 0 |
-| 16 | [justedd09](https://github.com/justedd09) | Joshua Eddy | Jamestown NY | 0 |
-| 17 | [MMA4CMT](https://github.com/MMA4CMT) | Richard Wheeler | Jamestown, Ca | 0 |
-| 18 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 0 |
-| 19 | [ReviewEdge](https://github.com/ReviewEdge) | Logan Richardson | Jamestown, NY | 0 |
-| 20 | [rustler47](https://github.com/rustler47) | James Rustler | Jamestown, Rustlvania  | 0 |
+| 1 | [strifero](https://github.com/strifero) | Strife Technologies | Jamestown, RI USA | 171 |
+| 2 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 99 |
+| 3 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
+| 4 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 33 |
+| 5 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 12 |
+| 6 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 10 |
+| 7 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 10 |
+| 8 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 3 |
+| 9 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Jamestown, KY | 1 |
+| 10 | [selenegough](https://github.com/selenegough) | Selene Gough | Jamestown, St Helena | 1 |
+| 11 | [AdvanceWM](https://github.com/AdvanceWM) | Tony Lush | Jamestown, Rhode Island, US | 0 |
+| 12 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 0 |
+| 13 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 0 |
+| 14 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 0 |
+| 15 | [JaredBrown138](https://github.com/JaredBrown138) | Jared Brown | Jamestown, NY | 0 |
+| 16 | [jmoreno3d](https://github.com/jmoreno3d) | Johnny Moreno | Jamestown, NC | 0 |
+| 17 | [justedd09](https://github.com/justedd09) | Joshua Eddy | Jamestown NY | 0 |
+| 18 | [MMA4CMT](https://github.com/MMA4CMT) | Richard Wheeler | Jamestown, Ca | 0 |
+| 19 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 0 |
+| 20 | [ReviewEdge](https://github.com/ReviewEdge) | Logan Richardson | Jamestown, NY | 0 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 1 |
 | 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 
-Generated: 2026-10-24T06:54:43.603Z
+Generated: 2026-10-24T07:51:44.111Z

@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-24T06:25:09.084Z
+Generated: 2026-10-24T07:49:54.510Z
 
 Users: 1270
 
@@ -10,7 +10,7 @@ Users: 1270
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 3861 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell |  |  | Kingston, ON | 2914 |
 | 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 2459 |
-| 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2260 |
+| 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2213 |
 | 6 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 2032 |
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 1573 |
 | 8 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1498 |

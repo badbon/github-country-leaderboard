@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-24T06:22:02.219Z
+Generated: 2026-10-24T07:45:32.858Z
 
 Users: 339
 
@@ -15,8 +15,8 @@ Users: 339
 | 7 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 2347 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2274 |
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2173 |
-| 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1945 |
-| 11 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1943 |
+| 10 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1979 |
+| 11 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1945 |
 | 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1833 |
 | 13 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1823 |
 | 14 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1746 |

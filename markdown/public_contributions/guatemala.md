@@ -1,6 +1,6 @@
 # Public Contributions - Guatemala
 
-Generated: 2026-10-24T06:20:22.953Z
+Generated: 2026-10-24T07:45:05.227Z
 
 Users: 3210
 
@@ -14,8 +14,8 @@ Users: 3210
 | 6 | [Adriianh](https://github.com/Adriianh) | Adrián Fúnez | @devblook |  | Guatemala | 1700 |
 | 7 | [anndreloopez012](https://github.com/anndreloopez012) | Andre Lopez | ALCORE |  | Guatemala | 1633 |
 | 8 | [eduardordev](https://github.com/eduardordev) | Eduardo Ramírez |  |  | Guatemala | 1536 |
-| 9 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes |  |  | Guatemala | 1447 |
-| 10 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez |  |  | Guatemala | 1439 |
+| 9 | [ricardious](https://github.com/ricardious) | Alex Ricardo Castañeda Rodríguez |  |  | Guatemala | 1439 |
+| 10 | [gafnts](https://github.com/gafnts) | Gabriel Fuentes |  |  | Guatemala | 1430 |
 | 11 | [YoverMarkt](https://github.com/YoverMarkt) | Yover Rosado Conforme | Smart Devs |  | Guatemala | 1407 |
 | 12 | [erwindank](https://github.com/erwindank) | Erwin Solorzano |  |  | Guatemala | 1358 |
 | 13 | [MaxMald](https://github.com/MaxMald) | Max Maldonado | HummingFlight |  | Guatemala | 1305 |

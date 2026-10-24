@@ -1,8 +1,8 @@
 # Followers - Jordan
 
-Generated: 2026-10-24T06:26:00.401Z
+Generated: 2026-10-24T07:50:21.429Z
 
-Users: 3995
+Users: 3994
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

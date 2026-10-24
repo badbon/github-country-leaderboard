@@ -1,6 +1,6 @@
 # Hungary
 
-Indexed users: 11,152
+Indexed users: 11,153
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 11,152
 | 13 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 15,825 |
 | 14 | [tenxlenx](https://github.com/tenxlenx) | Norbert Domcsek | Budapest | 15,425 |
 | 15 | [zcserei](https://github.com/zcserei) | Cserei Zoltán | Budapest | 12,777 |
-| 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes | Budapest | 10,868 |
-| 17 | [stt08](https://github.com/stt08) | Samat Tamerlan | Budapest, HU | 10,859 |
-| 18 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,779 |
-| 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
-| 20 | [lipi4242](https://github.com/lipi4242) | Krisztián Lipcsei | Budapest, Hungary | 9,733 |
+| 16 | [dancixx](https://github.com/dancixx) | Daniel Boros | Budapest | 11,101 |
+| 17 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes | Budapest | 10,868 |
+| 18 | [stt08](https://github.com/stt08) | Samat Tamerlan | Budapest, HU | 10,859 |
+| 19 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,779 |
+| 20 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
 
 ## Public Contributions
 
@@ -52,11 +52,11 @@ Indexed users: 11,152
 | 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | Budapest, Hungary; Austin, Texas | 4,998 |
 | 14 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
 | 15 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
-| 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
-| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,091 |
-| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
-| 19 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
-| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,512 |
+| 16 | [dancixx](https://github.com/dancixx) | Daniel Boros | Budapest | 4,256 |
+| 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
+| 18 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,091 |
+| 19 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
+| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 11,152
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter | Hungary | 572 |
 
-Generated: 2026-10-24T06:22:30.251Z
+Generated: 2026-10-24T07:47:01.436Z

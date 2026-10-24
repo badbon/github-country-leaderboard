@@ -41,7 +41,7 @@ Indexed users: 1,270
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,861 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,914 |
 | 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,459 |
-| 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,260 |
+| 5 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,213 |
 | 6 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 2,032 |
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,573 |
 | 8 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,498 |
@@ -83,4 +83,4 @@ Indexed users: 1,270
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 96 |
 
-Generated: 2026-10-24T06:25:09.084Z
+Generated: 2026-10-24T07:49:54.510Z

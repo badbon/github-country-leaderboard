@@ -1,8 +1,8 @@
 # Public Contributions - Hungary
 
-Generated: 2026-10-24T06:22:30.251Z
+Generated: 2026-10-24T07:47:01.436Z
 
-Users: 11152
+Users: 11153
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 11152
 | 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | @theaifleet |  | Budapest, Hungary; Austin, Texas | 4998 |
 | 14 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Golem Cloud / Ziverge Inc. | dvigovszky | Hungary | 4660 |
 | 15 | [laxika](https://github.com/laxika) | Gyula Lakatos | Anthropic |  | Hungary | 4481 |
-| 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |
-| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4091 |
-| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
-| 19 | [bugadani](https://github.com/bugadani) | Dániel Buga |  |  | Budapest, HU | 3662 |
-| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3512 |
+| 16 | [dancixx](https://github.com/dancixx) | Daniel Boros | @qdrant |  | Budapest | 4256 |
+| 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |
+| 18 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4091 |
+| 19 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
+| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga |  |  | Budapest, HU | 3662 |

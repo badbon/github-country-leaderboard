@@ -1,8 +1,8 @@
 # Followers - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-24T06:54:43.603Z
+Generated: 2026-10-24T07:51:44.111Z
 
-Users: 25
+Users: 26
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
