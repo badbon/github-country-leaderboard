@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-24T12:24:30.318Z
+Generated: 2026-10-24T13:49:10.202Z
 
 Users: 1478
 
@@ -16,7 +16,7 @@ Users: 1478
 | 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 3118 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam Ghazaleh |  |  | Damascus, Syrian Arab Republic | 3087 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2836 |
-| 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2435 |
+| 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2462 |
 | 12 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 2238 |
 | 13 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2217 |
 | 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2136 |

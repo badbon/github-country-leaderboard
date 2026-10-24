@@ -22,7 +22,7 @@ Indexed users: 1,478
 | 8 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 3,118 |
 | 9 | [sam-a1a](https://github.com/sam-a1a) | Sam Ghazaleh | Damascus, Syrian Arab Republic | 3,087 |
 | 10 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,836 |
-| 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,435 |
+| 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,462 |
 | 12 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 2,238 |
 | 13 | [eymeen](https://github.com/eymeen) | Ayman Eid | Syria, Turkey | 2,217 |
 | 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,136 |
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-24T12:24:30.318Z
+Generated: 2026-10-24T13:49:10.202Z

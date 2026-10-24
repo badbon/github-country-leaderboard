@@ -51,7 +51,7 @@ Indexed users: 865
 | 12 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed | Mogadishu, Somalia | 668 |
 | 13 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan | Mogadishu-Somalia | 650 |
 | 14 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim | Mogadishu, Somalia | 637 |
-| 15 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir | Mogadishu | 615 |
+| 15 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir | Mogadishu | 621 |
 | 16 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir | Mogadishu-Somalia | 563 |
 | 17 | [marshaale](https://github.com/marshaale) |  | Somalia | 552 |
 | 18 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Mogadishu-Somalia | 540 |
@@ -83,4 +83,4 @@ Indexed users: 865
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 101 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-24T12:20:34.853Z
+Generated: 2026-10-24T13:46:16.324Z

@@ -31,7 +31,7 @@ Indexed users: 7,153
 | 17 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | Tunisia | 5,892 |
 | 18 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Tunisia | 5,564 |
 | 19 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 5,480 |
-| 20 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 5,161 |
+| 20 | [jdfyras](https://github.com/jdfyras) | JDAY FIRAS | tunisia | 5,473 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 7,153
 | 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 | 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 470 |
 
-Generated: 2026-10-24T12:28:03.006Z
+Generated: 2026-10-24T13:52:01.858Z

@@ -1,6 +1,6 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-24T12:20:49.116Z
+Generated: 2026-10-24T13:47:09.477Z
 
 Users: 131
 
@@ -18,8 +18,8 @@ Users: 131
 | 10 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Pixel Pulse | johnsonachuk | Juba, South Sudan | 608 |
 | 11 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 540 |
 | 12 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 516 |
-| 13 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 504 |
-| 14 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 502 |
+| 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 502 |
+| 14 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 501 |
 | 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 347 |
 | 16 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 329 |
 | 17 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 327 |

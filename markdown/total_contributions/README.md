@@ -225,7 +225,7 @@ Published countries: 236
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,860 | [View](./uganda.md) |
-| Ukraine | 47,713 | [View](./ukraine.md) |
+| Ukraine | 47,711 | [View](./ukraine.md) |
 | United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T13:43:24.548Z
+Generated: 2026-10-24T13:54:38.780Z

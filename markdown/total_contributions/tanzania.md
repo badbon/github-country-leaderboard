@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-24T12:26:16.994Z
+Generated: 2026-10-24T13:49:40.084Z
 
 Users: 2038
 
@@ -10,7 +10,7 @@ Users: 2038
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 150256 |
 | 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 59579 |
 | 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 27470 |
-| 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 18171 |
+| 5 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 18898 |
 | 6 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 18101 |
 | 7 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 17873 |
 | 8 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 14510 |
