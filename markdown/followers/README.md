@@ -188,7 +188,7 @@ Published countries: 236
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,731 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,730 | [View](./saudi_arabia.md) |
 | Senegal | 1,352 | [View](./senegal.md) |
 | Serbia | 10,645 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
@@ -203,7 +203,7 @@ Published countries: 236
 | South Georgia | 6 | [View](./south_georgia.md) |
 | South Korea | 56,896 | [View](./south_korea.md) |
 | South Sudan | 131 | [View](./south_sudan.md) |
-| Sri Lanka | 18,298 | [View](./sri_lanka.md) |
+| Sri Lanka | 18,301 | [View](./sri_lanka.md) |
 | Sudan | 725 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T19:56:55.879Z
+Generated: 2026-10-24T20:02:46.812Z

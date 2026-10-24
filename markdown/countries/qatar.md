@@ -25,7 +25,7 @@ Indexed users: 1,073
 | 11 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 7,020 |
 | 12 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 6,932 |
 | 13 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | Doha, Qatar | 6,514 |
-| 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,876 |
+| 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 6,089 |
 | 15 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,741 |
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,252 |
 | 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 5,103 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 105 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-24T18:40:12.806Z
+Generated: 2026-10-24T19:57:36.876Z

@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-24T18:45:16.987Z
+Generated: 2026-10-24T20:01:46.923Z
 
 Users: 1352
 
