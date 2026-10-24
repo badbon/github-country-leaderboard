@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-24T13:04:58.893Z
+Generated: 2026-10-24T14:35:43.806Z
 
 Users: 339
 
@@ -11,7 +11,7 @@ Users: 339
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4561 |
 | 4 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3502 |
 | 5 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 2443 |
-| 6 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2429 |
+| 6 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2442 |
 | 7 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 2347 |
 | 8 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 2274 |
 | 9 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 2173 |
@@ -19,7 +19,7 @@ Users: 339
 | 11 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1945 |
 | 12 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1833 |
 | 13 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1823 |
-| 14 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1746 |
+| 14 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1745 |
 | 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1691 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1480 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1220 |

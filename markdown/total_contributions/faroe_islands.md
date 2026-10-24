@@ -1,6 +1,6 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-24T12:57:03.575Z
+Generated: 2026-10-24T14:28:23.072Z
 
 Users: 68
 
@@ -17,9 +17,9 @@ Users: 68
 | 9 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 2183 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 2046 |
 | 11 | [theodorjohannesen](https://github.com/theodorjohannesen) | Theodor E. Johannesen | Own |  | Faroe Islands | 1898 |
-| 12 | [MaterBater](https://github.com/MaterBater) | Mater | @HypixelDev |  | Faroe Islands | 1537 |
+| 12 | [MaterBater](https://github.com/MaterBater) | Mater | @HypixelDev |  | Faroe Islands | 1545 |
 | 13 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | @sansir  |  | Faroe Islands | 1531 |
-| 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1044 |
+| 14 | [Brian-ED](https://github.com/Brian-ED) | Brian E |  |  | Faroe Islands | 1053 |
 | 15 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Lethal |  | Faroe Islands | 1019 |
 | 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 918 |
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | @globe-tracker |  | Tórshavn, Faroe islands | 689 |

@@ -22,8 +22,8 @@ Indexed users: 2,229
 | 8 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 8,822 |
 | 9 | [laith43d](https://github.com/laith43d) | Layth Zahid | Baghdad | 8,032 |
 | 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Iraq | 7,937 |
-| 11 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,997 |
-| 12 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | Baghdad, Iraq | 6,990 |
+| 11 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | Baghdad, Iraq | 7,428 |
+| 12 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,997 |
 | 13 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 6,926 |
 | 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,771 |
 | 15 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,697 |
@@ -83,4 +83,4 @@ Indexed users: 2,229
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 211 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 190 |
 
-Generated: 2026-10-24T13:07:15.833Z
+Generated: 2026-10-24T14:38:01.422Z

@@ -1,12 +1,12 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-24T13:00:09.949Z
+Generated: 2026-10-24T14:29:29.300Z
 
 Users: 79
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3809 |
+| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3817 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3249 |
 | 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1663 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1363 |
@@ -21,8 +21,8 @@ Users: 79
 | 13 | [Jordanlopez546](https://github.com/Jordanlopez546) | Jordan Nwabuike | Jordan In Tech |  | Gambia | 429 |
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 422 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 392 |
-| 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 263 |
-| 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 261 |
+| 16 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 275 |
+| 17 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 263 |
 | 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 169 |
 | 19 | [fiture99](https://github.com/fiture99) | Lamin Jawneh |  | jawneh_lamin | Banjul, Gambia | 168 |
 | 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 145 |

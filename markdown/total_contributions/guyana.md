@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-24T13:04:38.407Z
+Generated: 2026-10-24T14:34:41.069Z
 
 Users: 187
 
@@ -13,7 +13,7 @@ Users: 187
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4524 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 4073 |
 | 7 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 4029 |
-| 8 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3963 |
+| 8 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3987 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3767 |
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3206 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3016 |

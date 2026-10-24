@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-24T12:57:06.410Z
+Generated: 2026-10-24T14:28:25.196Z
 
 Users: 325
 
@@ -16,8 +16,8 @@ Users: 325
 | 8 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 283 |
 | 9 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 263 |
 | 10 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 224 |
-| 11 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 206 |
-| 12 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 203 |
+| 11 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 210 |
+| 12 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 206 |
 | 13 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 182 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 166 |
 | 15 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 153 |

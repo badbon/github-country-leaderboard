@@ -30,8 +30,8 @@ Indexed users: 155
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,218 |
 | 17 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,190 |
 | 18 | [AshLeece](https://github.com/AshLeece) | Ash Leece | Isle of Man | 1,142 |
-| 19 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 1,130 |
-| 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,128 |
+| 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,131 |
+| 20 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 1,130 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 19 |
 | 20 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 
-Generated: 2026-10-24T13:07:24.672Z
+Generated: 2026-10-24T14:38:47.990Z

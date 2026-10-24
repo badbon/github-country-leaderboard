@@ -1,8 +1,8 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-24T12:55:59.020Z
+Generated: 2026-10-24T14:28:15.936Z
 
-Users: 6661
+Users: 6660
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 6661
 | 11 | [haxurn](https://github.com/haxurn) | Samson Tesfaye | @solvixteams | haxurn | Ethiopia, Addis Ababa | 10289 |
 | 12 | [yaftes](https://github.com/yaftes) | Yafet Tesfaye |  |  | Ethiopia , Adama | 10268 |
 | 13 | [natnaeln4d](https://github.com/natnaeln4d) | Natnael Getachew |  | natnaeln4d | Addis Ababa, Ethiopia | 9365 |
-| 14 | [LeulTew](https://github.com/LeulTew) | Leul Tewodros Agonafer |  |  | Addis Ababa, Ethiopia | 8541 |
-| 15 | [abela12](https://github.com/abela12) | Abel Berhanu | @gashadigital @siltawi  |  | Ethiopia , Addis Abeba | 8394 |
-| 16 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed |  |  | Ethiopia | 8340 |
-| 17 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | @xgnosis |  | Addis Ababa, Ethiopia | 8205 |
-| 18 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 7886 |
+| 14 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 8841 |
+| 15 | [LeulTew](https://github.com/LeulTew) | Leul Tewodros Agonafer |  |  | Addis Ababa, Ethiopia | 8541 |
+| 16 | [abela12](https://github.com/abela12) | Abel Berhanu | @gashadigital @siltawi  |  | Ethiopia , Addis Abeba | 8394 |
+| 17 | [AmarAhmedDev](https://github.com/AmarAhmedDev) | Amar Ahmed |  |  | Ethiopia | 8340 |
+| 18 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | @xgnosis |  | Addis Ababa, Ethiopia | 8205 |
 | 19 | [onesamket](https://github.com/onesamket) | Tewodros Birhanu | @siket-apps  | onesamket | Addis Ababa, Ethiopia | 7778 |
 | 20 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu |  |  | Ethiopia | 7017 |

@@ -12,7 +12,7 @@ Indexed users: 86
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,211 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,236 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,344 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,381 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,686 |
@@ -23,7 +23,7 @@ Indexed users: 86
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 977 |
 | 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 945 |
 | 11 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 754 |
-| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 720 |
+| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 722 |
 | 13 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 203 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-24T13:02:26.907Z
+Generated: 2026-10-24T14:32:20.088Z

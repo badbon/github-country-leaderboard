@@ -1,12 +1,12 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-24T13:02:26.907Z
+Generated: 2026-10-24T14:32:20.088Z
 
 Users: 86
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6211 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6236 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Freelance | DarmaJoachim | Guadeloupe | 3344 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2381 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 1686 |
@@ -17,7 +17,7 @@ Users: 86
 | 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 977 |
 | 10 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 945 |
 | 11 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 754 |
-| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 720 |
+| 12 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 722 |
 | 13 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 658 |
 | 14 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 230 |
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 203 |

@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-24T13:05:17.408Z
+Generated: 2026-10-24T14:36:43.035Z
 
 Users: 1579
 
@@ -9,8 +9,8 @@ Users: 1579
 | 1 | [davideagle](https://github.com/davideagle) | davideagle |  |  | Iceland | 25600 |
 | 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | KrashidBuilt |  | Reykjavík, Iceland | 20324 |
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason |  |  | Akureyri, Iceland | 17001 |
-| 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt |  |  | Reykjavík, Iceland | 15224 |
-| 5 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 14957 |
+| 4 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 14957 |
+| 5 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt |  |  | Reykjavík, Iceland | 14600 |
 | 6 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 13984 |
 | 7 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Loaloa |  | Reykjavík, Iceland | 13646 |
 | 8 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Citizens Foundation |  | Iceland | 13477 |
