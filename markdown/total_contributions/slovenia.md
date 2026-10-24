@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-24T05:29:53.956Z
+Generated: 2026-10-24T07:03:27.798Z
 
 Users: 3093
 
@@ -14,15 +14,15 @@ Users: 3093
 | 6 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 15853 |
 | 7 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 14440 |
 | 8 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 13825 |
-| 9 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 11949 |
-| 10 | [Putr](https://github.com/Putr) | Rok Andrée | @Institut-IP21 |  | Ljubljana, Slovenia | 11478 |
-| 11 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | IJS |  | Ljubljana, Slovenia | 11306 |
-| 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 10320 |
-| 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
-| 14 | [rockoo](https://github.com/rockoo) | Rok Nemet | Fantasyrock |  | Ljubljana, Slovenia | 9726 |
-| 15 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 9301 |
-| 16 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 8844 |
-| 17 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 8723 |
-| 18 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
-| 19 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |
-| 20 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
+| 9 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | IJS |  | Ljubljana, Slovenia | 12909 |
+| 10 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 11949 |
+| 11 | [Putr](https://github.com/Putr) | Rok Andrée | @Institut-IP21 |  | Ljubljana, Slovenia | 11478 |
+| 12 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 11207 |
+| 13 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 10320 |
+| 14 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
+| 15 | [rockoo](https://github.com/rockoo) | Rok Nemet | Fantasyrock |  | Ljubljana, Slovenia | 9726 |
+| 16 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 9301 |
+| 17 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 8844 |
+| 18 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 8723 |
+| 19 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 8700 |
+| 20 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8672 |

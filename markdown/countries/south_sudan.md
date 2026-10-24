@@ -76,11 +76,11 @@ Indexed users: 131
 | 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 26 |
 | 13 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 21 |
 | 14 | [cholg2003](https://github.com/cholg2003) | Chol | South Sudan | 20 |
-| 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 20 |
+| 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 19 |
 | 16 | [cholkany](https://github.com/cholkany) | Digital | South Sudan | 18 |
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick | Juba | 17 |
 | 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Juba, South Sudan | 16 |
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-24T05:38:36.668Z
+Generated: 2026-10-24T07:04:42.607Z

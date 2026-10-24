@@ -60,7 +60,7 @@ Indexed users: 19
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 33 |
+| 1 | [anikwai](https://github.com/anikwai) | Watson  Cyrus Anikwai | Solomon Islands | 32 |
 | 2 | [masachi](https://github.com/masachi) | YukinoshitaKyaru | Solomon Islands | 25 |
 | 3 | [b-tupiti](https://github.com/b-tupiti) | Brandon Ryan Tupiti | Honiara, Solomon Islands | 14 |
 | 4 | [bryanrscott](https://github.com/bryanrscott) | Bryan | Honiara | 14 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [mygodtnt](https://github.com/mygodtnt) |  | Solomon Islands | 1 |
 | 19 | [token-ek](https://github.com/token-ek) | ekausimae | Solomon Islands | 1 |
 
-Generated: 2026-10-24T05:29:58.559Z
+Generated: 2026-10-24T07:03:34.805Z
