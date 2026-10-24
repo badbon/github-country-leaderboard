@@ -1,6 +1,6 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-24T06:56:14.822Z
+Generated: 2026-10-24T08:15:29.335Z
 
 Users: 61
 
@@ -8,7 +8,7 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 14701 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 10337 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4827 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4809 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3313 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2294 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2263 |
@@ -17,10 +17,10 @@ Users: 61
 | 9 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 1310 |
 | 10 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 827 |
 | 11 | [thu105](https://github.com/thu105) | Hein Moe Thu |  |  | San Marino, CA | 777 |
-| 12 | [gennaris](https://github.com/gennaris) | Simone Gennari | @prestalia |  | San Marino | 760 |
+| 12 | [gennaris](https://github.com/gennaris) | Simone Gennari | @prestalia |  | San Marino | 758 |
 | 13 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 735 |
 | 14 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | 22lab |  | San Marino | 499 |
-| 15 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 333 |
+| 15 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 330 |
 | 16 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
 | 17 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
 | 18 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 177 |

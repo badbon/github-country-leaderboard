@@ -1,6 +1,6 @@
 # El Salvador
 
-Indexed users: 2,378
+Indexed users: 2,379
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-24T07:37:09.174Z
+Generated: 2026-10-24T08:14:11.002Z

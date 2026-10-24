@@ -1,6 +1,6 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-24T06:56:21.241Z
+Generated: 2026-10-24T08:15:35.737Z
 
 Users: 7730
 
@@ -10,18 +10,18 @@ Users: 7730
 | 2 | [AbdullahMu](https://github.com/AbdullahMu) | Abdullah AlGhamdi | Innovation Lab | Abdullusive | Riyadh, Saudi Arabia | 130667 |
 | 3 | [Haitham8888](https://github.com/Haitham8888) | Haitham | Maysour | HattanHaitham | Riyadh, Saudi Arabia | 38872 |
 | 4 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | @6degrees | BuFai7an | Saudi Arabia | 28838 |
-| 5 | [hungerstation-bot](https://github.com/hungerstation-bot) | Hungerstation Bot | Hungerstation |  | Saudi Arabi - Riyadh | 17741 |
-| 6 | [xcode-it](https://github.com/xcode-it) | !null | @logi-x  | null | Jeddah, Saudi Arabia | 17628 |
-| 7 | [asim-altayb](https://github.com/asim-altayb) | Asim Altayb | Freelancer |  | Riyadh, Saudi Arabia | 16937 |
-| 8 | [Ahmed-Sermani](https://github.com/Ahmed-Sermani) | Ahmed Sermani | @WhatsLab  |  | Saudi Arabia | 15250 |
-| 9 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | King Abdullah University of Science and Technology  |  | Saudi Arabia (SA)  | 14774 |
-| 10 | [talha7k](https://github.com/talha7k) | Talha Khan | Dijitize.com |  | Riyadh | 14251 |
-| 11 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 13113 |
-| 12 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab |  |  | Saudi Arabia | 12900 |
-| 13 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | @Golden-Investors  |  | Riyadh \| London \| Global Citizen  | 11951 |
-| 14 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11607 |
-| 15 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
-| 16 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |
+| 5 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 20711 |
+| 6 | [hungerstation-bot](https://github.com/hungerstation-bot) | Hungerstation Bot | Hungerstation |  | Saudi Arabi - Riyadh | 17741 |
+| 7 | [xcode-it](https://github.com/xcode-it) | !null | @logi-x  | null | Jeddah, Saudi Arabia | 17628 |
+| 8 | [asim-altayb](https://github.com/asim-altayb) | Asim Altayb | Freelancer |  | Riyadh, Saudi Arabia | 16937 |
+| 9 | [Ahmed-Sermani](https://github.com/Ahmed-Sermani) | Ahmed Sermani | @WhatsLab  |  | Saudi Arabia | 15250 |
+| 10 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | King Abdullah University of Science and Technology  |  | Saudi Arabia (SA)  | 14774 |
+| 11 | [talha7k](https://github.com/talha7k) | Talha Khan | Dijitize.com |  | Riyadh | 14251 |
+| 12 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 13113 |
+| 13 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab |  |  | Saudi Arabia | 12900 |
+| 14 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | @Golden-Investors  |  | Riyadh \| London \| Global Citizen  | 11951 |
+| 15 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 11607 |
+| 16 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
 | 17 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 10263 |
 | 18 | [mohamedBalkhi](https://github.com/mohamedBalkhi) | Mohamed Ahmad ALbalki |  |  | Saudi Arabia | 9036 |
 | 19 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |

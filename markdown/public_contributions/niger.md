@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-24T06:45:58.833Z
+Generated: 2026-10-24T08:06:17.352Z
 
 Users: 175
 
@@ -17,7 +17,7 @@ Users: 175
 | 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | @AGRHYMET | hmandela | Niamey, NIGER | 229 |
 | 10 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 205 |
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |
-| 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 158 |
+| 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 157 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 138 |
 | 14 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 127 |
 | 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 126 |

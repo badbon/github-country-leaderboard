@@ -17,14 +17,14 @@ Indexed users: 887
 | 3 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 16,303 |
 | 4 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,635 |
 | 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,105 |
-| 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,849 |
+| 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,885 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,712 |
 | 8 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,326 |
 | 9 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,218 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 6,057 |
 | 11 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,856 |
 | 12 | [milunradonjic](https://github.com/milunradonjic) | Milun Radonjic | Podgorica | 5,728 |
-| 13 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,703 |
+| 13 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,719 |
 | 14 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,629 |
 | 15 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,564 |
 | 16 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,524 |
@@ -83,4 +83,4 @@ Indexed users: 887
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 99 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 90 |
 
-Generated: 2026-10-24T06:43:13.805Z
+Generated: 2026-10-24T08:03:42.859Z

@@ -13,7 +13,7 @@ Indexed users: 438
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,973 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,850 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,759 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,142 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,818 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,679 |
@@ -38,7 +38,7 @@ Indexed users: 438
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,672 |
-| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,352 |
+| 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 5,297 |
 | 3 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 3,398 |
 | 4 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 3,186 |
 | 5 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 2,853 |
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-24T06:37:33.264Z
+Generated: 2026-10-24T07:57:04.003Z

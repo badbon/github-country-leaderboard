@@ -15,7 +15,7 @@ Indexed users: 714
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,112 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,867 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,543 |
-| 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,886 |
+| 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,904 |
 | 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,850 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,573 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,545 |
@@ -27,7 +27,7 @@ Indexed users: 714
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,506 |
 | 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 4,110 |
 | 15 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 4,008 |
-| 16 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 3,972 |
+| 16 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 3,930 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,913 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,481 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,155 |
@@ -48,9 +48,9 @@ Indexed users: 714
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,306 |
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,287 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,040 |
-| 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 995 |
-| 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 869 |
-| 14 | [RishiRajGujadhur](https://github.com/RishiRajGujadhur) | Rishi Raj Gujadhur | Mauritius | 797 |
+| 12 | [RishiRajGujadhur](https://github.com/RishiRajGujadhur) | Rishi Raj Gujadhur | Mauritius | 1,025 |
+| 13 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 995 |
+| 14 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 869 |
 | 15 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 687 |
 | 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 632 |
 | 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 611 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-24T06:42:03.459Z
+Generated: 2026-10-24T08:01:37.099Z

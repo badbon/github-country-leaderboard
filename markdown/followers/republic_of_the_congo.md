@@ -1,6 +1,6 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-24T06:53:09.867Z
+Generated: 2026-10-24T08:12:20.732Z
 
 Users: 297
 
@@ -9,7 +9,7 @@ Users: 297
 | 1 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 214 |
 | 2 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 205 |
 | 3 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Auctux |  | Congo | 107 |
-| 4 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu |  | AdalbertPungu | Congo (DRC) | 105 |
+| 4 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu |  | AdalbertPungu | Congo (DRC) | 104 |
 | 5 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua |  | HMotokoua | Brazzaville | 95 |
 | 6 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 95 |
 | 7 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Triinfinity |  | Congo Brazzaville | 76 |

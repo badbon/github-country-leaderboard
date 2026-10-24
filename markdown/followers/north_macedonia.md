@@ -1,12 +1,12 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-24T06:46:23.818Z
+Generated: 2026-10-24T08:06:41.188Z
 
 Users: 1921
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [yutomiwana](https://github.com/yutomiwana) | Yuto | Axeltra |  | Skopje | 1249 |
+| 1 | [yutomiwana](https://github.com/yutomiwana) | Yuto | Axeltra |  | Skopje | 1252 |
 | 2 | [henryruhs](https://github.com/henryruhs) | Henry Ruhs |  | henryruhs | North Macedonia | 640 |
 | 3 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 603 |
 | 4 | [jaggedsoft](https://github.com/jaggedsoft) | jagged | Darkpool Liquidity | jaggedsoft | North Macedonia | 471 |

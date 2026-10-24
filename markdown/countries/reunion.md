@@ -20,7 +20,7 @@ Indexed users: 212
 | 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 3,019 |
 | 7 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,718 |
 | 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,522 |
-| 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,417 |
+| 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,419 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,075 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 2,046 |
 | 12 | [John361](https://github.com/John361) | John | Réunion | 2,021 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-24T06:54:32.624Z
+Generated: 2026-10-24T08:13:50.342Z

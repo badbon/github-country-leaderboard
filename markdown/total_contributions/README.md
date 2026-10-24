@@ -65,7 +65,7 @@ Published countries: 236
 | DR Congo | 701 | [View](./dr_congo.md) |
 | Ecuador | 4,874 | [View](./ecuador.md) |
 | Egypt | 34,068 | [View](./egypt.md) |
-| El Salvador | 2,378 | [View](./el_salvador.md) |
+| El Salvador | 2,379 | [View](./el_salvador.md) |
 | Equatorial Guinea | 20 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,896 | [View](./estonia.md) |
@@ -150,7 +150,7 @@ Published countries: 236
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,089 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,134 | [View](./new_zealand.md) |
+| New Zealand | 12,133 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
 | Nigeria | 33,168 | [View](./nigeria.md) |
@@ -161,7 +161,7 @@ Published countries: 236
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,617 | [View](./norway.md) |
 | Oman | 991 | [View](./oman.md) |
-| Pakistan | 41,841 | [View](./pakistan.md) |
+| Pakistan | 41,839 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,195 | [View](./palestine.md) |
 | Panama | 1,069 | [View](./panama.md) |
@@ -193,7 +193,7 @@ Published countries: 236
 | Serbia | 10,646 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,708 | [View](./singapore.md) |
+| Singapore | 24,709 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,655 | [View](./slovakia.md) |
 | Slovenia | 3,093 | [View](./slovenia.md) |
@@ -201,7 +201,7 @@ Published countries: 236
 | Somalia | 865 | [View](./somalia.md) |
 | South Africa | 17,923 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,897 | [View](./south_korea.md) |
+| South Korea | 56,896 | [View](./south_korea.md) |
 | South Sudan | 131 | [View](./south_sudan.md) |
 | Sri Lanka | 18,299 | [View](./sri_lanka.md) |
 | Sudan | 725 | [View](./sudan.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T07:55:23.826Z
+Generated: 2026-10-24T08:18:27.550Z

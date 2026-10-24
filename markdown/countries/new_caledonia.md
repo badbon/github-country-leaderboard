@@ -13,7 +13,7 @@ Indexed users: 111
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 14,650 |
-| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 7,017 |
+| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 7,021 |
 | 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,633 |
 | 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,721 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,680 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-24T06:45:07.361Z
+Generated: 2026-10-24T08:05:24.484Z

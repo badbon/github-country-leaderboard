@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-24T06:42:03.459Z
+Generated: 2026-10-24T08:01:37.099Z
 
 Users: 714
 
@@ -17,9 +17,9 @@ Users: 714
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1306 |
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1287 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA |  |  | Trianon, Mauritius | 1040 |
-| 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 995 |
-| 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | @oceandba |  | Mauritius | 869 |
-| 14 | [RishiRajGujadhur](https://github.com/RishiRajGujadhur) | Rishi Raj Gujadhur |  |  | Mauritius | 797 |
+| 12 | [RishiRajGujadhur](https://github.com/RishiRajGujadhur) | Rishi Raj Gujadhur |  |  | Mauritius | 1025 |
+| 13 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 995 |
+| 14 | [BarbUk](https://github.com/BarbUk) | Julien Virey | @oceandba |  | Mauritius | 869 |
 | 15 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun |  |  | Mauritius | 687 |
 | 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 632 |
 | 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 611 |

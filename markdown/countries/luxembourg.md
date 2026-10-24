@@ -19,8 +19,8 @@ Indexed users: 2,190
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,702 |
 | 6 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,396 |
 | 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,770 |
-| 8 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,666 |
-| 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 12,187 |
+| 8 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 13,651 |
+| 9 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 12,666 |
 | 10 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,546 |
 | 11 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 10,747 |
 | 12 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 9,912 |
@@ -56,7 +56,7 @@ Indexed users: 2,190
 | 17 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 1,935 |
 | 18 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,862 |
 | 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,664 |
-| 20 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,617 |
+| 20 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,643 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 191 |
 
-Generated: 2026-10-24T06:37:30.670Z
+Generated: 2026-10-24T07:56:26.356Z

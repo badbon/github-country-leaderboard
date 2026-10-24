@@ -1,12 +1,12 @@
 # Followers - Moldova
 
-Generated: 2026-10-24T06:42:14.391Z
+Generated: 2026-10-24T08:02:56.102Z
 
 Users: 1744
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [face-hh](https://github.com/face-hh) | Face |  | facedevstuff | Moldova | 2279 |
+| 1 | [face-hh](https://github.com/face-hh) | Face |  | facedevstuff | Moldova | 2278 |
 | 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | @uptrace  | uptracedev | Moldova | 1383 |
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 520 |
 | 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai |  |  | Republic of Moldova | 358 |

@@ -20,7 +20,7 @@ Indexed users: 291
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,381 |
 | 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,130 |
-| 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,763 |
+| 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,918 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,361 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,346 |
 | 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 2,140 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-24T06:43:17.411Z
+Generated: 2026-10-24T08:03:47.167Z
