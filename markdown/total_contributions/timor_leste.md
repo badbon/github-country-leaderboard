@@ -1,6 +1,6 @@
 # Total Contributions - Timor-Leste
 
-Generated: 2026-10-24T13:49:48.884Z
+Generated: 2026-10-24T15:22:10.208Z
 
 Users: 77
 
@@ -13,7 +13,7 @@ Users: 77
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 839 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 626 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 480 |
-| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 359 |
+| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 362 |
 | 9 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral |  |  | Timor-Leste | 336 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Esperanca Timor Oan |  | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 190 |

@@ -19,7 +19,7 @@ Indexed users: 77
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 839 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 626 |
 | 7 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 480 |
-| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 359 |
+| 8 | [JabesNelma](https://github.com/JabesNelma) | Jay | Dili, Timor-Leste | 362 |
 | 9 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral | Timor-Leste | 336 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Rua china Rate Lahane Oreintal Dili Timor Leste | 213 |
 | 11 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  | East-Timor | 190 |
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-24T13:49:48.884Z
+Generated: 2026-10-24T15:22:10.208Z

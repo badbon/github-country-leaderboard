@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-24T13:46:16.324Z
+Generated: 2026-10-24T15:16:44.512Z
 
 Users: 865
 
@@ -8,14 +8,14 @@ Users: 865
 |---:|---|---|---|---|---|---:|
 | 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 9343 |
 | 2 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman |  | moha_a_osman | Mogadishu, Banaadir, Somalia | 8651 |
-| 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7746 |
+| 3 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7749 |
 | 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | @Adwaar Technologies | baaslaawe | somalia | 7283 |
 | 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 6974 |
 | 6 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6713 |
 | 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6155 |
 | 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 5340 |
 | 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4669 |
-| 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 4222 |
+| 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 4155 |
 | 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 4027 |
 | 12 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 3859 |
 | 13 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3833 |

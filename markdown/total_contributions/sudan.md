@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-24T13:47:15.138Z
+Generated: 2026-10-24T15:18:08.508Z
 
 Users: 725
 
@@ -12,9 +12,9 @@ Users: 725
 | 4 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | @obaaa  | obaaa8 | sudan | 5417 |
 | 5 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5329 |
 | 6 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4845 |
-| 7 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3686 |
+| 7 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3663 |
 | 8 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3290 |
-| 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3186 |
+| 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3188 |
 | 10 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 2912 |
 | 11 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | PashaDP | m_elhabib_dev | Sudan, Khartoum | 2911 |
 | 12 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2819 |
