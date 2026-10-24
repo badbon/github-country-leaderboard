@@ -1,6 +1,6 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-24T18:05:39.977Z
+Generated: 2026-10-24T19:24:23.311Z
 
 Users: 68
 
@@ -13,8 +13,8 @@ Users: 68
 | 5 | [cybercrimecat](https://github.com/cybercrimecat) | vio | SiegedSec | cybercrimekitty | faroe islands | 18 |
 | 6 | [Smilex](https://github.com/Smilex) | Ian T. Jacobsen |  |  | Faroe Islands | 17 |
 | 7 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 13 |
-| 8 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 12 |
-| 9 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | @globe-tracker |  | Tórshavn, Faroe islands | 12 |
+| 8 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | @globe-tracker |  | Tórshavn, Faroe islands | 12 |
+| 9 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 11 |
 | 10 | [Flakvard](https://github.com/Flakvard) | Ma-a-a-rni | Oilwind Sp/f |  | Faroe Islands | 11 |
 | 11 | [Niflheimrx](https://github.com/Niflheimrx) | Niflheimrx |  |  | Faroe Islands | 10 |
 | 12 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 10 |

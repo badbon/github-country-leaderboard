@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-24T18:10:13.339Z
+Generated: 2026-10-24T19:27:39.640Z
 
 Users: 187
 
@@ -11,7 +11,7 @@ Users: 187
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 5025 |
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 4692 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4524 |
-| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 4073 |
+| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 4054 |
 | 7 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 4029 |
 | 8 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3987 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3767 |
@@ -25,4 +25,4 @@ Users: 187
 | 17 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1461 |
 | 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1453 |
 | 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1407 |
-| 20 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Tyler Technologies |  | Georgetown, Kentucky | 1303 |
+| 20 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Tyler Technologies |  | Georgetown, Kentucky | 1307 |

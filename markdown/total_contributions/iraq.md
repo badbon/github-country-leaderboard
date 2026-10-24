@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-24T18:13:42.452Z
+Generated: 2026-10-24T19:30:12.652Z
 
 Users: 2229
 
@@ -17,12 +17,12 @@ Users: 2229
 | 9 | [laith43d](https://github.com/laith43d) | Layth Zahid | Twoabstracts |  | Baghdad | 8032 |
 | 10 | [sajadfd](https://github.com/sajadfd) | sajjad | Al-jad |  | Iraq | 7937 |
 | 11 | [MohammaedAlani](https://github.com/MohammaedAlani) | Mohammed Younis | ZainCash |  | Baghdad, Iraq | 7428 |
-| 12 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6997 |
-| 13 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 6926 |
-| 14 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6771 |
-| 15 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6697 |
-| 16 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6556 |
-| 17 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 6515 |
-| 18 | [NebuByte](https://github.com/NebuByte) | Ibrahim Mohammed | Daw Alfada |  | Baghdad | 6246 |
-| 19 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6091 |
-| 20 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 6013 |
+| 12 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam |  |  | Baghdad | 7095 |
+| 13 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6997 |
+| 14 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 6926 |
+| 15 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6771 |
+| 16 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6697 |
+| 17 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6556 |
+| 18 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 6515 |
+| 19 | [NebuByte](https://github.com/NebuByte) | Ibrahim Mohammed | Daw Alfada |  | Baghdad | 6246 |
+| 20 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6091 |

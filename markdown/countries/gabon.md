@@ -16,7 +16,7 @@ Indexed users: 314
 | 2 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,985 |
 | 3 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,943 |
 | 4 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,322 |
-| 5 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 1,097 |
+| 5 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 1,224 |
 | 6 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,051 |
 | 7 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 959 |
 | 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 914 |
@@ -83,4 +83,4 @@ Indexed users: 314
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 19 |
 
-Generated: 2026-10-24T18:07:19.696Z
+Generated: 2026-10-24T19:24:39.969Z

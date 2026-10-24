@@ -96,13 +96,13 @@ Published countries: 236
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,256 | [View](./honduras.md) |
-| Hong Kong | 10,242 | [View](./hong_kong.md) |
-| Hungary | 11,153 | [View](./hungary.md) |
+| Hong Kong | 10,241 | [View](./hong_kong.md) |
+| Hungary | 11,152 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
 | Indonesia | 63,272 | [View](./indonesia.md) |
 | Iran | 26,843 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
-| Ireland | 19,480 | [View](./ireland.md) |
+| Ireland | 19,479 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,409 | [View](./israel.md) |
 | Italy | 48,999 | [View](./italy.md) |
@@ -193,7 +193,7 @@ Published countries: 236
 | Serbia | 10,645 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,708 | [View](./singapore.md) |
+| Singapore | 24,712 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,655 | [View](./slovakia.md) |
 | Slovenia | 3,093 | [View](./slovenia.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T19:20:58.045Z
+Generated: 2026-10-24T19:35:10.658Z
