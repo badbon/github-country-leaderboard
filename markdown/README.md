@@ -105,7 +105,7 @@ Published countries: 236
 | [Ireland](countries/ireland.md) | 19,479 | [Public](public_contributions/ireland.md) | [Total](total_contributions/ireland.md) | [Followers](followers/ireland.md) |
 | [Isle of Man](countries/isle_of_man.md) | 155 | [Public](public_contributions/isle_of_man.md) | [Total](total_contributions/isle_of_man.md) | [Followers](followers/isle_of_man.md) |
 | [Israel](countries/israel.md) | 12,409 | [Public](public_contributions/israel.md) | [Total](total_contributions/israel.md) | [Followers](followers/israel.md) |
-| [Italy](countries/italy.md) | 48,999 | [Public](public_contributions/italy.md) | [Total](total_contributions/italy.md) | [Followers](followers/italy.md) |
+| [Italy](countries/italy.md) | 48,998 | [Public](public_contributions/italy.md) | [Total](total_contributions/italy.md) | [Followers](followers/italy.md) |
 | [Ivory Coast](countries/ivory_coast.md) | 488 | [Public](public_contributions/ivory_coast.md) | [Total](total_contributions/ivory_coast.md) | [Followers](followers/ivory_coast.md) |
 | [Jamaica](countries/jamaica.md) | 1,270 | [Public](public_contributions/jamaica.md) | [Total](total_contributions/jamaica.md) | [Followers](followers/jamaica.md) |
 | [Jersey](countries/jersey.md) | 139 | [Public](public_contributions/jersey.md) | [Total](total_contributions/jersey.md) | [Followers](followers/jersey.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | [Zambia](countries/zambia.md) | 1,336 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,654 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-10-24T22:01:55.023Z
+Generated: 2026-10-24T22:03:47.235Z

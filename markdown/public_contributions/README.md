@@ -105,7 +105,7 @@ Published countries: 236
 | Ireland | 19,479 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,409 | [View](./israel.md) |
-| Italy | 48,999 | [View](./italy.md) |
+| Italy | 48,998 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T22:01:55.023Z
+Generated: 2026-10-24T22:03:47.235Z

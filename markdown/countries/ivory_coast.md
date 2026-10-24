@@ -29,7 +29,7 @@ Indexed users: 488
 | 15 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 4,371 |
 | 16 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev | Côte d'ivoire, Abidjan | 4,300 |
 | 17 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 4,183 |
-| 18 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme | Ivory Coast | 4,035 |
+| 18 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme | Ivory Coast | 4,028 |
 | 19 | [elinguiuriel](https://github.com/elinguiuriel) | ELINGUI Pascal Uriel | Côte d'Ivoire | 4,015 |
 | 20 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,806 |
 
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 
-Generated: 2026-10-24T19:33:34.784Z
+Generated: 2026-10-24T22:02:50.389Z
