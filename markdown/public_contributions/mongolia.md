@@ -1,13 +1,13 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-24T08:03:36.325Z
+Generated: 2026-10-24T11:57:31.132Z
 
 Users: 804
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 3029 |
-| 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | ZEVQORA | nero_4040 | Mongolia, Darkhan | 1232 |
+| 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | ZEVQORA | nero_4040 | Mongolia, Darkhan | 1252 |
 | 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | MEDIAPRO | Temuujin_TV | Mongolia | 1111 |
 | 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal |  |  | Ulaanbaatar, Mongolia | 1040 |
 | 5 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 954 |
@@ -23,6 +23,6 @@ Users: 804
 | 15 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 508 |
 | 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 493 |
 | 17 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 489 |
-| 18 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
-| 19 | [dukunuu](https://github.com/dukunuu) | nt-dukk |  |  | Ulaanbaatar, Mongolia | 481 |
+| 18 | [dukunuu](https://github.com/dukunuu) | nt-dukk |  |  | Ulaanbaatar, Mongolia | 481 |
+| 19 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 481 |
 | 20 | [munkhorgil](https://github.com/munkhorgil) | Orgil | Engineer @roarkhq |  | Mongolia | 480 |

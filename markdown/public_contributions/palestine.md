@@ -1,13 +1,13 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-24T08:09:34.616Z
+Generated: 2026-10-24T12:05:27.087Z
 
 Users: 2195
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7056 |
-| 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 4746 |
+| 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 4899 |
 | 3 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 2477 |
 | 4 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon |  |  | Palestine | 2151 |
 | 5 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1699 |
@@ -16,7 +16,7 @@ Users: 2195
 | 8 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1030 |
 | 10 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 992 |
-| 11 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 979 |
+| 11 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 982 |
 | 12 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 950 |
 | 13 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 928 |
 | 14 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |

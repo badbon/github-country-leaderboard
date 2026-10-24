@@ -17,7 +17,7 @@ Indexed users: 175
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 3,118 |
 | 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | Niamey, Niger | 2,148 |
 | 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger / Niamey | 1,882 |
-| 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky | Niger | 1,395 |
+| 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky | Niger | 1,394 |
 | 7 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,269 |
 | 8 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,147 |
 | 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,049 |
@@ -83,4 +83,4 @@ Indexed users: 175
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 18 |
 
-Generated: 2026-10-24T08:06:17.352Z
+Generated: 2026-10-24T12:01:01.722Z

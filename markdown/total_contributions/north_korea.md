@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-24T08:06:38.402Z
+Generated: 2026-10-24T12:03:41.910Z
 
 Users: 185
 
@@ -20,7 +20,7 @@ Users: 185
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 512 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 477 |
-| 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 416 |
+| 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 449 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 367 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 308 |

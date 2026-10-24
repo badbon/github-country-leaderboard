@@ -27,8 +27,8 @@ Indexed users: 474
 | 13 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,866 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,529 |
 | 15 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,438 |
-| 16 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,148 |
-| 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 2,143 |
+| 16 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 2,191 |
+| 17 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,148 |
 | 18 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 2,106 |
 | 19 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,947 |
 | 20 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,814 |
@@ -65,7 +65,7 @@ Indexed users: 474
 | 1 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 226 |
 | 2 | [Justin-sketch](https://github.com/Justin-sketch) | Gabriel Kambinda Justinu | windhoek,namibia | 180 |
 | 3 | [Lucas-Erkana](https://github.com/Lucas-Erkana) | Lucas David Erkana | Walvis Bay, Namibia | 129 |
-| 4 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 104 |
+| 4 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 105 |
 | 5 | [afroGeM7](https://github.com/afroGeM7) | Gemma Usiku | Namibia | 103 |
 | 6 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 100 |
 | 7 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 91 |
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-24T08:05:17.674Z
+Generated: 2026-10-24T11:59:59.761Z

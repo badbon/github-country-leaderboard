@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-24T08:06:38.402Z
+Generated: 2026-10-24T12:03:41.910Z
 
 Users: 185
 
@@ -13,8 +13,8 @@ Users: 185
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 350 |
 | 6 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 229 |
 | 7 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 221 |
-| 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 207 |
-| 9 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 201 |
+| 8 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 208 |
+| 9 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 207 |
 | 10 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 195 |
 | 11 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 191 |
 | 12 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 189 |

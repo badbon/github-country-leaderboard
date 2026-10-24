@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-24T08:09:42.734Z
+Generated: 2026-10-24T12:06:25.537Z
 
 Users: 296
 
@@ -10,8 +10,8 @@ Users: 296
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 13626 |
 | 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10574 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4409 |
-| 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3120 |
-| 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 3108 |
+| 5 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 3141 |
+| 6 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3120 |
 | 7 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 1525 |
 | 8 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 1518 |
 | 9 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 1448 |
@@ -19,7 +19,7 @@ Users: 296
 | 11 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1154 |
 | 12 | [nessktn](https://github.com/nessktn) | Johannes Kutan |  |  | Papua New Guinea | 1060 |
 | 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 909 |
-| 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 766 |
+| 14 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 765 |
 | 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 557 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 452 |
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 382 |

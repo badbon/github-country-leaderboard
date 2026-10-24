@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-24T08:09:34.616Z
+Generated: 2026-10-24T12:05:27.087Z
 
 Users: 2195
 
@@ -11,7 +11,7 @@ Users: 2195
 | 3 | [mahmoudps](https://github.com/mahmoudps) | Mahmoud Matar | atyaf |  | Palestine | 15545 |
 | 4 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 14485 |
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 13149 |
-| 6 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 12358 |
+| 6 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 12954 |
 | 7 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS |  |  | Palestine | 11745 |
 | 8 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 8206 |
 | 9 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 7671 |

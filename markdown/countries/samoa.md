@@ -12,8 +12,8 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 5,338 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,504 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 5,343 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,505 |
 | 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,094 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 330 |
 | 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 101 |
@@ -37,14 +37,14 @@ Indexed users: 19
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,094 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 220 |
-| 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 101 |
-| 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
-| 5 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
-| 6 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 71 |
-| 7 | [samos667](https://github.com/samos667) |  | Apia | 47 |
-| 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | Samoa | 44 |
-| 9 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 20 |
+| 2 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 409 |
+| 3 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 220 |
+| 4 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 101 |
+| 5 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
+| 6 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
+| 7 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 71 |
+| 8 | [samos667](https://github.com/samos667) |  | Apia | 47 |
+| 9 | [tavitas](https://github.com/tavitas) | Tavita Su'a | Samoa | 44 |
 | 10 | [duchonic](https://github.com/duchonic) | duchonic | samoa | 7 |
 | 11 | [Varmuz](https://github.com/Varmuz) | Varmuz | Samoa | 3 |
 | 12 | [5thAttemptCode](https://github.com/5thAttemptCode) | Henry  | Apia, Samoa | 2 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [xfy777](https://github.com/xfy777) | xfy | Samoa | 2 |
 | 19 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 1 |
 
-Generated: 2026-10-24T08:15:24.344Z
+Generated: 2026-10-24T12:11:15.333Z

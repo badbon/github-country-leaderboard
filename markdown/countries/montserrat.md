@@ -12,10 +12,10 @@ Indexed users: 291
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,766 |
+| 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,823 |
 | 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 9,467 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 7,339 |
-| 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,083 |
+| 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,084 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,005 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,381 |
@@ -37,14 +37,14 @@ Indexed users: 291
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,083 |
+| 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,084 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,449 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,061 |
 | 5 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 6 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 693 |
 | 7 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 688 |
-| 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 523 |
+| 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 524 |
 | 9 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 465 |
 | 10 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 450 |
 | 11 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 394 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-24T08:03:47.167Z
+Generated: 2026-10-24T11:58:41.212Z

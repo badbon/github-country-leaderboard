@@ -45,7 +45,7 @@ Indexed users: 1,354
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
 | 7 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,826 |
 | 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
-| 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
+| 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,646 |
 | 10 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 1,621 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,599 |
 | 12 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,482 |
@@ -83,4 +83,4 @@ Indexed users: 1,354
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 143 |
 
-Generated: 2026-10-24T08:17:04.571Z
+Generated: 2026-10-24T12:13:10.979Z

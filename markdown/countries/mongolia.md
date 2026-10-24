@@ -38,7 +38,7 @@ Indexed users: 804
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 3,029 |
-| 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,232 |
+| 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,252 |
 | 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | Mongolia | 1,111 |
 | 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 1,040 |
 | 5 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 954 |
@@ -54,8 +54,8 @@ Indexed users: 804
 | 15 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | mongolia | 508 |
 | 16 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 493 |
 | 17 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 489 |
-| 18 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 484 |
-| 19 | [dukunuu](https://github.com/dukunuu) | nt-dukk | Ulaanbaatar, Mongolia | 481 |
+| 18 | [dukunuu](https://github.com/dukunuu) | nt-dukk | Ulaanbaatar, Mongolia | 481 |
+| 19 | [Namuun0521](https://github.com/Namuun0521) | Namuun | Ulaanbaatar, Mongolia | 481 |
 | 20 | [munkhorgil](https://github.com/munkhorgil) | Orgil | Mongolia | 480 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 804
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 57 |
 
-Generated: 2026-10-24T08:03:36.325Z
+Generated: 2026-10-24T11:57:31.132Z

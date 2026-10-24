@@ -23,12 +23,12 @@ Indexed users: 438
 | 9 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 3,401 |
 | 10 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,350 |
 | 11 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 3,186 |
-| 12 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,999 |
+| 12 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 3,003 |
 | 13 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,315 |
 | 14 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,299 |
 | 15 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,251 |
 | 16 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,143 |
-| 17 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,805 |
+| 17 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,808 |
 | 18 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,795 |
 | 19 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 1,780 |
 | 20 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,749 |
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-24T07:57:04.003Z
+Generated: 2026-10-24T11:54:13.341Z

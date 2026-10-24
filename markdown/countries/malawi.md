@@ -31,7 +31,7 @@ Indexed users: 899
 | 17 | [caesar127](https://github.com/caesar127) | Caesar Ndawala | Malawi | 3,272 |
 | 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,142 |
 | 19 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Blantyre, Malawi | 3,123 |
-| 20 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,097 |
+| 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,094 |
 
 ## Public Contributions
 
@@ -50,7 +50,7 @@ Indexed users: 899
 | 11 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 663 |
 | 12 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 644 |
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
-| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 568 |
+| 14 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 575 |
 | 15 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 523 |
 | 16 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 485 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
@@ -71,7 +71,7 @@ Indexed users: 899
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 319 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 300 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 263 |
-| 10 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 239 |
+| 10 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 240 |
 | 11 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 235 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 223 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 207 |
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 132 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 
-Generated: 2026-10-24T07:57:44.787Z
+Generated: 2026-10-24T11:54:19.638Z

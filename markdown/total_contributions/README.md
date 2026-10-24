@@ -125,9 +125,9 @@ Published countries: 236
 | Lithuania | 5,362 | [View](./lithuania.md) |
 | Luxembourg | 2,190 | [View](./luxembourg.md) |
 | Macau | 438 | [View](./macau.md) |
-| Madagascar | 1,900 | [View](./madagascar.md) |
+| Madagascar | 1,899 | [View](./madagascar.md) |
 | Malawi | 899 | [View](./malawi.md) |
-| Malaysia | 11,774 | [View](./malaysia.md) |
+| Malaysia | 11,773 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 347 | [View](./mali.md) |
 | Malta | 1,223 | [View](./malta.md) |
@@ -148,12 +148,12 @@ Published countries: 236
 | Myanmar | 2,055 | [View](./myanmar.md) |
 | Namibia | 474 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
-| Nepal | 14,089 | [View](./nepal.md) |
+| Nepal | 14,086 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
 | New Zealand | 12,133 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
 | Niger | 175 | [View](./niger.md) |
-| Nigeria | 33,168 | [View](./nigeria.md) |
+| Nigeria | 33,167 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
@@ -167,7 +167,7 @@ Published countries: 236
 | Panama | 1,069 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,013 | [View](./paraguay.md) |
-| Peru | 9,760 | [View](./peru.md) |
+| Peru | 9,759 | [View](./peru.md) |
 | Philippines | 19,742 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Poland | 58,089 | [View](./poland.md) |
@@ -176,7 +176,7 @@ Published countries: 236
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 297 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
-| Romania | 14,963 | [View](./romania.md) |
+| Romania | 14,961 | [View](./romania.md) |
 | Rwanda | 3,497 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 26 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T11:53:00.857Z
+Generated: 2026-10-24T12:14:30.574Z

@@ -41,15 +41,15 @@ Indexed users: 1,069
 | 2 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 7,656 |
 | 3 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,905 |
 | 4 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,755 |
-| 5 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,690 |
-| 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
-| 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,979 |
-| 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,929 |
-| 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,839 |
-| 10 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,724 |
-| 11 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,538 |
-| 12 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,485 |
-| 13 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,327 |
+| 5 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
+| 6 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,979 |
+| 7 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,929 |
+| 8 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,839 |
+| 9 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,724 |
+| 10 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,538 |
+| 11 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,485 |
+| 12 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,327 |
+| 13 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 1,198 |
 | 14 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,186 |
 | 15 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,175 |
 | 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,159 |
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 48 |
 
-Generated: 2026-10-24T08:09:36.986Z
+Generated: 2026-10-24T12:06:22.872Z

@@ -13,7 +13,7 @@ Indexed users: 297
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 12,039 |
-| 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 7,818 |
+| 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 8,101 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,169 |
 | 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 4,052 |
 | 5 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 4,020 |
@@ -21,7 +21,7 @@ Indexed users: 297
 | 7 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,757 |
 | 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 3,201 |
 | 9 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,990 |
-| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,971 |
+| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,961 |
 | 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,952 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,487 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,356 |
@@ -83,4 +83,4 @@ Indexed users: 297
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 26 |
 | 20 | [jenCkw](https://github.com/jenCkw) | Jenny Chikwanine | Congo | 23 |
 
-Generated: 2026-10-24T08:12:20.732Z
+Generated: 2026-10-24T12:09:12.815Z

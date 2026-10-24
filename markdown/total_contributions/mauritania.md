@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-24T08:01:29.540Z
+Generated: 2026-10-24T11:56:52.296Z
 
 Users: 288
 
@@ -13,7 +13,7 @@ Users: 288
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 5535 |
 | 6 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 4142 |
 | 7 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4095 |
-| 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 3738 |
+| 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 3735 |
 | 9 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3477 |
 | 10 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 2746 |
 | 11 | [NejmiSidaty](https://github.com/NejmiSidaty) | Mohamed Jiyed |  |  | Nouakchott, Mauritania | 2567 |
