@@ -16,7 +16,7 @@ Indexed users: 442
 | 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Freetown. Sierra Leone | 6,506 |
 | 3 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | Sierra Leone, West Africa | 5,622 |
 | 4 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 5,528 |
-| 5 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 5,474 |
+| 5 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 5,513 |
 | 6 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 4,135 |
 | 7 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,711 |
 | 8 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,693 |
@@ -39,7 +39,7 @@ Indexed users: 442
 |---:|---|---|---|---:|
 | 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,084 |
 | 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 1,966 |
-| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 1,281 |
+| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 1,288 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 1,006 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk | Regent, Freetown, Sierra Leone. | 1,000 |
 | 6 | [AlphaDumbuya](https://github.com/AlphaDumbuya) | Alpha Dumbuya | Freetown, sierra Leone  | 972 |
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-24T13:41:23.926Z
+Generated: 2026-10-24T15:13:07.597Z
