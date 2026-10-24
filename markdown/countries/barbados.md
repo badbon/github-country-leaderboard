@@ -29,7 +29,7 @@ Indexed users: 132
 | 15 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 670 |
 | 16 | [starsden](https://github.com/starsden) | den | Barbados | 593 |
 | 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 590 |
-| 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 441 |
+| 18 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 439 |
 | 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 434 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 
@@ -56,7 +56,7 @@ Indexed users: 132
 | 17 | [starsden](https://github.com/starsden) | den | Barbados | 99 |
 | 18 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 96 |
 | 19 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
-| 20 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 80 |
+| 20 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 77 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-24T08:44:09.056Z
+Generated: 2026-10-24T12:40:03.791Z

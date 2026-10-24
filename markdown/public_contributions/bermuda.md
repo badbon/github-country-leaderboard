@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-24T08:45:25.508Z
+Generated: 2026-10-24T12:41:01.557Z
 
 Users: 896
 
@@ -16,11 +16,11 @@ Users: 896
 | 8 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | McMaster University |  | Hamilton, ON | 1264 |
 | 9 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 1256 |
 | 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel |  |  | Hamilton - ON | 1005 |
-| 11 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 951 |
-| 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam |  |  | Hamilton Ontario | 898 |
-| 13 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 832 |
-| 14 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Elastic | clintandrewhall | Hamilton, ON | 806 |
-| 15 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 794 |
+| 11 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 952 |
+| 12 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 951 |
+| 13 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam |  |  | Hamilton Ontario | 898 |
+| 14 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 832 |
+| 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Elastic | clintandrewhall | Hamilton, ON | 806 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 582 |
 | 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar |  |  | Hamilton | 566 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 512 |

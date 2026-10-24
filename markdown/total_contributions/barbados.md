@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-24T08:44:09.056Z
+Generated: 2026-10-24T12:40:03.791Z
 
 Users: 132
 
@@ -23,6 +23,6 @@ Users: 132
 | 15 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 670 |
 | 16 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 593 |
 | 17 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 590 |
-| 18 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 441 |
+| 18 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 439 |
 | 19 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 434 |
 | 20 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |

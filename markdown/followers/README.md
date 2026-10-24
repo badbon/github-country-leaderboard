@@ -15,13 +15,13 @@ Published countries: 236
 | Antarctica | 459 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
 | Argentina | 50,709 | [View](./argentina.md) |
-| Armenia | 4,021 | [View](./armenia.md) |
+| Armenia | 4,020 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
 | Austria | 18,240 | [View](./austria.md) |
 | Azerbaijan | 5,040 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
-| Bangladesh | 55,297 | [View](./bangladesh.md) |
+| Bangladesh | 55,296 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,913 | [View](./belarus.md) |
 | Belgium | 18,369 | [View](./belgium.md) |
@@ -33,7 +33,7 @@ Published countries: 236
 | Bosnia and Herzegovina | 2,126 | [View](./bosnia_and_herzegovina.md) |
 | Botswana | 532 | [View](./botswana.md) |
 | Bouvet Island | 6 | [View](./bouvet_island.md) |
-| British Indian Ocean Territory | 3 | [View](./british_indian_ocean_territory.md) |
+| British Indian Ocean Territory | 2 | [View](./british_indian_ocean_territory.md) |
 | British Virgin Islands | 38 | [View](./british_virgin_islands.md) |
 | Brunei | 254 | [View](./brunei.md) |
 | Bulgaria | 14,062 | [View](./bulgaria.md) |
@@ -46,10 +46,10 @@ Published countries: 236
 | Cayman Islands | 124 | [View](./cayman_islands.md) |
 | Central African Republic | 11 | [View](./central_african_republic.md) |
 | Chad | 200 | [View](./chad.md) |
-| Chile | 19,371 | [View](./chile.md) |
+| Chile | 19,369 | [View](./chile.md) |
 | Christmas Island | 20 | [View](./christmas_island.md) |
 | Cocos (Keeling) Islands | 9 | [View](./cocos_keeling_islands.md) |
-| Colombia | 29,146 | [View](./colombia.md) |
+| Colombia | 29,145 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
 | Costa Rica | 5,626 | [View](./costa_rica.md) |
@@ -57,8 +57,8 @@ Published countries: 236
 | Cuba | 1,272 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,721 | [View](./cyprus.md) |
-| Czechia | 16,198 | [View](./czechia.md) |
-| Denmark | 19,292 | [View](./denmark.md) |
+| Czechia | 16,197 | [View](./czechia.md) |
+| Denmark | 19,291 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,296 | [View](./dominican_republic.md) |
@@ -80,7 +80,7 @@ Published countries: 236
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
-| Georgia | 6,866 | [View](./georgia.md) |
+| Georgia | 6,865 | [View](./georgia.md) |
 | Ghana | 7,069 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,528 | [View](./greece.md) |
@@ -99,7 +99,7 @@ Published countries: 236
 | Hong Kong | 10,242 | [View](./hong_kong.md) |
 | Hungary | 11,153 | [View](./hungary.md) |
 | Iceland | 1,579 | [View](./iceland.md) |
-| Indonesia | 63,267 | [View](./indonesia.md) |
+| Indonesia | 63,272 | [View](./indonesia.md) |
 | Iran | 26,844 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
 | Ireland | 19,480 | [View](./ireland.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T12:30:28.766Z
+Generated: 2026-10-24T12:54:22.928Z

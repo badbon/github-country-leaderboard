@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-24T08:49:50.463Z
+Generated: 2026-10-24T12:44:01.180Z
 
 Users: 254
 
@@ -10,7 +10,7 @@ Users: 254
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 516 |
 | 3 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 337 |
 | 4 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 330 |
-| 5 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 319 |
+| 5 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 310 |
 | 6 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 262 |
 | 7 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan |  |  | Brunei | 148 |
 | 8 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 112 |

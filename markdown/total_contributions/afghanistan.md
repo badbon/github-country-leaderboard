@@ -1,12 +1,12 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-24T08:37:51.374Z
+Generated: 2026-10-24T12:34:43.976Z
 
 Users: 1489
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond |  |  | Kabul, Afghanistan | 204921 |
+| 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond |  |  | Kabul, Afghanistan | 196280 |
 | 2 | [zevrok](https://github.com/zevrok) | Zevrok |  |  | Kabul, Afghanistan | 88601 |
 | 3 | [devpro0313](https://github.com/devpro0313) | Dev pro |  |  | Afghanistan | 76717 |
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 66650 |

@@ -1,6 +1,6 @@
 # British Indian Ocean Territory
 
-Indexed users: 3
+Indexed users: 2
 
 | Leaderboard | Link |
 |---|---|
@@ -12,24 +12,21 @@ Indexed users: 3
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 828 |
+| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 843 |
 | 2 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 524 |
-| 3 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 52 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 301 |
-| 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 52 |
-| 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 6 |
+| 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 315 |
+| 2 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 6 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 92 |
-| 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 50 |
-| 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 8 |
+| 2 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 8 |
 
-Generated: 2026-10-24T08:48:37.942Z
+Generated: 2026-10-24T12:43:39.678Z

@@ -1,12 +1,12 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-24T08:49:54.973Z
+Generated: 2026-10-24T12:44:03.785Z
 
 Users: 14062
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Venelin-Bekyarov](https://github.com/Venelin-Bekyarov) | Venelin Bekyarov |  |  | Bulgaria | 126193 |
+| 1 | [Venelin-Bekyarov](https://github.com/Venelin-Bekyarov) | Venelin Bekyarov |  |  | Bulgaria | 124616 |
 | 2 | [stoykovstoyk](https://github.com/stoykovstoyk) |  |  |  | Bulgaria, Sofia | 43160 |
 | 3 | [zah](https://github.com/zah) |  |  |  | Sofia, Bulgaria | 30597 |
 | 4 | [RMANOV](https://github.com/RMANOV) | Ruslan Manov |  |  | Sofia, Bulgaria | 20502 |

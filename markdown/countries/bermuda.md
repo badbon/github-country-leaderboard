@@ -18,18 +18,18 @@ Indexed users: 896
 | 4 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 12,652 |
 | 5 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,750 |
 | 6 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,513 |
-| 7 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,703 |
+| 7 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,699 |
 | 8 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,537 |
 | 9 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,413 |
 | 10 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,681 |
 | 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,659 |
 | 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,280 |
-| 13 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,051 |
+| 13 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,050 |
 | 14 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,733 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 5,055 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,542 |
-| 17 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,479 |
-| 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,428 |
+| 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,490 |
+| 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 4,479 |
 | 19 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,353 |
 | 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene | Hamilton, Ontario | 4,265 |
 
@@ -47,11 +47,11 @@ Indexed users: 896
 | 8 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,264 |
 | 9 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 1,256 |
 | 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,005 |
-| 11 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 951 |
-| 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 898 |
-| 13 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 832 |
-| 14 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 806 |
-| 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 794 |
+| 11 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 952 |
+| 12 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 951 |
+| 13 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 898 |
+| 14 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 832 |
+| 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 806 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 582 |
 | 17 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 566 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 512 |
@@ -83,4 +83,4 @@ Indexed users: 896
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 67 |
 
-Generated: 2026-10-24T08:45:25.508Z
+Generated: 2026-10-24T12:41:01.557Z

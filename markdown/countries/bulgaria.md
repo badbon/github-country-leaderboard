@@ -12,7 +12,7 @@ Indexed users: 14,062
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Venelin-Bekyarov](https://github.com/Venelin-Bekyarov) | Venelin Bekyarov | Bulgaria | 126,193 |
+| 1 | [Venelin-Bekyarov](https://github.com/Venelin-Bekyarov) | Venelin Bekyarov | Bulgaria | 124,616 |
 | 2 | [stoykovstoyk](https://github.com/stoykovstoyk) |  | Bulgaria, Sofia | 43,160 |
 | 3 | [zah](https://github.com/zah) |  | Sofia, Bulgaria | 30,597 |
 | 4 | [RMANOV](https://github.com/RMANOV) | Ruslan Manov | Sofia, Bulgaria | 20,502 |
@@ -83,4 +83,4 @@ Indexed users: 14,062
 | 19 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 | 20 | [narfbg](https://github.com/narfbg) | Andrey Andreev | Bulgaria | 601 |
 
-Generated: 2026-10-24T08:49:54.973Z
+Generated: 2026-10-24T12:44:03.785Z

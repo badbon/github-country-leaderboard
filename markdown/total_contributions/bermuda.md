@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-24T08:45:25.508Z
+Generated: 2026-10-24T12:41:01.557Z
 
 Users: 896
 
@@ -12,17 +12,17 @@ Users: 896
 | 4 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 12652 |
 | 5 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 10750 |
 | 6 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 10513 |
-| 7 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Shopify |  | Hamilton, Ontario | 7703 |
+| 7 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Shopify |  | Hamilton, Ontario | 7699 |
 | 8 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 7537 |
 | 9 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7413 |
 | 10 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 6681 |
 | 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6659 |
 | 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 6280 |
-| 13 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6051 |
+| 13 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6050 |
 | 14 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5733 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 5055 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4542 |
-| 17 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | @fankave  | osamaaamer | Hamilton, NZ | 4479 |
-| 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4428 |
+| 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4490 |
+| 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | @fankave  | osamaaamer | Hamilton, NZ | 4479 |
 | 19 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4353 |
 | 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene |  | stieneee | Hamilton, Ontario | 4265 |

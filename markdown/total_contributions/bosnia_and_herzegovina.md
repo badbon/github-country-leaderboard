@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-24T08:47:22.775Z
+Generated: 2026-10-24T12:42:26.379Z
 
 Users: 2126
 
@@ -18,9 +18,9 @@ Users: 2126
 | 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6464 |
 | 11 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 6172 |
 | 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 6098 |
-| 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5773 |
-| 14 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5738 |
-| 15 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 5737 |
+| 13 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 5783 |
+| 14 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5773 |
+| 15 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5738 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5720 |
 | 17 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 5332 |
 | 18 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5222 |

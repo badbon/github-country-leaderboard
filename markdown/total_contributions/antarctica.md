@@ -1,13 +1,13 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-24T08:41:12.649Z
+Generated: 2026-10-24T12:37:35.509Z
 
 Users: 459
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 6741 |
-| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 6404 |
+| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 6517 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6029 |
 | 4 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 5704 |
 | 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 5540 |
@@ -25,4 +25,4 @@ Users: 459
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2746 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2617 |
 | 19 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2407 |
-| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | @truckersmp |  | Antarctica | 1759 |
+| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | @truckersmp |  | Antarctica | 1752 |

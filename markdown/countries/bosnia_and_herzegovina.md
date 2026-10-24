@@ -24,9 +24,9 @@ Indexed users: 2,126
 | 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,464 |
 | 11 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 6,172 |
 | 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 6,098 |
-| 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,773 |
-| 14 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,738 |
-| 15 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 5,737 |
+| 13 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 5,783 |
+| 14 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,773 |
+| 15 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,738 |
 | 16 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,720 |
 | 17 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 5,332 |
 | 18 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,222 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-24T08:47:22.775Z
+Generated: 2026-10-24T12:42:26.379Z

@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-24T08:41:06.614Z
+Generated: 2026-10-24T12:35:54.024Z
 
 Users: 2498
 
@@ -13,8 +13,8 @@ Users: 2498
 | 5 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Musickool Lda |  | Angola | 10429 |
 | 6 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 9520 |
 | 7 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 8618 |
-| 8 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6593 |
-| 9 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
+| 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6978 |
+| 9 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6593 |
 | 10 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 6103 |
 | 11 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
 | 12 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 5619 |
