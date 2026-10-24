@@ -48487,7 +48487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3005,
+    "privateContributions": 2913,
     "publicContributions": 0,
     "createdAt": "2018-05-21T17:40:43Z"
   },
@@ -48511,7 +48511,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 889,
     "publicContributions": 0,
     "createdAt": "2018-11-11T15:51:14Z"
   },
@@ -48536,7 +48536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 61,
     "createdAt": "2018-02-09T14:45:24Z"
   },
   {
@@ -48547,7 +48547,7 @@
     "company": "Torre América, El Recreo. Caracas, Venezuela",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 112,
+    "privateContributions": 116,
     "publicContributions": 0,
     "createdAt": "2018-12-28T16:02:00Z"
   },
@@ -48572,7 +48572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 0,
     "createdAt": "2018-03-28T12:25:11Z"
   },
   {
@@ -48594,7 +48594,7 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "iamreirivero",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2018-07-01T21:49:06Z"
@@ -48612,18 +48612,6 @@
     "createdAt": "2018-12-17T13:13:33Z"
   },
   {
-    "login": "NomarPimentel",
-    "name": "Nomar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43305157?s=72&u=5d32b038f6cab6836552b7be7b8e91310c0db17c&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-09-15T23:04:10Z"
-  },
-  {
     "login": "JonnyRodriguez",
     "name": "Jonny Rodriguez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45298600?s=72&u=fdb6f037e3f116425383827dd50bd156fb76f776&v=4",
@@ -48632,7 +48620,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2018-11-23T20:36:51Z"
   },
   {
@@ -48644,7 +48632,7 @@
     "twitterUsername": "cdguedez",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 96,
     "createdAt": "2018-11-30T18:29:59Z"
   },
   {
@@ -48704,19 +48692,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 35,
     "createdAt": "2018-11-22T20:19:00Z"
   },
   {
     "login": "Jose300",
     "name": "Jose Perera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41806129?s=72&u=177f372a4256b2820fb55043609c631cf96dcad8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/41806129?s=72&u=08f1194a5484f07d9077d0fac835274ed92bb8b1&v=4",
     "location": "Caracas-Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 16,
     "createdAt": "2018-07-27T21:01:28Z"
   },
   {

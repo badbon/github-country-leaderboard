@@ -18932,7 +18932,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 195,
-    "publicContributions": 467,
+    "publicContributions": 464,
     "createdAt": "2020-11-01T00:29:13Z"
   },
   {
@@ -18966,8 +18966,8 @@
     "location": "Angola, Luanda",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 634,
+    "followers": 24,
+    "privateContributions": 648,
     "publicContributions": 73,
     "createdAt": "2020-03-28T10:19:04Z"
   },
@@ -18979,21 +18979,9 @@
     "company": "",
     "twitterUsername": "HonoreSousa",
     "followers": 23,
-    "privateContributions": 187,
-    "publicContributions": 53,
+    "privateContributions": 194,
+    "publicContributions": 59,
     "createdAt": "2020-09-18T14:54:12Z"
-  },
-  {
-    "login": "Keidi16",
-    "name": "João Lopes (Keidi Francis)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65850554?s=72&u=cfd66388602f0b38e4a8e62c453e56ab37c1a067&v=4",
-    "location": "Angola",
-    "company": "Ksecurity",
-    "twitterUsername": "JooLopes169942",
-    "followers": 26,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2020-05-24T09:51:15Z"
   },
   {
     "login": "geraldo916",
@@ -19003,7 +18991,7 @@
     "company": "Octogono",
     "twitterUsername": "Geraldo_Munhika",
     "followers": 23,
-    "privateContributions": 966,
+    "privateContributions": 951,
     "publicContributions": 0,
     "createdAt": "2020-03-17T17:36:57Z"
   },
@@ -19038,8 +19026,8 @@
     "location": "Angola",
     "company": "Bicuar App - Prestação De Serviços (SU), LDA",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 110,
+    "followers": 22,
+    "privateContributions": 109,
     "publicContributions": 4,
     "createdAt": "2020-07-15T10:19:22Z"
   },
@@ -19051,8 +19039,8 @@
     "company": "Salvador TI",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 383,
-    "publicContributions": 4,
+    "privateContributions": 397,
+    "publicContributions": 3,
     "createdAt": "2020-05-28T11:21:58Z"
   },
   {
@@ -19063,8 +19051,8 @@
     "company": "Edukuza",
     "twitterUsername": "JorgeLucasjs",
     "followers": 25,
-    "privateContributions": 2134,
-    "publicContributions": 61,
+    "privateContributions": 2155,
+    "publicContributions": 11,
     "createdAt": "2020-02-08T08:29:38Z"
   },
   {
@@ -19074,9 +19062,9 @@
     "location": "Angola-Luanda",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 848,
-    "publicContributions": 231,
+    "followers": 20,
+    "privateContributions": 853,
+    "publicContributions": 225,
     "createdAt": "2020-03-30T09:40:05Z"
   },
   {
@@ -19086,8 +19074,8 @@
     "location": "Luanda/Angola",
     "company": "@deepfordevs ",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 129,
+    "followers": 23,
+    "privateContributions": 128,
     "publicContributions": 0,
     "createdAt": "2020-08-28T08:36:00Z"
   },
@@ -19099,8 +19087,8 @@
     "company": "Yaala",
     "twitterUsername": "JoaquimMulaza",
     "followers": 24,
-    "privateContributions": 27,
-    "publicContributions": 1332,
+    "privateContributions": 1347,
+    "publicContributions": 209,
     "createdAt": "2020-09-13T06:34:43Z"
   },
   {
@@ -19123,8 +19111,8 @@
     "company": "Evoluyr",
     "twitterUsername": "nicolaunp",
     "followers": 21,
-    "privateContributions": 852,
-    "publicContributions": 8,
+    "privateContributions": 875,
+    "publicContributions": 13,
     "createdAt": "2020-08-19T15:41:28Z"
   },
   {
@@ -19135,8 +19123,8 @@
     "company": "@DevTest",
     "twitterUsername": "cientista_2022",
     "followers": 19,
-    "privateContributions": 437,
-    "publicContributions": 66,
+    "privateContributions": 510,
+    "publicContributions": 67,
     "createdAt": "2020-10-20T08:20:25Z"
   },
   {
@@ -19147,7 +19135,7 @@
     "company": "@IS4S-Intelligence-Software-Solutions ",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 110,
+    "privateContributions": 109,
     "publicContributions": 1169,
     "createdAt": "2020-11-22T09:48:50Z"
   },

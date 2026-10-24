@@ -49088,7 +49088,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2015-02-25T21:38:47Z"
   },
   {
@@ -49111,7 +49111,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 409,
+    "privateContributions": 278,
     "publicContributions": 0,
     "createdAt": "2015-06-01T21:37:19Z"
   },
@@ -49122,7 +49122,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-13T18:46:49Z"
@@ -49135,7 +49135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 55,
+    "privateContributions": 267,
     "publicContributions": 0,
     "createdAt": "2015-03-12T03:36:20Z"
   },
@@ -49146,9 +49146,9 @@
     "location": "Cartago, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 36,
     "createdAt": "2015-11-04T16:38:52Z"
   },
   {
@@ -49157,10 +49157,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/10452059?s=72&u=be9021e0f1b155f49785708a389c245817e81294&v=4",
     "location": "Costa Rica",
     "company": "@SoinLabs ",
-    "twitterUsername": "JoseQS",
+    "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 4083,
-    "publicContributions": 0,
+    "privateContributions": 14610,
+    "publicContributions": 4,
     "createdAt": "2015-01-08T16:08:31Z"
   },
   {
@@ -49184,7 +49184,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 46,
     "createdAt": "2015-03-16T01:38:15Z"
   },
   {
@@ -49207,7 +49207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 508,
+    "privateContributions": 532,
     "publicContributions": 9,
     "createdAt": "2015-10-05T16:44:33Z"
   },
@@ -49242,9 +49242,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2015-01-22T14:58:48Z"
   },
   {
@@ -49254,7 +49254,7 @@
     "location": "Costa Rica",
     "company": "GeeksLab.tech",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 68,
     "createdAt": "2015-04-15T16:49:15Z"
@@ -49280,7 +49280,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 33,
     "createdAt": "2015-09-18T19:14:41Z"
   },
   {
@@ -49302,7 +49302,7 @@
     "location": "Costa Rica",
     "company": "Cargill",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-11-18T16:18:11Z"

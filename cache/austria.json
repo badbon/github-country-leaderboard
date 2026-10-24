@@ -48703,7 +48703,7 @@
     "company": "@telekom-security",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 190,
+    "privateContributions": 543,
     "publicContributions": 113,
     "createdAt": "2020-05-12T00:44:02Z"
   },
@@ -48715,8 +48715,8 @@
     "company": "@canonical",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1135,
-    "publicContributions": 175,
+    "privateContributions": 914,
+    "publicContributions": 53,
     "createdAt": "2020-04-26T13:32:10Z"
   },
   {
@@ -48726,8 +48726,8 @@
     "location": "Obertrum am See, Austria",
     "company": "Modelleinsenbahn Gmbh",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 52,
+    "followers": 19,
+    "privateContributions": 44,
     "publicContributions": 0,
     "createdAt": "2020-04-20T22:02:38Z"
   },
@@ -48750,22 +48750,10 @@
     "location": "Austria",
     "company": "justlikecandy",
     "twitterUsername": "patricksdev",
-    "followers": 16,
-    "privateContributions": 183,
-    "publicContributions": 31,
+    "followers": 15,
+    "privateContributions": 220,
+    "publicContributions": 14,
     "createdAt": "2020-12-19T12:06:36Z"
-  },
-  {
-    "login": "Matesensei",
-    "name": "Nagy Janos Mate",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76243942?s=72&u=8b132cfd482aa4901586c89f13a5e24d493e7136&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2020-12-19T08:32:41Z"
   },
   {
     "login": "aida-solat",
@@ -48774,7 +48762,7 @@
     "location": "Upper Austria, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 162,
     "createdAt": "2020-06-25T12:13:17Z"
@@ -48786,9 +48774,9 @@
     "location": "Austria",
     "company": "TU Wien",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 135,
-    "publicContributions": 14,
+    "followers": 15,
+    "privateContributions": 134,
+    "publicContributions": 16,
     "createdAt": "2020-03-04T13:42:26Z"
   },
   {
@@ -48798,8 +48786,8 @@
     "location": "Salzburg/Hagenberg, Austria",
     "company": "GO.WEST Communications GmbH",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 647,
+    "followers": 14,
+    "privateContributions": 855,
     "publicContributions": 15,
     "createdAt": "2020-05-13T14:22:44Z"
   },
@@ -48824,7 +48812,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 276,
+    "publicContributions": 218,
     "createdAt": "2020-07-02T07:02:19Z"
   },
   {
@@ -48834,9 +48822,9 @@
     "location": "Vorarlberg, Austria",
     "company": "Haberkorn GmbH",
     "twitterUsername": "R3tuxn",
-    "followers": 16,
-    "privateContributions": 171,
-    "publicContributions": 1,
+    "followers": 14,
+    "privateContributions": 210,
+    "publicContributions": 11,
     "createdAt": "2020-04-24T07:43:50Z"
   },
   {
@@ -48857,9 +48845,9 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/61633700?s=72&u=cda6145d06b7ef96c77e29340411ed66427978e0&v=4",
     "location": "Salzkammergut, Austria",
     "company": "@DashioDevs ",
-    "twitterUsername": "martinhiier",
+    "twitterUsername": "martiinhier",
     "followers": 16,
-    "privateContributions": 813,
+    "privateContributions": 955,
     "publicContributions": 4,
     "createdAt": "2020-02-29T19:29:20Z"
   },
@@ -48882,7 +48870,7 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-04T13:20:11Z"
@@ -48894,9 +48882,9 @@
     "location": "Innsbruck, Austria",
     "company": "University of Innsbruck",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 186,
-    "publicContributions": 2,
+    "followers": 18,
+    "privateContributions": 174,
+    "publicContributions": 47,
     "createdAt": "2020-02-17T15:04:43Z"
   },
   {
@@ -48906,8 +48894,8 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 0,
+    "followers": 17,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2020-05-18T14:04:08Z"
   },
@@ -48919,7 +48907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 11,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2020-10-22T11:06:43Z"
   },
@@ -48930,9 +48918,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 456,
-    "publicContributions": 128,
+    "followers": 20,
+    "privateContributions": 561,
+    "publicContributions": 168,
     "createdAt": "2020-10-16T14:16:38Z"
   },
   {
