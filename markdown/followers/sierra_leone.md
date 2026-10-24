@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-24T17:33:03.934Z
+Generated: 2026-10-24T18:49:13.209Z
 
 Users: 442
 
@@ -25,4 +25,4 @@ Users: 442
 | 17 | [pythonnelson](https://github.com/pythonnelson) | Isaac NSB Kargbo | CIO and Founder of Oversight Innovative Technologies | pythonnelson | Freetown | 32 |
 | 18 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 29 |
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 29 |
-| 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma |  |  | Freetown, Sierra Leone, West Africa | 26 |
+| 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma |  |  | Freetown, Sierra Leone, West Africa | 27 |
