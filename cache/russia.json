@@ -863350,5 +863350,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2012-02-09T05:06:33Z"
+  },
+  {
+    "login": "abramovtv",
+    "name": "Timur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1797645?s=72&u=42223a617a141490da41a3b6dd0e25a88f6ecb21&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2012-05-31T06:42:53Z"
+  },
+  {
+    "login": "white-bear",
+    "name": "Alexander",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1451319?s=72&v=4",
+    "location": "Moscow",
+    "company": "cityads.com",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2012-02-19T14:18:16Z"
+  },
+  {
+    "login": "timuchen",
+    "name": "Tim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1520598?s=72&u=144f5b88faf3eea6ca863864206afe705a95ebe7&v=4",
+    "location": "Moscow",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 86,
+    "publicContributions": 10,
+    "createdAt": "2012-03-09T16:02:07Z"
   }
 ]
