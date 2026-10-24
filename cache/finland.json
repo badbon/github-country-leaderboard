@@ -47942,13 +47942,13 @@
   {
     "login": "kallePohjanjoki",
     "name": "Kalle Pohjanjoki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62798723?s=72&u=0e31d26adcbe3c21fe33a759245124825025e909&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62798723?s=72&u=0576f97338668d01adbce9899183bd1e5ed9fc8b&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 21,
-    "publicContributions": 100,
+    "privateContributions": 0,
+    "publicContributions": 134,
     "createdAt": "2020-03-28T13:09:15Z"
   },
   {
@@ -47959,7 +47959,7 @@
     "company": "AMD Silo AI",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 24,
+    "privateContributions": 6,
     "publicContributions": 25,
     "createdAt": "2020-04-17T09:57:27Z"
   },
@@ -47972,20 +47972,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 26,
-    "publicContributions": 196,
+    "publicContributions": 198,
     "createdAt": "2020-06-04T14:44:15Z"
-  },
-  {
-    "login": "sara-emilia",
-    "name": "Emilia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62058192?s=72&u=b905f23bd31047f0792a266b214db65b35e54785&v=4",
-    "location": "Turku, Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-11T10:53:04Z"
   },
   {
     "login": "JouniJokelainenRiveria",
@@ -47996,7 +47984,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2020-03-24T06:49:00Z"
   },
   {
@@ -48019,8 +48007,8 @@
     "company": "Aalto University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 235,
-    "publicContributions": 344,
+    "privateContributions": 177,
+    "publicContributions": 328,
     "createdAt": "2020-05-26T05:42:19Z"
   },
   {
@@ -48031,8 +48019,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 911,
-    "publicContributions": 1,
+    "privateContributions": 1209,
+    "publicContributions": 0,
     "createdAt": "2020-04-28T15:00:43Z"
   },
   {
@@ -48043,8 +48031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 49,
-    "publicContributions": 14,
+    "privateContributions": 24,
+    "publicContributions": 16,
     "createdAt": "2020-05-28T13:35:50Z"
   },
   {
@@ -48067,7 +48055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 130,
+    "privateContributions": 127,
     "publicContributions": 23,
     "createdAt": "2020-06-19T20:17:50Z"
   },
@@ -48079,7 +48067,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 118,
+    "privateContributions": 115,
     "publicContributions": 34,
     "createdAt": "2020-06-17T03:57:29Z"
   },
@@ -48091,7 +48079,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 49,
+    "privateContributions": 37,
     "publicContributions": 4,
     "createdAt": "2020-06-16T21:43:33Z"
   },
@@ -48114,8 +48102,8 @@
     "location": "Turku, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 72,
+    "followers": 6,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2020-03-15T16:15:16Z"
   },
@@ -48128,7 +48116,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 23,
     "createdAt": "2020-05-18T19:23:19Z"
   },
   {
@@ -48151,7 +48139,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 15,
+    "privateContributions": 14,
     "publicContributions": 25,
     "createdAt": "2020-02-27T19:57:53Z"
   },
@@ -48163,8 +48151,8 @@
     "company": "Kalmar Oy Finland",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 172,
-    "publicContributions": 6,
+    "privateContributions": 106,
+    "publicContributions": 17,
     "createdAt": "2020-03-11T09:49:00Z"
   },
   {
