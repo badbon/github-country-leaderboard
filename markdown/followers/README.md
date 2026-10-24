@@ -207,10 +207,10 @@ Published countries: 236
 | Sudan | 725 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,024 | [View](./sweden.md) |
+| Sweden | 39,023 | [View](./sweden.md) |
 | Switzerland | 24,068 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
-| Taiwan | 21,989 | [View](./taiwan.md) |
+| Taiwan | 21,988 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
 | Thailand | 14,975 | [View](./thailand.md) |
@@ -219,12 +219,12 @@ Published countries: 236
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
-| Tunisia | 7,154 | [View](./tunisia.md) |
-| Turkey | 79,153 | [View](./turkey.md) |
+| Tunisia | 7,153 | [View](./tunisia.md) |
+| Turkey | 79,151 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
-| Uganda | 3,861 | [View](./uganda.md) |
+| Uganda | 3,860 | [View](./uganda.md) |
 | Ukraine | 47,713 | [View](./ukraine.md) |
 | United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T08:26:29.830Z
+Generated: 2026-10-24T08:34:07.801Z
