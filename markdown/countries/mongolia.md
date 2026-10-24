@@ -39,7 +39,7 @@ Indexed users: 804
 |---:|---|---|---|---:|
 | 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 3,029 |
 | 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,252 |
-| 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | Mongolia | 1,111 |
+| 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | Mongolia | 1,121 |
 | 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 1,040 |
 | 5 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 954 |
 | 6 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 923 |
@@ -83,4 +83,4 @@ Indexed users: 804
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 57 |
 
-Generated: 2026-10-24T13:22:48.365Z
+Generated: 2026-10-24T14:52:51.898Z

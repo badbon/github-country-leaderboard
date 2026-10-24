@@ -17,7 +17,7 @@ Indexed users: 714
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,543 |
 | 4 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,986 |
 | 5 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,904 |
-| 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,573 |
+| 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,578 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,545 |
 | 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 6,390 |
 | 9 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 6,243 |
@@ -31,7 +31,7 @@ Indexed users: 714
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,913 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,481 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,155 |
-| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,095 |
+| 20 | [YourFavouriteOreo](https://github.com/YourFavouriteOreo) |  | Mauritius | 3,131 |
 
 ## Public Contributions
 
@@ -73,7 +73,7 @@ Indexed users: 714
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 111 |
 | 10 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 111 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | Mauritius | 104 |
-| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 100 |
+| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 99 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 93 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 86 |
 | 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-24T13:21:03.757Z
+Generated: 2026-10-24T14:51:17.942Z

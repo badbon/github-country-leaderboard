@@ -13,13 +13,13 @@ Indexed users: 291
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,823 |
-| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 9,467 |
+| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 9,594 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 7,339 |
 | 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,084 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,050 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,878 |
-| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,381 |
-| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,130 |
+| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,388 |
+| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,193 |
 | 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,918 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,361 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,354 |
@@ -68,7 +68,7 @@ Indexed users: 291
 | 4 | [carlism](https://github.com/carlism) | Carl Leiby | Plymouth Meeting, PA | 65 |
 | 5 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 62 |
 | 6 | [noutram-old-uopaccount](https://github.com/noutram-old-uopaccount) | Nicholas Outram | Plymouth UK | 57 |
-| 7 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 44 |
+| 7 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 45 |
 | 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Plymouth, Minnesota | 37 |
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski | Plymouth, Minnesota | 24 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-24T14:05:31.702Z
+Generated: 2026-10-24T14:54:03.694Z

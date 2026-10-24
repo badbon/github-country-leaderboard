@@ -102,7 +102,7 @@ Published countries: 236
 | Indonesia | 63,272 | [View](./indonesia.md) |
 | Iran | 26,843 | [View](./iran.md) |
 | Iraq | 2,229 | [View](./iraq.md) |
-| Ireland | 19,479 | [View](./ireland.md) |
+| Ireland | 19,480 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,410 | [View](./israel.md) |
 | Italy | 49,001 | [View](./italy.md) |
@@ -167,16 +167,16 @@ Published countries: 236
 | Panama | 1,069 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,013 | [View](./paraguay.md) |
-| Peru | 9,759 | [View](./peru.md) |
+| Peru | 9,758 | [View](./peru.md) |
 | Philippines | 19,742 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Poland | 58,089 | [View](./poland.md) |
-| Portugal | 28,426 | [View](./portugal.md) |
+| Portugal | 28,425 | [View](./portugal.md) |
 | Puerto Rico | 1,530 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 297 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
-| Romania | 14,960 | [View](./romania.md) |
+| Romania | 14,959 | [View](./romania.md) |
 | Rwanda | 3,497 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 26 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
@@ -189,7 +189,7 @@ Published countries: 236
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
 | Saudi Arabia | 7,730 | [View](./saudi_arabia.md) |
-| Senegal | 1,354 | [View](./senegal.md) |
+| Senegal | 1,353 | [View](./senegal.md) |
 | Serbia | 10,645 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T14:47:41.050Z
+Generated: 2026-10-24T15:12:27.081Z

@@ -22,8 +22,8 @@ Indexed users: 1,921
 | 8 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski | Skopje, Macedonia | 5,912 |
 | 9 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | Skopje, Macedonia | 5,388 |
 | 10 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | Skopje, Macedonia | 5,237 |
-| 11 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | Skopje, Macedonia | 5,204 |
-| 12 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Skopje, North Macedonia | 5,133 |
+| 11 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Skopje, North Macedonia | 5,133 |
+| 12 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | Skopje, Macedonia | 5,132 |
 | 13 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 4,673 |
 | 14 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 4,416 |
 | 15 | [andreyagovski](https://github.com/andreyagovski) | Andrey | Macedonia | 4,347 |
@@ -83,4 +83,4 @@ Indexed users: 1,921
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 167 |
 | 20 | [tino097](https://github.com/tino097) | Konstantin Sivakov | Bitola, North Macedonia | 152 |
 
-Generated: 2026-10-24T13:27:46.364Z
+Generated: 2026-10-24T15:00:22.013Z

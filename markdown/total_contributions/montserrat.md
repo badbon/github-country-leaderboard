@@ -1,19 +1,19 @@
 # Total Contributions - Montserrat
 
-Generated: 2026-10-24T14:05:31.702Z
+Generated: 2026-10-24T14:54:03.694Z
 
 Users: 291
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson |  |  | Plymouth, MI | 14823 |
-| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham |  |  | Plymouth, Devon | 9467 |
+| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham |  |  | Plymouth, Devon | 9594 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Ferreira-Michell |  | Plymouth | 7339 |
 | 4 | [dvmrry](https://github.com/dvmrry) | Dave Murray |  | dvmrry | Plymouth Meeting, Pennsylvania | 4084 |
 | 5 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | @Rouic  | rouic | Plymouth, GB. | 4050 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi |  |  | Plymouth | 3878 |
-| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 3381 |
-| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Controlled Frenzy |  | Plymouth | 3130 |
+| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 3388 |
+| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Controlled Frenzy |  | Plymouth | 3193 |
 | 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole |  |  | plymouth | 2918 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote |  |  | Plymouth | 2361 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | @thealanbennett |  | Plymouth, Devon | 2354 |

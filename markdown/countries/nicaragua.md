@@ -20,7 +20,7 @@ Indexed users: 1,395
 | 6 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,407 |
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 6,117 |
 | 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,911 |
-| 9 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,560 |
+| 9 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,629 |
 | 10 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 5,338 |
 | 11 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,699 |
 | 12 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,645 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 
-Generated: 2026-10-24T13:25:51.458Z
+Generated: 2026-10-24T14:57:12.718Z

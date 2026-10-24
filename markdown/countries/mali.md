@@ -49,7 +49,7 @@ Indexed users: 347
 | 10 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 325 |
 | 11 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 320 |
 | 12 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 318 |
-| 13 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 264 |
+| 13 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 259 |
 | 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
 | 16 | [Ibraci](https://github.com/Ibraci) | Ibrahim CISSE | Bamako | 175 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-24T13:20:47.190Z
+Generated: 2026-10-24T14:49:57.965Z

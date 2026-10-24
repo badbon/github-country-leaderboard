@@ -1,6 +1,6 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-24T13:20:27.301Z
+Generated: 2026-10-24T14:49:30.774Z
 
 Users: 354
 
@@ -9,8 +9,8 @@ Users: 354
 | 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1535 |
 | 2 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | CampaignityAI | 72sevenzy2 | malé, maldives  | 1342 |
 | 3 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1331 |
-| 4 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 1308 |
-| 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 1238 |
+| 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 1326 |
+| 5 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 1308 |
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin |  | mktgeducator | Malé, Maldives | 986 |
 | 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | @MTCC-Plc |  | Maldives | 957 |
 | 8 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 722 |

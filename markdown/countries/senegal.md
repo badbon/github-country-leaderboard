@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,354
+Indexed users: 1,353
 
 | Leaderboard | Link |
 |---|---|
@@ -41,7 +41,7 @@ Indexed users: 1,354
 | 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,270 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,136 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,940 |
-| 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,478 |
+| 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,443 |
 | 6 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
 | 7 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,826 |
 | 8 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,671 |
@@ -83,4 +83,4 @@ Indexed users: 1,354
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 143 |
 
-Generated: 2026-10-24T13:38:48.052Z
+Generated: 2026-10-24T15:10:01.081Z

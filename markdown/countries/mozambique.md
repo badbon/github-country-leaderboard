@@ -19,11 +19,11 @@ Indexed users: 1,175
 | 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 6,081 |
 | 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,670 |
 | 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 5,235 |
-| 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,648 |
+| 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,716 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,599 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,757 |
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,672 |
-| 12 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,571 |
+| 12 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,578 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,264 |
 | 14 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,872 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,833 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 110 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-24T13:24:24.765Z
+Generated: 2026-10-24T14:55:19.963Z

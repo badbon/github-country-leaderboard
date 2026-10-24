@@ -18,12 +18,12 @@ Indexed users: 1,744
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | Moldova | 11,462 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru | Ungheni, Moldova / Iasi, Romania | 8,485 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 7,910 |
-| 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 7,420 |
-| 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 7,275 |
-| 9 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
-| 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,573 |
-| 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
-| 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 5,977 |
+| 7 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 7,657 |
+| 8 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric | Moldova | 7,420 |
+| 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Moldova | 7,275 |
+| 10 | [kneazy](https://github.com/kneazy) | Vitalie | Moldova, Chisinau  | 6,940 |
+| 11 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | Chisinau, Moldova | 6,573 |
+| 12 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko | Chisinau, Moldova | 6,392 |
 | 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 5,706 |
 | 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos | Republic of Moldova | 5,586 |
 | 15 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,416 |
@@ -38,11 +38,11 @@ Indexed users: 1,744
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | Moldova, Chișinău | 35,204 |
-| 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,372 |
-| 3 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,911 |
-| 4 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,289 |
-| 5 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,184 |
-| 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 2,946 |
+| 2 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 4,626 |
+| 3 | [texpert](https://github.com/texpert) | Aurel Branzeanu | Chisinau, Moldova | 4,372 |
+| 4 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 3,911 |
+| 5 | [ivanm696](https://github.com/ivanm696) | ivanm696  | Moldova | 3,289 |
+| 6 | [deoleg](https://github.com/deoleg) | deoleg | Moldova | 3,184 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku | Chisinau, Moldova | 2,539 |
 | 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | Chisinau, Moldova | 2,337 |
 | 9 | [50rayn](https://github.com/50rayn) | Soryn | Moldova | 2,221 |
@@ -83,4 +83,4 @@ Indexed users: 1,744
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 114 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-24T13:22:44.336Z
+Generated: 2026-10-24T14:52:44.027Z

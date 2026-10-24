@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-24T13:22:44.336Z
+Generated: 2026-10-24T14:52:44.027Z
 
 Users: 1744
 
@@ -12,12 +12,12 @@ Users: 1744
 | 4 | [icaliman](https://github.com/icaliman) | Ion Căliman | XLITE DEV |  | Moldova | 11462 |
 | 5 | [danlapteacru](https://github.com/danlapteacru) | Dan Lapteacru |  |  | Ungheni, Moldova / Iasi, Romania | 8485 |
 | 6 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 7910 |
-| 7 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 7420 |
-| 8 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 7275 |
-| 9 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 6940 |
-| 10 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6573 |
-| 11 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 6392 |
-| 12 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 5977 |
+| 7 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 7657 |
+| 8 | [dotteamdev](https://github.com/dotteamdev) | Dan Oistric |  |  | Moldova | 7420 |
+| 9 | [deniscuciuc](https://github.com/deniscuciuc) | Denis Cuciuc | Quality Game Core, Accent Electronic | deniscuciuc | Moldova | 7275 |
+| 10 | [kneazy](https://github.com/kneazy) | Vitalie | CorLab |  | Moldova, Chisinau  | 6940 |
+| 11 | [pv-a-ilievici](https://github.com/pv-a-ilievici) | Andrei Ilievici | @primevision-com  |  | Chisinau, Moldova | 6573 |
+| 12 | [mtkachenk0](https://github.com/mtkachenk0) | Maxim Tkachenko |  |  | Chisinau, Moldova | 6392 |
 | 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 5706 |
 | 14 | [grigorii-horos](https://github.com/grigorii-horos) | Grigorii Horos |  |  | Republic of Moldova | 5586 |
 | 15 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5416 |

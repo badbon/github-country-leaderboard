@@ -1,6 +1,6 @@
 # Total Contributions - Maldives
 
-Generated: 2026-10-24T13:20:27.301Z
+Generated: 2026-10-24T14:49:30.774Z
 
 Users: 354
 
@@ -8,9 +8,9 @@ Users: 354
 |---:|---|---|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Balloonshare |  | Maldives | 11518 |
 | 2 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 10926 |
-| 3 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 8988 |
+| 3 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 9179 |
 | 4 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 8728 |
-| 5 | [lishaan](https://github.com/lishaan) |  | @avas-app |  | Malé, Maldives | 7866 |
+| 5 | [lishaan](https://github.com/lishaan) |  | @avas-app |  | Malé, Maldives | 7961 |
 | 6 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 7737 |
 | 7 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | @seastackmv  | nullptrz | Maldives | 7202 |
 | 8 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 6114 |
@@ -18,8 +18,8 @@ Users: 354
 | 10 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5803 |
 | 11 | [maldivien](https://github.com/maldivien) | Ahmed Shareef |  |  | Maldives | 5741 |
 | 12 | [agent306](https://github.com/agent306) | Ncodex | @pension  | nash_athu | Male', Maldives | 5590 |
-| 13 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 5366 |
-| 14 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 5349 |
+| 13 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 5508 |
+| 14 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 5366 |
 | 15 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 4982 |
 | 16 | [roris](https://github.com/roris) | Thoail Ahmed |  |  | Maldives | 4889 |
 | 17 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 4886 |

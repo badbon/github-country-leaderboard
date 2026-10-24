@@ -1,17 +1,17 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-24T13:22:44.336Z
+Generated: 2026-10-24T14:52:44.027Z
 
 Users: 1744
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [amberpixels](https://github.com/amberpixels) | Eugene | amberpixels.io |  | Moldova, Chișinău | 35204 |
-| 2 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4372 |
-| 3 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3911 |
-| 4 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3289 |
-| 5 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3184 |
-| 6 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 2946 |
+| 2 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 4626 |
+| 3 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 4372 |
+| 4 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3911 |
+| 5 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3289 |
+| 6 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3184 |
 | 7 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2539 |
 | 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2337 |
 | 9 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2221 |
