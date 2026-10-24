@@ -4375,8 +4375,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 22,
-    "publicContributions": 77,
+    "privateContributions": 17,
+    "publicContributions": 81,
     "createdAt": "2025-07-13T18:48:04Z"
   },
   {
@@ -4388,19 +4388,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 74,
     "createdAt": "2025-10-19T20:35:12Z"
   },
   {
     "login": "siwyy1",
     "name": "Siwy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238434035?s=72&u=4eeb4ff59f491f56c6b4b21622c9a0f76e89225d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238434035?s=72&u=bf10c4e8c3bd7078193db26ece4ad289af78583f&v=4",
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 0,
     "createdAt": "2025-10-16T08:06:06Z"
   },
   {
@@ -4411,8 +4411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4,
-    "publicContributions": 11,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2025-03-02T17:04:39Z"
   },
   {
@@ -4422,9 +4422,9 @@
     "location": "Warsaw, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 20,
-    "publicContributions": 763,
+    "publicContributions": 715,
     "createdAt": "2025-03-13T19:31:49Z"
   },
   {
@@ -4434,9 +4434,9 @@
     "location": "Warsaw, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 106,
     "createdAt": "2025-06-11T13:22:21Z"
   },
   {
@@ -4459,8 +4459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 187,
-    "publicContributions": 203,
+    "privateContributions": 326,
+    "publicContributions": 212,
     "createdAt": "2025-12-20T11:22:01Z"
   },
   {
@@ -4468,11 +4468,11 @@
     "name": "rvrsdev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/198913555?s=72&u=980c8d95fe46def3f940c679fca989b33778ac53&v=4",
     "location": "Poland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 605,
-    "publicContributions": 30,
+    "company": "River Studio",
+    "twitterUsername": "rvrsdev",
+    "followers": 11,
+    "privateContributions": 929,
+    "publicContributions": 60,
     "createdAt": "2025-02-12T11:56:55Z"
   },
   {
@@ -4495,8 +4495,8 @@
     "company": "Lunatic Dreams",
     "twitterUsername": "Awakenxdev",
     "followers": 4,
-    "privateContributions": 106,
-    "publicContributions": 131,
+    "privateContributions": 91,
+    "publicContributions": 105,
     "createdAt": "2025-02-13T20:15:37Z"
   },
   {
@@ -4508,7 +4508,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-06-04T18:16:34Z"
   },
   {
@@ -4520,7 +4520,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 459,
+    "publicContributions": 383,
     "createdAt": "2025-06-27T15:33:20Z"
   },
   {
@@ -4530,9 +4530,9 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 8,
     "createdAt": "2025-06-08T02:26:37Z"
   },
   {
@@ -4549,14 +4549,14 @@
   },
   {
     "login": "GripexSenior",
-    "name": "Dymitr Pryputniewicz",
+    "name": "Dymitr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/205599517?s=72&u=452ab533e57ee40292acdb6c9db3816727281d4a&v=4",
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 74,
     "createdAt": "2025-03-31T08:10:21Z"
   },
   {
@@ -4567,8 +4567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 61,
+    "privateContributions": 4,
+    "publicContributions": 60,
     "createdAt": "2025-08-27T21:31:36Z"
   },
   {
@@ -4579,8 +4579,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 91,
-    "publicContributions": 515,
+    "privateContributions": 144,
+    "publicContributions": 516,
     "createdAt": "2025-02-06T11:55:23Z"
   },
   {
@@ -4592,7 +4592,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 106,
     "createdAt": "2025-02-07T09:08:48Z"
   },
   {
@@ -4604,7 +4604,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 30,
+    "publicContributions": 25,
     "createdAt": "2025-10-01T11:25:46Z"
   },
   {
