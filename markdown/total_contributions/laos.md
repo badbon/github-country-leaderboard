@@ -1,6 +1,6 @@
 # Total Contributions - Laos
 
-Generated: 2026-10-24T13:12:03.310Z
+Generated: 2026-10-24T14:44:52.059Z
 
 Users: 359
 
@@ -19,7 +19,7 @@ Users: 359
 | 11 | [Thanakone123](https://github.com/Thanakone123) | Un |  |  | Laos | 2157 |
 | 12 | [Anousack789](https://github.com/Anousack789) | Anousack |  |  | Vientiane | 1814 |
 | 13 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | AIF Group Laos |  | Vientiane, laos | 1738 |
-| 14 | [Phounn](https://github.com/Phounn) |  |  |  | Laos | 1518 |
+| 14 | [Phounn](https://github.com/Phounn) |  |  |  | Laos | 1512 |
 | 15 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 1489 |
 | 16 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa |  |  | Laos | 1187 |
 | 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack |  |  | Luangprabang, Laos | 1147 |

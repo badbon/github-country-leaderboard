@@ -110,7 +110,7 @@ Published countries: 236
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 3,995 | [View](./jordan.md) |
-| Kazakhstan | 5,616 | [View](./kazakhstan.md) |
+| Kazakhstan | 5,614 | [View](./kazakhstan.md) |
 | Kenya | 24,003 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
@@ -234,11 +234,11 @@ Published countries: 236
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 31 | [View](./vatican_city.md) |
 | Venezuela | 6,603 | [View](./venezuela.md) |
-| Vietnam | 25,822 | [View](./vietnam.md) |
+| Vietnam | 25,823 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,204 | [View](./yemen.md) |
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T14:41:19.570Z
+Generated: 2026-10-24T14:47:41.050Z

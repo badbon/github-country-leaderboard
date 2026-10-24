@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,616
+Indexed users: 5,614
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 5,616
 | 14 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
 | 15 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 10,505 |
 | 16 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
-| 17 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
-| 18 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Astana, Kazakhstan | 8,486 |
-| 19 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
-| 20 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
+| 17 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Astana, Kazakhstan | 8,486 |
+| 18 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
+| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
+| 20 | [AssylanAkhanuly](https://github.com/AssylanAkhanuly) | Assylan Akhanuly | Kazakhstan, Astana | 8,088 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,616
 | 19 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 | 20 | [azamxvit](https://github.com/azamxvit) | Azamat | Kazakhstan, Atyrau | 295 |
 
-Generated: 2026-10-24T13:11:50.126Z
+Generated: 2026-10-24T14:43:00.582Z

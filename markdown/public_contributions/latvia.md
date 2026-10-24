@@ -1,6 +1,6 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-24T13:12:45.686Z
+Generated: 2026-10-24T14:44:55.743Z
 
 Users: 3245
 
@@ -20,9 +20,9 @@ Users: 3245
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1850 |
 | 13 | [aleksejs1](https://github.com/aleksejs1) |  |  |  | Latvia | 1744 |
 | 14 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1665 |
-| 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
-| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
-| 17 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin |  | sorokin_vl | Riga | 1430 |
-| 18 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
+| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1497 |
+| 16 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin |  | sorokin_vl | Riga | 1430 |
+| 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
+| 18 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers (Kristiāns) Solo |  |  | Latvia | 1419 |
 | 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
 | 20 | [Vilsol](https://github.com/Vilsol) |  | @vas-lvrtc |  | Riga, LV | 1335 |

@@ -1,6 +1,6 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-24T13:13:23.604Z
+Generated: 2026-10-24T14:46:01.697Z
 
 Users: 160
 
@@ -17,7 +17,7 @@ Users: 160
 | 9 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 144 |
 | 10 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 140 |
 | 11 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 113 |
-| 12 | [kgatman](https://github.com/kgatman) | kgatman | HISP-SA |  | Maseru,Lesotho | 103 |
+| 12 | [kgatman](https://github.com/kgatman) | kgatman | HISP-SA |  | Maseru,Lesotho | 101 |
 | 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Mindforge AI |  | Maseru | 101 |
 | 14 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 98 |
 | 15 | [Mampheteng](https://github.com/Mampheteng) | Mampheteng Koote |  |  | Maseru Lesotho | 93 |

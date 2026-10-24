@@ -48,7 +48,7 @@ Indexed users: 160
 | 9 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 144 |
 | 10 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 140 |
 | 11 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 113 |
-| 12 | [kgatman](https://github.com/kgatman) | kgatman | Maseru,Lesotho | 103 |
+| 12 | [kgatman](https://github.com/kgatman) | kgatman | Maseru,Lesotho | 101 |
 | 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Maseru | 101 |
 | 14 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 98 |
 | 15 | [Mampheteng](https://github.com/Mampheteng) | Mampheteng Koote | Maseru Lesotho | 93 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-24T13:13:23.604Z
+Generated: 2026-10-24T14:46:01.697Z

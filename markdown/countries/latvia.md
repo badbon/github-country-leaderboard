@@ -51,10 +51,10 @@ Indexed users: 3,245
 | 12 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
 | 13 | [aleksejs1](https://github.com/aleksejs1) |  | Latvia | 1,744 |
 | 14 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,665 |
-| 15 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
-| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
-| 17 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin | Riga | 1,430 |
-| 18 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
+| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,497 |
+| 16 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin | Riga | 1,430 |
+| 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
+| 18 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers (Kristiāns) Solo | Latvia | 1,419 |
 | 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
 | 20 | [Vilsol](https://github.com/Vilsol) |  | Riga, LV | 1,335 |
 
@@ -83,4 +83,4 @@ Indexed users: 3,245
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-24T13:12:45.686Z
+Generated: 2026-10-24T14:44:55.743Z
