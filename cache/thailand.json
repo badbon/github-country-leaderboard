@@ -49640,7 +49640,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2021-04-24T12:49:37Z"
   },
   {
@@ -49664,7 +49664,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2021-02-02T09:48:39Z"
   },
   {
@@ -49675,8 +49675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1744,
-    "publicContributions": 190,
+    "privateContributions": 2085,
+    "publicContributions": 128,
     "createdAt": "2021-03-21T05:22:24Z"
   },
   {
@@ -49712,7 +49712,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 3,
     "createdAt": "2021-05-31T18:13:33Z"
   },
   {
@@ -49722,9 +49722,9 @@
     "location": "Nakhon Si Thammarat, Thailand",
     "company": "",
     "twitterUsername": "suwannapapond",
-    "followers": 4,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 93,
     "createdAt": "2021-01-06T12:01:29Z"
   },
   {
@@ -49746,7 +49746,7 @@
     "location": "Bangkok, Thailand",
     "company": "",
     "twitterUsername": "RatchaSun",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-26T17:58:28Z"
@@ -49759,8 +49759,8 @@
     "company": "AdopPix",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 84,
-    "publicContributions": 0,
+    "privateContributions": 139,
+    "publicContributions": 2,
     "createdAt": "2021-01-28T12:57:36Z"
   },
   {
@@ -49770,8 +49770,8 @@
     "location": "Songhkla , Thailand",
     "company": "CDG",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 55,
+    "followers": 5,
+    "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2021-06-09T06:36:56Z"
   },
@@ -49784,7 +49784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 20,
-    "publicContributions": 242,
+    "publicContributions": 233,
     "createdAt": "2021-05-27T06:12:32Z"
   },
   {
@@ -49807,8 +49807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 522,
-    "publicContributions": 3,
+    "privateContributions": 500,
+    "publicContributions": 0,
     "createdAt": "2021-01-01T14:12:42Z"
   },
   {
@@ -49831,8 +49831,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 798,
+    "privateContributions": 1155,
+    "publicContributions": 565,
     "createdAt": "2021-06-11T15:59:07Z"
   },
   {
@@ -49846,18 +49846,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-11T07:05:33Z"
-  },
-  {
-    "login": "jcs180",
-    "name": "Jordan Crow-Stewart",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77353771?s=72&u=8e0905a2f55506b11567be98ad38c98efe155533&v=4",
-    "location": "Phuket, Thailand",
-    "company": "Brain Game",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1362,
-    "publicContributions": 3,
-    "createdAt": "2021-01-12T17:53:27Z"
   },
   {
     "login": "peeraphat-lakboon",

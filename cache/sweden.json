@@ -49122,9 +49122,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 88,
-    "publicContributions": 904,
+    "followers": 19,
+    "privateContributions": 82,
+    "publicContributions": 578,
     "createdAt": "2022-09-27T12:43:22Z"
   },
   {
@@ -49134,8 +49134,8 @@
     "location": "Gothenburg, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 174,
+    "followers": 21,
+    "privateContributions": 206,
     "publicContributions": 1,
     "createdAt": "2022-09-27T12:14:55Z"
   },
@@ -49146,9 +49146,9 @@
     "location": "Skåne, Sweden",
     "company": "Linnaeus university",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 106,
-    "publicContributions": 50,
+    "followers": 22,
+    "privateContributions": 105,
+    "publicContributions": 47,
     "createdAt": "2022-09-01T08:40:07Z"
   },
   {
@@ -49158,9 +49158,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 190,
-    "publicContributions": 102,
+    "followers": 18,
+    "privateContributions": 217,
+    "publicContributions": 41,
     "createdAt": "2022-11-18T01:37:55Z"
   },
   {
@@ -49182,9 +49182,9 @@
     "location": "Gothenburg, Sweden",
     "company": "Thorlabs Sweden AB",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 527,
-    "publicContributions": 182,
+    "followers": 20,
+    "privateContributions": 899,
+    "publicContributions": 227,
     "createdAt": "2022-11-10T18:45:14Z"
   },
   {
@@ -49195,7 +49195,7 @@
     "company": "Volvo Connected Solutions",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 292,
+    "privateContributions": 248,
     "publicContributions": 28,
     "createdAt": "2022-11-28T18:51:32Z"
   },
@@ -49220,7 +49220,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-08-29T14:04:46Z"
   },
   {
@@ -49232,7 +49232,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-09-05T08:32:19Z"
   },
   {
@@ -49267,7 +49267,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 310,
+    "privateContributions": 467,
     "publicContributions": 9,
     "createdAt": "2022-08-08T21:27:28Z"
   },
@@ -49290,22 +49290,10 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 798,
-    "publicContributions": 384,
+    "followers": 20,
+    "privateContributions": 513,
+    "publicContributions": 357,
     "createdAt": "2022-09-13T10:03:09Z"
-  },
-  {
-    "login": "AliMousa27",
-    "name": "John Software",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114988369?s=72&u=06357f88d0a8ea04f6c51dd8e81bb6e2bf642586&v=4",
-    "location": "Sweden",
-    "company": "Endava",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 62,
-    "publicContributions": 61,
-    "createdAt": "2022-10-04T09:03:12Z"
   },
   {
     "login": "fetsare",
@@ -49314,9 +49302,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 1197,
-    "publicContributions": 570,
+    "followers": 17,
+    "privateContributions": 1454,
+    "publicContributions": 297,
     "createdAt": "2022-10-15T09:46:29Z"
   },
   {
@@ -49333,14 +49321,14 @@
   },
   {
     "login": "aradar46",
-    "name": "Aradar",
+    "name": "Aradar46",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112606249?s=72&u=e81bdad00eed49e603b6bf2a70311b9b7b338097&v=4",
     "location": "Stockholm, Sweden",
     "company": "Karolinska Institute",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 257,
-    "publicContributions": 39,
+    "followers": 16,
+    "privateContributions": 267,
+    "publicContributions": 199,
     "createdAt": "2022-09-01T05:13:42Z"
   },
   {

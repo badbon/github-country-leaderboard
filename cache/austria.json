@@ -50120,7 +50120,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2020-12-10T09:19:42Z"
   },
   {
@@ -50132,7 +50132,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 5,
     "createdAt": "2020-05-21T20:13:11Z"
   },
   {
@@ -50142,9 +50142,9 @@
     "location": "Vienna/Laxenburg, Austria",
     "company": "IIASA",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 48,
-    "publicContributions": 109,
+    "followers": 10,
+    "privateContributions": 50,
+    "publicContributions": 173,
     "createdAt": "2020-06-05T08:05:02Z"
   },
   {
@@ -50155,8 +50155,8 @@
     "company": "SambaPOS",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1189,
-    "publicContributions": 105,
+    "privateContributions": 847,
+    "publicContributions": 96,
     "createdAt": "2020-06-20T12:59:57Z"
   },
   {
@@ -50166,7 +50166,7 @@
     "location": "Austria",
     "company": "TU Wien",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-03-12T13:38:01Z"
@@ -50203,20 +50203,20 @@
     "company": "Augustin Quehenberger Group",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 599,
-    "publicContributions": 2,
+    "privateContributions": 590,
+    "publicContributions": 4,
     "createdAt": "2020-12-12T19:52:50Z"
   },
   {
     "login": "Manu585",
     "name": "Manuel Gogg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72874613?s=72&u=ce2dcadb1fb0a99c04c0e815de90b3741f4c0465&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72874613?s=72&u=9bfd534a565d728a27dfcbbf245b5ee717d0c074&v=4",
     "location": "Austria",
     "company": "Gogg Software Solutions",
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 63,
     "createdAt": "2020-10-14T14:14:21Z"
   },
   {
@@ -50227,21 +50227,9 @@
     "company": "",
     "twitterUsername": "andrepacher",
     "followers": 9,
-    "privateContributions": 206,
+    "privateContributions": 241,
     "publicContributions": 3,
     "createdAt": "2020-12-08T10:31:11Z"
-  },
-  {
-    "login": "iamDvz",
-    "name": "Denis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73883591?s=72&u=637630f453b0397edd53d2ea41b789e8afb6c7ee&v=4",
-    "location": "Austria, Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 356,
-    "publicContributions": 10,
-    "createdAt": "2020-11-03T10:36:19Z"
   },
   {
     "login": "vnillaDev",
@@ -50262,9 +50250,9 @@
     "location": "Graz, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 75,
     "createdAt": "2020-04-12T18:08:45Z"
   },
   {
@@ -50274,9 +50262,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "PIunzish",
-    "followers": 8,
-    "privateContributions": 399,
-    "publicContributions": 6,
+    "followers": 9,
+    "privateContributions": 580,
+    "publicContributions": 11,
     "createdAt": "2020-03-29T08:00:18Z"
   },
   {
@@ -50286,9 +50274,9 @@
     "location": "Vienna, Austria",
     "company": "University for Continuing Education Krems",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 167,
-    "publicContributions": 90,
+    "followers": 7,
+    "privateContributions": 115,
+    "publicContributions": 136,
     "createdAt": "2020-12-10T22:14:14Z"
   },
   {
@@ -50298,9 +50286,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 44,
-    "publicContributions": 132,
+    "followers": 7,
+    "privateContributions": 46,
+    "publicContributions": 135,
     "createdAt": "2020-06-07T07:24:09Z"
   },
   {
@@ -50322,9 +50310,9 @@
     "location": "Austria",
     "company": "@ZentruSystems ",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 54,
-    "publicContributions": 76,
+    "followers": 7,
+    "privateContributions": 72,
+    "publicContributions": 86,
     "createdAt": "2020-02-24T11:19:25Z"
   },
   {
@@ -50336,7 +50324,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 47,
     "createdAt": "2020-04-08T09:48:41Z"
   },
   {
@@ -50348,7 +50336,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 3,
     "createdAt": "2020-05-08T12:40:20Z"
   },
   {
