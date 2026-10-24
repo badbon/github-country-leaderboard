@@ -65,7 +65,7 @@ Indexed users: 185
 | 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 139 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | pyongyang | 69 |
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 67 |
-| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 62 |
+| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 61 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC | Pyongyang, North Korea | 32 |
 | 6 | [SleekZ](https://github.com/SleekZ) | SleekZ | Pyongyang | 32 |
 | 7 | [strangerting](https://github.com/strangerting) | Big Kim | Bunker, DPRK | 32 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 | 20 | [JeonJung-kook](https://github.com/JeonJung-kook) | Jeon Jung-kook Cantor | North Korea | 14 |
 
-Generated: 2026-10-24T12:03:41.910Z
+Generated: 2026-10-24T13:27:02.918Z

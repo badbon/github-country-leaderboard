@@ -13,7 +13,7 @@ Indexed users: 33,167
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [desmondominic](https://github.com/desmondominic) | UKEH CHINEDU DESMOND | Nigeria | 110,107 |
-| 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 43,303 |
+| 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 99,791 |
 | 3 | [paulosabayomi](https://github.com/paulosabayomi) | Abayomi Amusa | Lagos, Nigeria | 41,408 |
 | 4 | [9trocode](https://github.com/9trocode) | Alex Idowu | Lagos, Nigeria | 25,637 |
 | 5 | [okmarq](https://github.com/okmarq) | Joel Okoromi | Lagos, Nigeria | 22,471 |
@@ -37,8 +37,8 @@ Indexed users: 33,167
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [paulosabayomi](https://github.com/paulosabayomi) | Abayomi Amusa | Lagos, Nigeria | 41,408 |
-| 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 30,918 |
+| 1 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Nigeria | 85,958 |
+| 2 | [paulosabayomi](https://github.com/paulosabayomi) | Abayomi Amusa | Lagos, Nigeria | 41,408 |
 | 3 | [Smartdevs17](https://github.com/Smartdevs17) | Stephen Joseph | Nigeria | 13,246 |
 | 4 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe | Lagos, Nigeria. | 11,857 |
 | 5 | [Mid-D-Man](https://github.com/Mid-D-Man) | AbdulHamid Mamman Suleiman  | Nigeria | 8,729 |
@@ -68,7 +68,7 @@ Indexed users: 33,167
 | 4 | [abiosoft](https://github.com/abiosoft) | Abiola Ibrahim | Nigeria | 1,635 |
 | 5 | [BolajiAyodeji](https://github.com/BolajiAyodeji) | Bolaji Ayodeji | Abuja, Nigeria | 1,572 |
 | 6 | [AhmadTigress](https://github.com/AhmadTigress) |  | Nigeria | 1,565 |
-| 7 | [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) | Ayokanmi Adejola | Ikeja, Lagos, Nigeria | 1,511 |
+| 7 | [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) | Ayokanmi Adejola | Ikeja, Lagos, Nigeria | 1,531 |
 | 8 | [Brainydaps](https://github.com/Brainydaps) | Adedapo Adeniran | Nigeria | 1,461 |
 | 9 | [desphixs](https://github.com/desphixs) | Destiny Franks | Nigeria | 1,250 |
 | 10 | [BrightDaniel](https://github.com/BrightDaniel) | BRIGHT (Bwave) | Port Harcourt, Nigeria | 1,199 |
@@ -83,4 +83,4 @@ Indexed users: 33,167
 | 19 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
 | 20 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 
-Generated: 2026-10-24T12:01:36.768Z
+Generated: 2026-10-24T13:25:59.244Z

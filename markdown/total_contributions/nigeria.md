@@ -1,13 +1,13 @@
 # Total Contributions - Nigeria
 
-Generated: 2026-10-24T12:01:36.768Z
+Generated: 2026-10-24T13:25:59.244Z
 
 Users: 33167
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [desmondominic](https://github.com/desmondominic) | UKEH CHINEDU DESMOND |  |  | Nigeria | 110107 |
-| 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Freelancer | wealthometer_10 | Nigeria | 43303 |
+| 2 | [Wealthometer](https://github.com/Wealthometer) | Wealth Hajoh | Freelancer | wealthometer_10 | Nigeria | 99791 |
 | 3 | [paulosabayomi](https://github.com/paulosabayomi) | Abayomi Amusa |  |  | Lagos, Nigeria | 41408 |
 | 4 | [9trocode](https://github.com/9trocode) | Alex Idowu |  @PipeOpsHQ | nitrocode | Lagos, Nigeria | 25637 |
 | 5 | [okmarq](https://github.com/okmarq) | Joel Okoromi | @Busiverse | ojjmarquis | Lagos, Nigeria | 22471 |

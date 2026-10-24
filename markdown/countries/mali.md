@@ -16,7 +16,7 @@ Indexed users: 347
 | 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,146 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,121 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 6,108 |
-| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,441 |
+| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,446 |
 | 6 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,830 |
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,537 |
 | 8 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 3,066 |
@@ -41,7 +41,7 @@ Indexed users: 347
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,411 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,423 |
 | 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,121 |
-| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,103 |
+| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,102 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 566 |
 | 7 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 415 |
 | 8 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 412 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-24T11:54:29.158Z
+Generated: 2026-10-24T13:20:47.190Z

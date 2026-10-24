@@ -1,12 +1,12 @@
 # Followers - Myanmar
 
-Generated: 2026-10-24T11:59:33.501Z
+Generated: 2026-10-24T13:24:27.837Z
 
 Users: 2055
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [eimg](https://github.com/eimg) | Ei Maung | Fairway Technology |  | Yangon, Myanmar | 4323 |
+| 1 | [eimg](https://github.com/eimg) | Ei Maung | Fairway Technology |  | Yangon, Myanmar | 4335 |
 | 2 | [minlwin](https://github.com/minlwin) | Min Lwin | SOLT Engineering Co.,Ltd. |  | Yangon, Myanmar | 1206 |
 | 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1068 |
 | 4 | [sailay1996](https://github.com/sailay1996) | valen |  | 404death | Myanmar | 757 |

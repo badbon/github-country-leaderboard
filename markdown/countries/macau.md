@@ -12,7 +12,7 @@ Indexed users: 438
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,973 |
+| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 12,161 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,759 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 8,142 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 7,818 |
@@ -54,7 +54,7 @@ Indexed users: 438
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 660 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 583 |
-| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 574 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 575 |
 | 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 501 |
 | 20 | [weng-pang](https://github.com/weng-pang) | Weng Long Pang | Macao | 468 |
 
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-24T11:54:13.341Z
+Generated: 2026-10-24T13:18:40.957Z

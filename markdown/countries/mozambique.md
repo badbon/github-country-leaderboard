@@ -12,7 +12,7 @@ Indexed users: 1,175
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 10,017 |
+| 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 10,207 |
 | 2 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 6,838 |
 | 3 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,551 |
 | 4 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 6,321 |
@@ -24,7 +24,7 @@ Indexed users: 1,175
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,757 |
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,672 |
 | 12 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 3,571 |
-| 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,281 |
+| 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,264 |
 | 14 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,872 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,833 |
 | 16 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,822 |
@@ -79,8 +79,8 @@ Indexed users: 1,175
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 138 |
 | 16 | [GraHms](https://github.com/GraHms) | Ismael GraHms | Maputo | 131 |
 | 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Maputo, Mozambique | 118 |
-| 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias | Mozambique | 116 |
+| 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias | Mozambique | 117 |
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 110 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 95 |
 
-Generated: 2026-10-24T11:59:28.683Z
+Generated: 2026-10-24T13:24:24.765Z

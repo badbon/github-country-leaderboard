@@ -1,6 +1,6 @@
 # Followers - Nigeria
 
-Generated: 2026-10-24T12:01:36.768Z
+Generated: 2026-10-24T13:25:59.244Z
 
 Users: 33167
 
@@ -12,7 +12,7 @@ Users: 33167
 | 4 | [abiosoft](https://github.com/abiosoft) | Abiola Ibrahim | @FuturFusion |  | Nigeria | 1635 |
 | 5 | [BolajiAyodeji](https://github.com/BolajiAyodeji) | Bolaji Ayodeji | @DPGAlliance |  | Abuja, Nigeria | 1572 |
 | 6 | [AhmadTigress](https://github.com/AhmadTigress) |  |  | AhmadTigress | Nigeria | 1565 |
-| 7 | [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) | Ayokanmi Adejola | @github | ayokqnmiadejola | Ikeja, Lagos, Nigeria | 1511 |
+| 7 | [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola) | Ayokanmi Adejola | @github | ayokqnmiadejola | Ikeja, Lagos, Nigeria | 1531 |
 | 8 | [Brainydaps](https://github.com/Brainydaps) | Adedapo Adeniran | Brainydaps Technology Limited | Brainydaps | Nigeria | 1461 |
 | 9 | [desphixs](https://github.com/desphixs) | Destiny Franks | @staqed-hq @fusoraq  | desphixs | Nigeria | 1250 |
 | 10 | [BrightDaniel](https://github.com/BrightDaniel) | BRIGHT (Bwave) | Alx Software Engineering  | Ict1Bwave | Port Harcourt, Nigeria | 1199 |

@@ -15,8 +15,8 @@ Indexed users: 714
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,112 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,867 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,543 |
-| 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,904 |
-| 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,850 |
+| 4 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,986 |
+| 5 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,904 |
 | 6 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,573 |
 | 7 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,545 |
 | 8 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 6,390 |
@@ -38,7 +38,7 @@ Indexed users: 714
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 7,489 |
-| 2 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,318 |
+| 2 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,321 |
 | 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,239 |
 | 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,805 |
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,676 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 66 |
 
-Generated: 2026-10-24T11:56:54.600Z
+Generated: 2026-10-24T13:21:03.757Z

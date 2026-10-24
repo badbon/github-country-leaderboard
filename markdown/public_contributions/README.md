@@ -30,7 +30,7 @@ Published countries: 236
 | Bermuda | 896 | [View](./bermuda.md) |
 | Bhutan | 266 | [View](./bhutan.md) |
 | Bolivia | 1,781 | [View](./bolivia.md) |
-| Bosnia and Herzegovina | 2,126 | [View](./bosnia_and_herzegovina.md) |
+| Bosnia and Herzegovina | 2,127 | [View](./bosnia_and_herzegovina.md) |
 | Botswana | 532 | [View](./botswana.md) |
 | Bouvet Island | 6 | [View](./bouvet_island.md) |
 | British Indian Ocean Territory | 2 | [View](./british_indian_ocean_territory.md) |
@@ -109,7 +109,7 @@ Published countries: 236
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
-| Jordan | 3,993 | [View](./jordan.md) |
+| Jordan | 3,995 | [View](./jordan.md) |
 | Kazakhstan | 5,616 | [View](./kazakhstan.md) |
 | Kenya | 24,003 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
@@ -143,7 +143,7 @@ Published countries: 236
 | Mongolia | 804 | [View](./mongolia.md) |
 | Montenegro | 887 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,606 | [View](./morocco.md) |
+| Morocco | 9,605 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
 | Myanmar | 2,055 | [View](./myanmar.md) |
 | Namibia | 474 | [View](./namibia.md) |
@@ -176,7 +176,7 @@ Published countries: 236
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 297 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
-| Romania | 14,961 | [View](./romania.md) |
+| Romania | 14,960 | [View](./romania.md) |
 | Rwanda | 3,497 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 26 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
@@ -190,7 +190,7 @@ Published countries: 236
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
 | Saudi Arabia | 7,730 | [View](./saudi_arabia.md) |
 | Senegal | 1,354 | [View](./senegal.md) |
-| Serbia | 10,646 | [View](./serbia.md) |
+| Serbia | 10,645 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
 | Singapore | 24,709 | [View](./singapore.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T13:16:57.490Z
+Generated: 2026-10-24T13:40:21.129Z

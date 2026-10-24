@@ -23,7 +23,7 @@ Indexed users: 2,195
 | 9 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 7,671 |
 | 10 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 7,553 |
 | 11 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 7,515 |
-| 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 6,501 |
+| 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 6,745 |
 | 13 | [skmail](https://github.com/skmail) |  | Palestine | 6,410 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 6,010 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 5,678 |
@@ -83,4 +83,4 @@ Indexed users: 2,195
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-24T12:05:27.087Z
+Generated: 2026-10-24T13:30:51.128Z

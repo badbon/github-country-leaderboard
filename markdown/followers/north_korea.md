@@ -1,6 +1,6 @@
 # Followers - North Korea
 
-Generated: 2026-10-24T12:03:41.910Z
+Generated: 2026-10-24T13:27:02.918Z
 
 Users: 185
 
@@ -9,7 +9,7 @@ Users: 185
 | 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Homelessness | X1HY999 | Pyongyang | 139 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | fux apple | jdzmfg | pyongyang | 69 |
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | @Step-Security | o_0x4f | 🇰🇵 Pyongyang, North Korea | 67 |
-| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 62 |
+| 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 61 |
 | 5 | [norksec](https://github.com/norksec) | NORKSEC |  |  | Pyongyang, North Korea | 32 |
 | 6 | [SleekZ](https://github.com/SleekZ) | SleekZ |  |  | Pyongyang | 32 |
 | 7 | [strangerting](https://github.com/strangerting) | Big Kim | Kim Inc | westealbitcoin | Bunker, DPRK | 32 |

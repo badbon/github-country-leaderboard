@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-24T12:01:01.722Z
+Generated: 2026-10-24T13:25:54.742Z
 
 Users: 175
 
@@ -18,9 +18,9 @@ Users: 175
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | @Profiteroles |  | Niamey , Niger | 29 |
 | 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | @Acacurs | ab3masta | Niamey-Niger | 28 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Codeloccol | TrakyRichard | Niger | 27 |
-| 13 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 23 |
-| 14 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Sahel Coders | wourichouf | Niamey | 23 |
-| 15 | [sn115426](https://github.com/sn115426) | sn01 | Atlas |  | niger | 23 |
+| 13 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Sahel Coders | wourichouf | Niamey | 23 |
+| 14 | [sn115426](https://github.com/sn115426) | sn01 | Atlas |  | niger | 23 |
+| 15 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | None |  | Niger / Niamey | 22 |
 | 16 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | QueenTech |  | Niamey-Niger | 21 |
 | 17 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 18 |
 | 18 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Webb Fontaine |  | Niamey | 18 |
