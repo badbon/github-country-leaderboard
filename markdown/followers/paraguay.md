@@ -1,6 +1,6 @@
 # Followers - Paraguay
 
-Generated: 2026-10-24T19:54:05.348Z
+Generated: 2026-10-24T22:24:50.806Z
 
 Users: 2012
 
@@ -8,7 +8,7 @@ Users: 2012
 |---:|---|---|---|---|---|---:|
 | 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 2069 |
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Paraguay |  | Asunción | 598 |
-| 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Banco Continental SAECA |  | Asunción, Paraguay | 526 |
+| 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Banco Continental SAECA |  | Asunción, Paraguay | 534 |
 | 4 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla |  |  | Paraguay | 402 |
 | 5 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 389 |
 | 6 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye |  |  | Paraguay | 264 |
