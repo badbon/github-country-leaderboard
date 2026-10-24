@@ -13,7 +13,7 @@ Indexed users: 212
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 22,438 |
-| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 7,433 |
+| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 7,439 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,363 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 4,195 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,586 |
@@ -28,7 +28,7 @@ Indexed users: 212
 | 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,947 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,804 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,729 |
-| 17 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,716 |
+| 17 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,711 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,363 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,323 |
 | 20 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 1,238 |
@@ -41,7 +41,7 @@ Indexed users: 212
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,729 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,139 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 919 |
-| 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 883 |
+| 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 884 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 749 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 697 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie | Réunion | 476 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-24T00:45:20.032Z
+Generated: 2026-10-24T05:21:10.768Z

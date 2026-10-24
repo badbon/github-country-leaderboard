@@ -1,6 +1,6 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-24T00:38:33.333Z
+Generated: 2026-10-24T05:12:59.068Z
 
 Users: 12134
 
@@ -17,12 +17,12 @@ Users: 12134
 | 9 | [mynameistito](https://github.com/mynameistito) | Tito | @KillzoneGaming  | mynameistito | New Zealand | 15619 |
 | 10 | [DangerDrome](https://github.com/DangerDrome) | Dirk Dangerous | Danger Ltd |  | New Zealand | 15229 |
 | 11 | [abnegate](https://github.com/abnegate) | Jake Barnby | @appwrite |  | Tauranga, New Zealand | 13796 |
-| 12 | [nz365guy](https://github.com/nz365guy) | Mark Smith | Cloverbase | nz365guy | New Zealand | 12968 |
-| 13 | [lee101](https://github.com/lee101) | Lee Penkman | @netwrck | LeeLeePenkman | New Zealand | 12897 |
-| 14 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo |  |  | Wellington, New Zealand | 12777 |
-| 15 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | Lincoln University (NZ) | chanmeng666 | New Zealand | 12502 |
-| 16 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
-| 17 | [JhonaCodes](https://github.com/JhonaCodes) | Jhonacode | Jhonacode |  | New Zealand | 12275 |
-| 18 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
-| 19 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |
-| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |
+| 12 | [robinslange](https://github.com/robinslange) | robin |  |  | New Zealand | 13199 |
+| 13 | [nz365guy](https://github.com/nz365guy) | Mark Smith | Cloverbase | nz365guy | New Zealand | 12968 |
+| 14 | [lee101](https://github.com/lee101) | Lee Penkman | @netwrck | LeeLeePenkman | New Zealand | 12897 |
+| 15 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo |  |  | Wellington, New Zealand | 12777 |
+| 16 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | Lincoln University (NZ) | chanmeng666 | New Zealand | 12502 |
+| 17 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
+| 18 | [JhonaCodes](https://github.com/JhonaCodes) | Jhonacode | Jhonacode |  | New Zealand | 12275 |
+| 19 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
+| 20 | [donjor](https://github.com/donjor) | donjor |  |  | New Zealand | 11865 |

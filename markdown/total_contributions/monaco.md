@@ -1,18 +1,18 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-24T00:35:37.236Z
+Generated: 2026-10-24T05:10:52.765Z
 
 Users: 142
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 7587 |
-| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 6107 |
+| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 6031 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 4906 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3761 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1949 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1721 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1271 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1657 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1295 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 1143 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 950 |
 | 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 804 |

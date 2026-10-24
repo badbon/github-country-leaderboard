@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-24T00:38:36.949Z
+Generated: 2026-10-24T05:13:49.655Z
 
 Users: 1395
 
@@ -8,12 +8,12 @@ Users: 1395
 |---:|---|---|---|---|---|---:|
 | 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 9525 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | @BreveTech @tizo-nic  | pacisauctor_ | Managua, Nicaragua | 9248 |
-| 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real |  |  | Nicaragua | 8427 |
-| 4 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 7542 |
-| 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7432 |
+| 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real |  |  | Nicaragua | 8954 |
+| 4 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7678 |
+| 5 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 7542 |
 | 6 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Freelance |  | Managua, Nicaragua | 7407 |
 | 7 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 6117 |
-| 8 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 5686 |
+| 8 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 5911 |
 | 9 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 5560 |
 | 10 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes |  | edycarreyes99 | Nicaragua | 5338 |
 | 11 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4699 |

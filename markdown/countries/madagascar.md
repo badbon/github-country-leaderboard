@@ -55,7 +55,7 @@ Indexed users: 1,900
 | 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,567 |
 | 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
 | 18 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,529 |
-| 19 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,527 |
+| 19 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,473 |
 | 20 | [Noahmathieu](https://github.com/Noahmathieu) | Noah ANDRIANANTENAINA | Madagascar | 1,455 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,900
 | 19 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 | 20 | [luckasRanarison](https://github.com/luckasRanarison) | Luckas | Antananarivo, Madagascar | 141 |
 
-Generated: 2026-10-24T00:32:30.381Z
+Generated: 2026-10-24T05:07:19.421Z

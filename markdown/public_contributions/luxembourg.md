@@ -1,13 +1,13 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-24T00:31:17.362Z
+Generated: 2026-10-24T05:06:53.092Z
 
 Users: 2190
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 10210 |
-| 2 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6889 |
+| 2 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 7038 |
 | 3 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6787 |
 | 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | University of Luxembourg |  | Luxembourg | 4400 |
 | 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto |  |  | Luxembourg | 4033 |
@@ -20,9 +20,9 @@ Users: 2190
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 2146 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 2119 |
 | 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1983 |
-| 15 | [righel](https://github.com/righel) | Luciano Righetti | CIRCL | righelx | Luxembourg | 1955 |
-| 16 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 1935 |
-| 17 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon |  |  | Luxembourg | 1931 |
+| 15 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon |  |  | Luxembourg | 1974 |
+| 16 | [righel](https://github.com/righel) | Luciano Righetti | CIRCL | righelx | Luxembourg | 1955 |
+| 17 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 1935 |
 | 18 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | TAO |  | Luxembourg | 1862 |
 | 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | uni.lu |  | Luxembourg | 1664 |
 | 20 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Gcore | Geri4x | Luxembourg | 1617 |

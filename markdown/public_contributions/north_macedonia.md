@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-24T00:40:18.647Z
+Generated: 2026-10-24T05:14:35.463Z
 
 Users: 1922
 
@@ -25,4 +25,4 @@ Users: 1922
 | 17 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 876 |
 | 18 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 872 |
 | 19 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | @codysseydev  | davorminchorov | Skopje, Macedonia | 834 |
-| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 802 |
+| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 799 |

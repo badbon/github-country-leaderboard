@@ -13,7 +13,7 @@ Indexed users: 288
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 13,240 |
-| 2 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 12,846 |
+| 2 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 13,034 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 11,711 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,552 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 5,535 |
@@ -83,4 +83,4 @@ Indexed users: 288
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 24 |
 | 20 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 23 |
 
-Generated: 2026-10-24T00:34:50.054Z
+Generated: 2026-10-24T05:09:37.146Z

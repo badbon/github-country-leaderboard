@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-24T00:32:35.815Z
+Generated: 2026-10-24T05:07:22.828Z
 
 Users: 899
 
@@ -17,12 +17,12 @@ Users: 899
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | M2K Developments | DevelopmentsM2k | Malawi | 4954 |
 | 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4754 |
 | 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 4739 |
-| 12 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 4179 |
+| 12 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 4347 |
 | 13 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga |  |  | Mzuzu, Malawi | 4035 |
-| 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3621 |
+| 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3759 |
 | 15 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3471 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3294 |
-| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3142 |
-| 18 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Zennertekh | Katoyakelvin | Blantyre, Malawi | 3123 |
-| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3097 |
-| 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3094 |
+| 17 | [caesar127](https://github.com/caesar127) | Caesar Ndawala |  |  | Malawi | 3272 |
+| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3142 |
+| 19 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Zennertekh | Katoyakelvin | Blantyre, Malawi | 3123 |
+| 20 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3097 |

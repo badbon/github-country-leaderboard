@@ -56,7 +56,7 @@ Indexed users: 1,922
 | 17 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 876 |
 | 18 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 872 |
 | 19 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 834 |
-| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 802 |
+| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 799 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,922
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 167 |
 | 20 | [tino097](https://github.com/tino097) | Konstantin Sivakov | Bitola, North Macedonia | 152 |
 
-Generated: 2026-10-24T00:40:18.647Z
+Generated: 2026-10-24T05:14:35.463Z

@@ -14,7 +14,7 @@ Indexed users: 1,073
 |---:|---|---|---|---:|
 | 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 18,953 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,514 |
-| 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 12,629 |
+| 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 13,309 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said | Qatar | 11,760 |
 | 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab | Doha, Qatar | 9,014 |
 | 6 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 8,205 |
@@ -28,7 +28,7 @@ Indexed users: 1,073
 | 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,876 |
 | 15 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,741 |
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,148 |
-| 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 5,079 |
+| 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 5,103 |
 | 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 4,632 |
 | 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 4,459 |
 | 20 | [abdulwaarith0](https://github.com/abdulwaarith0) | Abdulwaarith Zakariyya | Doha, Qatar | 4,347 |
@@ -37,7 +37,7 @@ Indexed users: 1,073
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 5,189 |
+| 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 5,894 |
 | 2 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 4,913 |
 | 3 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,894 |
 | 4 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 2,544 |
@@ -72,7 +72,7 @@ Indexed users: 1,073
 | 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Qatar, Doha | 204 |
 | 9 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | Doha, Qatar | 160 |
 | 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury | Qatar | 155 |
-| 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 128 |
+| 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 129 |
 | 12 | [m2ncef](https://github.com/m2ncef) | Moncef Guezzi | Qatar | 126 |
 | 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 125 |
 | 14 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | Qatar | 113 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 105 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 99 |
 
-Generated: 2026-10-24T00:45:12.362Z
+Generated: 2026-10-24T05:20:22.893Z

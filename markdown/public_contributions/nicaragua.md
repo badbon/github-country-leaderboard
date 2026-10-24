@@ -1,12 +1,12 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-24T00:38:36.949Z
+Generated: 2026-10-24T05:13:49.655Z
 
 Users: 1395
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7035 |
+| 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7277 |
 | 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 2223 |
 | 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo |  |  | Nicaragua | 2060 |
 | 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  |  |  | Nicaragua | 1635 |

@@ -27,7 +27,7 @@ Indexed users: 2,190
 | 13 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,506 |
 | 14 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 8,733 |
 | 15 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 8,230 |
-| 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,927 |
+| 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 7,076 |
 | 17 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,787 |
 | 18 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,749 |
 | 19 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,191 |
@@ -38,7 +38,7 @@ Indexed users: 2,190
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 10,210 |
-| 2 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,889 |
+| 2 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 7,038 |
 | 3 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,787 |
 | 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,400 |
 | 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 4,033 |
@@ -51,9 +51,9 @@ Indexed users: 2,190
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 2,146 |
 | 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,119 |
 | 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,983 |
-| 15 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,955 |
-| 16 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 1,935 |
-| 17 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon | Luxembourg | 1,931 |
+| 15 | [barnumbirr](https://github.com/barnumbirr) | Martin Simon | Luxembourg | 1,974 |
+| 16 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,955 |
+| 17 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 1,935 |
 | 18 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,862 |
 | 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,664 |
 | 20 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,617 |
@@ -66,7 +66,7 @@ Indexed users: 2,190
 | 2 | [kissalexandra](https://github.com/kissalexandra) | Alexandra Kiss | Ville de Luxembourg | 613 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 470 |
 | 4 | [255kb](https://github.com/255kb) | Guillaume | Luxembourg | 397 |
-| 5 | [themarcba](https://github.com/themarcba) | Marc Backes | Luxembourg | 393 |
+| 5 | [themarcba](https://github.com/themarcba) | Marc Backes | Luxembourg | 394 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin | Luxembourg | 379 |
 | 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka | Luxembourg | 370 |
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 310 |
@@ -83,4 +83,4 @@ Indexed users: 2,190
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 191 |
 
-Generated: 2026-10-24T00:31:17.362Z
+Generated: 2026-10-24T05:06:53.092Z

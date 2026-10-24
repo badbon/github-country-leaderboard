@@ -23,15 +23,15 @@ Indexed users: 899
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,954 |
 | 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,754 |
 | 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,739 |
-| 12 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 4,179 |
+| 12 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 4,347 |
 | 13 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 4,035 |
-| 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,621 |
+| 14 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,759 |
 | 15 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,471 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,294 |
-| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,142 |
-| 18 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Blantyre, Malawi | 3,123 |
-| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,097 |
-| 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,094 |
+| 17 | [caesar127](https://github.com/caesar127) | Caesar Ndawala | Malawi | 3,272 |
+| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,142 |
+| 19 | [2KAY-kat](https://github.com/2KAY-kat) | Kelvin KAY Katoya | Blantyre, Malawi | 3,123 |
+| 20 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,097 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 132 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 130 |
 
-Generated: 2026-10-24T00:32:35.815Z
+Generated: 2026-10-24T05:07:22.828Z

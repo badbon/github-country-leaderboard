@@ -41,7 +41,7 @@ Indexed users: 2,013
 | 2 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 4,151 |
 | 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 3,421 |
 | 4 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 2,921 |
-| 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,364 |
+| 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,382 |
 | 6 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,335 |
 | 7 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,906 |
 | 8 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,692 |
@@ -71,8 +71,8 @@ Indexed users: 2,013
 | 7 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 233 |
 | 8 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes | Paraguay | 209 |
 | 9 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić | Paraguay | 201 |
-| 10 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 182 |
-| 11 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 179 |
+| 10 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 191 |
+| 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 182 |
 | 12 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 153 |
 | 13 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 152 |
 | 14 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 136 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-24T00:42:05.895Z
+Generated: 2026-10-24T05:17:03.397Z

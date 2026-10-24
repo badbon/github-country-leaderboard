@@ -13,7 +13,7 @@ Indexed users: 474
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,847 |
-| 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 7,622 |
+| 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 7,890 |
 | 3 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 7,004 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,759 |
 | 5 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 6,349 |
@@ -55,7 +55,7 @@ Indexed users: 474
 | 16 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 252 |
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
 | 18 | [yaasoniii](https://github.com/yaasoniii) | Jason | Windhoek, Namibia | 245 |
-| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
+| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 244 |
 | 20 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 240 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 474
 | 19 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 | 20 | [Fox520](https://github.com/Fox520) | Thomas David | Namibia | 33 |
 
-Generated: 2026-10-24T00:37:54.560Z
+Generated: 2026-10-24T05:12:48.110Z

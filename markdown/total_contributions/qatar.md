@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-24T00:45:12.362Z
+Generated: 2026-10-24T05:20:22.893Z
 
 Users: 1073
 
@@ -8,7 +8,7 @@ Users: 1073
 |---:|---|---|---|---|---|---:|
 | 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 18953 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour |  |  | Qatar | 14514 |
-| 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 12629 |
+| 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 13309 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said |  |  | Qatar | 11760 |
 | 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab |  | kin230 | Doha, Qatar | 9014 |
 | 6 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes |  |  | Doha | 8205 |
@@ -22,7 +22,7 @@ Users: 1073
 | 14 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 5876 |
 | 15 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5741 |
 | 16 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 5148 |
-| 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 5079 |
+| 17 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 5103 |
 | 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | @rozine-rw | Engineersticity | Doha, Qatar | 4632 |
 | 19 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 4459 |
 | 20 | [abdulwaarith0](https://github.com/abdulwaarith0) | Abdulwaarith Zakariyya |  | javamind_ | Doha, Qatar | 4347 |

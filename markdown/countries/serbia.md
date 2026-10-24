@@ -1,6 +1,6 @@
 # Serbia
 
-Indexed users: 10,647
+Indexed users: 10,646
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 10,647
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-24T00:48:48.114Z
+Generated: 2026-10-24T05:25:40.738Z

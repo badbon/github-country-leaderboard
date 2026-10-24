@@ -27,9 +27,9 @@ Indexed users: 2,195
 | 13 | [skmail](https://github.com/skmail) |  | Palestine | 6,410 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 6,010 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 5,678 |
-| 16 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh | Ramallah - Palestine | 5,336 |
-| 17 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,026 |
-| 18 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,747 |
+| 16 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,535 |
+| 17 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh | Ramallah - Palestine | 5,336 |
+| 18 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,739 |
 | 19 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout | Gaza, Palestine | 4,244 |
 | 20 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,177 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,195
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-24T00:41:46.165Z
+Generated: 2026-10-24T05:16:50.884Z
