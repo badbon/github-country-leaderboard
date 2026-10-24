@@ -47959,7 +47959,7 @@
     "company": "@UiPath",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2089,
+    "privateContributions": 2087,
     "publicContributions": 0,
     "createdAt": "2021-08-19T09:14:56Z"
   },
@@ -47971,8 +47971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 848,
+    "privateContributions": 642,
+    "publicContributions": 1003,
     "createdAt": "2021-01-14T21:33:40Z"
   },
   {
@@ -47984,20 +47984,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 144,
     "createdAt": "2021-08-24T14:34:28Z"
-  },
-  {
-    "login": "marianalexandru04",
-    "name": "Marian Alexandru Panait",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81573755?s=72&u=d91ccbef314bcb9203618dcf97d913cce3f498c6&v=4",
-    "location": "Bucharest",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 14,
-    "createdAt": "2021-03-29T14:11:12Z"
   },
   {
     "login": "OlaruAAndrei",
@@ -48031,7 +48019,7 @@
     "company": "ArtGames",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 883,
+    "privateContributions": 940,
     "publicContributions": 0,
     "createdAt": "2021-06-03T08:05:44Z"
   },
@@ -48056,7 +48044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 28,
     "createdAt": "2021-07-28T17:30:16Z"
   },
   {
@@ -48067,8 +48055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 747,
-    "publicContributions": 14,
+    "privateContributions": 409,
+    "publicContributions": 11,
     "createdAt": "2021-02-24T09:32:14Z"
   },
   {
@@ -48076,11 +48064,11 @@
     "name": "Alexandru Avram",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83804634?s=72&v=4",
     "location": "Bucharest",
-    "company": "Capgemini",
+    "company": "Siemens Energy",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 43,
     "createdAt": "2021-05-07T05:53:00Z"
   },
   {
@@ -48114,7 +48102,7 @@
     "location": "Bucharest",
     "company": "C.N.A.I.R",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 240,
     "createdAt": "2021-06-11T06:34:20Z"

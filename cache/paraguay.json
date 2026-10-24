@@ -56,7 +56,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 15,
     "createdAt": "2026-04-09T13:30:22Z"
   },
   {
@@ -88,7 +88,7 @@
     "name": "Dante Llanos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/272017697?s=72&u=74ba7efb68134528bc85396904b61e3778185235&v=4",
     "location": "Asunción, Paraguay",
-    "company": "rubica.io",
+    "company": "Rúbica",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -174,9 +174,9 @@
     "location": "Paraguay",
     "company": "Skyvanguard",
     "twitterUsername": "",
-    "followers": 179,
-    "privateContributions": 2201,
-    "publicContributions": 2364,
+    "followers": 191,
+    "privateContributions": 2318,
+    "publicContributions": 2382,
     "createdAt": "2025-10-11T18:40:35Z"
   },
   {
@@ -188,7 +188,7 @@
     "twitterUsername": "",
     "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 39,
     "createdAt": "2025-04-23T01:17:37Z"
   },
   {
@@ -199,8 +199,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 338,
-    "publicContributions": 161,
+    "privateContributions": 347,
+    "publicContributions": 96,
     "createdAt": "2025-04-21T04:26:28Z"
   },
   {
@@ -210,7 +210,7 @@
     "location": "Paraguay",
     "company": "Penguin Academy",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 142,
     "createdAt": "2025-07-26T19:42:01Z"
@@ -224,7 +224,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 117,
     "createdAt": "2025-04-21T04:04:23Z"
   },
   {
@@ -234,7 +234,7 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 401,
     "createdAt": "2025-11-28T04:18:25Z"
