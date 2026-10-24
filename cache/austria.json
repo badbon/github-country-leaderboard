@@ -50346,8 +50346,8 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 187,
+    "followers": 10,
+    "privateContributions": 189,
     "publicContributions": 104,
     "createdAt": "2020-05-06T13:18:39Z"
   },
@@ -50359,8 +50359,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1,
-    "publicContributions": 533,
+    "privateContributions": 17,
+    "publicContributions": 548,
     "createdAt": "2020-05-23T13:08:21Z"
   },
   {
@@ -50406,9 +50406,9 @@
     "location": "Innsbruck, Tyrol, Austria",
     "company": "University of Innsbruck",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 596,
-    "publicContributions": 101,
+    "followers": 9,
+    "privateContributions": 691,
+    "publicContributions": 85,
     "createdAt": "2020-04-28T08:08:34Z"
   },
   {
@@ -50418,22 +50418,10 @@
     "location": "austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 477,
+    "publicContributions": 468,
     "createdAt": "2020-08-23T15:50:48Z"
-  },
-  {
-    "login": "felgoba",
-    "name": "Felgo BA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69240605?s=72&u=4e12a651a5ff82f8c24ccac551c6f19cae540e32&v=4",
-    "location": "Austria",
-    "company": "@FelgoSDK",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2020-08-05T09:08:22Z"
   },
   {
     "login": "rayfaybian",
@@ -50455,7 +50443,7 @@
     "company": "University of VIenna",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2020-04-15T12:50:25Z"
   },
@@ -50466,7 +50454,7 @@
     "location": "Austria",
     "company": "Koç University @KocUniversity ",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-03-09T14:45:39Z"
@@ -50502,9 +50490,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 33,
     "createdAt": "2020-04-19T12:43:31Z"
   },
   {
@@ -50515,7 +50503,7 @@
     "company": "HORN Industries e.U.",
     "twitterUsername": "MichaelNROH",
     "followers": 8,
-    "privateContributions": 32,
+    "privateContributions": 35,
     "publicContributions": 0,
     "createdAt": "2020-10-21T06:52:18Z"
   },
@@ -50550,9 +50538,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 96,
-    "publicContributions": 22,
+    "followers": 9,
+    "privateContributions": 106,
+    "publicContributions": 21,
     "createdAt": "2020-06-02T15:41:02Z"
   },
   {
@@ -50564,19 +50552,19 @@
     "twitterUsername": "cai_yitao",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 20,
     "createdAt": "2020-05-20T03:43:02Z"
   },
   {
     "login": "edgvrl",
     "name": "eddie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69675847?s=72&u=96fac03e0b7be2c9c8d968379f566a22d2b54fcf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69675847?s=72&u=20acfc44f156c574150b9d1c1fdd7386de59976d&v=4",
     "location": "Austria",
     "company": "Schulzentrum Ybbs",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2020-08-14T10:36:51Z"
   },
   {

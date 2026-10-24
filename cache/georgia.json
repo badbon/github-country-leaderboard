@@ -50443,18 +50443,18 @@
     "company": "redberry",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 25,
+    "privateContributions": 26,
     "publicContributions": 0,
     "createdAt": "2018-12-06T07:37:07Z"
   },
   {
     "login": "NokaK",
     "name": "Noka ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33997372?s=72&u=22323b39350081aea68de7c65d329d643200734e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33997372?s=72&u=eff8f4a91915dc71d4d9f78c6024607738a7dcf9&v=4",
     "location": "Georgia,Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 189,
+    "followers": 191,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-11-26T07:33:26Z"
@@ -50466,9 +50466,9 @@
     "location": "Georgia",
     "company": "@laravel",
     "twitterUsername": "jasonlbeggs",
-    "followers": 187,
-    "privateContributions": 2805,
-    "publicContributions": 4,
+    "followers": 188,
+    "privateContributions": 2785,
+    "publicContributions": 3,
     "createdAt": "2017-01-11T20:09:31Z"
   },
   {
@@ -50478,22 +50478,10 @@
     "location": "Georgia",
     "company": "Orbital Gaming",
     "twitterUsername": "dakyskye",
-    "followers": 104,
-    "privateContributions": 5,
-    "publicContributions": 23,
+    "followers": 105,
+    "privateContributions": 3,
+    "publicContributions": 26,
     "createdAt": "2017-09-20T10:41:26Z"
-  },
-  {
-    "login": "pmttavara",
-    "name": "Phillip Trudeau-Tavara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34119228?s=72&u=a041ffda3fbc22da68fe57b77865269cb562a616&v=4",
-    "location": "Batumi, Georgia",
-    "company": "",
-    "twitterUsername": "phillip_trudeau",
-    "followers": 80,
-    "privateContributions": 148,
-    "publicContributions": 723,
-    "createdAt": "2017-11-30T05:31:28Z"
   },
   {
     "login": "NikolozCh",
@@ -50502,8 +50490,8 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "NikoloziGE",
-    "followers": 70,
-    "privateContributions": 1645,
+    "followers": 73,
+    "privateContributions": 1446,
     "publicContributions": 3,
     "createdAt": "2017-06-21T08:19:34Z"
   },
@@ -50514,9 +50502,9 @@
     "location": "Georgia",
     "company": "Workhuman",
     "twitterUsername": "",
-    "followers": 60,
-    "privateContributions": 98,
-    "publicContributions": 51,
+    "followers": 64,
+    "privateContributions": 64,
+    "publicContributions": 47,
     "createdAt": "2017-02-26T09:38:12Z"
   },
   {
@@ -50526,7 +50514,7 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 63,
+    "followers": 62,
     "privateContributions": 108,
     "publicContributions": 139,
     "createdAt": "2017-05-20T13:52:03Z"
@@ -50538,9 +50526,9 @@
     "location": "Tbilisi, Georgia",
     "company": "@supabase",
     "twitterUsername": "",
-    "followers": 57,
-    "privateContributions": 296,
-    "publicContributions": 483,
+    "followers": 52,
+    "privateContributions": 690,
+    "publicContributions": 444,
     "createdAt": "2017-04-24T16:28:32Z"
   },
   {
@@ -50550,9 +50538,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "souljorje",
-    "followers": 43,
-    "privateContributions": 303,
-    "publicContributions": 333,
+    "followers": 41,
+    "privateContributions": 653,
+    "publicContributions": 279,
     "createdAt": "2017-02-15T14:53:11Z"
   },
   {
@@ -50562,7 +50550,7 @@
     "location": "Marietta, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 40,
     "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2017-10-28T14:20:18Z"
@@ -50570,13 +50558,13 @@
   {
     "login": "jag-k",
     "name": "Jag_k",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30597878?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30597878?s=72&u=ca354b95cf7364a0bb70312226ec64deee057325&v=4",
     "location": "Batumi, Georgia",
     "company": "@OpenWeatherMap",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 93,
-    "publicContributions": 240,
+    "followers": 38,
+    "privateContributions": 190,
+    "publicContributions": 283,
     "createdAt": "2017-07-31T13:57:05Z"
   },
   {
@@ -50586,9 +50574,9 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 695,
-    "publicContributions": 421,
+    "followers": 37,
+    "privateContributions": 727,
+    "publicContributions": 391,
     "createdAt": "2017-04-06T14:10:10Z"
   },
   {
@@ -50598,9 +50586,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "platonoff_devv",
-    "followers": 37,
-    "privateContributions": 51,
-    "publicContributions": 165,
+    "followers": 38,
+    "privateContributions": 43,
+    "publicContributions": 6,
     "createdAt": "2017-09-13T13:29:29Z"
   },
   {
@@ -50610,8 +50598,8 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "jungle_sven",
-    "followers": 38,
-    "privateContributions": 37,
+    "followers": 39,
+    "privateContributions": 21,
     "publicContributions": 0,
     "createdAt": "2017-10-11T18:00:47Z"
   },
@@ -50620,11 +50608,11 @@
     "name": "Leva",
     "avatarUrl": "https://avatars.githubusercontent.com/u/30367445?s=72&u=ca00bec8bb7ebc6e988f635bc51163a52d26a25e&v=4",
     "location": "Georgia",
-    "company": "Desearch AI",
-    "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 618,
-    "publicContributions": 9,
+    "company": "",
+    "twitterUsername": "changelia_levan",
+    "followers": 38,
+    "privateContributions": 1096,
+    "publicContributions": 105,
     "createdAt": "2017-07-22T10:05:02Z"
   },
   {
@@ -50635,7 +50623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 2656,
+    "privateContributions": 3312,
     "publicContributions": 0,
     "createdAt": "2017-08-16T21:04:15Z"
   },
@@ -50646,9 +50634,9 @@
     "location": "Tbilisi, Georgia",
     "company": "@tochkak @seven48 @Flex-js @kinoplan",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2017-03-19T12:45:47Z"
   },
   {
@@ -50658,9 +50646,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 140,
     "createdAt": "2017-09-08T18:24:25Z"
   },
   {

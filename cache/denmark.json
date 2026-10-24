@@ -50347,7 +50347,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2020-07-16T17:47:23Z"
   },
@@ -50372,7 +50372,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 1,
     "createdAt": "2015-04-11T09:52:14Z"
   },
   {
@@ -50382,7 +50382,7 @@
     "location": "Aalborg, Denmark",
     "company": "Aalborg University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2020-04-28T09:19:37Z"
@@ -50394,9 +50394,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 767,
-    "publicContributions": 195,
+    "followers": 2,
+    "privateContributions": 878,
+    "publicContributions": 289,
     "createdAt": "2020-05-03T09:11:53Z"
   },
   {
@@ -50408,7 +50408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-04-11T18:32:06Z"
   },
   {
@@ -50431,8 +50431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1958,
-    "publicContributions": 7,
+    "privateContributions": 1371,
+    "publicContributions": 47,
     "createdAt": "2020-07-26T19:37:18Z"
   },
   {
@@ -50455,7 +50455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 180,
+    "privateContributions": 187,
     "publicContributions": 0,
     "createdAt": "2020-04-10T09:46:39Z"
   },
@@ -50466,22 +50466,10 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1866,
-    "publicContributions": 187,
+    "followers": 2,
+    "privateContributions": 2142,
+    "publicContributions": 255,
     "createdAt": "2020-11-23T20:51:50Z"
-  },
-  {
-    "login": "Chopnex",
-    "name": "Filipdk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75689956?s=72&u=25dbb117d939dc254906f84845f39f16ede4d4b8&v=4",
-    "location": "Denmark",
-    "company": "Chopnex",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2020-12-08T16:58:07Z"
   },
   {
     "login": "pryda-snare",
@@ -50492,7 +50480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 21,
     "createdAt": "2020-05-10T18:55:36Z"
   },
   {
@@ -50515,8 +50503,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 51,
-    "publicContributions": 3,
+    "privateContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2020-04-08T01:51:42Z"
   },
   {
@@ -50539,8 +50527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 128,
+    "privateContributions": 124,
+    "publicContributions": 104,
     "createdAt": "2020-05-17T19:55:03Z"
   },
   {
@@ -50571,12 +50559,12 @@
     "login": "chufakiks",
     "name": "Lucia Alexandra Little",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73139437?s=72&u=4d6993854f784ca3f1e077b34aed735c38243679&v=4",
-    "location": "Copenhagen, Denmark",
+    "location": "Odense, Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 264,
+    "publicContributions": 263,
     "createdAt": "2020-10-19T20:24:13Z"
   },
   {

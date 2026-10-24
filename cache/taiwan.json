@@ -43351,8 +43351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1,
-    "publicContributions": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-08-17T10:09:28Z"
   },
   {
@@ -43363,8 +43363,8 @@
     "company": "McKinsey & Company",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 78,
-    "publicContributions": 14,
+    "privateContributions": 414,
+    "publicContributions": 28,
     "createdAt": "2021-07-20T05:32:47Z"
   },
   {
@@ -43374,8 +43374,8 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 537,
+    "followers": 1,
+    "privateContributions": 497,
     "publicContributions": 0,
     "createdAt": "2021-07-28T17:18:56Z"
   },
@@ -43399,8 +43399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 41,
+    "privateContributions": 1,
+    "publicContributions": 37,
     "createdAt": "2021-08-06T18:34:21Z"
   },
   {
@@ -43424,7 +43424,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 24,
     "createdAt": "2021-12-08T13:35:23Z"
   },
   {
@@ -43434,8 +43434,8 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 447,
+    "followers": 4,
+    "privateContributions": 603,
     "publicContributions": 13,
     "createdAt": "2021-12-15T17:25:02Z"
   },
@@ -43446,9 +43446,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 61,
     "createdAt": "2021-08-07T19:43:14Z"
   },
   {
@@ -43459,7 +43459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-02T11:37:33Z"
   },
@@ -43484,7 +43484,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 238,
+    "publicContributions": 240,
     "createdAt": "2021-08-17T14:09:56Z"
   },
   {
@@ -43508,7 +43508,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 43,
     "createdAt": "2021-10-21T04:54:21Z"
   },
   {
@@ -43531,20 +43531,20 @@
     "company": "Innodisk - IPA",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 33,
+    "privateContributions": 365,
+    "publicContributions": 38,
     "createdAt": "2021-09-17T09:52:05Z"
   },
   {
     "login": "Bryant-Tang",
-    "name": "Bryant",
+    "name": "Bryant Tang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96232475?s=72&u=7354e7debecd087d6ef5def55ddba6a4a265d42a&v=4",
     "location": "Taiwan",
     "company": "Turbo Technologies Co., Ltd.",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 358,
     "createdAt": "2021-12-16T09:06:21Z"
   },
   {

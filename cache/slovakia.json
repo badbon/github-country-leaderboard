@@ -50144,7 +50144,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2012-01-10T11:24:14Z"
   },
   {
@@ -50178,9 +50178,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1102,
+    "publicContributions": 1280,
     "createdAt": "2012-03-02T21:48:26Z"
   },
   {
@@ -50192,7 +50192,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 2,
-    "publicContributions": 1,
+    "publicContributions": 197,
     "createdAt": "2012-06-11T21:47:04Z"
   },
   {
@@ -50202,9 +50202,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "nudzo",
-    "followers": 5,
-    "privateContributions": 967,
-    "publicContributions": 43,
+    "followers": 7,
+    "privateContributions": 1055,
+    "publicContributions": 102,
     "createdAt": "2012-02-04T22:16:23Z"
   },
   {
@@ -50239,7 +50239,7 @@
     "company": "@vacuumlabs ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 811,
+    "privateContributions": 1163,
     "publicContributions": 0,
     "createdAt": "2012-07-24T13:51:41Z"
   },
@@ -50252,7 +50252,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 164,
     "createdAt": "2012-09-18T11:41:48Z"
   },
   {
@@ -50275,7 +50275,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1070,
+    "privateContributions": 1192,
     "publicContributions": 17,
     "createdAt": "2012-11-30T07:06:54Z"
   },
@@ -50287,8 +50287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 124,
-    "publicContributions": 14,
+    "privateContributions": 134,
+    "publicContributions": 17,
     "createdAt": "2012-10-16T18:00:35Z"
   },
   {
@@ -50298,22 +50298,10 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-02-22T08:44:22Z"
-  },
-  {
-    "login": "petermezes",
-    "name": "Peter Mézeš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2051781?s=72&u=b29427644cbe85263ceffdc5057b75e7027cf036&v=4",
-    "location": "Bratislava",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 238,
-    "publicContributions": 2,
-    "createdAt": "2012-07-27T11:40:37Z"
   },
   {
     "login": "mmitucha",
@@ -50324,7 +50312,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 48,
     "createdAt": "2012-10-09T06:32:13Z"
   },
   {
@@ -50336,7 +50324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 28,
     "createdAt": "2012-12-27T20:39:44Z"
   },
   {

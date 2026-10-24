@@ -12200,7 +12200,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 20,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2019-07-03T07:13:37Z"
   },
   {
@@ -12235,7 +12235,7 @@
     "company": "THE NU d.o.o.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1133,
+    "privateContributions": 1114,
     "publicContributions": 6,
     "createdAt": "2019-02-26T11:57:07Z"
   },
@@ -12247,7 +12247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 94,
+    "privateContributions": 106,
     "publicContributions": 2,
     "createdAt": "2019-10-29T16:50:41Z"
   },
@@ -12296,7 +12296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2019-10-07T18:25:18Z"
   },
   {
@@ -12322,18 +12322,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-28T13:06:28Z"
-  },
-  {
-    "login": "pmaksimilian",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51316465?s=72&v=4",
-    "location": "Ljubljana",
-    "company": "PAVSIC.NET, spletne rešitve",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2019-06-03T08:16:07Z"
   },
   {
     "login": "DjukaMarko",
@@ -12415,8 +12403,8 @@
     "company": "Jozef Stefan Institute",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 156,
-    "publicContributions": 250,
+    "privateContributions": 192,
+    "publicContributions": 242,
     "createdAt": "2019-03-15T15:37:52Z"
   },
   {
@@ -12427,8 +12415,8 @@
     "company": "@lutralabs",
     "twitterUsername": "vidkersic",
     "followers": 159,
-    "privateContributions": 151,
-    "publicContributions": 37,
+    "privateContributions": 163,
+    "publicContributions": 42,
     "createdAt": "2018-04-22T09:53:42Z"
   },
   {

@@ -49904,7 +49904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-08-01T07:09:21Z"
   },
   {
@@ -49915,8 +49915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2103,
-    "publicContributions": 43,
+    "privateContributions": 2523,
+    "publicContributions": 103,
     "createdAt": "2021-09-07T14:21:11Z"
   },
   {
@@ -49946,13 +49946,13 @@
   {
     "login": "Samuel-Hills",
     "name": "Samuel Hills",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88032149?s=72&u=e27aaf93b8418fd6599954e4f8facce3e47802db&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/88032149?s=72&u=e12df1296f0ae2682721ede82a1c7b9ebb6b49fb&v=4",
     "location": "Zürich, Switzerland",
     "company": "Lehrshare GmbH",
     "twitterUsername": "samuelhillscode",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 120,
     "createdAt": "2021-07-27T10:10:14Z"
   },
   {
@@ -49976,7 +49976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-07-21T07:09:29Z"
   },
   {
@@ -50004,18 +50004,6 @@
     "createdAt": "2021-09-01T09:19:08Z"
   },
   {
-    "login": "MikeDawson1945",
-    "name": "Mike Dawson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89732817?s=72&u=105de1ec4459d86443de28abcd30342eeef1b586&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-08-29T12:11:15Z"
-  },
-  {
     "login": "tesycharging",
     "name": "David Lüthi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/91178017?s=72&u=fd42a1ec99adb03e96f29448487e4f4dce236e3c&v=4",
@@ -50029,14 +50017,14 @@
   },
   {
     "login": "MendyData",
-    "name": "Angèle Mendy",
+    "name": "Angèle Gomis Mendy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90247022?s=72&u=89d8e6158893748f61ec1bf232566ee639beb7e8&v=4",
-    "location": "Switzerland",
+    "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2021-09-07T08:39:49Z"
   },
   {
@@ -50072,7 +50060,7 @@
     "twitterUsername": "TBazzu",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-07-27T05:50:52Z"
   },
   {
@@ -50084,7 +50072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 10,
     "createdAt": "2021-07-27T14:26:59Z"
   },
   {
@@ -50096,7 +50084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 40,
     "createdAt": "2021-08-21T14:04:08Z"
   },
   {
@@ -50107,7 +50095,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 335,
+    "privateContributions": 663,
     "publicContributions": 0,
     "createdAt": "2021-07-12T13:04:46Z"
   },
