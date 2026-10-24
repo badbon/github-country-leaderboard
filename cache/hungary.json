@@ -49339,7 +49339,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1276,
+    "privateContributions": 1140,
     "publicContributions": 34,
     "createdAt": "2019-02-16T00:04:51Z"
   },
@@ -49352,7 +49352,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 456,
+    "publicContributions": 368,
     "createdAt": "2019-11-23T16:55:38Z"
   },
   {
@@ -49364,7 +49364,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 6,
     "createdAt": "2019-11-23T13:59:58Z"
   },
   {
@@ -49374,7 +49374,7 @@
     "location": "Budapest",
     "company": "EPAM",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-01-10T13:33:48Z"
@@ -49387,7 +49387,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 313,
+    "privateContributions": 319,
     "publicContributions": 0,
     "createdAt": "2019-05-21T02:04:29Z"
   },
@@ -49423,8 +49423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 185,
-    "publicContributions": 2,
+    "privateContributions": 240,
+    "publicContributions": 5,
     "createdAt": "2019-01-06T17:41:05Z"
   },
   {
@@ -49435,8 +49435,8 @@
     "company": "shiwaforce",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 16,
-    "publicContributions": 54,
+    "privateContributions": 13,
+    "publicContributions": 52,
     "createdAt": "2019-05-15T16:16:39Z"
   },
   {
@@ -49447,7 +49447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 16,
+    "privateContributions": 97,
     "publicContributions": 0,
     "createdAt": "2019-02-13T14:14:32Z"
   },
@@ -49483,8 +49483,8 @@
     "company": "Webforyou",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 198,
-    "publicContributions": 30,
+    "privateContributions": 378,
+    "publicContributions": 54,
     "createdAt": "2019-02-01T15:38:29Z"
   },
   {
@@ -49508,7 +49508,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-03-22T12:18:12Z"
   },
   {
@@ -49518,9 +49518,9 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2019-05-04T23:21:08Z"
   },
   {
@@ -49531,7 +49531,7 @@
     "company": "EPAM Systems",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 89,
+    "privateContributions": 39,
     "publicContributions": 174,
     "createdAt": "2019-01-13T16:49:02Z"
   },
@@ -49556,19 +49556,19 @@
     "twitterUsername": "ne3mer",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 716,
+    "publicContributions": 687,
     "createdAt": "2019-01-21T14:22:29Z"
   },
   {
     "login": "nicovok",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47064115?s=72&u=8d855dfeaeac2284eb7596eb294ea14b8bd9503d&v=4",
+    "name": "Nicolas Prouteau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47064115?s=72&u=01ac6e4c2d06f068c53c613d5b7d7e21766752a1&v=4",
     "location": "Budapest",
-    "company": "",
+    "company": "Freelance",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 254,
+    "publicContributions": 145,
     "createdAt": "2019-01-26T18:17:42Z"
   },
   {
