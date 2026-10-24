@@ -1,12 +1,12 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-24T19:39:01.960Z
+Generated: 2026-10-24T22:08:31.341Z
 
 Users: 740
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 164885 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 164732 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 3527 |
 | 3 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 1335 |
 | 4 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY |  |  | Libya | 1093 |
@@ -18,7 +18,7 @@ Users: 740
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 656 |
 | 11 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 502 |
 | 12 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 424 |
-| 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 423 |
+| 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 418 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 413 |
 | 15 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat |  |  | Libya-Tripoli-Gorji | 375 |
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali |  |  | Libya, Tripoli | 369 |

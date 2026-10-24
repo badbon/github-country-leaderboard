@@ -12,12 +12,12 @@ Indexed users: 740
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,673 |
-| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 15,707 |
-| 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 15,493 |
-| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 13,061 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,496 |
+| 2 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 17,201 |
+| 3 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 15,707 |
+| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 13,338 |
 | 5 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 13,053 |
-| 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 12,234 |
+| 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 12,747 |
 | 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 10,039 |
 | 8 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 9,477 |
 | 9 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,193 |
@@ -37,7 +37,7 @@ Indexed users: 740
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 164,885 |
+| 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 164,732 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,527 |
 | 3 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,335 |
 | 4 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,093 |
@@ -49,7 +49,7 @@ Indexed users: 740
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 656 |
 | 11 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 502 |
 | 12 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 424 |
-| 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 423 |
+| 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 418 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 413 |
 | 15 | [AbdelWahab-Farhat](https://github.com/AbdelWahab-Farhat) | Abdelwahab farhat | Libya-Tripoli-Gorji | 375 |
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali | Libya, Tripoli | 369 |
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-24T19:39:01.960Z
+Generated: 2026-10-24T22:08:31.341Z

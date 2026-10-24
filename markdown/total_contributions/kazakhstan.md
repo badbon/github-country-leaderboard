@@ -1,6 +1,6 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-24T19:36:42.719Z
+Generated: 2026-10-24T22:05:27.417Z
 
 Users: 5614
 
@@ -22,7 +22,7 @@ Users: 5614
 | 14 | [enganese](https://github.com/enganese) | Ulan Aitbay |  |  | Aktau, Kazakhstan / Almaty, Kazakhstan | 11740 |
 | 15 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 10505 |
 | 16 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | @khangroupkz  |  | Kazakhstan | 10357 |
-| 17 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Higgsfield AI |  | Astana, Kazakhstan | 8486 |
-| 18 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |
-| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 8145 |
-| 20 | [AssylanAkhanuly](https://github.com/AssylanAkhanuly) | Assylan Akhanuly | @job-escape  |  | Kazakhstan, Astana | 8088 |
+| 17 | [rubyhat](https://github.com/rubyhat) | Vladislav Tsay |  |  | Kazakhstan | 8605 |
+| 18 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Higgsfield AI |  | Astana, Kazakhstan | 8486 |
+| 19 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |
+| 20 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 8145 |
