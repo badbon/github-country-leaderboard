@@ -49016,7 +49016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 164,
     "createdAt": "2022-01-12T21:11:03Z"
   },
   {
@@ -49040,7 +49040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 0,
     "createdAt": "2022-03-28T18:38:44Z"
   },
   {
@@ -49074,7 +49074,7 @@
     "location": "Chile, Stgo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-17T21:38:31Z"
@@ -49100,7 +49100,7 @@
     "twitterUsername": "soyserato",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 41,
     "createdAt": "2022-01-21T02:45:53Z"
   },
   {
@@ -49114,18 +49114,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-05T04:35:54Z"
-  },
-  {
-    "login": "rexdev08",
-    "name": "Raimundo Rincon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101665808?s=72&u=04d75d743b9be5e0239f2de0bb4505f2b1cf643f&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "RexDev08",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2022-03-15T18:22:01Z"
   },
   {
     "login": "jormalicks",
@@ -49160,7 +49148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2022-02-01T16:02:21Z"
   },
   {
@@ -49212,27 +49200,15 @@
     "createdAt": "2022-03-20T15:12:09Z"
   },
   {
-    "login": "JuanOlivares97",
-    "name": "Juan Manuel Olivares Jiménez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101352442?s=72&u=5b41b2baa72924d0c20fe44dba7baba7968c09d5&v=4",
-    "location": "Melipilla, Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2022-03-10T16:58:43Z"
-  },
-  {
     "login": "Lexiesm",
     "name": "Alexandra San Martín",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101207522?s=72&u=a0dc3c063f1a977a9845e31aad2d6403d6ba1ed6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101207522?s=72&u=df4a2e46161c782db5fab24ce8746d2ebb0f7c98&v=4",
     "location": "Santiago de Chile",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 71,
     "createdAt": "2022-03-08T17:27:38Z"
   },
   {

@@ -751,8 +751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 772,
-    "publicContributions": 1241,
+    "privateContributions": 803,
+    "publicContributions": 1273,
     "createdAt": "2025-04-14T10:37:32Z"
   },
   {
@@ -799,8 +799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2025-06-04T11:18:09Z"
   },
   {
@@ -812,7 +812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2025-01-07T09:51:42Z"
   },
   {
@@ -824,7 +824,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 637,
+    "publicContributions": 644,
     "createdAt": "2025-05-16T11:08:44Z"
   },
   {
@@ -872,7 +872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 67,
     "createdAt": "2025-04-26T15:21:26Z"
   },
   {
@@ -884,7 +884,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 150,
     "createdAt": "2025-02-04T15:59:43Z"
   },
   {
@@ -932,7 +932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 200,
+    "publicContributions": 361,
     "createdAt": "2025-06-09T11:51:11Z"
   },
   {
@@ -944,20 +944,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 86,
     "createdAt": "2025-11-28T12:33:23Z"
-  },
-  {
-    "login": "Armencho2012",
-    "name": "Armen Aslikyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201786062?s=72&u=8b77358bc59737307acb26824dded1176f049ef4&v=4",
-    "location": "Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 326,
-    "createdAt": "2025-03-04T17:00:47Z"
   },
   {
     "login": "nick-gto",

@@ -48224,7 +48224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 222,
     "createdAt": "2025-02-25T06:54:06Z"
   },
   {
@@ -48236,19 +48236,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 20,
     "createdAt": "2025-02-13T07:19:56Z"
   },
   {
     "login": "afnan2710",
     "name": "Afnan Shahriar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199142633?s=72&u=2db7a0c381c85f58ee4382a39737e7c7ddbc6be3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/199142633?s=72&u=2e01ad3ce6a1bd3b37086aea2d971780e3546607&v=4",
     "location": "Badda, Dhaka",
     "company": "United International University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 79,
     "createdAt": "2025-02-13T18:50:15Z"
   },
   {
@@ -48260,7 +48260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-02-02T17:01:59Z"
   },
   {
@@ -48284,7 +48284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 398,
+    "publicContributions": 293,
     "createdAt": "2025-01-22T15:57:34Z"
   },
   {
@@ -48296,7 +48296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 52,
     "createdAt": "2025-01-13T07:43:56Z"
   },
   {
@@ -48312,18 +48312,6 @@
     "createdAt": "2025-01-31T00:27:14Z"
   },
   {
-    "login": "clayebd",
-    "name": "CLAYE BD ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196472432?s=72&u=3df225e71b18edc01fae0ce3236b9f86385881fe&v=4",
-    "location": "Dhaka Cantonment ",
-    "company": "CLAYE",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 63,
-    "createdAt": "2025-01-25T18:44:36Z"
-  },
-  {
     "login": "FAHIM2031",
     "name": "Fahim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200710464?s=72&u=8e7b5145fc31065ca69198c7550e1f1b4c8ff0d9&v=4",
@@ -48332,19 +48320,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 183,
     "createdAt": "2025-02-25T03:58:15Z"
   },
   {
     "login": "mesbaulrafi",
     "name": "Mesbaul Haque",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209769920?s=72&u=ab1d8d69fafba280d704596c746b53d529b497f6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209769920?s=72&u=619a1a1787baaab305b3338e8c5b17a5a56a42e4&v=4",
     "location": "Dhaka",
     "company": "",
     "twitterUsername": "MesbaulRafi",
-    "followers": 30,
-    "privateContributions": 168,
-    "publicContributions": 613,
+    "followers": 49,
+    "privateContributions": 226,
+    "publicContributions": 698,
     "createdAt": "2025-04-30T10:18:59Z"
   },
   {
@@ -48354,9 +48342,9 @@
     "location": "Dhaka",
     "company": "Independent University, Bangladesh",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 25,
     "privateContributions": 423,
-    "publicContributions": 535,
+    "publicContributions": 580,
     "createdAt": "2025-04-13T13:06:57Z"
   },
   {
@@ -48366,9 +48354,9 @@
     "location": "MIrpur, Dhaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 15,
     "privateContributions": 3,
-    "publicContributions": 295,
+    "publicContributions": 313,
     "createdAt": "2025-05-26T13:59:44Z"
   },
   {
@@ -48378,9 +48366,9 @@
     "location": "Savar, Dhaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 873,
+    "publicContributions": 713,
     "createdAt": "2025-06-24T14:06:15Z"
   },
   {
@@ -48391,8 +48379,8 @@
     "company": "Jahangirnagar University",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 79,
-    "publicContributions": 34,
+    "privateContributions": 93,
+    "publicContributions": 99,
     "createdAt": "2025-06-02T08:05:27Z"
   },
   {
@@ -48402,9 +48390,9 @@
     "location": "Dhaka",
     "company": " Ahsanullah University of Science and Technology ",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 54,
     "createdAt": "2025-05-18T15:16:38Z"
   },
   {
@@ -48426,9 +48414,9 @@
     "location": "Dhaka, Bangladdesh",
     "company": "Studies Computer Science and Engineering at Uttara University ",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 288,
+    "publicContributions": 278,
     "createdAt": "2025-05-08T03:40:58Z"
   },
   {
@@ -48440,7 +48428,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 753,
+    "publicContributions": 791,
     "createdAt": "2025-05-18T21:51:41Z"
   },
   {
@@ -48452,7 +48440,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 33,
     "createdAt": "2025-06-14T12:22:01Z"
   },
   {

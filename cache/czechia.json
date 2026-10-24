@@ -48823,20 +48823,20 @@
     "company": "Matee",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 506,
-    "publicContributions": 212,
+    "privateContributions": 480,
+    "publicContributions": 250,
     "createdAt": "2020-12-18T20:37:53Z"
   },
   {
     "login": "Brozovec",
     "name": "Adam ''Brozovec'' Brož",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61805047?s=72&u=ae80a7b10ebf1769e57b93796702cf02196c7b00&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61805047?s=72&u=c809d87e4494753d18fad56ac72a987197e9699d&v=4",
     "location": "Czech Republic",
-    "company": "Self Hosted Guy 👑",
-    "twitterUsername": "brozovec",
+    "company": "",
+    "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 129,
-    "publicContributions": 119,
+    "privateContributions": 67,
+    "publicContributions": 127,
     "createdAt": "2020-03-04T20:41:04Z"
   },
   {
@@ -48847,7 +48847,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 385,
+    "privateContributions": 456,
     "publicContributions": 2,
     "createdAt": "2020-09-15T18:19:32Z"
   },
@@ -48870,9 +48870,9 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 15,
+    "followers": 5,
+    "privateContributions": 52,
+    "publicContributions": 45,
     "createdAt": "2020-11-21T15:03:01Z"
   },
   {
@@ -48890,13 +48890,13 @@
   {
     "login": "editlxrd",
     "name": "editlxrd",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66186593?s=72&u=fb0b8484891057b8f47ea721e282a0c3d2abceac&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66186593?s=72&u=0bb9bbf2ad6c342fdfa2128176c097df4b3e549b&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "followers": 3,
+    "privateContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2020-05-30T22:53:29Z"
   },
   {
@@ -48944,7 +48944,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 71,
     "createdAt": "2020-03-24T10:34:57Z"
   },
   {
@@ -48964,24 +48964,12 @@
     "name": "Marek Doupovec",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72932013?s=72&u=82d78a732d518d534c094586672b2dc37b90e442&v=4",
     "location": "Czech Republic, Slavkov u Brna",
-    "company": "",
+    "company": "Masaryk University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 642,
+    "publicContributions": 1321,
     "createdAt": "2020-10-15T14:48:23Z"
-  },
-  {
-    "login": "AddictionLord",
-    "name": "Mary",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74077046?s=72&u=7dfcbe3499195fc6af54d28276819c51c042dac9&v=4",
-    "location": "Brno, Czech Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 548,
-    "publicContributions": 79,
-    "createdAt": "2020-11-06T21:47:23Z"
   },
   {
     "login": "vojtekto",
@@ -48991,7 +48979,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
+    "privateContributions": 1405,
     "publicContributions": 0,
     "createdAt": "2020-06-02T13:15:50Z"
   },
@@ -49002,9 +48990,9 @@
     "location": "Czech Republic, Brno",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 36,
-    "publicContributions": 370,
+    "followers": 4,
+    "privateContributions": 51,
+    "publicContributions": 382,
     "createdAt": "2020-01-25T11:53:33Z"
   },
   {
