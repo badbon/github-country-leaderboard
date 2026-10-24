@@ -13,10 +13,10 @@ Indexed users: 60
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 4,203 |
-| 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,063 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,886 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,031 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 740 |
+| 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,056 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,879 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,025 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 734 |
 | 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 474 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
 | 8 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 344 |
@@ -37,12 +37,12 @@ Indexed users: 60
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,031 |
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,025 |
 | 2 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 428 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 385 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 376 |
 | 4 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 366 |
 | 5 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 344 |
-| 6 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 325 |
+| 6 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 324 |
 | 7 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 246 |
 | 8 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 231 |
 | 9 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 179 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-24T00:14:31.282Z
+Generated: 2026-10-24T01:30:07.420Z

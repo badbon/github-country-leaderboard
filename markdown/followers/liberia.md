@@ -1,6 +1,6 @@
 # Followers - Liberia
 
-Generated: 2026-10-24T00:28:21.913Z
+Generated: 2026-10-24T01:42:53.873Z
 
 Users: 210
 
@@ -13,7 +13,7 @@ Users: 210
 | 5 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 129 |
 | 6 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 101 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 63 |
-| 8 | [benjaminangafua](https://github.com/benjaminangafua) | Benjamin A. Ngafua |  |  | Liberia | 49 |
+| 8 | [benjaminangafua](https://github.com/benjaminangafua) | Benjamin A. Ngafua |  |  | Liberia | 50 |
 | 9 | [Ravenstine](https://github.com/Ravenstine) | Ten Bitcomb |  |  | Monrovia, CA | 39 |
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 34 |
 | 11 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | ALX | arthur_solomon | Monrovia, Liberia | 33 |

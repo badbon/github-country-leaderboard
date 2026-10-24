@@ -22,12 +22,12 @@ Indexed users: 796
 | 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,234 |
 | 9 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,148 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 4,842 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,128 |
-| 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,982 |
-| 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,881 |
-| 14 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,851 |
-| 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,801 |
-| 16 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,793 |
+| 11 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 4,163 |
+| 12 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,128 |
+| 13 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,982 |
+| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,881 |
+| 15 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,851 |
+| 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,801 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,525 |
 | 18 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,490 |
 | 19 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,472 |
@@ -38,7 +38,7 @@ Indexed users: 796
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 7,141 |
-| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 3,793 |
+| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 4,163 |
 | 3 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,526 |
 | 4 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 2,398 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,740 |
@@ -56,7 +56,7 @@ Indexed users: 796
 | 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 535 |
 | 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 523 |
 | 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 475 |
-| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 452 |
+| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 455 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 20 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 
-Generated: 2026-10-24T00:26:19.764Z
+Generated: 2026-10-24T01:41:32.688Z

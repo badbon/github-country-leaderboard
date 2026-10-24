@@ -24,11 +24,11 @@ Indexed users: 160
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 689 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 587 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 507 |
-| 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 431 |
+| 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 432 |
 | 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 420 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 353 |
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 323 |
-| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 296 |
+| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 298 |
 | 18 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 282 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 262 |
 | 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 225 |
@@ -40,7 +40,7 @@ Indexed users: 160
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 479 |
 | 2 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 313 |
 | 3 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 309 |
-| 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 239 |
+| 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 240 |
 | 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 212 |
 | 6 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 187 |
 | 7 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 182 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [lotesm](https://github.com/lotesm) | Lotes Molapo | Maseru, Lesotho | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-24T00:27:37.897Z
+Generated: 2026-10-24T01:41:48.438Z

@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-24T00:27:37.897Z
+Generated: 2026-10-24T01:41:48.438Z
 
 Users: 160
 
@@ -18,11 +18,11 @@ Users: 160
 | 10 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi |  | _Moremi_ | Maseru | 689 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Eazy Tech Solutions |  | Maseru, Lesotho | 587 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 507 |
-| 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple |  | misspurple | Lesotho  | 431 |
+| 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple |  | misspurple | Lesotho  | 432 |
 | 14 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 420 |
 | 15 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 353 |
 | 16 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 323 |
-| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 296 |
+| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 298 |
 | 18 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 282 |
 | 19 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 262 |
 | 20 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 225 |

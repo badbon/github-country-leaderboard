@@ -1,6 +1,6 @@
 # Public Contributions - Guadeloupe
 
-Generated: 2026-10-24T00:17:53.658Z
+Generated: 2026-10-24T01:32:37.651Z
 
 Users: 86
 
@@ -9,7 +9,7 @@ Users: 86
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1396 |
 | 2 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 944 |
 | 3 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 664 |
-| 4 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 309 |
+| 4 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 307 |
 | 5 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 230 |
 | 6 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
 | 7 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative |  |  | Guadeloupe | 74 |

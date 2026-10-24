@@ -1,16 +1,16 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-24T00:14:31.282Z
+Generated: 2026-10-24T01:30:07.420Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 4203 |
-| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3063 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2886 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1031 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 740 |
+| 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3056 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2879 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1025 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 734 |
 | 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 474 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 428 |
 | 8 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 344 |

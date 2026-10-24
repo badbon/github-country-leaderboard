@@ -104,14 +104,14 @@ Published countries: 236
 | Iraq | 2,229 | [View](./iraq.md) |
 | Ireland | 19,482 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
-| Israel | 12,414 | [View](./israel.md) |
+| Israel | 12,413 | [View](./israel.md) |
 | Italy | 49,003 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 3,995 | [View](./jordan.md) |
 | Kazakhstan | 5,617 | [View](./kazakhstan.md) |
-| Kenya | 24,005 | [View](./kenya.md) |
+| Kenya | 24,004 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 796 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,439 | [View](./kyrgyzstan.md) |
@@ -213,7 +213,7 @@ Published countries: 236
 | Taiwan | 21,990 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
-| Thailand | 14,976 | [View](./thailand.md) |
+| Thailand | 14,975 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
 | Togo | 677 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T01:28:26.844Z
+Generated: 2026-10-24T01:44:39.114Z

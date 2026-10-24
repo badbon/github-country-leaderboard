@@ -1,6 +1,6 @@
 # Total Contributions - French Guiana
 
-Generated: 2026-10-24T00:14:12.802Z
+Generated: 2026-10-24T01:30:02.071Z
 
 Users: 36
 
@@ -22,7 +22,7 @@ Users: 36
 | 14 | [PaulZer](https://github.com/PaulZer) | Paul Bouchillou | CartoTech |  | French Guiana | 11 |
 | 15 | [vincentreboul](https://github.com/vincentreboul) | Vincent | Bitwip |  | Cayenne | 7 |
 | 16 | [darklink973](https://github.com/darklink973) | darkvox |  |  | French Guiana | 4 |
-| 17 | [finnpiatscheck](https://github.com/finnpiatscheck) | Finn Piatscheck | UMR EcoFoG |  | Kourou, French Guiana | 4 |
-| 18 | [yuhuhb](https://github.com/yuhuhb) | Nidiquim Nukidu |  |  | Guiana | 4 |
+| 17 | [yuhuhb](https://github.com/yuhuhb) | Nidiquim Nukidu |  |  | Guiana | 4 |
+| 18 | [finnpiatscheck](https://github.com/finnpiatscheck) | Finn Piatscheck | UMR EcoFoG |  | Kourou, French Guiana | 3 |
 | 19 | [adrienandrem](https://github.com/adrienandrem) | Adrien |  |  | Cayenne | 2 |
 | 20 | [Dunvii](https://github.com/Dunvii) | Dunvii |  | arzurloik973 | French Guiana | 1 |

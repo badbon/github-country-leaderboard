@@ -1,6 +1,6 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-24T00:13:26.823Z
+Generated: 2026-10-24T01:29:55.980Z
 
 Users: 68
 
@@ -9,7 +9,7 @@ Users: 68
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 16061 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6654 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 5318 |
-| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 3511 |
+| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 3469 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Poul Michelsen |  | Tórshavn, Faroe Islands | 2837 |
 | 6 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Ingi á Steinamørk |  | Faroe Islands | 2623 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 2368 |
@@ -24,5 +24,5 @@ Users: 68
 | 16 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Theoistic | Theoistic | Faroe Islands | 918 |
 | 17 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | @globe-tracker |  | Tórshavn, Faroe islands | 689 |
 | 18 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen |  |  | Faroe Islands | 652 |
-| 19 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | @Arbeidsloysisskipanin  |  | Faroe Islands | 498 |
+| 19 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | @Arbeidsloysisskipanin  |  | Faroe Islands | 497 |
 | 20 | [krvi](https://github.com/krvi) |  |  |  | Faroe Islands | 466 |

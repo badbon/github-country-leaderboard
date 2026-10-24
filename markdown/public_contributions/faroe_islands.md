@@ -1,6 +1,6 @@
 # Public Contributions - Faroe Islands
 
-Generated: 2026-10-24T00:13:26.823Z
+Generated: 2026-10-24T01:29:55.980Z
 
 Users: 68
 
@@ -13,7 +13,7 @@ Users: 68
 | 5 | [krvi](https://github.com/krvi) |  |  |  | Faroe Islands | 466 |
 | 6 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 429 |
 | 7 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 287 |
-| 8 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen |  | ahjohannessen | Faroe Islands | 274 |
+| 8 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen |  | ahjohannessen | Faroe Islands | 272 |
 | 9 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Lethal |  | Faroe Islands | 221 |
 | 10 | [Marimuda](https://github.com/Marimuda) | Jákup Svøðstein | University of Faroe islands |  | Faroe islands  | 218 |
 | 11 | [Femfus](https://github.com/Femfus) | Molly |  |  | Faroe Islands | 126 |

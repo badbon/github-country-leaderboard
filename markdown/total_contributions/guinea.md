@@ -1,6 +1,6 @@
 # Total Contributions - Guinea
 
-Generated: 2026-10-24T00:19:04.668Z
+Generated: 2026-10-24T01:34:27.180Z
 
 Users: 263
 
@@ -17,12 +17,12 @@ Users: 263
 | 9 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy |  | souleymanesy43 | Guinée, Conakry | 2240 |
 | 10 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | NIMBADEV |  | Conakry  | 2181 |
 | 11 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Nimba Solution | CisseCellou | Conakry, Guinée | 2155 |
-| 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Tenbix |  | Conakry, Guinea | 1825 |
+| 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Tenbix |  | Conakry, Guinea | 1821 |
 | 13 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | ALYSITES |  | GUINEA CONAKRY | 1336 |
 | 14 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé |  |  | Guinea | 1298 |
-| 15 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | FREELANCE |  | CONAKRY | 1224 |
+| 15 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | FREELANCE |  | CONAKRY | 1223 |
 | 16 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory |  |  | Guinea | 1153 |
 | 17 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 987 |
-| 18 | [baldehalfa](https://github.com/baldehalfa) | Mamadou Alpha Hawa Balde | @neoledge |  | Conakry, Guinea | 667 |
+| 18 | [baldehalfa](https://github.com/baldehalfa) | Mamadou Alpha Hawa Balde | @neoledge |  | Conakry, Guinea | 761 |
 | 19 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara |  |  | Guinea, Conakry | 652 |
 | 20 | [Zakui](https://github.com/Zakui) | Jules Thea | @dntech17 |  | Guinea, Conakry | 581 |
