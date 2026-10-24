@@ -48458,13 +48458,13 @@
   {
     "login": "bishenjayawardhana",
     "name": "Bishen Jayawardhana",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155061043?s=72&u=ceb6c4ad37665d3d5c72fe55d3e59f8af9774980&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155061043?s=72&u=d58b0104facf7d3bec7822d6a5a1b5b46de7b5b2&v=4",
     "location": "Colombo",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 636,
+    "publicContributions": 16,
     "createdAt": "2023-12-28T08:54:02Z"
   },
   {
@@ -48474,9 +48474,9 @@
     "location": "Colombo ",
     "company": "University of colombo",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 237,
+    "publicContributions": 255,
     "createdAt": "2024-06-24T05:30:41Z"
   },
   {
@@ -48486,9 +48486,9 @@
     "location": "Colombo ,Srilanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 125,
     "createdAt": "2024-12-21T17:49:02Z"
   },
   {
@@ -48500,7 +48500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4176,
+    "publicContributions": 4069,
     "createdAt": "2024-06-30T00:55:07Z"
   },
   {
@@ -48510,9 +48510,9 @@
     "location": "Colombo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 107,
     "createdAt": "2024-09-20T09:19:38Z"
   },
   {
@@ -48535,8 +48535,8 @@
     "company": "Olee.Ai",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 780,
-    "publicContributions": 13,
+    "privateContributions": 754,
+    "publicContributions": 9,
     "createdAt": "2024-12-05T06:35:23Z"
   },
   {
@@ -48546,9 +48546,9 @@
     "location": "Colombo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 130,
     "createdAt": "2024-01-12T04:43:11Z"
   },
   {
@@ -48559,8 +48559,8 @@
     "company": "Orel IT",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 110,
+    "privateContributions": 4,
+    "publicContributions": 253,
     "createdAt": "2024-09-08T13:30:17Z"
   },
   {
@@ -48572,7 +48572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 29,
     "createdAt": "2024-01-02T07:00:15Z"
   },
   {
@@ -48595,8 +48595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 43,
-    "publicContributions": 180,
+    "privateContributions": 39,
+    "publicContributions": 176,
     "createdAt": "2024-04-09T12:49:33Z"
   },
   {
@@ -48608,7 +48608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2024-03-01T17:10:30Z"
   },
   {
@@ -48619,8 +48619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6,
-    "publicContributions": 38,
+    "privateContributions": 0,
+    "publicContributions": 42,
     "createdAt": "2024-04-15T05:05:36Z"
   },
   {
@@ -48656,20 +48656,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 89,
     "createdAt": "2024-06-09T16:01:09Z"
-  },
-  {
-    "login": "TY3han",
-    "name": "Tharindu Yehan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167017512?s=72&u=f5d13fb673660b4e52cbb37ad7e01830e3fe7b55&v=4",
-    "location": "Colombo, Sri Lanka",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 12,
-    "createdAt": "2024-04-14T16:17:51Z"
   },
   {
     "login": "DesanSilva",
@@ -48679,8 +48667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 189,
-    "publicContributions": 372,
+    "privateContributions": 231,
+    "publicContributions": 421,
     "createdAt": "2024-04-05T06:17:20Z"
   },
   {
@@ -48692,7 +48680,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 141,
     "createdAt": "2024-11-26T10:15:42Z"
   },
   {
