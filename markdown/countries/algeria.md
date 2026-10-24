@@ -18,9 +18,9 @@ Indexed users: 5,770
 | 4 | [yuroyami](https://github.com/yuroyami) | Akram | Algiers, Algeria 🇩🇿 | 10,258 |
 | 5 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 9,280 |
 | 6 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Algiers, Algeria | 8,352 |
-| 7 | [Achour](https://github.com/Achour) | Achour Meguenni | Algeria | 7,789 |
-| 8 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Algeria | 7,386 |
-| 9 | [oussamasf](https://github.com/oussamasf) |  | Algiers  | 7,372 |
+| 7 | [oussamasf](https://github.com/oussamasf) |  | Algiers  | 7,876 |
+| 8 | [Achour](https://github.com/Achour) | Achour Meguenni | Algeria | 7,789 |
+| 9 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Algeria | 7,386 |
 | 10 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli | Algiers, Algeria | 7,090 |
 | 11 | [sedaradji](https://github.com/sedaradji) | Sdj | Algeria | 6,781 |
 | 12 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | Algeria  | 6,447 |
@@ -83,4 +83,4 @@ Indexed users: 5,770
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-24T17:46:34.361Z
+Generated: 2026-10-24T19:04:07.936Z

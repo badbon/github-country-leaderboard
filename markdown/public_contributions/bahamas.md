@@ -1,6 +1,6 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-24T17:48:15.286Z
+Generated: 2026-10-24T19:06:56.429Z
 
 Users: 236
 
@@ -15,7 +15,7 @@ Users: 236
 | 7 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 146 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 108 |
 | 9 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Cay Creative 242 |  | Bahamas  | 94 |
-| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 92 |
+| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 91 |
 | 11 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | GreenLine |  | Nassau, Bahamas | 91 |
 | 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | Jacon11 co. |  | New Providence, Bahamas | 90 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 62 |

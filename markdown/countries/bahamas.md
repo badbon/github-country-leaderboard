@@ -19,9 +19,9 @@ Indexed users: 236
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,657 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,055 |
 | 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,827 |
-| 8 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,462 |
+| 8 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,463 |
 | 9 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,415 |
-| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,213 |
+| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,211 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
 | 12 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 831 |
 | 13 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 738 |
@@ -46,7 +46,7 @@ Indexed users: 236
 | 7 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 146 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 108 |
 | 9 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 94 |
-| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 92 |
+| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 91 |
 | 11 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 91 |
 | 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 90 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 62 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-24T17:48:15.286Z
+Generated: 2026-10-24T19:06:56.429Z

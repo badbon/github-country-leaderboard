@@ -16,7 +16,7 @@ Indexed users: 676
 | 2 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,430 |
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 12,040 |
 | 4 | [GTW503](https://github.com/GTW503) | MEK | Togo | 10,183 |
-| 5 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,411 |
+| 5 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,414 |
 | 6 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 9,052 |
 | 7 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,063 |
 | 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,960 |
@@ -37,7 +37,7 @@ Indexed users: 676
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,345 |
+| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,348 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,638 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,055 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,297 |
@@ -49,8 +49,8 @@ Indexed users: 676
 | 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,659 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,300 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,192 |
-| 13 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 1,035 |
-| 14 | [Donchaminade](https://github.com/Donchaminade) | chaminade Dondah Adjolou  | Togo | 1,023 |
+| 13 | [Donchaminade](https://github.com/Donchaminade) | chaminade Dondah Adjolou  | Togo | 1,061 |
+| 14 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 1,035 |
 | 15 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 913 |
 | 16 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Lomé, TOGO | 900 |
 | 17 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 897 |
@@ -83,4 +83,4 @@ Indexed users: 676
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 63 |
 
-Generated: 2026-10-24T17:40:46.088Z
+Generated: 2026-10-24T18:58:04.207Z

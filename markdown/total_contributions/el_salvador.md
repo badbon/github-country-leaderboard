@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-24T18:01:19.327Z
+Generated: 2026-10-24T19:18:20.936Z
 
 Users: 2378
 
@@ -20,9 +20,9 @@ Users: 2378
 | 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 6647 |
 | 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 6305 |
 | 14 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6032 |
-| 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 5193 |
-| 16 | [carlosrecinos](https://github.com/carlosrecinos) | Carlos Recinos |  |  | Chalatenango, El Salvador | 5159 |
-| 17 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 5044 |
-| 18 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4964 |
-| 19 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4934 |
-| 20 | [gbumanzordev](https://github.com/gbumanzordev) | Gerson Umanzor |  | gbumanzordev | El Salvador | 4922 |
+| 15 | [caceres97](https://github.com/caceres97) | Ángel Cáceres | Backend Dev |  | El Salvador | 5991 |
+| 16 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 5193 |
+| 17 | [carlosrecinos](https://github.com/carlosrecinos) | Carlos Recinos |  |  | Chalatenango, El Salvador | 5159 |
+| 18 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 5044 |
+| 19 | [wmacall](https://github.com/wmacall) | Macall |  |  | El Salvador | 4964 |
+| 20 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4934 |

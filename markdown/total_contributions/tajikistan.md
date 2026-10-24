@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-24T17:39:45.965Z
+Generated: 2026-10-24T18:56:11.085Z
 
 Users: 707
 
@@ -15,8 +15,8 @@ Users: 707
 | 7 | [sr-44](https://github.com/sr-44) | Shahrom | Alif Bank |  | Tajikistan, Dushanbe | 6665 |
 | 8 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | DC-TechHQ |  | Taikistan, Dushanbe  | 6558 |
 | 9 | [ifteakhor](https://github.com/ifteakhor) |  | @iftech-team | ISaidkhoja | Tajikistan | 6470 |
-| 10 | [Aiyom](https://github.com/Aiyom) |  |  |  | Tajikistan | 4443 |
-| 11 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Ayan Capital | koorbonovs | Tajikistan, Dushanbe | 3786 |
+| 10 | [Aiyom](https://github.com/Aiyom) |  |  |  | Tajikistan | 4434 |
+| 11 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Ayan Capital | koorbonovs | Tajikistan, Dushanbe | 3755 |
 | 12 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 3633 |
 | 13 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 3574 |
 | 14 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3247 |

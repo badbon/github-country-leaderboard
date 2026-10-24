@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-24T17:54:29.297Z
+Generated: 2026-10-24T19:10:31.471Z
 
 Users: 235
 
@@ -20,7 +20,7 @@ Users: 235
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1146 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1104 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 1043 |
-| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 1014 |
+| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 1013 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 968 |
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 923 |
 | 18 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | @meezeedevelopers  | vangoethe_iy | Burundi, Bujumbura | 916 |

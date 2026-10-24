@@ -1,6 +1,6 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-24T17:54:29.297Z
+Generated: 2026-10-24T19:10:31.471Z
 
 Users: 235
 
@@ -15,7 +15,7 @@ Users: 235
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev |  |  | Burundi | 431 |
 | 8 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 403 |
 | 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 312 |
-| 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 263 |
+| 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 262 |
 | 11 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel |  | AndyHabyarimana | Gitega, Burundi  | 234 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY |  |  | Burundi/Bujumbura | 229 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | afritic-group |  | Burundi | 192 |

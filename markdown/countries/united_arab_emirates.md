@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,204
+Indexed users: 4,202
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,204
 | 19 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali | Abu Dhabi | 363 |
 | 20 | [tschm](https://github.com/tschm) | Thomas Schmelzer | Abu Dhabi, United Arab Emirates | 363 |
 
-Generated: 2026-10-24T17:43:58.399Z
+Generated: 2026-10-24T19:00:28.475Z

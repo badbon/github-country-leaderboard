@@ -1,13 +1,13 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-24T17:35:03.687Z
+Generated: 2026-10-24T18:51:37.940Z
 
 Users: 4655
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8778 |
-| 2 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 7850 |
+| 1 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 13670 |
+| 2 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8778 |
 | 3 | [mihaliak](https://github.com/mihaliak) | Andrej Mihaliak | @roundly-consulting  |  | Slovakia, Trnava | 6194 |
 | 4 | [tomasol](https://github.com/tomasol) | Tomáš Olvecký |  |  | Bratislava, Slovakia | 5880 |
 | 5 | [tosinamuda](https://github.com/tosinamuda) | Tosin Amuda | @IBM  |  | Bratislava, Slovakia | 5193 |

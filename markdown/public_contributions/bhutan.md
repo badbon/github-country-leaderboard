@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-24T17:51:23.691Z
+Generated: 2026-10-24T19:09:17.014Z
 
 Users: 266
 
@@ -10,7 +10,7 @@ Users: 266
 | 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | NOri Botanical |  | Thimphu | 1063 |
 | 3 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Kodadev | guru_wangchuk | Bhutan | 1032 |
 | 4 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 1012 |
-| 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | @SELISEdigitalplatforms | tenzyeshey | Thimphu, Bhutan | 964 |
+| 5 | [yesheytenzin](https://github.com/yesheytenzin) | Yeshey Tenzin | @SELISEdigitalplatforms | tenzyeshey | Thimphu, Bhutan | 972 |
 | 6 | [twangyel](https://github.com/twangyel) | Tandin Wangyel |  |  | Bhutan | 924 |
 | 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Light Webx |  | Chubachu, Thimphu | 465 |
 | 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 322 |
@@ -24,5 +24,5 @@ Users: 266
 | 16 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 136 |
 | 17 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 121 |
 | 18 | [Art-sys-86](https://github.com/Art-sys-86) | Art |  |  | Bhutan | 120 |
-| 19 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 120 |
-| 20 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 117 |
+| 19 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 120 |
+| 20 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 120 |

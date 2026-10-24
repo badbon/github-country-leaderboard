@@ -1,6 +1,6 @@
 # Followers - Italy
 
-Generated: 2026-10-24T18:13:55.270Z
+Generated: 2026-10-24T18:51:30.003Z
 
 Users: 48999
 

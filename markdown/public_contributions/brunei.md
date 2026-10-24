@@ -1,12 +1,12 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-24T17:54:19.817Z
+Generated: 2026-10-24T19:10:21.341Z
 
 Users: 254
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5553 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5536 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 516 |
 | 3 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 337 |
 | 4 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 330 |
@@ -19,9 +19,9 @@ Users: 254
 | 11 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
 | 12 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 104 |
 | 13 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM |  |  | Brunei Darussalam | 101 |
-| 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 73 |
-| 15 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 71 |
-| 16 | [Nekrozu](https://github.com/Nekrozu) | Luq |  |  | Brunei Darussalam | 66 |
+| 14 | [Nekrozu](https://github.com/Nekrozu) | Luq |  |  | Brunei Darussalam | 75 |
+| 15 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 73 |
+| 16 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 71 |
 | 17 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin |  |  | Brunei | 65 |
 | 18 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 61 |
 | 19 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Zeey Developer |  | Brunei Darussalam | 57 |

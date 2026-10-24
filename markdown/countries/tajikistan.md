@@ -21,8 +21,8 @@ Indexed users: 707
 | 7 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,665 |
 | 8 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 6,558 |
 | 9 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 6,470 |
-| 10 | [Aiyom](https://github.com/Aiyom) |  | Tajikistan | 4,443 |
-| 11 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,786 |
+| 10 | [Aiyom](https://github.com/Aiyom) |  | Tajikistan | 4,434 |
+| 11 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,755 |
 | 12 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,633 |
 | 13 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 3,574 |
 | 14 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,247 |
@@ -43,7 +43,7 @@ Indexed users: 707
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,374 |
 | 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 1,324 |
 | 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 965 |
-| 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 940 |
+| 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 939 |
 | 8 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 878 |
 | 9 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 805 |
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 761 |
@@ -83,4 +83,4 @@ Indexed users: 707
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-24T17:39:45.965Z
+Generated: 2026-10-24T18:56:11.085Z

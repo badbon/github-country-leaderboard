@@ -26,12 +26,12 @@ Indexed users: 2,378
 | 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,647 |
 | 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 6,305 |
 | 14 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,032 |
-| 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 5,193 |
-| 16 | [carlosrecinos](https://github.com/carlosrecinos) | Carlos Recinos | Chalatenango, El Salvador | 5,159 |
-| 17 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 5,044 |
-| 18 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,964 |
-| 19 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
-| 20 | [gbumanzordev](https://github.com/gbumanzordev) | Gerson Umanzor | El Salvador | 4,922 |
+| 15 | [caceres97](https://github.com/caceres97) | Ángel Cáceres | El Salvador | 5,991 |
+| 16 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 5,193 |
+| 17 | [carlosrecinos](https://github.com/carlosrecinos) | Carlos Recinos | Chalatenango, El Salvador | 5,159 |
+| 18 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 5,044 |
+| 19 | [wmacall](https://github.com/wmacall) | Macall | El Salvador | 4,964 |
+| 20 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,934 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,378
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-24T18:01:19.327Z
+Generated: 2026-10-24T19:18:20.936Z

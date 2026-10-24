@@ -26,7 +26,7 @@ Indexed users: 235
 | 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,146 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,104 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,043 |
-| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,014 |
+| 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 1,013 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 968 |
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 923 |
 | 18 | [VanGoethe](https://github.com/VanGoethe) | 7r322 | Burundi, Bujumbura | 916 |
@@ -46,7 +46,7 @@ Indexed users: 235
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 431 |
 | 8 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 403 |
 | 9 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
-| 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 263 |
+| 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 262 |
 | 11 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 234 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 229 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 192 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-24T17:54:29.297Z
+Generated: 2026-10-24T19:10:31.471Z

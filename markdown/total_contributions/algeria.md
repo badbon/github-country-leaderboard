@@ -1,6 +1,6 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-24T17:46:34.361Z
+Generated: 2026-10-24T19:04:07.936Z
 
 Users: 5770
 
@@ -12,9 +12,9 @@ Users: 5770
 | 4 | [yuroyami](https://github.com/yuroyami) | Akram | More and more Kotlin |  | Algiers, Algeria 🇩🇿 | 10258 |
 | 5 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 9280 |
 | 6 | [mohammedMsgm](https://github.com/mohammedMsgm) | MOHAMMED MESSEGUEM | Codefox.ai |  | Algiers, Algeria | 8352 |
-| 7 | [Achour](https://github.com/Achour) | Achour Meguenni |  |  | Algeria | 7789 |
-| 8 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 7386 |
-| 9 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7372 |
+| 7 | [oussamasf](https://github.com/oussamasf) |  | EP | OSeffai | Algiers  | 7876 |
+| 8 | [Achour](https://github.com/Achour) | Achour Meguenni |  |  | Algeria | 7789 |
+| 9 | [xCyberpunkx](https://github.com/xCyberpunkx) | Zed | Freelancer |  | Algeria | 7386 |
 | 10 | [nezlicodes](https://github.com/nezlicodes) | Lylia Nezli |  | rand0m_walk3r | Algiers, Algeria | 7090 |
 | 11 | [sedaradji](https://github.com/sedaradji) | Sdj |  |  | Algeria | 6781 |
 | 12 | [ehocine](https://github.com/ehocine) | Elhadj Hocine | @YAtechnologies | hocineelhadj | Algeria  | 6447 |
