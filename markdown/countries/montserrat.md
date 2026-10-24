@@ -30,8 +30,8 @@ Indexed users: 291
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,125 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,067 |
 | 18 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 1,054 |
-| 19 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 964 |
-| 20 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 956 |
+| 19 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 956 |
+| 20 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 939 |
 
 ## Public Contributions
 
@@ -72,15 +72,15 @@ Indexed users: 291
 | 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Plymouth, Minnesota | 37 |
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski | Plymouth, Minnesota | 24 |
-| 11 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Plymouth, MI | 23 |
-| 12 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 23 |
-| 13 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin | Plymouth, MN | 23 |
-| 14 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 23 |
-| 15 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
-| 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 22 |
-| 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 22 |
+| 11 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 24 |
+| 12 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Plymouth, MI | 23 |
+| 13 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 23 |
+| 14 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin | Plymouth, MN | 23 |
+| 15 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 23 |
+| 16 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
+| 17 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 22 |
 | 18 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 21 |
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-23T23:24:29.229Z
+Generated: 2026-10-24T00:36:03.803Z

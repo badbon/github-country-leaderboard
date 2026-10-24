@@ -12,9 +12,9 @@ Indexed users: 296
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 19,551 |
+| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 19,885 |
 | 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 13,569 |
-| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,557 |
+| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,574 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,409 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,120 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 3,108 |
@@ -53,8 +53,8 @@ Indexed users: 296
 | 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga | Papua New Guinea | 216 |
 | 15 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Port Moresby, Papua New Guinea | 198 |
 | 16 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 154 |
-| 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 141 |
-| 18 | [kiufungeon](https://github.com/kiufungeon) | Jenny Carter | Walkerstad, Papua New Guinea | 132 |
+| 17 | [kiufungeon](https://github.com/kiufungeon) | Jenny Carter | Walkerstad, Papua New Guinea | 132 |
+| 18 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 129 |
 | 19 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 117 |
 | 20 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 115 |
 
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-23T23:31:42.066Z
+Generated: 2026-10-24T00:41:59.392Z

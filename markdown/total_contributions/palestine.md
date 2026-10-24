@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-23T23:31:36.406Z
+Generated: 2026-10-24T00:41:46.165Z
 
 Users: 2195
 
@@ -24,5 +24,5 @@ Users: 2195
 | 16 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh |  |  | Ramallah - Palestine | 5336 |
 | 17 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun |  |  | Palestine | 5026 |
 | 18 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | @onestudio-co  | ismailaamassi | Palestine, Gaza Strip | 4747 |
-| 19 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4177 |
-| 20 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 4137 |
+| 19 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout |  | abdallahzaqout0 | Gaza, Palestine | 4244 |
+| 20 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4177 |

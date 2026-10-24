@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-23T23:22:49.689Z
+Generated: 2026-10-24T00:34:53.216Z
 
 Users: 714
 
@@ -14,7 +14,7 @@ Users: 714
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1517 |
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 1437 |
 | 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 1403 |
-| 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1333 |
+| 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1306 |
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1287 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA |  |  | Trianon, Mauritius | 1040 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 995 |
@@ -22,7 +22,7 @@ Users: 714
 | 14 | [RishiRajGujadhur](https://github.com/RishiRajGujadhur) | Rishi Raj Gujadhur |  |  | Mauritius | 797 |
 | 15 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun |  |  | Mauritius | 687 |
 | 16 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 632 |
-| 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 614 |
+| 17 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 611 |
 | 18 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 603 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 594 |
 | 20 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan |  |  | Mauritius | 573 |

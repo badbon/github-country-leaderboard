@@ -31,7 +31,7 @@ Indexed users: 9,606
 | 17 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 6,916 |
 | 18 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Marrakesh, Morocco | 6,851 |
 | 19 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 6,551 |
-| 20 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | Meknes, Morocco | 6,411 |
+| 20 | [Zawalid](https://github.com/Zawalid) | Walid Zakan | Rabat, Sale, Morocco | 6,434 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 9,606
 | 19 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 818 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 738 |
 
-Generated: 2026-10-23T23:24:36.176Z
+Generated: 2026-10-24T00:36:08.317Z

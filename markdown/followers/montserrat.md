@@ -1,6 +1,6 @@
 # Followers - Montserrat
 
-Generated: 2026-10-23T23:24:29.229Z
+Generated: 2026-10-24T00:36:03.803Z
 
 Users: 291
 
@@ -16,13 +16,13 @@ Users: 291
 | 8 | [profversaggi](https://github.com/profversaggi) | Matthew R. Versaggi | Versaggi Information Systems |  | Plymouth, Minnesota | 37 |
 | 9 | [spottedmahn](https://github.com/spottedmahn) | Michael DePouw | CEI | spottedmahn | Plymouth Meeting, PA | 25 |
 | 10 | [EricJamesOsowski](https://github.com/EricJamesOsowski) | Eric Osowski |  |  | Plymouth, Minnesota | 24 |
-| 11 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Hyundai MOBIS Technical Center America via BTI Solutions |  | Plymouth, MI | 23 |
-| 12 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 23 |
-| 13 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 23 |
-| 14 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
-| 15 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
-| 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 22 |
-| 17 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 22 |
+| 11 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Uni of Plymouth |  | Plymouth | 24 |
+| 12 | [donghyunkang-digipen](https://github.com/donghyunkang-digipen) | donghyun.kang | Hyundai MOBIS Technical Center America via BTI Solutions |  | Plymouth, MI | 23 |
+| 13 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 23 |
+| 14 | [jmcnevin](https://github.com/jmcnevin) | Jeremy McNevin |  |  | Plymouth, MN | 23 |
+| 15 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
+| 16 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
+| 17 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 22 |
 | 18 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 21 |
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |

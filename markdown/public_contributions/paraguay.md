@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-23T23:31:45.396Z
+Generated: 2026-10-24T00:42:05.895Z
 
 Users: 2013
 
@@ -23,6 +23,6 @@ Users: 2013
 | 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | @INOSX  |  | Paraguay/USA | 1086 |
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 1060 |
 | 17 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) @leadwisepro  | janparkio | Paraguay | 963 |
-| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 931 |
+| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 945 |
 | 19 | [agp-l](https://github.com/agp-l) | AGP[L] | Dobrodruzi |  | Paraguay | 920 |
 | 20 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |

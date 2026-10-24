@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-23T23:34:16.552Z
+Generated: 2026-10-24T00:45:27.049Z
 
 Users: 3497
 
@@ -19,10 +19,10 @@ Users: 3497
 | 11 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
 | 12 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 9203 |
 | 13 | [EucTech](https://github.com/EucTech) | Ezeibe Uchechukwu |  | Euc_Tech | Kigali, Rwanda | 9071 |
-| 14 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
-| 15 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
-| 16 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 8301 |
-| 17 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 7953 |
-| 18 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
-| 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
-| 20 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7551 |
+| 14 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | @SheCanCODE-Capstone-Projects  | __derr1ck__ | kigali, Rwanda | 8946 |
+| 15 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
+| 16 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
+| 17 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 8301 |
+| 18 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 7953 |
+| 19 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
+| 20 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |

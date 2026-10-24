@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-23T23:34:16.552Z
+Generated: 2026-10-24T00:45:27.049Z
 
 Users: 3497
 
@@ -10,9 +10,9 @@ Users: 3497
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 19894 |
 | 3 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 8590 |
 | 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 6857 |
-| 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 6117 |
-| 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | YCSoft Rwanda | yannicktx1 | Kigali, Rwanda | 5997 |
-| 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 5107 |
+| 5 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | @SheCanCODE-Capstone-Projects  | __derr1ck__ | kigali, Rwanda | 6581 |
+| 6 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 6117 |
+| 7 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | YCSoft Rwanda | yannicktx1 | Kigali, Rwanda | 5997 |
 | 8 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Foxx Kennels |  | Kigali Rwanda | 4103 |
 | 9 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | @Plasera | StilesAbel | Kigali/Rwannda | 3856 |
 | 10 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Founder @ Témporia | Arnaud_Kennedy | Kigali, Rwanda | 3691 |

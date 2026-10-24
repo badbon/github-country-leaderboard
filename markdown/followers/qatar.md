@@ -1,13 +1,13 @@
 # Followers - Qatar
 
-Generated: 2026-10-23T23:33:01.417Z
+Generated: 2026-10-24T00:45:12.362Z
 
 Users: 1073
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1051 |
-| 2 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi |  |  | Doha | 817 |
+| 2 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi |  |  | Doha | 816 |
 | 3 | [maljefairi](https://github.com/maljefairi) | Mohammed Al-Jefairi | Qatar IT | maljefairi | Qatar | 579 |
 | 4 | [TarikKaanKoc](https://github.com/TarikKaanKoc) | Tarık Kaan Koç |  |  | Qatar | 565 |
 | 5 | [Offensive-Panda](https://github.com/Offensive-Panda) | Usman Sikander | Cytomate solutions and services | usmansikander13 | Qatar | 526 |

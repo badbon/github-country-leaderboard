@@ -20,12 +20,12 @@ Indexed users: 2,013
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 10,484 |
-| 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 8,238 |
-| 10 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 8,027 |
-| 11 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,868 |
-| 12 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | Asunción, Paraguay | 7,369 |
-| 13 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Asunción, Paraguay | 7,351 |
-| 14 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 7,150 |
+| 9 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 9,109 |
+| 10 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 8,238 |
+| 11 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 8,027 |
+| 12 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 7,868 |
+| 13 | [mathiasgrimm](https://github.com/mathiasgrimm) | Mathias Grimm | Asunción, Paraguay | 7,369 |
+| 14 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Asunción, Paraguay | 7,351 |
 | 15 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 6,971 |
 | 16 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,711 |
 | 17 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky | Asunción - Paraguay | 6,190 |
@@ -54,7 +54,7 @@ Indexed users: 2,013
 | 15 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,086 |
 | 16 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 1,060 |
 | 17 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 963 |
-| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 931 |
+| 18 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 945 |
 | 19 | [agp-l](https://github.com/agp-l) | AGP[L] | Paraguay | 920 |
 | 20 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
 
@@ -62,7 +62,7 @@ Indexed users: 2,013
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,054 |
+| 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,069 |
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 598 |
 | 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Asunción, Paraguay | 526 |
 | 4 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 402 |
@@ -83,4 +83,4 @@ Indexed users: 2,013
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-23T23:31:45.396Z
+Generated: 2026-10-24T00:42:05.895Z

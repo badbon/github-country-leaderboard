@@ -30,8 +30,8 @@ Indexed users: 2,195
 | 16 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh | Ramallah - Palestine | 5,336 |
 | 17 | [moejehad](https://github.com/moejehad) | Mohammed Almadhoun | Palestine | 5,026 |
 | 18 | [IsmailAAmassi](https://github.com/IsmailAAmassi) | Ismail A. Amassi | Palestine, Gaza Strip | 4,747 |
-| 19 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,177 |
-| 20 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 4,137 |
+| 19 | [zaqoutabed](https://github.com/zaqoutabed) | Abdallah A. Zaqout | Gaza, Palestine | 4,244 |
+| 20 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,177 |
 
 ## Public Contributions
 
@@ -75,7 +75,7 @@ Indexed users: 2,195
 | 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Jenin, Palestine | 174 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | Jenin, Palestine | 168 |
 | 13 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Ramallah,Palestine | 166 |
-| 14 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 162 |
+| 14 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 161 |
 | 15 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 152 |
 | 16 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | Palestine | 152 |
 | 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 151 |
@@ -83,4 +83,4 @@ Indexed users: 2,195
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 129 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 125 |
 
-Generated: 2026-10-23T23:31:36.406Z
+Generated: 2026-10-24T00:41:46.165Z

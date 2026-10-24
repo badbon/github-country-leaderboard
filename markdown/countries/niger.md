@@ -19,7 +19,7 @@ Indexed users: 175
 | 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger / Niamey | 1,882 |
 | 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky | Niger | 1,395 |
 | 7 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,269 |
-| 8 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,157 |
+| 8 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,147 |
 | 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 1,049 |
 | 10 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 990 |
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 958 |
@@ -53,7 +53,7 @@ Indexed users: 175
 | 14 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 127 |
 | 15 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 126 |
 | 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 119 |
-| 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 104 |
+| 17 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 103 |
 | 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 100 |
 | 19 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
 | 20 | [HonourObed](https://github.com/HonourObed) | Eje Obed Honour | Minna, Niger, Nigeria | 86 |
@@ -83,4 +83,4 @@ Indexed users: 175
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 18 |
 
-Generated: 2026-10-23T23:26:52.539Z
+Generated: 2026-10-24T00:38:40.604Z

@@ -13,10 +13,10 @@ Indexed users: 25
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 1,475 |
-| 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 196 |
+| 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 198 |
 | 3 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 120 |
 | 4 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 67 |
-| 5 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 62 |
+| 5 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 60 |
 | 6 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
 | 7 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 21 |
 | 8 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 10 |
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 1 |
 | 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 
-Generated: 2026-10-23T23:34:19.150Z
+Generated: 2026-10-24T00:47:32.495Z
