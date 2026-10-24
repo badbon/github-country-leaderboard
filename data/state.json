@@ -18077,7 +18077,7 @@
           "kept": 3
         }
       },
-      "lastDiscoveryAt": "2026-10-24T06:45:54.450Z",
+      "lastDiscoveryAt": "2026-10-24T06:59:18.067Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-24T05:13:55.020Z",
@@ -18086,9 +18086,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 3052,
+        "searchRequests": 3053,
         "enrichmentRequests": 4531,
-        "usersDiscovered": 284954,
+        "usersDiscovered": 285054,
         "usersEnriched": 88858,
         "usersRefreshed": 0,
         "usersKept": 61630
@@ -38211,7 +38211,7 @@
           "kind": "city",
           "createdStart": "2018-06-30",
           "createdEnd": "2018-12-28",
-          "page": 6
+          "page": 7
         },
         {
           "country": "brazil",
@@ -40703,21 +40703,21 @@
           "kept": 36
         }
       },
-      "lastDiscoveryAt": "2026-10-24T06:46:11.641Z",
+      "lastDiscoveryAt": "2026-10-24T07:00:38.685Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-24T06:46:11.641Z",
+      "lastCacheChangeAt": "2026-10-24T07:00:38.685Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 3052,
-        "enrichmentRequests": 11770,
-        "usersDiscovered": 262143,
-        "usersEnriched": 232339,
+        "searchRequests": 3053,
+        "enrichmentRequests": 11775,
+        "usersDiscovered": 262243,
+        "usersEnriched": 232439,
         "usersRefreshed": 0,
-        "usersKept": 172017
+        "usersKept": 172070
       }
     },
     "british_indian_ocean_territory": {
@@ -247244,20 +247244,20 @@
       "lastDiscoveryAt": "2026-10-23T22:35:13.093Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-23",
-      "lastCacheChangeAt": "2026-10-24T05:27:58.567Z",
+      "lastCacheChangeAt": "2026-10-24T06:59:23.870Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-22T13:30:05.104Z",
       "lastError": null,
       "stats": {
         "searchRequests": 83,
-        "enrichmentRequests": 253,
+        "enrichmentRequests": 254,
         "usersDiscovered": 629,
-        "usersEnriched": 4570,
-        "usersRefreshed": 3941,
+        "usersEnriched": 4590,
+        "usersRefreshed": 3961,
         "usersKept": 442
       },
-      "refreshCursor": 400
+      "refreshCursor": 420
     },
     "singapore": {
       "slug": "singapore",
@@ -249133,7 +249133,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-24T05:28:26.864Z"
+        "at": "2026-10-24T07:01:08.175Z"
       },
       "stats": {
         "searchRequests": 689,
@@ -315037,18 +315037,18 @@
       "refreshCursor": 739
     }
   },
-  "nextCountryIndex": 235,
+  "nextCountryIndex": 31,
   "nextDeltaCountryIndex": 44,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-24T06:31:56.090Z",
-  "lastRunFinishedAt": "2026-10-24T06:57:35.880Z",
+  "lastRunStartedAt": "2026-10-24T06:58:30.297Z",
+  "lastRunFinishedAt": "2026-10-24T07:01:08.242Z",
   "stats": {
-    "searchRequests": 91019,
-    "enrichmentRequests": 241305,
-    "usersDiscovered": 5883586,
-    "usersEnriched": 4545887,
-    "usersRefreshed": 828484,
-    "usersKept": 2758501
+    "searchRequests": 91021,
+    "enrichmentRequests": 241311,
+    "usersDiscovered": 5883786,
+    "usersEnriched": 4546007,
+    "usersRefreshed": 828504,
+    "usersKept": 2758554
   }
 }
