@@ -109676,7 +109676,7 @@
           "kept": 1
         }
       },
-      "lastDiscoveryAt": "2026-10-24T19:49:07.547Z",
+      "lastDiscoveryAt": "2026-10-24T20:03:39.469Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
       "lastCacheChangeAt": "2026-10-24T18:38:07.155Z",
@@ -109685,9 +109685,9 @@
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 3094,
+        "searchRequests": 3095,
         "enrichmentRequests": 6401,
-        "usersDiscovered": 288925,
+        "usersDiscovered": 289025,
         "usersEnriched": 126278,
         "usersRefreshed": 0,
         "usersKept": 75987
@@ -126080,7 +126080,8 @@
           "term": "hyderabad",
           "kind": "city",
           "createdStart": "2021-09-28",
-          "createdEnd": "2021-12-27"
+          "createdEnd": "2021-12-27",
+          "page": 2
         },
         {
           "country": "india",
@@ -129442,21 +129443,21 @@
           "kept": 86
         }
       },
-      "lastDiscoveryAt": "2026-10-24T19:49:21.818Z",
+      "lastDiscoveryAt": "2026-10-24T20:04:02.721Z",
       "lastDiscoveryCompletedAt": null,
       "discoveryQueuedThrough": "2026-05-12",
-      "lastCacheChangeAt": "2026-10-24T19:49:21.818Z",
+      "lastCacheChangeAt": "2026-10-24T20:04:02.721Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
       "lastError": null,
       "stats": {
-        "searchRequests": 3094,
-        "enrichmentRequests": 12865,
-        "usersDiscovered": 254960,
-        "usersEnriched": 253652,
+        "searchRequests": 3095,
+        "enrichmentRequests": 12870,
+        "usersDiscovered": 255060,
+        "usersEnriched": 253752,
         "usersRefreshed": 0,
-        "usersKept": 215965
+        "usersKept": 216027
       }
     },
     "indonesia": {
@@ -209188,7 +209189,7 @@
       "lastDiscoveryAt": "2026-10-24T17:39:39.178Z",
       "lastDiscoveryCompletedAt": "2026-08-26T20:30:41.045Z",
       "discoveryQueuedThrough": "2026-07-23",
-      "lastCacheChangeAt": "2026-10-24T19:53:10.082Z",
+      "lastCacheChangeAt": "2026-10-24T20:04:02.721Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": null,
@@ -246165,7 +246166,7 @@
     },
     "sierra_leone": {
       "slug": "sierra_leone",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "sierra_leone",
@@ -246980,24 +246981,24 @@
       "lastDiscoveryAt": "2026-10-24T19:17:41.748Z",
       "lastDiscoveryCompletedAt": "2026-08-16T04:08:53.322Z",
       "discoveryQueuedThrough": "2026-07-23",
-      "lastCacheChangeAt": "2026-10-24T18:49:13.209Z",
+      "lastCacheChangeAt": "2026-10-24T20:03:44.200Z",
       "lastFullDiscoveryAt": null,
       "fullRediscoveryActive": false,
       "lastContributionRefreshAt": "2026-10-24T12:15:32.220Z",
       "lastError": null,
       "stats": {
         "searchRequests": 84,
-        "enrichmentRequests": 260,
+        "enrichmentRequests": 261,
         "usersDiscovered": 629,
-        "usersEnriched": 4692,
-        "usersRefreshed": 4063,
+        "usersEnriched": 4712,
+        "usersRefreshed": 4083,
         "usersKept": 442
       },
-      "refreshCursor": 80
+      "refreshCursor": 100
     },
     "singapore": {
       "slug": "singapore",
-      "status": "discovering",
+      "status": "refreshing",
       "queue": [
         {
           "country": "singapore",
@@ -248867,7 +248868,7 @@
       "lastError": {
         "message": "Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.; Resource limits for this query exceeded.",
         "status": null,
-        "at": "2026-10-24T18:49:54.563Z"
+        "at": "2026-10-24T20:05:24.618Z"
       },
       "stats": {
         "searchRequests": 690,
@@ -314762,18 +314763,18 @@
       "refreshCursor": 878
     }
   },
-  "nextCountryIndex": 76,
+  "nextCountryIndex": 101,
   "nextDeltaCountryIndex": 211,
-  "nextRefreshCountryIndex": 198,
+  "nextRefreshCountryIndex": 200,
   "nextRediscoveryCountryIndex": 0,
-  "lastRunStartedAt": "2026-10-24T19:57:06.654Z",
-  "lastRunFinishedAt": "2026-10-24T20:02:31.177Z",
+  "lastRunStartedAt": "2026-10-24T20:02:57.223Z",
+  "lastRunFinishedAt": "2026-10-24T20:05:24.703Z",
   "stats": {
-    "searchRequests": 91729,
-    "enrichmentRequests": 243904,
-    "usersDiscovered": 5935194,
-    "usersEnriched": 4593189,
-    "usersRefreshed": 856418,
-    "usersKept": 2771773
+    "searchRequests": 91731,
+    "enrichmentRequests": 243910,
+    "usersDiscovered": 5935394,
+    "usersEnriched": 4593309,
+    "usersRefreshed": 856438,
+    "usersKept": 2771835
   }
 }
