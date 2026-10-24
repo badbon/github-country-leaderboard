@@ -50144,7 +50144,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2021-12-06T14:39:16Z"
   },
   {
@@ -50166,9 +50166,9 @@
     "location": "Athens",
     "company": "University of Georgia ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 52,
     "createdAt": "2021-03-29T16:45:52Z"
   },
   {
@@ -50180,7 +50180,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 370,
+    "publicContributions": 412,
     "createdAt": "2021-04-06T22:11:54Z"
   },
   {
@@ -50208,27 +50208,15 @@
     "createdAt": "2021-12-23T09:04:26Z"
   },
   {
-    "login": "sound-artefacts",
-    "name": "pietat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85573667?s=72&u=c5e1b52e999b5d183f30b43cd98dd75374d5dd99&v=4",
-    "location": "Athens",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1953,
-    "createdAt": "2021-06-08T15:46:50Z"
-  },
-  {
     "login": "PanMaka",
     "name": "Panagiotis Makaronas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77216226?s=72&u=207451fc8545c1ff5f1537490f5dc5e1014c1b0b&v=4",
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 84,
     "createdAt": "2021-01-10T00:55:01Z"
   },
   {
@@ -50275,21 +50263,9 @@
     "company": "Codix Informatics",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 512,
+    "privateContributions": 707,
     "publicContributions": 0,
     "createdAt": "2021-03-04T09:22:43Z"
-  },
-  {
-    "login": "NikolasNeofytou",
-    "name": "Nikolas Neofytou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87272977?s=72&u=8487ff5957db53b532b85c80cc06a19fb627bf2f&v=4",
-    "location": "Athens",
-    "company": "",
-    "twitterUsername": "neofytounik",
-    "followers": 2,
-    "privateContributions": 1767,
-    "publicContributions": 276,
-    "createdAt": "2021-07-11T15:14:40Z"
   },
   {
     "login": "Codologist-KJ",
@@ -50299,7 +50275,7 @@
     "company": "K & K Houston Services",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 37,
+    "privateContributions": 52,
     "publicContributions": 0,
     "createdAt": "2021-08-15T23:30:50Z"
   },
@@ -50312,7 +50288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 30,
     "createdAt": "2021-11-17T15:09:50Z"
   },
   {
@@ -50324,7 +50300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 39,
     "createdAt": "2021-11-11T20:03:14Z"
   },
   {
