@@ -1,13 +1,13 @@
 # Public Contributions - Ivory Coast
 
-Generated: 2026-10-24T17:03:01.265Z
+Generated: 2026-10-24T18:15:00.213Z
 
 Users: 488
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Space UI | adrielzimbril | Abidjan, Ivory Coast | 3092 |
-| 2 | [codescooper](https://github.com/codescooper) | Code Scooper |  |  | Abidjan, Côte d'ivoire | 1008 |
+| 2 | [codescooper](https://github.com/codescooper) | Code Scooper | AwemA |  | Abidjan, Côte d'ivoire | 1020 |
 | 3 | [moasko](https://github.com/moasko) | moasko.dev |  | mouhage5 | Côte d'Ivoire | 940 |
 | 4 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 803 |
 | 5 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 746 |
@@ -23,6 +23,6 @@ Users: 488
 | 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Computec |  | Côte d'Ivoire | 366 |
 | 16 | [DanielShofela](https://github.com/DanielShofela) | Student |  | Dani_O_4 | abidjan, Côte d'Ivoire | 361 |
 | 17 | [lambirou](https://github.com/lambirou) | Roland Edi | Codivoire SARL. | lambirou225 | Abidjan, Côte d'ivoire | 361 |
-| 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | @SC-DIGITAL | yayadeveloppeur | Côte d'Ivoire, Abidjan | 320 |
-| 19 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | CEO @ Dukify Inc. | sidikfaha | Abidjan, Ivory Coast | 306 |
-| 20 | [Diby-dev](https://github.com/Diby-dev) | Dan | Ya Consulting |  | Côte d'Ivoire, Abidjan | 305 |
+| 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | @SC-DIGITAL | yayadeveloppeur | Côte d'Ivoire, Abidjan | 319 |
+| 19 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | AGL | Oguidan1 | Abidjan, Côte d'Ivoire | 308 |
+| 20 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | CEO @ Dukify Inc. | sidikfaha | Abidjan, Ivory Coast | 306 |

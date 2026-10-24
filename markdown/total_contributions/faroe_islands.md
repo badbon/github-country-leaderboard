@@ -1,18 +1,18 @@
 # Total Contributions - Faroe Islands
 
-Generated: 2026-10-24T16:52:17.064Z
+Generated: 2026-10-24T18:05:39.977Z
 
 Users: 68
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 16082 |
+| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | @Flowcore-io |  | Faroe Islands | 16092 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse |  | kruseio | Faroe Islands | 6654 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø |  |  | Faroe Islands | 5318 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | @globe-tracker @flowcore-io  | argilzar | Faroe Islands | 3469 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Poul Michelsen |  | Tórshavn, Faroe Islands | 2829 |
-| 6 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Ingi á Steinamørk |  | Faroe Islands | 2630 |
-| 7 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  |  |  | Faroe Islands | 2372 |
+| 6 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Ingi á Steinamørk |  | Faroe Islands | 2638 |
+| 7 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  |  |  | Faroe Islands | 2387 |
 | 8 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Faroese Telecom |  | Tórshavn | 2367 |
 | 9 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Flowcore, Gaman Games |  | Faroe Islands | 2183 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | @bokin-fo  |  | Tórshavn, Faroe Islands | 2046 |

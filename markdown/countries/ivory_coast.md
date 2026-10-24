@@ -38,7 +38,7 @@ Indexed users: 488
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 3,092 |
-| 2 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 1,008 |
+| 2 | [codescooper](https://github.com/codescooper) | Code Scooper | Abidjan, Côte d'ivoire | 1,020 |
 | 3 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 940 |
 | 4 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo | Yamoussoukro, côte d'ivoire  | 803 |
 | 5 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 746 |
@@ -54,9 +54,9 @@ Indexed users: 488
 | 15 | [23cyy](https://github.com/23cyy) | Cyrille N'DAH | Côte d'Ivoire | 366 |
 | 16 | [DanielShofela](https://github.com/DanielShofela) | Student | abidjan, Côte d'Ivoire | 361 |
 | 17 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 361 |
-| 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 320 |
-| 19 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 306 |
-| 20 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 305 |
+| 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 319 |
+| 19 | [Oguidan](https://github.com/Oguidan) | Michael Oguidan | Abidjan, Côte d'Ivoire | 308 |
+| 20 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 306 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 43 |
 | 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 
-Generated: 2026-10-24T17:03:01.265Z
+Generated: 2026-10-24T18:15:00.213Z

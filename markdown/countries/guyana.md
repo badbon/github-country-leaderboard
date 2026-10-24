@@ -30,7 +30,7 @@ Indexed users: 187
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,477 |
 | 17 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,461 |
 | 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,453 |
-| 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,408 |
+| 19 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,407 |
 | 20 | [codyregis6891](https://github.com/codyregis6891) | Cody Regis | Georgetown, Kentucky | 1,303 |
 
 ## Public Contributions
@@ -45,7 +45,7 @@ Indexed users: 187
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,549 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,453 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,332 |
-| 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 765 |
+| 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 759 |
 | 10 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | Guyana | 668 |
 | 11 | [xwings](https://github.com/xwings) | xwings | Georgetown, Penang | 476 |
 | 12 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 472 |
@@ -83,4 +83,4 @@ Indexed users: 187
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-24T16:57:16.146Z
+Generated: 2026-10-24T18:10:13.339Z

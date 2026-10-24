@@ -45,9 +45,9 @@ Indexed users: 263
 | 6 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 252 |
 | 7 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 252 |
 | 8 | [Le-web-developpeur1](https://github.com/Le-web-developpeur1) | Boubacar Bah | Conakry-Guinea | 229 |
-| 9 | [AlhsGdev](https://github.com/AlhsGdev) | Alhousseny Bangoura | Guinée, Conakry | 196 |
-| 10 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Guinée. Conakry | 192 |
-| 11 | [EORBAH](https://github.com/EORBAH) | EOR_BAH545 | Guinea Conakry | 183 |
+| 9 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Guinée. Conakry | 198 |
+| 10 | [AlhsGdev](https://github.com/AlhsGdev) | Alhousseny Bangoura | Guinée, Conakry | 196 |
+| 11 | [EORBAH](https://github.com/EORBAH) | EOR_BAH545 | Guinea Conakry | 185 |
 | 12 | [popytech](https://github.com/popytech) | POPY TRAORE | Conakry | 177 |
 | 13 | [Jeanos2004](https://github.com/Jeanos2004) | Jeanos Ouamouno | Guinee-Conakry | 173 |
 | 14 | [Delamou1234](https://github.com/Delamou1234) | Samaké DELAMOU | Conakry  | 168 |
@@ -72,8 +72,8 @@ Indexed users: 263
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | Guinée, Conakry, GN | 30 |
 | 9 | [fiicode](https://github.com/fiicode) | fiicode | Guinea | 29 |
 | 10 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo | Guinea | 28 |
-| 11 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 27 |
-| 12 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Conakry  | 26 |
+| 11 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Conakry  | 27 |
+| 12 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 27 |
 | 13 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Conakry, Guinea | 24 |
 | 14 | [TheBlackDude](https://github.com/TheBlackDude) | Ousmane Seidy Diallo | Guinea, Conakry | 24 |
 | 15 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 23 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-24T16:57:14.005Z
+Generated: 2026-10-24T18:10:06.736Z

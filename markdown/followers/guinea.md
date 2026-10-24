@@ -1,6 +1,6 @@
 # Followers - Guinea
 
-Generated: 2026-10-24T16:57:14.005Z
+Generated: 2026-10-24T18:10:06.736Z
 
 Users: 263
 
@@ -16,8 +16,8 @@ Users: 263
 | 8 | [hams94](https://github.com/hams94) | Hamidou Bah | ALTGRAS | yalagueya | Guinée, Conakry, GN | 30 |
 | 9 | [fiicode](https://github.com/fiicode) | fiicode | fiicode |  | Guinea | 29 |
 | 10 | [moudjames23](https://github.com/moudjames23) | Mamoudou Diallo |  |  | Guinea | 28 |
-| 11 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 27 |
-| 12 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Ycan Group |  | Conakry  | 26 |
+| 11 | [nlbkc2025-cell](https://github.com/nlbkc2025-cell) | Nabybk | Ycan Group |  | Conakry  | 27 |
+| 12 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 27 |
 | 13 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Freelance | abdoulkarimbal9 | Conakry, Guinea | 24 |
 | 14 | [TheBlackDude](https://github.com/TheBlackDude) | Ousmane Seidy Diallo | Easy Solar |  | Guinea, Conakry | 24 |
 | 15 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara |  |  | Guinea, Conakry | 23 |

@@ -1,6 +1,6 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-24T16:56:36.501Z
+Generated: 2026-10-24T18:07:47.591Z
 
 Users: 93
 
@@ -11,7 +11,7 @@ Users: 93
 | 3 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 606 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 531 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 321 |
-| 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 259 |
+| 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 260 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Heaventree |  | Gibraltar | 237 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Dether |  | Gibraltar | 196 |
 | 9 | [unigib](https://github.com/unigib) | University of Gibraltar | University of Gibraltar |  | Gibraltar | 170 |

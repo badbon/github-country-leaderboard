@@ -25,8 +25,8 @@ Indexed users: 325
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 926 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 792 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
-| 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 555 |
-| 15 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 547 |
+| 14 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 563 |
+| 15 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 555 |
 | 16 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 542 |
 | 17 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 18 | [kunz398](https://github.com/kunz398) | Kunal Singh | Fiji | 491 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-24T16:52:19.565Z
+Generated: 2026-10-24T18:05:42.537Z

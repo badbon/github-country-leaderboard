@@ -1,8 +1,8 @@
 # Public Contributions - Italy
 
-Generated: 2026-10-24T17:02:57.952Z
+Generated: 2026-10-24T18:13:55.270Z
 
-Users: 49000
+Users: 48999
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

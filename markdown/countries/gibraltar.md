@@ -31,7 +31,7 @@ Indexed users: 93
 | 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 424 |
 | 18 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
 | 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 398 |
-| 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 259 |
+| 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 260 |
 
 ## Public Contributions
 
@@ -42,7 +42,7 @@ Indexed users: 93
 | 3 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 606 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 531 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 321 |
-| 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 259 |
+| 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 260 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 237 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
 | 9 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 170 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 12 |
 | 20 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 12 |
 
-Generated: 2026-10-24T16:56:36.501Z
+Generated: 2026-10-24T18:07:47.591Z

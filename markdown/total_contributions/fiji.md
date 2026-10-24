@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-24T16:52:19.565Z
+Generated: 2026-10-24T18:05:42.537Z
 
 Users: 325
 
@@ -19,8 +19,8 @@ Users: 325
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 926 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 792 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 626 |
-| 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 555 |
-| 15 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 547 |
+| 14 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 563 |
+| 15 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 555 |
 | 16 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 542 |
 | 17 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 501 |
 | 18 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 491 |

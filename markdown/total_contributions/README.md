@@ -70,7 +70,7 @@ Published countries: 236
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,896 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,660 | [View](./ethiopia.md) |
+| Ethiopia | 6,659 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 68 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
@@ -105,7 +105,7 @@ Published countries: 236
 | Ireland | 19,480 | [View](./ireland.md) |
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,409 | [View](./israel.md) |
-| Italy | 49,000 | [View](./italy.md) |
+| Italy | 48,999 | [View](./italy.md) |
 | Ivory Coast | 488 | [View](./ivory_coast.md) |
 | Jamaica | 1,270 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
@@ -170,7 +170,7 @@ Published countries: 236
 | Peru | 9,758 | [View](./peru.md) |
 | Philippines | 19,743 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Poland | 58,089 | [View](./poland.md) |
+| Poland | 58,090 | [View](./poland.md) |
 | Portugal | 28,425 | [View](./portugal.md) |
 | Puerto Rico | 1,530 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T18:04:44.869Z
+Generated: 2026-10-24T18:16:59.316Z
