@@ -1,8 +1,8 @@
 # Total Contributions - Pakistan
 
-Generated: 2026-10-24T19:19:16.175Z
+Generated: 2026-10-24T19:53:10.082Z
 
-Users: 41848
+Users: 41847
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 41848
 | 7 | [safdar-azeem](https://github.com/safdar-azeem) | Safdar Azeem |  |  | pakistan | 42251 |
 | 8 | [MehfoozurRehman](https://github.com/MehfoozurRehman) | Mehfooz-ur-Rehman | Devscot |  | Pakistan, Punjab, Faisalabad, Samundri | 38382 |
 | 9 | [safdarayubpk](https://github.com/safdarayubpk) | Safdar Ayub | PIAIC - Air University Islamabad |  | Pakistan | 37879 |
-| 10 | [M-Hassan-Raza](https://github.com/M-Hassan-Raza) | Muhammad Hassan Raza | @Entropy-Co  | rai_hassan_raza | Lahore, Pakistan | 35148 |
-| 11 | [umerfareeddev](https://github.com/umerfareeddev) | Umer_Fareed |  |  | Karachi, Pakistan | 35112 |
-| 12 | [MuhammadMahee](https://github.com/MuhammadMahee) | Muhammad Mahee | Robust Support & Solutions |  | Karachi, Pakistan | 32829 |
-| 13 | [MuhammadBurhanArshad](https://github.com/MuhammadBurhanArshad) | Muhammad Burhan Arshad | ... |  | Karachi, Sindh, Pakistan | 30214 |
-| 14 | [hassaans](https://github.com/hassaans) | Chaudhry Hassaan Saleem | @retailotech |  | Lahore, Pakistan | 28891 |
-| 15 | [fraisasghar](https://github.com/fraisasghar) | Frais Asghar | NUST \| SMME |  |  NUST, H-12, Islamabad, Pakistan | 28123 |
-| 16 | [devmirza-bot](https://github.com/devmirza-bot) |  |  |  | Lahore, Pakistan | 26144 |
-| 17 | [BhalliBhai](https://github.com/BhalliBhai) | Bhalli Bhai |  | Bhalli_Bhai | Lahore, Pakistan | 24155 |
-| 18 | [Abdul-hannan-coder](https://github.com/Abdul-hannan-coder) | Abdul Hannan |  |  | Lahore , Pakistan | 23949 |
-| 19 | [hanzlahabib](https://github.com/hanzlahabib) | hanzla habib |  |  | Pakistan | 21467 |
-| 20 | [seeebbii](https://github.com/seeebbii) | Haseeb Zafar | Must | Seeeebbii | Lahore, Pakistan | 21152 |
+| 10 | [moizmubassir](https://github.com/moizmubassir) | Moiz Mubassir | Craft Creation | moizmubassirx | Karachi, Pakistan | 35664 |
+| 11 | [M-Hassan-Raza](https://github.com/M-Hassan-Raza) | Muhammad Hassan Raza | @Entropy-Co  | rai_hassan_raza | Lahore, Pakistan | 35148 |
+| 12 | [umerfareeddev](https://github.com/umerfareeddev) | Umer_Fareed |  |  | Karachi, Pakistan | 35112 |
+| 13 | [MuhammadMahee](https://github.com/MuhammadMahee) | Muhammad Mahee | Robust Support & Solutions |  | Karachi, Pakistan | 32829 |
+| 14 | [MuhammadBurhanArshad](https://github.com/MuhammadBurhanArshad) | Muhammad Burhan Arshad | ... |  | Karachi, Sindh, Pakistan | 30214 |
+| 15 | [hassaans](https://github.com/hassaans) | Chaudhry Hassaan Saleem | @retailotech |  | Lahore, Pakistan | 28891 |
+| 16 | [fraisasghar](https://github.com/fraisasghar) | Frais Asghar | NUST \| SMME |  |  NUST, H-12, Islamabad, Pakistan | 28123 |
+| 17 | [devmirza-bot](https://github.com/devmirza-bot) |  |  |  | Lahore, Pakistan | 26144 |
+| 18 | [BhalliBhai](https://github.com/BhalliBhai) | Bhalli Bhai |  | Bhalli_Bhai | Lahore, Pakistan | 24155 |
+| 19 | [Abdul-hannan-coder](https://github.com/Abdul-hannan-coder) | Abdul Hannan |  |  | Lahore , Pakistan | 23949 |
+| 20 | [hanzlahabib](https://github.com/hanzlahabib) | hanzla habib |  |  | Pakistan | 21467 |

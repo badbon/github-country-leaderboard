@@ -16,8 +16,8 @@ Indexed users: 2,012
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 17,587 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 17,212 |
 | 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 11,498 |
-| 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 11,013 |
-| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,793 |
+| 5 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 11,148 |
+| 6 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 11,013 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 10,484 |
 | 9 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Asuncion | 9,109 |
@@ -83,4 +83,4 @@ Indexed users: 2,012
 | 19 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 109 |
 | 20 | [replay](https://github.com/replay) | Mauro Stettler | Asuncion, Paraguay | 105 |
 
-Generated: 2026-10-24T18:38:26.005Z
+Generated: 2026-10-24T19:54:05.348Z

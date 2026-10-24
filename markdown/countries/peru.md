@@ -31,7 +31,7 @@ Indexed users: 9,757
 | 17 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Lima, Peru | 7,823 |
 | 18 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 7,728 |
 | 19 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces | Lima | 7,563 |
-| 20 | [cuevaio](https://github.com/cuevaio) | anthony | Lima | 7,449 |
+| 20 | [lothesito](https://github.com/lothesito) | Paz | Peru | 7,471 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 9,757
 | 19 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 | 20 | [HackUnderway](https://github.com/HackUnderway) | Hack Underway | Lima - Perú | 413 |
 
-Generated: 2026-10-24T18:39:31.733Z
+Generated: 2026-10-24T19:54:28.067Z

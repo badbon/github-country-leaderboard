@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-24T18:38:26.005Z
+Generated: 2026-10-24T19:54:05.348Z
 
 Users: 2012
 
@@ -10,8 +10,8 @@ Users: 2012
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 17587 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R |  |  | Paraguay | 17212 |
 | 4 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares |  |  | Paraguay | 11498 |
-| 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Pyfection |  | Paraguay | 11013 |
-| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10793 |
+| 5 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 11148 |
+| 6 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Pyfection |  | Paraguay | 11013 |
 | 7 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 10531 |
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 10484 |
 | 9 | [vVladyslaVv](https://github.com/vVladyslaVv) | Vladyslav Yeroma | Newly Booked |  | Asuncion | 9109 |

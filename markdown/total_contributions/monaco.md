@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-24T18:29:41.780Z
+Generated: 2026-10-24T19:45:13.089Z
 
 Users: 142
 
@@ -12,7 +12,7 @@ Users: 142
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3781 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1949 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1657 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1295 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1300 |
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Forexizer | matteodevenuto | Monaco | 1143 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 950 |
 | 10 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 806 |

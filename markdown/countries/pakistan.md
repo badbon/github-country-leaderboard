@@ -1,6 +1,6 @@
 # Pakistan
 
-Indexed users: 41,848
+Indexed users: 41,847
 
 | Leaderboard | Link |
 |---|---|
@@ -21,17 +21,17 @@ Indexed users: 41,848
 | 7 | [safdar-azeem](https://github.com/safdar-azeem) | Safdar Azeem | pakistan | 42,251 |
 | 8 | [MehfoozurRehman](https://github.com/MehfoozurRehman) | Mehfooz-ur-Rehman | Pakistan, Punjab, Faisalabad, Samundri | 38,382 |
 | 9 | [safdarayubpk](https://github.com/safdarayubpk) | Safdar Ayub | Pakistan | 37,879 |
-| 10 | [M-Hassan-Raza](https://github.com/M-Hassan-Raza) | Muhammad Hassan Raza | Lahore, Pakistan | 35,148 |
-| 11 | [umerfareeddev](https://github.com/umerfareeddev) | Umer_Fareed | Karachi, Pakistan | 35,112 |
-| 12 | [MuhammadMahee](https://github.com/MuhammadMahee) | Muhammad Mahee | Karachi, Pakistan | 32,829 |
-| 13 | [MuhammadBurhanArshad](https://github.com/MuhammadBurhanArshad) | Muhammad Burhan Arshad | Karachi, Sindh, Pakistan | 30,214 |
-| 14 | [hassaans](https://github.com/hassaans) | Chaudhry Hassaan Saleem | Lahore, Pakistan | 28,891 |
-| 15 | [fraisasghar](https://github.com/fraisasghar) | Frais Asghar |  NUST, H-12, Islamabad, Pakistan | 28,123 |
-| 16 | [devmirza-bot](https://github.com/devmirza-bot) |  | Lahore, Pakistan | 26,144 |
-| 17 | [BhalliBhai](https://github.com/BhalliBhai) | Bhalli Bhai | Lahore, Pakistan | 24,155 |
-| 18 | [Abdul-hannan-coder](https://github.com/Abdul-hannan-coder) | Abdul Hannan | Lahore , Pakistan | 23,949 |
-| 19 | [hanzlahabib](https://github.com/hanzlahabib) | hanzla habib | Pakistan | 21,467 |
-| 20 | [seeebbii](https://github.com/seeebbii) | Haseeb Zafar | Lahore, Pakistan | 21,152 |
+| 10 | [moizmubassir](https://github.com/moizmubassir) | Moiz Mubassir | Karachi, Pakistan | 35,664 |
+| 11 | [M-Hassan-Raza](https://github.com/M-Hassan-Raza) | Muhammad Hassan Raza | Lahore, Pakistan | 35,148 |
+| 12 | [umerfareeddev](https://github.com/umerfareeddev) | Umer_Fareed | Karachi, Pakistan | 35,112 |
+| 13 | [MuhammadMahee](https://github.com/MuhammadMahee) | Muhammad Mahee | Karachi, Pakistan | 32,829 |
+| 14 | [MuhammadBurhanArshad](https://github.com/MuhammadBurhanArshad) | Muhammad Burhan Arshad | Karachi, Sindh, Pakistan | 30,214 |
+| 15 | [hassaans](https://github.com/hassaans) | Chaudhry Hassaan Saleem | Lahore, Pakistan | 28,891 |
+| 16 | [fraisasghar](https://github.com/fraisasghar) | Frais Asghar |  NUST, H-12, Islamabad, Pakistan | 28,123 |
+| 17 | [devmirza-bot](https://github.com/devmirza-bot) |  | Lahore, Pakistan | 26,144 |
+| 18 | [BhalliBhai](https://github.com/BhalliBhai) | Bhalli Bhai | Lahore, Pakistan | 24,155 |
+| 19 | [Abdul-hannan-coder](https://github.com/Abdul-hannan-coder) | Abdul Hannan | Lahore , Pakistan | 23,949 |
+| 20 | [hanzlahabib](https://github.com/hanzlahabib) | hanzla habib | Pakistan | 21,467 |
 
 ## Public Contributions
 
@@ -42,21 +42,21 @@ Indexed users: 41,848
 | 3 | [Awan](https://github.com/Awan) | Muhammad Abdullah Khabir | Islamabad, Pakistan | 95,232 |
 | 4 | [arhammaqsood-dev](https://github.com/arhammaqsood-dev) | ARHAM | Karachi, Pakistan  | 54,068 |
 | 5 | [safdarayubpk](https://github.com/safdarayubpk) | Safdar Ayub | Pakistan | 37,879 |
-| 6 | [umerfareeddev](https://github.com/umerfareeddev) | Umer_Fareed | Karachi, Pakistan | 35,103 |
-| 7 | [MuhammadMahee](https://github.com/MuhammadMahee) | Muhammad Mahee | Karachi, Pakistan | 32,829 |
-| 8 | [fraisasghar](https://github.com/fraisasghar) | Frais Asghar |  NUST, H-12, Islamabad, Pakistan | 28,123 |
-| 9 | [devmirza-bot](https://github.com/devmirza-bot) |  | Lahore, Pakistan | 26,144 |
-| 10 | [Abdul-hannan-coder](https://github.com/Abdul-hannan-coder) | Abdul Hannan | Lahore , Pakistan | 23,949 |
-| 11 | [BhalliBhai](https://github.com/BhalliBhai) | Bhalli Bhai | Lahore, Pakistan | 23,692 |
-| 12 | [hafizbilalakbar](https://github.com/hafizbilalakbar) | Bilal Akbar | Faisalabad, Punjab, Pakistan | 19,026 |
-| 13 | [zaidhafeeez](https://github.com/zaidhafeeez) | Zaid Hafeez | Lahore, Pakistan | 12,987 |
-| 14 | [musharafali-dev](https://github.com/musharafali-dev) | Musharraf Ali | Pakistan | 12,309 |
-| 15 | [hammad837](https://github.com/hammad837) | Hammad Idrees | Lahore ,Punjab ,Pakistan | 11,725 |
-| 16 | [AfnanSharif](https://github.com/AfnanSharif) | Afnan Sharif | Pakistan | 10,820 |
-| 17 | [mafzalkalwardev](https://github.com/mafzalkalwardev) | Muhammad Afzal | Islamabad, Pakistan | 8,992 |
-| 18 | [shahidali54](https://github.com/shahidali54) | Shahid Ali | Karachi Sindh, Pakistan | 8,749 |
-| 19 | [sabihkahn](https://github.com/sabihkahn) | Sabih khan | pakistan | 7,867 |
-| 20 | [SENODROOM](https://github.com/SENODROOM) | Muhammad Saad Amin | Lahore, Pakistan  | 7,857 |
+| 6 | [moizmubassir](https://github.com/moizmubassir) | Moiz Mubassir | Karachi, Pakistan | 35,664 |
+| 7 | [umerfareeddev](https://github.com/umerfareeddev) | Umer_Fareed | Karachi, Pakistan | 35,103 |
+| 8 | [MuhammadMahee](https://github.com/MuhammadMahee) | Muhammad Mahee | Karachi, Pakistan | 32,829 |
+| 9 | [fraisasghar](https://github.com/fraisasghar) | Frais Asghar |  NUST, H-12, Islamabad, Pakistan | 28,123 |
+| 10 | [devmirza-bot](https://github.com/devmirza-bot) |  | Lahore, Pakistan | 26,144 |
+| 11 | [Abdul-hannan-coder](https://github.com/Abdul-hannan-coder) | Abdul Hannan | Lahore , Pakistan | 23,949 |
+| 12 | [BhalliBhai](https://github.com/BhalliBhai) | Bhalli Bhai | Lahore, Pakistan | 23,692 |
+| 13 | [hafizbilalakbar](https://github.com/hafizbilalakbar) | Bilal Akbar | Faisalabad, Punjab, Pakistan | 19,026 |
+| 14 | [zaidhafeeez](https://github.com/zaidhafeeez) | Zaid Hafeez | Lahore, Pakistan | 12,987 |
+| 15 | [musharafali-dev](https://github.com/musharafali-dev) | Musharraf Ali | Pakistan | 12,309 |
+| 16 | [hammad837](https://github.com/hammad837) | Hammad Idrees | Lahore ,Punjab ,Pakistan | 11,725 |
+| 17 | [AfnanSharif](https://github.com/AfnanSharif) | Afnan Sharif | Pakistan | 10,820 |
+| 18 | [mafzalkalwardev](https://github.com/mafzalkalwardev) | Muhammad Afzal | Islamabad, Pakistan | 8,992 |
+| 19 | [shahidali54](https://github.com/shahidali54) | Shahid Ali | Karachi Sindh, Pakistan | 8,749 |
+| 20 | [sabihkahn](https://github.com/sabihkahn) | Sabih khan | pakistan | 7,867 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 41,848
 | 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
 | 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-24T19:19:16.175Z
+Generated: 2026-10-24T19:53:10.082Z
