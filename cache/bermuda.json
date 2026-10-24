@@ -4608,18 +4608,6 @@
     "createdAt": "2019-01-17T20:11:06Z"
   },
   {
-    "login": "forrest-herman",
-    "name": "Forrest Herman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58410716?s=72&u=d362e1ef7ddd3710cd03cdb5fb72ef90fc30d220&v=4",
-    "location": "Hamilton, ON",
-    "company": "OtO Lawn",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 60,
-    "createdAt": "2019-12-02T03:44:53Z"
-  },
-  {
     "login": "austinhenderson19",
     "name": "Austin Henderson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46322823?s=72&u=ddc315b65ea5f573502fbaaddc01de5a7347ba95&v=4",
@@ -4627,7 +4615,7 @@
     "company": "Arconic, Nolia Inc, and jTag Labs LTD.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2316,
+    "privateContributions": 2360,
     "publicContributions": 3,
     "createdAt": "2019-01-02T14:49:34Z"
   },
@@ -4675,7 +4663,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 5,
     "createdAt": "2019-05-05T21:34:11Z"
   },
