@@ -15,8 +15,8 @@ Indexed users: 459
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,741 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,404 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,029 |
-| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,540 |
-| 5 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
+| 4 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,704 |
+| 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 5,540 |
 | 6 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,129 |
 | 7 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,113 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,789 |
@@ -37,7 +37,7 @@ Indexed users: 459
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,534 |
+| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 5,704 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,280 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,545 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,293 |
@@ -52,7 +52,7 @@ Indexed users: 459
 | 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 639 |
 | 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 537 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
-| 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 513 |
 | 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | Antarctica | 475 |
 | 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 | 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 442 |
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-24T07:22:26.242Z
+Generated: 2026-10-24T08:41:12.649Z

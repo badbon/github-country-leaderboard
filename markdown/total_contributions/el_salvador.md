@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-24T08:14:11.002Z
+Generated: 2026-10-24T08:57:56.379Z
 
 Users: 2379
 
@@ -17,8 +17,8 @@ Users: 2379
 | 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo |  |  | San Salvador, El Salvador | 7491 |
 | 10 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 7264 |
 | 11 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 6716 |
-| 12 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 6305 |
-| 13 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 6290 |
+| 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 6647 |
+| 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 6305 |
 | 14 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6032 |
 | 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 5193 |
 | 16 | [carlosrecinos](https://github.com/carlosrecinos) | Carlos Recinos |  |  | Chalatenango, El Salvador | 5159 |

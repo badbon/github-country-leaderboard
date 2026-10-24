@@ -1,6 +1,6 @@
 # Followers - Brunei
 
-Generated: 2026-10-24T07:28:22.679Z
+Generated: 2026-10-24T08:49:50.463Z
 
 Users: 254
 
@@ -8,7 +8,7 @@ Users: 254
 |---:|---|---|---|---|---|---:|
 | 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 191 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 112 |
-| 3 | [izdiwho](https://github.com/izdiwho) | Iz |  | izdiwho | Brunei | 64 |
+| 3 | [izdiwho](https://github.com/izdiwho) | Iz |  | izdiwho | Brunei | 65 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 52 |
 | 5 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 47 |
 | 6 | [PandaWarrior63](https://github.com/PandaWarrior63) |  | Lectus |  | Brunei | 39 |

@@ -15,7 +15,7 @@ Indexed users: 200
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,382 |
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,397 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
-| 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 617 |
+| 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 615 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 555 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 269 |
 | 7 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 267 |
@@ -41,7 +41,7 @@ Indexed users: 200
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
 | 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 437 |
 | 4 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 267 |
-| 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 236 |
+| 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 234 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
 | 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 180 |
 | 8 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Chad | 163 |
@@ -62,7 +62,7 @@ Indexed users: 200
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 205 |
+| 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 204 |
 | 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 123 |
 | 3 | [Kakaymi10](https://github.com/Kakaymi10) | Moussa | NDjamena, Chad | 60 |
 | 4 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 25 |
@@ -83,4 +83,4 @@ Indexed users: 200
 | 19 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 | 20 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 7 |
 
-Generated: 2026-10-24T07:31:27.963Z
+Generated: 2026-10-24T08:52:09.874Z

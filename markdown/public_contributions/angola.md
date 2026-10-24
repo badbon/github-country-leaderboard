@@ -1,8 +1,8 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-24T07:21:02.596Z
+Generated: 2026-10-24T08:41:06.614Z
 
-Users: 2499
+Users: 2498
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 2499
 | 12 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1627 |
 | 13 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | ISPTEC, 42 Luanda |  | Angola | 1421 |
 | 14 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1388 |
-| 15 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Yaala | JoaquimMulaza | Luanda Angola | 1332 |
-| 16 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
-| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 1067 |
-| 18 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1064 |
-| 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 1018 |
-| 20 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 945 |
+| 15 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
+| 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 1067 |
+| 17 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1064 |
+| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 1018 |
+| 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 945 |
+| 20 | [claudioafonsohenriques](https://github.com/claudioafonsohenriques) | Claúdio Henriques | SoftConection - AgriLink |  | Luanda | 933 |

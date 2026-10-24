@@ -70,7 +70,7 @@ Indexed users: 53
 | 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 37 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 34 |
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 28 |
-| 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 23 |
+| 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 22 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 19 |
 | 11 | [ekid](https://github.com/ekid) | Ekid | Willemstad | 16 |
 | 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 14 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 6 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-24T07:33:48.473Z
+Generated: 2026-10-24T08:54:50.877Z

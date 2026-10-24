@@ -1,8 +1,8 @@
 # Followers - Venezuela
 
-Generated: 2026-10-24T07:16:36.990Z
+Generated: 2026-10-24T08:36:18.118Z
 
-Users: 6605
+Users: 6604
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

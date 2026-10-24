@@ -14,7 +14,7 @@ Indexed users: 701
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 33,881 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,904 |
-| 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 16,231 |
+| 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 17,622 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,202 |
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 7,995 |
 | 6 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | Kinshasa, DRC | 7,598 |
@@ -65,7 +65,7 @@ Indexed users: 701
 | 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 686 |
 | 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 238 |
 | 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | Lubumbashi, Katanga, DR Congo | 218 |
-| 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 198 |
+| 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 197 |
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 186 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | kinshasa | 161 |
 | 7 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 151 |
@@ -78,9 +78,9 @@ Indexed users: 701
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi | Kinshasa Drc | 87 |
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 83 |
 | 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Kinshasa \| Kigali \| Nairobi | 83 |
-| 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 74 |
+| 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 73 |
 | 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 72 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-24T07:36:16.665Z
+Generated: 2026-10-24T08:56:35.917Z

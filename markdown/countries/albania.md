@@ -46,17 +46,17 @@ Indexed users: 1,180
 | 7 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 1,104 |
 | 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,002 |
 | 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 909 |
-| 10 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 781 |
-| 11 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 771 |
-| 12 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
-| 13 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
-| 14 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 691 |
-| 15 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
-| 16 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 647 |
-| 17 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 643 |
-| 18 | [genciiv](https://github.com/genciiv) | G-code | Albania | 633 |
-| 19 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 624 |
-| 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 613 |
+| 10 | [geri-hoxha](https://github.com/geri-hoxha) | Geri Hoxha | Albania | 844 |
+| 11 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 781 |
+| 12 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 771 |
+| 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
+| 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 730 |
+| 15 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 691 |
+| 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 670 |
+| 17 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 647 |
+| 18 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 643 |
+| 19 | [genciiv](https://github.com/genciiv) | G-code | Albania | 633 |
+| 20 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 624 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,180
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 77 |
 
-Generated: 2026-10-24T07:20:45.716Z
+Generated: 2026-10-24T08:39:29.231Z

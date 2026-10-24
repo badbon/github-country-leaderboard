@@ -1,6 +1,6 @@
 # Total Contributions - Uzbekistan
 
-Generated: 2026-10-24T07:15:29.590Z
+Generated: 2026-10-24T08:36:11.435Z
 
 Users: 9510
 
@@ -19,10 +19,10 @@ Users: 9510
 | 11 | [phanthom335](https://github.com/phanthom335) | phanthom |  |  | Uzbekistan | 10118 |
 | 12 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev |  |  | Uzbekistan | 10053 |
 | 13 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | IT-PARK |  | Xonqa, Xorazm, Uzbekistan | 10001 |
-| 14 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  |  |  | Uzbekistan | 9624 |
-| 15 | [azizdevfull](https://github.com/azizdevfull) | Azizbek Isroilov | Azizdev Corparation |  | Uzbekistan | 9489 |
-| 16 | [itsakbarov](https://github.com/itsakbarov) | Sardor | io.net | itsakbarov | Tashkent, Uzbekistan | 9240 |
-| 17 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Safia |  | Tashkent | 9032 |
-| 18 | [Dave93](https://github.com/Dave93) | Davron Yuldashev |  | YulDavr | Tashkent, Uzbekistan | 8867 |
-| 19 | [Mukhsin0508](https://github.com/Mukhsin0508) | Mukhsin Mukhtorov | Higgsfield AI |  | Tashkent | 8831 |
-| 20 | [lexoice](https://github.com/lexoice) | Alexey | Lex INC |  | Uzbekistan Tashkent | 8555 |
+| 14 | [matsalayev](https://github.com/matsalayev) | Azizbek | BroTech Company |  |  Tashkent, Uzbekistan | 9796 |
+| 15 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  |  |  | Uzbekistan | 9624 |
+| 16 | [azizdevfull](https://github.com/azizdevfull) | Azizbek Isroilov | Azizdev Corparation |  | Uzbekistan | 9489 |
+| 17 | [itsakbarov](https://github.com/itsakbarov) | Sardor | io.net | itsakbarov | Tashkent, Uzbekistan | 9240 |
+| 18 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Safia |  | Tashkent | 9032 |
+| 19 | [Dave93](https://github.com/Dave93) | Davron Yuldashev |  | YulDavr | Tashkent, Uzbekistan | 8867 |
+| 20 | [Mukhsin0508](https://github.com/Mukhsin0508) | Mukhsin Mukhtorov | Higgsfield AI |  | Tashkent | 8831 |

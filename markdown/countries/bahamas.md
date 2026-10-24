@@ -18,7 +18,7 @@ Indexed users: 236
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,049 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,657 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,055 |
-| 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,828 |
+| 7 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,827 |
 | 8 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,462 |
 | 9 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,429 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,213 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-24T07:24:25.534Z
+Generated: 2026-10-24T08:42:35.175Z

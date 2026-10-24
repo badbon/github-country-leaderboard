@@ -23,8 +23,8 @@ Indexed users: 2,379
 | 9 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 7,491 |
 | 10 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 7,264 |
 | 11 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 6,716 |
-| 12 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 6,305 |
-| 13 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,290 |
+| 12 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 6,647 |
+| 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 6,305 |
 | 14 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,032 |
 | 15 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 5,193 |
 | 16 | [carlosrecinos](https://github.com/carlosrecinos) | Carlos Recinos | Chalatenango, El Salvador | 5,159 |
@@ -83,4 +83,4 @@ Indexed users: 2,379
 | 19 | [MiPrimerBitcoin](https://github.com/MiPrimerBitcoin) | Mi Primer Bitcoin El Salvador | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 95 |
 
-Generated: 2026-10-24T08:14:11.002Z
+Generated: 2026-10-24T08:57:56.379Z

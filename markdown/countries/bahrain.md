@@ -21,8 +21,8 @@ Indexed users: 726
 | 7 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,284 |
 | 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,440 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,236 |
-| 10 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 5,036 |
-| 11 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 5,032 |
+| 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 5,059 |
+| 11 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 5,036 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,743 |
 | 13 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,439 |
 | 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,347 |
@@ -83,4 +83,4 @@ Indexed users: 726
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 41 |
 
-Generated: 2026-10-24T07:24:28.112Z
+Generated: 2026-10-24T08:43:39.622Z

@@ -20,7 +20,7 @@ Indexed users: 2,126
 | 6 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | Sarajevo | 7,384 |
 | 7 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Sarajevo | 7,348 |
 | 8 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 7,223 |
-| 9 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 6,627 |
+| 9 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 6,896 |
 | 10 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,464 |
 | 11 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 6,172 |
 | 12 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 6,098 |
@@ -62,7 +62,7 @@ Indexed users: 2,126
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović | Sarajevo, Bosnia & Herzegovina | 730 |
+| 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović | Sarajevo, Bosnia & Herzegovina | 732 |
 | 2 | [BenjaminMahmic](https://github.com/BenjaminMahmic) | Benjamin Mahmić | Zenica, Bosnia and Herzegovina | 464 |
 | 3 | [adnanrahic](https://github.com/adnanrahic) | Adnan Rahić | Sarajevo | 383 |
 | 4 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 234 |
@@ -83,4 +83,4 @@ Indexed users: 2,126
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 118 |
 
-Generated: 2026-10-24T07:26:20.075Z
+Generated: 2026-10-24T08:47:22.775Z

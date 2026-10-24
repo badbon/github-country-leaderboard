@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,499
+Indexed users: 2,498
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 2,499
 | 12 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,627 |
 | 13 | [SW-Wanted](https://github.com/SW-Wanted) | Emanuel dos Santos | Angola | 1,421 |
 | 14 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,388 |
-| 15 | [joaquimmulaza](https://github.com/joaquimmulaza) | Joaquim Mulaza | Luanda Angola | 1,332 |
-| 16 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
-| 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,067 |
-| 18 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
-| 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 1,018 |
-| 20 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
+| 15 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
+| 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,067 |
+| 17 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,064 |
+| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 1,018 |
+| 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 945 |
+| 20 | [claudioafonsohenriques](https://github.com/claudioafonsohenriques) | Claúdio Henriques | Luanda | 933 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,499
 | 19 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 166 |
 | 20 | [AfonsoAfony](https://github.com/AfonsoAfony) | Afonso Narciso Da Silva | Luanda/Angola | 157 |
 
-Generated: 2026-10-24T07:21:02.596Z
+Generated: 2026-10-24T08:41:06.614Z

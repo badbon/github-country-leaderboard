@@ -16,22 +16,22 @@ Indexed users: 5,626
 | 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 27,835 |
 | 3 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 21,362 |
 | 4 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 17,245 |
-| 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Costa Rica | 11,951 |
-| 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,771 |
-| 7 | [mrcMesen](https://github.com/mrcMesen) | Marco Mesén | San José, Costa Rica | 9,096 |
-| 8 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon | Santa Ana, Costa Rica | 8,664 |
-| 9 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 8,325 |
-| 10 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
-| 11 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
-| 12 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
-| 13 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño | Costa Rica | 7,319 |
-| 14 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Santa Ana, San Jose Costa Rica | 7,301 |
-| 15 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
-| 16 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
-| 17 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
-| 18 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
-| 19 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
-| 20 | [elianortega](https://github.com/elianortega) | Elian Ortega | San Jose, Costa Rica | 6,029 |
+| 5 | [DarkJ24](https://github.com/DarkJ24) | Jose Quesada | Costa Rica | 14,614 |
+| 6 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Costa Rica | 11,951 |
+| 7 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,771 |
+| 8 | [mrcMesen](https://github.com/mrcMesen) | Marco Mesén | San José, Costa Rica | 9,096 |
+| 9 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon | Santa Ana, Costa Rica | 8,664 |
+| 10 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 8,325 |
+| 11 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
+| 12 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
+| 13 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
+| 14 | [ferdotgg](https://github.com/ferdotgg) | Fernando Briceño | Costa Rica | 7,319 |
+| 15 | [MarvinAmador7](https://github.com/MarvinAmador7) | Marvin Amador Campos | Santa Ana, San Jose Costa Rica | 7,301 |
+| 16 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
+| 17 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
+| 18 | [dbejarano820](https://github.com/dbejarano820) | Daniel Bejarano | Costa Rica | 6,549 |
+| 19 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
+| 20 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,626
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 174 |
 
-Generated: 2026-10-24T07:33:36.826Z
+Generated: 2026-10-24T08:54:00.334Z

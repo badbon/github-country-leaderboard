@@ -1,12 +1,12 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-24T07:22:26.242Z
+Generated: 2026-10-24T08:41:12.649Z
 
 Users: 459
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 5534 |
+| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 5704 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4280 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3545 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3293 |
@@ -21,7 +21,7 @@ Users: 459
 | 13 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 639 |
 | 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 537 |
 | 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 524 |
-| 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
+| 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 513 |
 | 17 | [VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000) |  | No clue |  | Antarctica | 475 |
 | 18 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
 | 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 442 |
