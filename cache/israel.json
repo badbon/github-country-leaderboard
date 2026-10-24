@@ -49123,8 +49123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1205,
-    "publicContributions": 0,
+    "privateContributions": 1129,
+    "publicContributions": 2,
     "createdAt": "2020-09-22T06:56:58Z"
   },
   {
@@ -49136,7 +49136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2020-11-13T19:11:26Z"
   },
   {
@@ -49164,25 +49164,13 @@
     "createdAt": "2020-11-11T16:09:11Z"
   },
   {
-    "login": "AlinaBdata",
-    "name": "Alina Braverman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75695000?s=72&u=11ba396267d463cb947374eeb988342f553ac53c&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-12-08T18:47:12Z"
-  },
-  {
     "login": "Danishuziel",
     "name": "Danishuziel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/68770936?s=72&u=fdb10e5a8900d1050f995b497a139d89f7391095&v=4",
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-25T07:57:04Z"
@@ -49212,18 +49200,6 @@
     "createdAt": "2020-11-04T14:33:22Z"
   },
   {
-    "login": "vsvid-zz",
-    "name": "Vlad Svidskiy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73176700?s=72&u=ae4b4f9323a077ad45cf6fd09741f8bd4aec7a43&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-10-20T12:52:28Z"
-  },
-  {
     "login": "Leaab",
     "name": "Lea Abettan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/70021028?s=72&u=051b52c65a1e940ee6a20155fbcb97befda2efbb&v=4",
@@ -49232,7 +49208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 12,
     "createdAt": "2020-08-21T13:15:15Z"
   },
   {
@@ -49244,7 +49220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2020-08-21T11:46:03Z"
   },
   {
@@ -49256,7 +49232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2020-06-29T11:02:07Z"
   },
   {
@@ -49268,7 +49244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2020-09-09T18:51:52Z"
   },
   {
@@ -49280,7 +49256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 95,
     "createdAt": "2020-11-22T11:17:11Z"
   },
   {
@@ -49303,7 +49279,7 @@
     "company": "Microsoft",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
+    "privateContributions": 85,
     "publicContributions": 2,
     "createdAt": "2020-08-27T08:00:56Z"
   },
@@ -49316,7 +49292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 396,
+    "publicContributions": 463,
     "createdAt": "2020-08-26T10:48:29Z"
   },
   {
