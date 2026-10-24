@@ -12,7 +12,7 @@ Indexed users: 142
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,644 |
+| 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,686 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,031 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,880 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,781 |
@@ -63,7 +63,7 @@ Indexed users: 142
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 131 |
-| 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 96 |
+| 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 95 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 39 |
 | 4 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 38 |
 | 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 37 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-24T19:45:13.089Z
+Generated: 2026-10-24T22:13:13.686Z

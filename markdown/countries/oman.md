@@ -65,7 +65,7 @@ Indexed users: 991
 | 1 | [pylover](https://github.com/pylover) | Vahid | Muscat, Oman | 428 |
 | 2 | [sweelam](https://github.com/sweelam) | Sweelam | Oman | 385 |
 | 3 | [salim3dd](https://github.com/salim3dd) | Salim3dd | Sultanate Of Oman | 284 |
-| 4 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 257 |
+| 4 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 259 |
 | 5 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
 | 6 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 200 |
 | 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 197 |
@@ -83,4 +83,4 @@ Indexed users: 991
 | 19 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 100 |
 | 20 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 
-Generated: 2026-10-24T19:52:07.621Z
+Generated: 2026-10-24T22:20:12.536Z

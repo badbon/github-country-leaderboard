@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-24T19:43:00.621Z
+Generated: 2026-10-24T22:12:08.545Z
 
 Users: 1223
 
@@ -10,7 +10,7 @@ Users: 1223
 | 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 27386 |
 | 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 12700 |
 | 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12529 |
-| 5 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 11706 |
+| 5 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 12377 |
 | 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 11351 |
 | 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 11070 |
 | 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 9541 |

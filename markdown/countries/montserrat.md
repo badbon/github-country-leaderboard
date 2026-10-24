@@ -23,7 +23,7 @@ Indexed users: 291
 | 9 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,918 |
 | 10 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,361 |
 | 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,354 |
-| 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 2,140 |
+| 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 2,303 |
 | 13 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,009 |
 | 14 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,669 |
 | 15 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,449 |
@@ -48,7 +48,7 @@ Indexed users: 291
 | 9 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 465 |
 | 10 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 450 |
 | 11 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 433 |
-| 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 394 |
+| 12 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 393 |
 | 13 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 355 |
 | 14 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 344 |
 | 15 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth, NH | 321 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 21 |
 | 20 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 
-Generated: 2026-10-24T19:46:28.080Z
+Generated: 2026-10-24T22:14:10.379Z

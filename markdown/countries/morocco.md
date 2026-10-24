@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,605
+Indexed users: 9,604
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,605
 | 19 | [DevOam](https://github.com/DevOam) | mohamed reda lakouas | Morocco | 818 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 738 |
 
-Generated: 2026-10-24T19:47:12.107Z
+Generated: 2026-10-24T22:14:36.350Z

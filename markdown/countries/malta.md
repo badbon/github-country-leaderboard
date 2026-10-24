@@ -16,7 +16,7 @@ Indexed users: 1,223
 | 2 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 27,386 |
 | 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 12,700 |
 | 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,529 |
-| 5 | [exori90](https://github.com/exori90) | exori | Malta | 11,706 |
+| 5 | [exori90](https://github.com/exori90) | exori | Malta | 12,377 |
 | 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 11,351 |
 | 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 11,070 |
 | 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 9,541 |
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-24T19:43:00.621Z
+Generated: 2026-10-24T22:12:08.545Z

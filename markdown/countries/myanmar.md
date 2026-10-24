@@ -38,7 +38,7 @@ Indexed users: 2,055
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 | Myanmar | 6,481 |
-| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,316 |
+| 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,358 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN | Yangon, Myanmar | 2,822 |
 | 4 | [peterlianpi](https://github.com/peterlianpi) | Peter | Myanmar | 2,679 |
 | 5 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,502 |
@@ -83,4 +83,4 @@ Indexed users: 2,055
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 168 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 164 |
 
-Generated: 2026-10-24T19:47:50.916Z
+Generated: 2026-10-24T22:15:42.982Z
