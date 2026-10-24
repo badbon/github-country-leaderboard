@@ -1,15 +1,15 @@
 # Total Contributions - Tonga
 
-Generated: 2026-10-23T23:47:32.666Z
+Generated: 2026-10-24T01:00:22.810Z
 
 Users: 10
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 1327 |
+| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 1330 |
 | 2 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 135 |
 | 3 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 132 |
-| 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 57 |
+| 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 56 |
 | 5 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 39 |
 | 6 | [Pace417](https://github.com/Pace417) | AH | Lehman Brothers |  | Tonga | 22 |
 | 7 | [abyss-furina](https://github.com/abyss-furina) |  | @crimsonhaven-to |  | Tonga | 18 |

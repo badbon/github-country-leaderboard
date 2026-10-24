@@ -14,7 +14,7 @@ Indexed users: 1,478
 |---:|---|---|---|---:|
 | 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | Syria, Damascus | 9,606 |
 | 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 5,742 |
-| 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 5,233 |
+| 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 5,283 |
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,787 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,651 |
 | 6 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 3,244 |
@@ -28,8 +28,8 @@ Indexed users: 1,478
 | 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,136 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,088 |
 | 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 2,028 |
-| 17 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 2,002 |
-| 18 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,999 |
+| 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 2,017 |
+| 18 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 2,002 |
 | 19 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,882 |
 | 20 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,873 |
 
@@ -70,7 +70,7 @@ Indexed users: 1,478
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 203 |
 | 7 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 185 |
 | 8 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 175 |
-| 9 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran | Syria | 155 |
+| 9 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran | Syria | 156 |
 | 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Syria | 149 |
 | 11 | [RakoSY](https://github.com/RakoSY) | Rakthon | Syria | 138 |
 | 12 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Damascus | 136 |
@@ -83,4 +83,4 @@ Indexed users: 1,478
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [evoiz](https://github.com/evoiz) | Elias Al-bittar | Homs, Syria | 95 |
 
-Generated: 2026-10-23T23:44:23.570Z
+Generated: 2026-10-24T00:58:22.572Z
