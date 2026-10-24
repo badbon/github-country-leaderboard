@@ -49675,8 +49675,8 @@
     "company": "UiO",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 160,
+    "privateContributions": 0,
+    "publicContributions": 34,
     "createdAt": "2020-02-25T14:17:52Z"
   },
   {
@@ -49770,9 +49770,9 @@
     "location": "Trondheim, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 978,
-    "publicContributions": 3,
+    "followers": 2,
+    "privateContributions": 1121,
+    "publicContributions": 1,
     "createdAt": "2020-03-25T13:21:44Z"
   },
   {
@@ -49783,8 +49783,8 @@
     "company": "Bufdir",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 247,
-    "publicContributions": 1,
+    "privateContributions": 239,
+    "publicContributions": 0,
     "createdAt": "2020-06-19T08:06:00Z"
   },
   {
@@ -49795,8 +49795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 21,
+    "privateContributions": 2,
+    "publicContributions": 16,
     "createdAt": "2020-05-28T10:54:19Z"
   },
   {
@@ -49867,8 +49867,8 @@
     "company": "Cognite",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 50,
-    "publicContributions": 99,
+    "privateContributions": 70,
+    "publicContributions": 102,
     "createdAt": "2020-05-18T09:18:41Z"
   },
   {
@@ -49879,8 +49879,8 @@
     "company": "Disruptive Technologies AS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 568,
-    "publicContributions": 1,
+    "privateContributions": 526,
+    "publicContributions": 0,
     "createdAt": "2020-01-05T09:00:25Z"
   },
   {
@@ -235402,5 +235402,29 @@
     "privateContributions": 25,
     "publicContributions": 9,
     "createdAt": "2020-05-31T09:05:51Z"
+  },
+  {
+    "login": "cathlyn-hue",
+    "name": "Literallycath",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298328193?s=72&u=0e9cba88f42d2d68bcf5d6bd434e9b5bd7411830&v=4",
+    "location": "Norway",
+    "company": "literally",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-30T14:51:59Z"
+  },
+  {
+    "login": "JudidoMela43",
+    "name": "Margot Ramírez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298399530?s=72&v=4",
+    "location": "Vasai-Virar, Norway",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-30T18:38:00Z"
   }
 ]

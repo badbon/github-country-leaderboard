@@ -4616,7 +4616,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2025-01-25T23:28:59Z"
   },
   {
@@ -4627,7 +4627,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2025-01-30T20:07:23Z"
   },
@@ -4650,7 +4650,7 @@
     "location": "Warsaw/Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2025-03-25T17:21:54Z"
@@ -4662,9 +4662,9 @@
     "location": "poland",
     "company": "@HackerOS-Linux-System",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 85,
-    "publicContributions": 11874,
+    "followers": 6,
+    "privateContributions": 292,
+    "publicContributions": 15325,
     "createdAt": "2025-05-23T19:03:09Z"
   },
   {
@@ -4674,21 +4674,21 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 86,
     "createdAt": "2025-09-03T21:49:48Z"
   },
   {
     "login": "kaaper11",
-    "name": "Kacper Ajdyna",
+    "name": "Kacper",
     "avatarUrl": "https://avatars.githubusercontent.com/u/216957452?s=72&v=4",
     "location": "Poland",
     "company": "",
-    "twitterUsername": "kaaper11",
+    "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 214,
     "createdAt": "2025-06-18T21:07:31Z"
   },
   {
@@ -4712,7 +4712,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 39,
     "createdAt": "2025-02-17T18:36:08Z"
   },
   {
@@ -4722,9 +4722,9 @@
     "location": "Warsaw, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 294,
-    "publicContributions": 188,
+    "followers": 6,
+    "privateContributions": 210,
+    "publicContributions": 192,
     "createdAt": "2025-02-28T09:24:07Z"
   },
   {
@@ -4735,7 +4735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 468,
+    "privateContributions": 384,
     "publicContributions": 101,
     "createdAt": "2025-01-26T21:47:45Z"
   },
@@ -4748,7 +4748,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 83,
     "createdAt": "2025-02-08T14:57:49Z"
   },
   {
@@ -4758,9 +4758,9 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 160,
     "createdAt": "2025-01-01T13:47:38Z"
   },
   {
@@ -4770,9 +4770,9 @@
     "location": "Poland",
     "company": "Aion",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-06-10T09:48:56Z"
   },
   {
@@ -4784,7 +4784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 187,
+    "publicContributions": 135,
     "createdAt": "2025-02-17T18:15:06Z"
   },
   {
@@ -4794,9 +4794,9 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 319,
+    "followers": 6,
+    "privateContributions": 9,
+    "publicContributions": 410,
     "createdAt": "2025-04-12T17:42:33Z"
   },
   {
@@ -4808,7 +4808,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 14,
     "createdAt": "2025-06-24T13:11:33Z"
   },
   {
@@ -4820,7 +4820,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 494,
+    "publicContributions": 379,
     "createdAt": "2025-01-06T18:49:06Z"
   },
   {
@@ -4831,7 +4831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3,
+    "privateContributions": 61,
     "publicContributions": 1,
     "createdAt": "2025-03-07T09:43:32Z"
   },
@@ -4843,8 +4843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 27,
-    "publicContributions": 139,
+    "privateContributions": 26,
+    "publicContributions": 135,
     "createdAt": "2025-08-09T07:43:16Z"
   },
   {
