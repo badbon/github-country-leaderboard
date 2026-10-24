@@ -7688,7 +7688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2013-01-17T08:29:38Z"
   },
   {
@@ -7711,8 +7711,8 @@
     "company": "Livestorm",
     "twitterUsername": "__sun__",
     "followers": 111,
-    "privateContributions": 4125,
-    "publicContributions": 1403,
+    "privateContributions": 4112,
+    "publicContributions": 1405,
     "createdAt": "2012-05-09T12:51:49Z"
   },
   {
@@ -7724,7 +7724,7 @@
     "twitterUsername": "",
     "followers": 104,
     "privateContributions": 5,
-    "publicContributions": 338,
+    "publicContributions": 354,
     "createdAt": "2012-04-28T17:34:45Z"
   },
   {
@@ -7759,7 +7759,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 194,
+    "privateContributions": 186,
     "publicContributions": 16,
     "createdAt": "2012-09-05T08:02:31Z"
   },
@@ -7891,7 +7891,7 @@
     "company": "PHPML",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 162,
+    "privateContributions": 164,
     "publicContributions": 0,
     "createdAt": "2012-07-09T09:26:54Z"
   },
@@ -7903,7 +7903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 876,
+    "privateContributions": 857,
     "publicContributions": 32,
     "createdAt": "2012-11-16T06:09:33Z"
   },
