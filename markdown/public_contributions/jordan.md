@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-24T18:17:51.788Z
+Generated: 2026-10-24T19:36:38.972Z
 
 Users: 3994
 
@@ -13,8 +13,8 @@ Users: 3994
 | 5 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 4161 |
 | 6 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | KeyLife Electronics | AmroKSaleh | Jordan | 2957 |
 | 7 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 2872 |
-| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi |  |  | Jordan | 2784 |
-| 9 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 2686 |
+| 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 2686 |
+| 9 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi |  |  | Jordan | 2541 |
 | 10 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 2095 |
 | 11 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 2049 |
 | 12 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 2042 |

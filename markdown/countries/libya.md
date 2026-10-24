@@ -56,7 +56,7 @@ Indexed users: 740
 | 17 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 366 |
 | 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 352 |
 | 19 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 349 |
-| 20 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 348 |
+| 20 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 347 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 740
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-24T18:22:29.867Z
+Generated: 2026-10-24T19:39:01.960Z

@@ -44,8 +44,8 @@ Indexed users: 3,994
 | 5 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 4,161 |
 | 6 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,957 |
 | 7 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,872 |
-| 8 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
-| 9 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 2,686 |
+| 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 2,686 |
+| 9 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,541 |
 | 10 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 2,095 |
 | 11 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo | Jordan | 2,049 |
 | 12 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 2,042 |
@@ -83,4 +83,4 @@ Indexed users: 3,994
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 197 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 196 |
 
-Generated: 2026-10-24T18:17:51.788Z
+Generated: 2026-10-24T19:36:38.972Z
