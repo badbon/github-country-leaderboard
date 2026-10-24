@@ -47036,7 +47036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-03-12T22:45:29Z"
   },
   {
@@ -47046,9 +47046,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-03-03T10:42:19Z"
   },
   {
@@ -47059,8 +47059,8 @@
     "company": "Atlantis Services",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 793,
-    "publicContributions": 104,
+    "privateContributions": 877,
+    "publicContributions": 95,
     "createdAt": "2022-05-30T16:53:08Z"
   },
   {
@@ -47072,7 +47072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 39,
     "createdAt": "2022-01-24T12:41:45Z"
   },
   {
@@ -47084,7 +47084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 79,
     "createdAt": "2022-01-16T16:12:57Z"
   },
   {
@@ -47096,7 +47096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 58,
     "createdAt": "2022-06-15T14:25:48Z"
   },
   {
@@ -47112,18 +47112,6 @@
     "createdAt": "2022-01-21T16:24:32Z"
   },
   {
-    "login": "mclamagalhaes",
-    "name": "Clara Magalhaes  ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97178630?s=72&u=d2192da48b5c36dbd2ea4365c494b3e9f8e3e0e4&v=4",
-    "location": "Sweden",
-    "company": "Collegial",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-05T15:03:14Z"
-  },
-  {
     "login": "YousefYousef0",
     "name": "Yousef Asmear",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99172619?s=72&v=4",
@@ -47131,7 +47119,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 325,
+    "privateContributions": 532,
     "publicContributions": 0,
     "createdAt": "2022-02-07T08:41:11Z"
   },
@@ -47156,7 +47144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 44,
     "createdAt": "2022-01-17T13:46:22Z"
   },
   {
@@ -47167,7 +47155,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2274,
+    "privateContributions": 2147,
     "publicContributions": 1,
     "createdAt": "2022-01-26T19:01:49Z"
   },
@@ -47178,9 +47166,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 223,
-    "publicContributions": 1,
+    "followers": 2,
+    "privateContributions": 206,
+    "publicContributions": 2,
     "createdAt": "2022-03-19T13:49:15Z"
   },
   {
@@ -47191,21 +47179,9 @@
     "company": "Moxso",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 234,
-    "publicContributions": 1,
+    "privateContributions": 186,
+    "publicContributions": 45,
     "createdAt": "2022-05-02T11:51:46Z"
-  },
-  {
-    "login": "vakuum69",
-    "name": "Mattias Vinberg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105072292?s=72&u=166f03c1c5a86f5c2237e7979ffe0bbccfef6bd2&v=4",
-    "location": "Sweden",
-    "company": "Club 24 ab",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-05-06T17:10:46Z"
   },
   {
     "login": "tatyana-ketova",
