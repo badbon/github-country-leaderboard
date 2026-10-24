@@ -1,6 +1,6 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-24T14:44:55.743Z
+Generated: 2026-10-24T17:08:37.125Z
 
 Users: 3245
 
@@ -24,5 +24,5 @@ Users: 3245
 | 16 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin |  | sorokin_vl | Riga | 1430 |
 | 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis |  |  | Riga, Latvia | 1422 |
 | 18 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers (Kristiāns) Solo |  |  | Latvia | 1419 |
-| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
-| 20 | [Vilsol](https://github.com/Vilsol) |  | @vas-lvrtc |  | Riga, LV | 1335 |
+| 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds |  |  | Latvia | 1414 |
+| 20 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |

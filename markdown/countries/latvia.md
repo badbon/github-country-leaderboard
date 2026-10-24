@@ -55,8 +55,8 @@ Indexed users: 3,245
 | 16 | [sorokin-vladimir](https://github.com/sorokin-vladimir) | Vladimir Sorokin | Riga | 1,430 |
 | 17 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
 | 18 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers (Kristiāns) Solo | Latvia | 1,419 |
-| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
-| 20 | [Vilsol](https://github.com/Vilsol) |  | Riga, LV | 1,335 |
+| 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,414 |
+| 20 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,245
 | 19 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 224 |
 | 20 | [LatvianModder](https://github.com/LatvianModder) | Kristiāns Micītis | Latvia | 221 |
 
-Generated: 2026-10-24T14:44:55.743Z
+Generated: 2026-10-24T17:08:37.125Z

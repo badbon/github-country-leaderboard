@@ -55,7 +55,7 @@ Indexed users: 796
 | 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
 | 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 535 |
 | 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 523 |
-| 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 475 |
+| 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 471 |
 | 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 455 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 796
 | 19 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 90 |
 | 20 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 
-Generated: 2026-10-24T14:43:06.788Z
+Generated: 2026-10-24T17:07:48.994Z

@@ -23,7 +23,7 @@ Indexed users: 210
 | 9 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,437 |
 | 10 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,412 |
 | 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,251 |
-| 12 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
+| 12 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,149 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 875 |
 | 14 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 865 |
 | 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 843 |
@@ -38,7 +38,7 @@ Indexed users: 210
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,517 |
-| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
+| 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,149 |
 | 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 763 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 718 |
 | 5 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 584 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [boaslah](https://github.com/boaslah) | Blessing Boaslah | Montserrado County, Liberia  | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 21 |
 
-Generated: 2026-10-24T14:46:03.967Z
+Generated: 2026-10-24T17:08:48.419Z
