@@ -21,7 +21,7 @@ Published countries: 236
 | Azerbaijan | 5,041 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
-| Bangladesh | 55,289 | [View](./bangladesh.md) |
+| Bangladesh | 55,299 | [View](./bangladesh.md) |
 | Barbados | 132 | [View](./barbados.md) |
 | Belarus | 10,916 | [View](./belarus.md) |
 | Belgium | 18,369 | [View](./belgium.md) |
@@ -220,12 +220,12 @@ Published countries: 236
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
 | Tunisia | 7,155 | [View](./tunisia.md) |
-| Turkey | 79,155 | [View](./turkey.md) |
+| Turkey | 79,153 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
-| Uganda | 3,862 | [View](./uganda.md) |
-| Ukraine | 47,715 | [View](./ukraine.md) |
+| Uganda | 3,861 | [View](./uganda.md) |
+| Ukraine | 47,714 | [View](./ukraine.md) |
 | United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T05:28:33.524Z
+Generated: 2026-10-24T05:45:25.088Z

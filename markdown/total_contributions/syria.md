@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-24T00:58:22.572Z
+Generated: 2026-10-24T05:40:26.674Z
 
 Users: 1478
 
@@ -24,5 +24,5 @@ Users: 1478
 | 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Nashra |  | Damascus | 2028 |
 | 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 2017 |
 | 18 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 2002 |
-| 19 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1882 |
-| 20 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1873 |
+| 19 | [OmarElseyyid](https://github.com/OmarElseyyid) | Mahmud Elseyyidomer | Laqili |  | Syria / Aleppo | 1982 |
+| 20 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1882 |

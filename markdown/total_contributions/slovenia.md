@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-24T00:53:39.651Z
+Generated: 2026-10-24T05:29:53.956Z
 
 Users: 3093
 
@@ -17,8 +17,8 @@ Users: 3093
 | 9 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 11949 |
 | 10 | [Putr](https://github.com/Putr) | Rok Andrée | @Institut-IP21 |  | Ljubljana, Slovenia | 11478 |
 | 11 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | IJS |  | Ljubljana, Slovenia | 11306 |
-| 12 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
-| 13 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
+| 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 10320 |
+| 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 10295 |
 | 14 | [rockoo](https://github.com/rockoo) | Rok Nemet | Fantasyrock |  | Ljubljana, Slovenia | 9726 |
 | 15 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 9301 |
 | 16 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 8844 |

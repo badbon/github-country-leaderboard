@@ -23,8 +23,8 @@ Indexed users: 3,093
 | 9 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 11,949 |
 | 10 | [Putr](https://github.com/Putr) | Rok Andrée | Ljubljana, Slovenia | 11,478 |
 | 11 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
-| 12 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
-| 13 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
+| 12 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 10,320 |
+| 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 10,295 |
 | 14 | [rockoo](https://github.com/rockoo) | Rok Nemet | Ljubljana, Slovenia | 9,726 |
 | 15 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 9,301 |
 | 16 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 8,844 |
@@ -83,4 +83,4 @@ Indexed users: 3,093
 | 19 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 243 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-24T00:53:39.651Z
+Generated: 2026-10-24T05:29:53.956Z

@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-24T00:53:34.975Z
+Generated: 2026-10-24T05:29:49.136Z
 
 Users: 4655
 
@@ -18,11 +18,11 @@ Users: 4655
 | 10 | [mihaliak](https://github.com/mihaliak) | Andrej Mihaliak | @roundly-consulting  |  | Slovakia, Trnava | 11558 |
 | 11 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska |  | quatermain32 | Slovakia | 10417 |
 | 12 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Cloudbeds |  | Bratislava, Slovakia | 10414 |
-| 13 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 10231 |
-| 14 | [michaljurecko](https://github.com/michaljurecko) | Michal Jurečko |  |  | Slovakia | 10141 |
-| 15 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | @GoodRequest  |  | Slovakia | 9998 |
-| 16 | [janper](https://github.com/janper) | Jan Pernecky | Monoceros Tools |  | Slovakia | 9974 |
-| 17 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
-| 18 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
-| 19 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | @questpie | drepkovsky | Slovakia | 9931 |
-| 20 | [reneklacan](https://github.com/reneklacan) | René Klačan | FirstLook.gg |  | Slovakia | 9658 |
+| 13 | [tosinamuda](https://github.com/tosinamuda) | Tosin Amuda | @IBM  |  | Bratislava, Slovakia | 10371 |
+| 14 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 10231 |
+| 15 | [michaljurecko](https://github.com/michaljurecko) | Michal Jurečko |  |  | Slovakia | 10141 |
+| 16 | [lubomir-dlhy](https://github.com/lubomir-dlhy) | Ľubomír Dlhý | @GoodRequest  |  | Slovakia | 9998 |
+| 17 | [janper](https://github.com/janper) | Jan Pernecky | Monoceros Tools |  | Slovakia | 9974 |
+| 18 | [thecubbe](https://github.com/thecubbe) | TheCubbe |  |  | Slovakia | 9956 |
+| 19 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
+| 20 | [drepkovsky](https://github.com/drepkovsky) | Dominik Repkovský | @questpie | drepkovsky | Slovakia | 9931 |
