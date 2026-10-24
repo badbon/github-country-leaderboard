@@ -13,7 +13,7 @@ Indexed users: 442
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 8,854 |
-| 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Freetown. Sierra Leone | 6,276 |
+| 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Freetown. Sierra Leone | 6,506 |
 | 3 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | Sierra Leone, West Africa | 5,622 |
 | 4 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 5,528 |
 | 5 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 5,474 |
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-24T06:59:23.870Z
+Generated: 2026-10-24T08:19:29.557Z
