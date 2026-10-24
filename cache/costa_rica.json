@@ -48602,13 +48602,13 @@
   {
     "login": "caschb",
     "name": "Christian Asch",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11697082?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11697082?s=72&u=c62d3bce58726397333cbf222b4522d5abf015d3&v=4",
     "location": "Costa Rica",
     "company": "CNCA-CeNAT",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 327,
-    "publicContributions": 194,
+    "privateContributions": 659,
+    "publicContributions": 239,
     "createdAt": "2015-03-28T17:00:19Z"
   },
   {
@@ -48618,15 +48618,15 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 36,
     "createdAt": "2015-03-01T18:17:28Z"
   },
   {
     "login": "cheogm28",
     "name": "Marcelo Gomez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15165837?s=72&u=2ce834ec8115e8671262159a48d4e498c3d81d77&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15165837?s=72&u=774ab69d7f474898d7ba0ec3423168c0ceb11656&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
@@ -48680,7 +48680,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 79,
     "createdAt": "2015-01-13T00:19:28Z"
   },
   {
@@ -48726,9 +48726,9 @@
     "location": "San Jose, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 27,
     "createdAt": "2015-06-29T21:55:00Z"
   },
   {
@@ -48752,7 +48752,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 90,
     "createdAt": "2015-02-02T19:51:23Z"
   },
   {
@@ -48764,7 +48764,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 48,
     "createdAt": "2015-09-08T20:01:49Z"
   },
   {
@@ -48788,7 +48788,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 65,
     "createdAt": "2015-01-06T21:23:22Z"
   },
   {
@@ -48798,9 +48798,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 25,
     "createdAt": "2015-02-24T14:48:00Z"
   },
   {
@@ -48824,7 +48824,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 415,
+    "publicContributions": 391,
     "createdAt": "2015-06-06T16:39:06Z"
   },
   {
@@ -48834,8 +48834,8 @@
     "location": "Costa Rica",
     "company": "ASDA",
     "twitterUsername": "TetoGmez1",
-    "followers": 6,
-    "privateContributions": 1290,
+    "followers": 7,
+    "privateContributions": 1281,
     "publicContributions": 9,
     "createdAt": "2015-01-21T16:18:28Z"
   },

@@ -48408,18 +48408,6 @@
     "createdAt": "2020-02-16T14:21:49Z"
   },
   {
-    "login": "aliaksandrakimau",
-    "name": "Alex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74212502?s=72&v=4",
-    "location": "Belarus, Minsk",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-11-09T20:47:12Z"
-  },
-  {
     "login": "DanielDuckKondrad",
     "name": "Daniel Kondrad",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60663852?s=72&u=2e2ed2808b17119a641b5f307cd9531ac06e6c77&v=4",
@@ -48476,7 +48464,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 93,
     "createdAt": "2020-09-04T11:06:43Z"
   },
   {
@@ -48484,7 +48472,7 @@
     "name": "Catherine",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75576793?s=72&u=ad35abd63e349d8cdc56eae36a2cd4078830efd4&v=4",
     "location": "Belarus",
-    "company": "WayBitSolutions",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -48524,7 +48512,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-05-04T22:59:31Z"
   },
   {
@@ -48574,30 +48562,6 @@
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2020-02-05T17:51:55Z"
-  },
-  {
-    "login": "wastedev",
-    "name": "Anton Shabalinski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67054819?s=72&u=571e5ce06361a53461a5ba5386e6f87e575cbedb&v=4",
-    "location": "Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 2,
-    "createdAt": "2020-06-17T11:41:10Z"
-  },
-  {
-    "login": "Yarmmax",
-    "name": "Max",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70774528?s=72&u=782a2c2b5168f9c59fc586de6635039d99dc2995&v=4",
-    "location": "Belarus",
-    "company": "Faculty of Radiophysics and Computer Technologies",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-09-04T18:38:27Z"
   },
   {
     "login": "sprabuj",

@@ -48091,8 +48091,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 26,
-    "publicContributions": 168,
+    "privateContributions": 25,
+    "publicContributions": 167,
     "createdAt": "2020-05-04T14:59:45Z"
   },
   {
@@ -48104,7 +48104,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 74,
     "createdAt": "2020-06-11T20:29:03Z"
   },
   {
@@ -48115,7 +48115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 248,
+    "privateContributions": 300,
     "publicContributions": 2,
     "createdAt": "2020-11-18T19:51:19Z"
   },
@@ -48126,9 +48126,9 @@
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 12,
+    "followers": 4,
+    "privateContributions": 10,
+    "publicContributions": 50,
     "createdAt": "2020-03-30T21:13:05Z"
   },
   {
@@ -48146,13 +48146,13 @@
   {
     "login": "Dawe583",
     "name": "David Sak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62934141?s=72&u=f72cd2a4edc453f912d2fe149dd596fbba9459b2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62934141?s=72&u=e4f37d7b5558e1901fcc7d47d3a475bbd907ef09&v=4",
     "location": "Czech Republic",
-    "company": "",
+    "company": "@VOID-harness ",
     "twitterUsername": "Dawe583",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 277,
+    "publicContributions": 163,
     "createdAt": "2020-03-31T09:19:25Z"
   },
   {
@@ -48163,7 +48163,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 888,
+    "privateContributions": 830,
     "publicContributions": 1,
     "createdAt": "2020-05-08T07:02:42Z"
   },
@@ -48175,7 +48175,7 @@
     "company": "UPOL Faculty of Science - CS dept.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 198,
+    "privateContributions": 570,
     "publicContributions": 0,
     "createdAt": "2020-02-02T17:39:09Z"
   },
@@ -48199,7 +48199,7 @@
     "company": "",
     "twitterUsername": "zubrycky_jiri",
     "followers": 3,
-    "privateContributions": 13,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2020-04-23T12:12:18Z"
   },
@@ -48212,7 +48212,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 43,
     "createdAt": "2020-06-29T12:44:20Z"
   },
   {
@@ -48223,7 +48223,7 @@
     "company": "Tanganica",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1633,
+    "privateContributions": 1929,
     "publicContributions": 0,
     "createdAt": "2020-12-06T19:19:30Z"
   },
@@ -48234,9 +48234,9 @@
     "location": "Czech Republic",
     "company": "APPMAXX",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 858,
+    "followers": 4,
+    "privateContributions": 3755,
+    "publicContributions": 888,
     "createdAt": "2020-05-11T10:34:01Z"
   },
   {
@@ -48248,20 +48248,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 320,
     "createdAt": "2020-05-01T17:10:52Z"
-  },
-  {
-    "login": "Thisik",
-    "name": "Thisík",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67510205?s=72&u=dab2c69b0dd80c04a5f72dc367ea394b98dff5dc&v=4",
-    "location": "CZECH REPUBLIC",
-    "company": "MPM TRINITY",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-06-27T14:01:56Z"
   },
   {
     "login": "Hrajix",
@@ -48272,7 +48260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 105,
     "createdAt": "2020-01-16T19:00:37Z"
   },
   {
@@ -48295,8 +48283,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 45,
-    "publicContributions": 2,
+    "privateContributions": 16,
+    "publicContributions": 0,
     "createdAt": "2020-10-21T05:46:23Z"
   },
   {
@@ -48306,9 +48294,9 @@
     "location": "Brno, Czech Republic",
     "company": "Masaryk University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 39,
     "createdAt": "2020-12-10T15:32:55Z"
   },
   {

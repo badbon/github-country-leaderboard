@@ -48331,8 +48331,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1408,
-    "publicContributions": 0,
+    "privateContributions": 2062,
+    "publicContributions": 3,
     "createdAt": "2018-07-25T16:11:34Z"
   },
   {
@@ -48392,20 +48392,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 26,
-    "publicContributions": 1,
-    "createdAt": "2018-04-15T17:51:28Z"
-  },
-  {
-    "login": "Akhtar071988",
-    "name": "Sami Akhtar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44879596?s=72&u=f83c0a137dccfe0a65685430246e4bd8925bf833&v=4",
-    "location": "Woodstock, Georgia",
-    "company": "The Home Depot",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
     "publicContributions": 0,
-    "createdAt": "2018-11-08T19:53:02Z"
+    "createdAt": "2018-04-15T17:51:28Z"
   },
   {
     "login": "hashtala",
@@ -48440,7 +48428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 10,
     "createdAt": "2018-09-22T07:25:55Z"
   },
   {
@@ -48476,7 +48464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 30,
     "createdAt": "2018-01-15T14:29:32Z"
   },
   {
@@ -48488,7 +48476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 8,
     "createdAt": "2018-01-17T16:28:40Z"
   },
   {
@@ -48511,8 +48499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 30,
-    "publicContributions": 22,
+    "privateContributions": 22,
+    "publicContributions": 7,
     "createdAt": "2018-11-03T01:06:27Z"
   },
   {
@@ -48520,11 +48508,11 @@
     "name": "George",
     "avatarUrl": "https://avatars.githubusercontent.com/u/41702152?s=72&u=a3fe7ecd5a4908f29e274e4e1bd581d3d393d5dc&v=4",
     "location": "Georgia",
-    "company": "",
+    "company": "KlimatMasteri",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 243,
     "createdAt": "2018-07-25T18:33:31Z"
   },
   {

@@ -47888,7 +47888,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 165,
     "createdAt": "2024-07-09T00:06:55Z"
   },
   {
@@ -47900,7 +47900,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 42,
     "createdAt": "2024-07-01T21:45:22Z"
   },
   {
@@ -47912,7 +47912,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 36,
     "createdAt": "2024-03-26T18:50:43Z"
   },
   {
@@ -47924,7 +47924,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 739,
+    "publicContributions": 735,
     "createdAt": "2024-02-26T20:43:17Z"
   },
   {
@@ -47936,7 +47936,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 18,
     "createdAt": "2024-09-16T18:38:30Z"
   },
   {
@@ -47948,7 +47948,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 12,
     "createdAt": "2024-05-15T10:18:38Z"
   },
   {
@@ -47958,9 +47958,9 @@
     "location": "Buenos Aires.",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 148,
-    "publicContributions": 170,
+    "followers": 5,
+    "privateContributions": 193,
+    "publicContributions": 188,
     "createdAt": "2024-04-06T01:03:12Z"
   },
   {
@@ -47970,7 +47970,7 @@
     "location": "Santiago del Estero, Argentina",
     "company": "",
     "twitterUsername": "Psycs_99",
-    "followers": 52,
+    "followers": 49,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-03T22:31:22Z"
@@ -47995,21 +47995,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 586,
+    "privateContributions": 4283,
     "publicContributions": 1,
     "createdAt": "2020-11-05T21:51:33Z"
-  },
-  {
-    "login": "fariasnat",
-    "name": "fariasnat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160686658?s=72&u=8f22d165337ee4bbd983d53a961550b4de7650cc&v=4",
-    "location": "Buenos Aires",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-02-21T01:29:59Z"
   },
   {
     "login": "ericabaumann",
@@ -48032,7 +48020,7 @@
     "twitterUsername": "Lucasellero1",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 104,
     "createdAt": "2024-03-17T21:49:12Z"
   },
   {
@@ -48043,8 +48031,8 @@
     "company": "",
     "twitterUsername": "444leonn",
     "followers": 4,
-    "privateContributions": 665,
-    "publicContributions": 188,
+    "privateContributions": 513,
+    "publicContributions": 171,
     "createdAt": "2024-10-03T17:38:32Z"
   },
   {
@@ -48066,9 +48054,9 @@
     "location": "Buenos Aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 60,
     "createdAt": "2024-05-11T14:45:13Z"
   },
   {
@@ -48092,7 +48080,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 126,
     "createdAt": "2024-08-20T00:23:04Z"
   },
   {
@@ -48102,21 +48090,21 @@
     "location": "La Plata - Buenos Aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 38,
     "createdAt": "2024-03-13T20:14:11Z"
   },
   {
     "login": "ludmi2il",
     "name": "Ludmila Dosil Hiriart",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158860134?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158860134?s=72&u=3c09f9d8ab1a2ad4fe33ac73dd29e09108daea05&v=4",
     "location": "Buenos Aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 56,
     "createdAt": "2024-02-04T22:43:13Z"
   },
   {
