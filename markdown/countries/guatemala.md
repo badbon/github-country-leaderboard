@@ -54,9 +54,9 @@ Indexed users: 3,210
 | 15 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | Guatemala | 1,094 |
 | 16 | [eylles](https://github.com/eylles) |  | Guatemala | 1,067 |
 | 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | Guatemala | 1,026 |
-| 18 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 998 |
-| 19 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 987 |
-| 20 | [acwilan](https://github.com/acwilan) | Andres Rovira | Guatemala | 959 |
+| 18 | [MarceloDetlefsen](https://github.com/MarceloDetlefsen) | Marcelo Detlefsen | Guatemala, Guatemala | 1,016 |
+| 19 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Guatemala, Guatemala | 998 |
+| 20 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc | Guatemala | 987 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,210
 | 19 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 | 20 | [tian2992](https://github.com/tian2992) | Sebastian Oliva | Guatemala | 113 |
 
-Generated: 2026-10-23T23:07:32.416Z
+Generated: 2026-10-24T00:18:38.816Z

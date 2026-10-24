@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-23T23:11:46.626Z
+Generated: 2026-10-24T00:24:46.512Z
 
 Users: 139
 
@@ -10,7 +10,7 @@ Users: 139
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 763 |
 | 3 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @wpallstars @evergreenjersey @awardsapp | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 245 |
 | 4 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 68 |
-| 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 56 |
+| 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 57 |
 | 6 | [techtribesje](https://github.com/techtribesje) | techtribes.je |  |  | Jersey, Channel Islands | 55 |
 | 7 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 45 |
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 38 |

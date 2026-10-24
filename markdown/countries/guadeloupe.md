@@ -20,8 +20,8 @@ Indexed users: 86
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,480 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,396 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 991 |
-| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 969 |
-| 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 946 |
+| 9 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 977 |
+| 10 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 944 |
 | 11 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 755 |
 | 12 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 714 |
 | 13 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
@@ -38,7 +38,7 @@ Indexed users: 86
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,396 |
-| 2 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 946 |
+| 2 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 944 |
 | 3 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 4 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 309 |
 | 5 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 230 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-23T23:05:36.201Z
+Generated: 2026-10-24T00:17:53.658Z

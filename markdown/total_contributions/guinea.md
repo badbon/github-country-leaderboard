@@ -1,6 +1,6 @@
 # Total Contributions - Guinea
 
-Generated: 2026-10-23T23:07:41.903Z
+Generated: 2026-10-24T00:19:04.668Z
 
 Users: 263
 
@@ -22,7 +22,7 @@ Users: 263
 | 14 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé |  |  | Guinea | 1298 |
 | 15 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | FREELANCE |  | CONAKRY | 1224 |
 | 16 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory |  |  | Guinea | 1153 |
-| 17 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 960 |
+| 17 | [Salif50](https://github.com/Salif50) | Salif SUMA | Club des jeunes programmeurs |  | République de Guinée | 987 |
 | 18 | [baldehalfa](https://github.com/baldehalfa) | Mamadou Alpha Hawa Balde | @neoledge |  | Conakry, Guinea | 667 |
 | 19 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara |  |  | Guinea, Conakry | 652 |
 | 20 | [Zakui](https://github.com/Zakui) | Jules Thea | @dntech17 |  | Guinea, Conakry | 581 |

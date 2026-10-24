@@ -64,7 +64,7 @@ Indexed users: 325
 |---:|---|---|---|---:|
 | 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 522 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 135 |
-| 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Nadi ,Fiji | 71 |
+| 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Nadi ,Fiji | 70 |
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 67 |
 | 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 67 |
 | 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-23T23:03:26.016Z
+Generated: 2026-10-24T00:13:29.529Z

@@ -17,7 +17,7 @@ Indexed users: 58
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,356 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,260 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 903 |
-| 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 813 |
+| 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 811 |
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 692 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 264 |
 | 9 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
@@ -41,7 +41,7 @@ Indexed users: 58
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,356 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 903 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 692 |
-| 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 536 |
+| 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 534 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 295 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
 | 8 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 224 |
@@ -62,9 +62,9 @@ Indexed users: 58
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,520 |
+| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,519 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,242 |
-| 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,029 |
+| 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,028 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 293 |
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 202 |
 | 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 151 |
@@ -83,4 +83,4 @@ Indexed users: 58
 | 19 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 | 20 | [polarstoat](https://github.com/polarstoat) | Polar stoat | Greenland | 6 |
 
-Generated: 2026-10-23T23:05:28.408Z
+Generated: 2026-10-24T00:16:38.868Z

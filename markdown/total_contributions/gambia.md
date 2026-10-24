@@ -1,6 +1,6 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-23T23:04:03.570Z
+Generated: 2026-10-24T00:14:38.979Z
 
 Users: 79
 
@@ -25,4 +25,4 @@ Users: 79
 | 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 246 |
 | 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 169 |
 | 19 | [fiture99](https://github.com/fiture99) | Lamin Jawneh |  | jawneh_lamin | Banjul, Gambia | 168 |
-| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 148 |
+| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 145 |

@@ -1,6 +1,6 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-23T23:15:54.604Z
+Generated: 2026-10-24T00:28:33.039Z
 
 Users: 113
 
@@ -14,7 +14,7 @@ Users: 113
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2846 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1853 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1704 |
-| 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1246 |
+| 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1218 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 769 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 760 |
 | 12 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 487 |

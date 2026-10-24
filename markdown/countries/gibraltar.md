@@ -12,13 +12,13 @@ Indexed users: 93
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 29,150 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 29,171 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,644 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,221 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,278 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,140 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,392 |
-| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,278 |
+| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,267 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,229 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 783 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
@@ -28,9 +28,9 @@ Indexed users: 93
 | 14 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 594 |
 | 15 | [Vinnetou](https://github.com/Vinnetou) | Lukas Kloucek | Gibraltar | 520 |
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 492 |
-| 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 416 |
+| 17 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu | Gibraltar | 422 |
 | 18 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 412 |
-| 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 400 |
+| 19 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 398 |
 | 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 259 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 | 20 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 12 |
 
-Generated: 2026-10-23T23:05:22.146Z
+Generated: 2026-10-24T00:15:47.395Z

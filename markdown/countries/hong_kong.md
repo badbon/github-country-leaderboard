@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,243
+Indexed users: 10,242
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 10,243
 | 19 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 | 20 | [hszhao](https://github.com/hszhao) | Hengshuang Zhao | Hong Kong | 925 |
 
-Generated: 2026-10-23T23:10:08.309Z
+Generated: 2026-10-24T00:24:36.470Z

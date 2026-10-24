@@ -1,6 +1,6 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-23T23:14:15.944Z
+Generated: 2026-10-24T00:27:37.897Z
 
 Users: 160
 
@@ -20,9 +20,9 @@ Users: 160
 | 12 | [kgatman](https://github.com/kgatman) | kgatman | HISP-SA |  | Maseru,Lesotho | 103 |
 | 13 | [Relebo1](https://github.com/Relebo1) | Relebohile Sekutlu | Mindforge AI |  | Maseru | 101 |
 | 14 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | OCAES  | ocaes_lso | Lesotho | 98 |
-| 15 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana |  |  | Upper Thamae Maseru | 92 |
-| 16 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi |  |  | Lesotho | 88 |
-| 17 | [Tlotliso-Wiinc](https://github.com/Tlotliso-Wiinc) | Tlotliso Mafantiri |  |  | Maseru, Lesotho | 77 |
-| 18 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg |  | ThisisNapoQheku | Lesotho, Maseru | 75 |
-| 19 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | National University of Lesotho, Hubsec Solutions |  | Lesotho | 73 |
-| 20 | [Bothata-desig](https://github.com/Bothata-desig) | Bothata Sello |  |  | Maseru, Lesotho | 67 |
+| 15 | [Mampheteng](https://github.com/Mampheteng) | Mampheteng Koote |  |  | Maseru Lesotho | 93 |
+| 16 | [AguelDawma](https://github.com/AguelDawma) | Thapelo Sekhonyana |  |  | Upper Thamae Maseru | 92 |
+| 17 | [lmphatsi](https://github.com/lmphatsi) | Lebajoa Mphatsi |  |  | Lesotho | 88 |
+| 18 | [Tlotliso-Wiinc](https://github.com/Tlotliso-Wiinc) | Tlotliso Mafantiri |  |  | Maseru, Lesotho | 77 |
+| 19 | [n4p000-q](https://github.com/n4p000-q) | N311Q .jpg |  | ThisisNapoQheku | Lesotho, Maseru | 75 |
+| 20 | [KuenaMahase](https://github.com/KuenaMahase) | Kuena Mahase | National University of Lesotho, Hubsec Solutions |  | Lesotho | 73 |

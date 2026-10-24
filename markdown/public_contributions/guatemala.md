@@ -1,6 +1,6 @@
 # Public Contributions - Guatemala
 
-Generated: 2026-10-23T23:07:32.416Z
+Generated: 2026-10-24T00:18:38.816Z
 
 Users: 3210
 
@@ -23,6 +23,6 @@ Users: 3210
 | 15 | [AlfredoG87](https://github.com/AlfredoG87) | Alfredo Gutierrez | @hashgraph @hiero-ledger @swirldslabs  |  | Guatemala | 1094 |
 | 16 | [eylles](https://github.com/eylles) |  |  |  | Guatemala | 1067 |
 | 17 | [robindanilo2218](https://github.com/robindanilo2218) | Robin Gregorio | RdGregorio CWS |  | Guatemala | 1026 |
-| 18 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Universidad del Valle de Guatemala |  | Guatemala, Guatemala | 998 |
-| 19 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc |  |  | Guatemala | 987 |
-| 20 | [acwilan](https://github.com/acwilan) | Andres Rovira | @telus | acwilan | Guatemala | 959 |
+| 18 | [MarceloDetlefsen](https://github.com/MarceloDetlefsen) | Marcelo Detlefsen | Universidad del Valle de Guatemala |  | Guatemala, Guatemala | 1016 |
+| 19 | [alemanuel18](https://github.com/alemanuel18) | Alejandro Jerez | Universidad del Valle de Guatemala |  | Guatemala, Guatemala | 998 |
+| 20 | [GlendyT](https://github.com/GlendyT) | Glendy Tuyuc |  |  | Guatemala | 987 |

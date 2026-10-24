@@ -31,7 +31,7 @@ Indexed users: 79
 | 17 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 246 |
 | 18 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 169 |
 | 19 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 168 |
-| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 148 |
+| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 145 |
 
 ## Public Contributions
 
@@ -45,7 +45,7 @@ Indexed users: 79
 | 6 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 245 |
 | 7 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 169 |
 | 8 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 168 |
-| 9 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 148 |
+| 9 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 145 |
 | 10 | [ONjie](https://github.com/ONjie) | Muhammed O Njie | Banjul, The Gambia | 138 |
 | 11 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 127 |
 | 12 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 111 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-23T23:04:03.570Z
+Generated: 2026-10-24T00:14:38.979Z
