@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-09-10T12:47:12Z"
   },
   {
@@ -3666,9 +3666,9 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 134,
     "createdAt": "2025-09-01T20:38:47Z"
   },
   {
@@ -3678,9 +3678,9 @@
     "location": "Powiat żywiecki, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2025-02-06T22:55:22Z"
   },
   {
@@ -3690,7 +3690,7 @@
     "location": "Poland",
     "company": "Google.com",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-11-27T23:49:50Z"
@@ -3702,9 +3702,9 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1829,
+    "publicContributions": 2849,
     "createdAt": "2025-07-10T09:11:47Z"
   },
   {
@@ -3714,21 +3714,21 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 3008,
+    "publicContributions": 2460,
     "createdAt": "2025-04-28T20:30:43Z"
   },
   {
     "login": "TheJacksonCode",
     "name": "Maciej Palczewski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224973880?s=72&u=7442bc1a2078410111874abc556fbc66e0436228&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/224973880?s=72&u=8cc5ae578132c3c278d057d5814c01eeb5804248&v=4",
     "location": "Cracow, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 55,
     "createdAt": "2025-08-06T09:47:31Z"
   },
   {
@@ -3738,21 +3738,21 @@
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 77,
     "createdAt": "2025-08-24T14:04:58Z"
   },
   {
     "login": "sz012",
-    "name": "Szymon",
+    "name": "Szymon Pytel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202428595?s=72&u=25dd81bd3b5e1780d4358a43c57e3be0daadcdab&v=4",
     "location": "Cracow, Poland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 150,
-    "publicContributions": 164,
+    "followers": 9,
+    "privateContributions": 131,
+    "publicContributions": 353,
     "createdAt": "2025-03-08T15:25:55Z"
   },
   {
@@ -3764,7 +3764,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 278,
+    "publicContributions": 255,
     "createdAt": "2025-01-15T18:46:21Z"
   },
   {
@@ -3776,7 +3776,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 345,
     "createdAt": "2025-04-11T19:56:32Z"
   },
   {
@@ -3788,7 +3788,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 527,
+    "publicContributions": 485,
     "createdAt": "2025-03-04T17:25:45Z"
   },
   {
@@ -3822,7 +3822,7 @@
     "location": "Gliwice, Poland",
     "company": "takaoto.pro",
     "twitterUsername": "szymonslowik",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2025-03-02T21:04:47Z"
@@ -3830,13 +3830,13 @@
   {
     "login": "JohnTDI-cpu",
     "name": "Mateusz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204073189?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204073189?s=72&u=7ffd5fa968716e33da6ba4c382554d3ffcf2d4e6&v=4",
     "location": "Poland",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 45,
     "createdAt": "2025-03-19T18:26:55Z"
   },
   {
@@ -3859,8 +3859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 176,
-    "publicContributions": 46,
+    "privateContributions": 143,
+    "publicContributions": 35,
     "createdAt": "2025-04-09T09:11:41Z"
   },
   {
@@ -3868,11 +3868,11 @@
     "name": "Piotr Sączawa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202306781?s=72&u=aee01796d4e7f974a9cc4d0284a82f62f000d26c&v=4",
     "location": "Kraków, Poland",
-    "company": "",
+    "company": "Software Mansion",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 88,
-    "publicContributions": 201,
+    "followers": 9,
+    "privateContributions": 44,
+    "publicContributions": 307,
     "createdAt": "2025-03-07T15:06:44Z"
   },
   {
@@ -3883,8 +3883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1,
-    "publicContributions": 447,
+    "privateContributions": 0,
+    "publicContributions": 287,
     "createdAt": "2025-07-25T16:46:05Z"
   },
   {
