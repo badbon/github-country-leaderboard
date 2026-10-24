@@ -1,13 +1,13 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-24T14:38:47.990Z
+Generated: 2026-10-24T17:01:10.325Z
 
 Users: 155
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [braydie](https://github.com/braydie) | Braydie Grove |  |  | Isle of Man | 368 |
-| 2 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 233 |
+| 2 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 234 |
 | 3 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 148 |
 | 4 | [cydolo](https://github.com/cydolo) | Dolo |  |  | Isle of Man | 147 |
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Cub Linux |  | Isle of Man | 86 |

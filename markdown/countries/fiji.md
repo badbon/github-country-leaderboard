@@ -23,7 +23,7 @@ Indexed users: 325
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,018 |
 | 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 956 |
 | 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 926 |
-| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 798 |
+| 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 792 |
 | 13 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
 | 14 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 555 |
 | 15 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 547 |
@@ -38,7 +38,7 @@ Indexed users: 325
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,463 |
-| 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 564 |
+| 2 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 558 |
 | 3 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 501 |
 | 4 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 467 |
 | 5 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 427 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 21 |
 | 20 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 19 |
 
-Generated: 2026-10-24T14:28:25.196Z
+Generated: 2026-10-24T16:52:19.565Z

@@ -14,7 +14,7 @@ Indexed users: 93
 |---:|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 29,262 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,629 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,221 |
+| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,222 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,276 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 3,208 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,394 |
@@ -38,7 +38,7 @@ Indexed users: 93
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,629 |
-| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,928 |
+| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,929 |
 | 3 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 606 |
 | 4 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 531 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 321 |
@@ -69,7 +69,7 @@ Indexed users: 93
 | 5 | [docziegler](https://github.com/docziegler) | star | watchpoint gibraltar | 36 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 33 |
 | 7 | [cdharris](https://github.com/cdharris) | Chris Harris | Berlin / Europe / Gibraltar | 32 |
-| 8 | [carribus](https://github.com/carribus) | Peter Mares | Gibraltar | 28 |
+| 8 | [carribus](https://github.com/carribus) | Peter Mares | Gibraltar | 29 |
 | 9 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk | Gibraltar | 28 |
 | 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak | Gibraltar | 26 |
 | 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 26 |
@@ -79,8 +79,8 @@ Indexed users: 93
 | 15 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 17 |
 | 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 17 |
 | 17 | [baileys](https://github.com/baileys) | Stephen Bailey | Gibraltar | 15 |
-| 18 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
-| 19 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
-| 20 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 12 |
+| 18 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
+| 19 | [BeyondZ](https://github.com/BeyondZ) | Beyond Zuo | Gibraltar | 12 |
+| 20 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 12 |
 
-Generated: 2026-10-24T14:29:38.669Z
+Generated: 2026-10-24T16:56:36.501Z

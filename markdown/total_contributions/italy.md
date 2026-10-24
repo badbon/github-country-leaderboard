@@ -1,8 +1,8 @@
 # Total Contributions - Italy
 
-Generated: 2026-10-24T14:39:12.258Z
+Generated: 2026-10-24T17:02:57.952Z
 
-Users: 49001
+Users: 49000
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Followers - Guernsey
 
-Generated: 2026-10-24T14:32:29.053Z
+Generated: 2026-10-24T16:56:52.873Z
 
 Users: 45
 
@@ -12,8 +12,8 @@ Users: 45
 | 4 | [thebutler12](https://github.com/thebutler12) | Matt Ball | States of Guernsey |  | Guernsey | 14 |
 | 5 | [jasemagee](https://github.com/jasemagee) | Jason |  |  | Guernsey | 13 |
 | 6 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 11 |
-| 7 | [wooki](https://github.com/wooki) | James Rowe | Tremr |  | Guernsey, Channel Islands | 10 |
-| 8 | [mike-wade](https://github.com/mike-wade) | Michael Wade | Consultant | SpikeTheMaster | Guernsey | 9 |
+| 7 | [mike-wade](https://github.com/mike-wade) | Michael Wade | Consultant | SpikeTheMaster | Guernsey | 9 |
+| 8 | [wooki](https://github.com/wooki) | James Rowe | Tremr |  | Guernsey, Channel Islands | 9 |
 | 9 | [CrushedLive](https://github.com/CrushedLive) | Jordan Bugbird |  |  | Jersey/Guernsey | 7 |
 | 10 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 7 |
 | 11 | [TobyDHKing](https://github.com/TobyDHKing) | Toby King |  |  | Guernsey, Channel Islands | 7 |

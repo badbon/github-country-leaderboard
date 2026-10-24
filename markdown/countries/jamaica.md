@@ -18,7 +18,7 @@ Indexed users: 1,270
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 11,499 |
 | 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,242 |
 | 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,803 |
-| 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,674 |
+| 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,482 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 8,358 |
 | 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 8,153 |
 | 10 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 7,419 |
@@ -37,7 +37,7 @@ Indexed users: 1,270
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,158 |
+| 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 7,946 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,861 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,914 |
 | 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,459 |
@@ -83,4 +83,4 @@ Indexed users: 1,270
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 96 |
 
-Generated: 2026-10-24T14:39:18.623Z
+Generated: 2026-10-24T17:03:04.406Z

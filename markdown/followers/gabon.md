@@ -1,6 +1,6 @@
 # Followers - Gabon
 
-Generated: 2026-10-24T14:29:24.941Z
+Generated: 2026-10-24T16:54:36.334Z
 
 Users: 314
 
@@ -13,7 +13,7 @@ Users: 314
 | 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | @loona-inc  | BonachyLauriel | Gabon | 62 |
 | 6 | [Djomab](https://github.com/Djomab) | Djogona Mahamat |  | DjogonaR | Gabon | 49 |
 | 7 | [audreymengue](https://github.com/audreymengue) | Audrey Mengue |  | la_mengs | Libreville, Gabon | 47 |
-| 8 | [stone-hackingod](https://github.com/stone-hackingod) | Bayani Stone |  |  | Libreville, Gabon | 41 |
+| 8 | [stone-hackingod](https://github.com/stone-hackingod) | Bayani Stone |  |  | Libreville, Gabon | 42 |
 | 9 | [El-GeorgesW](https://github.com/El-GeorgesW) | El Georges William | @Fractal-Engines | El_GeorgesW | Libreville, Gabon | 34 |
 | 10 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT |  |  | Gabon | 34 |
 | 11 | [Steeven1995](https://github.com/Steeven1995) | Gabin Moundziegou |  |  | Libreville, Gabon | 34 |
