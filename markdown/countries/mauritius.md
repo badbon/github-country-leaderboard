@@ -21,7 +21,7 @@ Indexed users: 714
 | 7 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,578 |
 | 8 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,545 |
 | 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 6,390 |
-| 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,528 |
+| 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,517 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,429 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 4,650 |
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 4,506 |
@@ -44,7 +44,7 @@ Indexed users: 714
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,676 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,517 |
 | 7 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,514 |
-| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,403 |
+| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,405 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,306 |
 | 10 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,287 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,040 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 76 |
 | 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 67 |
 
-Generated: 2026-10-24T22:12:22.983Z
+Generated: 2026-10-24T23:41:44.545Z

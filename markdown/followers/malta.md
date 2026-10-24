@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-24T22:12:08.545Z
+Generated: 2026-10-24T23:40:02.961Z
 
 Users: 1223
 
@@ -19,7 +19,7 @@ Users: 1223
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 230 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici |  | Wayne_Bonnici | Malta | 172 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih |  |  | Malta | 155 |
-| 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 143 |
+| 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | @Microsoft |  | Malta | 144 |
 | 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | @haveibeensquatted | juxhindb | Malta | 142 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Betsson Group |  | Malta | 141 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | 4A Games | dalerank1 | Sliema, Malta | 139 |

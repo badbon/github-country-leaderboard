@@ -127,7 +127,7 @@ Published countries: 236
 | Macau | 438 | [View](./macau.md) |
 | Madagascar | 1,899 | [View](./madagascar.md) |
 | Malawi | 899 | [View](./malawi.md) |
-| Malaysia | 11,771 | [View](./malaysia.md) |
+| Malaysia | 11,769 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 347 | [View](./mali.md) |
 | Malta | 1,223 | [View](./malta.md) |
@@ -159,9 +159,9 @@ Published countries: 236
 | North Korea | 185 | [View](./north_korea.md) |
 | North Macedonia | 1,921 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
-| Norway | 19,616 | [View](./norway.md) |
+| Norway | 19,615 | [View](./norway.md) |
 | Oman | 991 | [View](./oman.md) |
-| Pakistan | 41,846 | [View](./pakistan.md) |
+| Pakistan | 41,845 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,195 | [View](./palestine.md) |
 | Panama | 1,069 | [View](./panama.md) |
@@ -207,7 +207,7 @@ Published countries: 236
 | Sudan | 725 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,020 | [View](./sweden.md) |
+| Sweden | 39,021 | [View](./sweden.md) |
 | Switzerland | 24,064 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
 | Taiwan | 21,988 | [View](./taiwan.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T23:35:37.946Z
+Generated: 2026-10-24T23:50:30.608Z

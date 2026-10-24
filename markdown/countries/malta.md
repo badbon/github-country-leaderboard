@@ -38,7 +38,7 @@ Indexed users: 1,223
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,252 |
-| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,045 |
+| 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 4,070 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,888 |
 | 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,546 |
 | 5 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,134 |
@@ -56,7 +56,7 @@ Indexed users: 1,223
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,922 |
 | 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,899 |
 | 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,331 |
-| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,293 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,302 |
 
 ## Followers
 
@@ -75,7 +75,7 @@ Indexed users: 1,223
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 230 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 172 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 155 |
-| 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 143 |
+| 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 144 |
 | 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 142 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 141 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 139 |
@@ -83,4 +83,4 @@ Indexed users: 1,223
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-24T22:12:08.545Z
+Generated: 2026-10-24T23:40:02.961Z

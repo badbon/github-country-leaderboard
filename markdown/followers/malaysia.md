@@ -1,8 +1,8 @@
 # Followers - Malaysia
 
-Generated: 2026-10-24T22:11:19.553Z
+Generated: 2026-10-24T23:38:28.916Z
 
-Users: 11771
+Users: 11769
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

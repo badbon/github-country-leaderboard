@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-24T22:12:22.983Z
+Generated: 2026-10-24T23:41:44.545Z
 
 Users: 714
 
@@ -15,7 +15,7 @@ Users: 714
 | 7 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6578 |
 | 8 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6545 |
 | 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 6390 |
-| 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5528 |
+| 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5517 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 5429 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 4650 |
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 4506 |

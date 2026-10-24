@@ -19,9 +19,9 @@ Indexed users: 438
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 6,679 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,672 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,620 |
-| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,405 |
-| 9 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 3,401 |
-| 10 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,350 |
+| 8 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,407 |
+| 9 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,405 |
+| 10 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 3,401 |
 | 11 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 3,186 |
 | 12 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 3,003 |
 | 13 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,422 |
@@ -47,7 +47,7 @@ Indexed users: 438
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,282 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,281 |
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 969 |
-| 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
+| 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 889 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 794 |
 | 13 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 761 |
 | 14 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
@@ -83,4 +83,4 @@ Indexed users: 438
 | 19 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 68 |
 
-Generated: 2026-10-24T22:10:31.792Z
+Generated: 2026-10-24T23:37:15.791Z

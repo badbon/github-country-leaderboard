@@ -1,6 +1,6 @@
 # Norway
 
-Indexed users: 19,616
+Indexed users: 19,615
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,616
 | 19 | [mhadaily](https://github.com/mhadaily) | Majid Hajian | Oslo, Norway | 1,341 |
 | 20 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 
-Generated: 2026-10-24T22:20:04.267Z
+Generated: 2026-10-24T23:48:25.437Z
