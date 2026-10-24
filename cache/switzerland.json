@@ -47754,7 +47754,7 @@
     "location": "London / Switzerland",
     "company": "nebius.com",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-14T15:07:34Z"
@@ -47766,9 +47766,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1447,
-    "publicContributions": 0,
+    "followers": 10,
+    "privateContributions": 1837,
+    "publicContributions": 11,
     "createdAt": "2021-09-09T15:13:21Z"
   },
   {
@@ -47779,7 +47779,7 @@
     "company": "",
     "twitterUsername": "maiscommentz",
     "followers": 7,
-    "privateContributions": 94,
+    "privateContributions": 98,
     "publicContributions": 40,
     "createdAt": "2021-09-10T07:30:38Z"
   },
@@ -47791,19 +47791,19 @@
     "company": "ABF",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 15,
-    "publicContributions": 280,
+    "privateContributions": 31,
+    "publicContributions": 247,
     "createdAt": "2021-08-19T11:30:56Z"
   },
   {
     "login": "ManuelBaerlocher",
     "name": "Manuel Bärlocher",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87247626?s=72&u=fbc72f073bdba0431e0c14cc4b29094911e21d6e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87247626?s=72&u=75040bba6e1bc41215d677dd674a842f940113c1&v=4",
     "location": "Widnau, Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 30,
+    "privateContributions": 4000,
     "publicContributions": 0,
     "createdAt": "2021-07-10T21:54:10Z"
   },
@@ -47814,8 +47814,8 @@
     "location": "Switzerland",
     "company": "Swisscom",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 349,
+    "followers": 8,
+    "privateContributions": 540,
     "publicContributions": 25,
     "createdAt": "2021-09-01T17:02:28Z"
   },
@@ -47827,8 +47827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 206,
-    "publicContributions": 45,
+    "privateContributions": 289,
+    "publicContributions": 4,
     "createdAt": "2021-08-20T13:12:34Z"
   },
   {
@@ -47848,7 +47848,7 @@
     "name": "Ellis Arn",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89130718?s=72&v=4",
     "location": "Switzerland",
-    "company": "Trainee at ZHAW",
+    "company": "Student at FHNW",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
@@ -47863,7 +47863,7 @@
     "company": "@postfinance",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 72,
+    "privateContributions": 53,
     "publicContributions": 0,
     "createdAt": "2021-09-24T15:34:02Z"
   },
@@ -47900,7 +47900,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 213,
     "createdAt": "2021-07-19T11:19:28Z"
   },
   {
@@ -47910,9 +47910,9 @@
     "location": "Switzerland",
     "company": "University of St. Gallen",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2021-07-15T21:22:53Z"
   },
   {
@@ -47922,9 +47922,9 @@
     "location": "Zurich, Switzerland",
     "company": "@ProtonMail ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 121,
-    "publicContributions": 56,
+    "followers": 9,
+    "privateContributions": 8,
+    "publicContributions": 60,
     "createdAt": "2021-07-11T09:50:33Z"
   },
   {
@@ -47934,9 +47934,9 @@
     "location": "Switzerland",
     "company": "tutti.ch",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1913,
-    "publicContributions": 1,
+    "followers": 7,
+    "privateContributions": 2103,
+    "publicContributions": 2,
     "createdAt": "2021-07-10T20:56:00Z"
   },
   {
@@ -47947,8 +47947,8 @@
     "company": "shiftcode GmbH",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 196,
-    "publicContributions": 2,
+    "privateContributions": 180,
+    "publicContributions": 3,
     "createdAt": "2021-07-01T16:50:21Z"
   },
   {
@@ -47958,9 +47958,9 @@
     "location": "Zurich, Switzerland",
     "company": "Amazon",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 26,
     "createdAt": "2021-09-21T14:25:35Z"
   },
   {
@@ -47982,9 +47982,9 @@
     "location": "Zürich, Switzerland",
     "company": "EXL Service",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 43,
     "createdAt": "2021-07-04T16:59:33Z"
   },
   {
