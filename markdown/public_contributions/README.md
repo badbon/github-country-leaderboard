@@ -17,7 +17,7 @@ Published countries: 236
 | Argentina | 50,709 | [View](./argentina.md) |
 | Armenia | 4,021 | [View](./armenia.md) |
 | Aruba | 37 | [View](./aruba.md) |
-| Austria | 18,242 | [View](./austria.md) |
+| Austria | 18,241 | [View](./austria.md) |
 | Azerbaijan | 5,040 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 726 | [View](./bahrain.md) |
@@ -80,7 +80,7 @@ Published countries: 236
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 314 | [View](./gabon.md) |
 | Gambia | 79 | [View](./gambia.md) |
-| Georgia | 6,865 | [View](./georgia.md) |
+| Georgia | 6,866 | [View](./georgia.md) |
 | Ghana | 7,072 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,528 | [View](./greece.md) |
@@ -210,7 +210,7 @@ Published countries: 236
 | Sweden | 39,024 | [View](./sweden.md) |
 | Switzerland | 24,068 | [View](./switzerland.md) |
 | Syria | 1,478 | [View](./syria.md) |
-| Taiwan | 21,990 | [View](./taiwan.md) |
+| Taiwan | 21,989 | [View](./taiwan.md) |
 | Tajikistan | 707 | [View](./tajikistan.md) |
 | Tanzania | 2,038 | [View](./tanzania.md) |
 | Thailand | 14,975 | [View](./thailand.md) |
@@ -219,13 +219,13 @@ Published countries: 236
 | Tokelau | 4 | [View](./tokelau.md) |
 | Tonga | 10 | [View](./tonga.md) |
 | Trinidad and Tobago | 256 | [View](./trinidad_and_tobago.md) |
-| Tunisia | 7,155 | [View](./tunisia.md) |
+| Tunisia | 7,154 | [View](./tunisia.md) |
 | Turkey | 79,153 | [View](./turkey.md) |
 | Turkmenistan | 501 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,861 | [View](./uganda.md) |
-| Ukraine | 47,714 | [View](./ukraine.md) |
+| Ukraine | 47,713 | [View](./ukraine.md) |
 | United Arab Emirates | 4,205 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
@@ -241,4 +241,4 @@ Published countries: 236
 | Zambia | 1,336 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-24T07:07:20.118Z
+Generated: 2026-10-24T07:13:57.275Z

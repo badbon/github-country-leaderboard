@@ -1,6 +1,6 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-24T05:43:25.263Z
+Generated: 2026-10-24T07:11:14.256Z
 
 Users: 256
 
@@ -11,7 +11,7 @@ Users: 256
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 4558 |
 | 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3178 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 3152 |
-| 6 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 3050 |
+| 6 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 3111 |
 | 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2793 |
 | 8 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2402 |
 | 9 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2229 |
@@ -22,7 +22,7 @@ Users: 256
 | 14 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Euthy Labs | Yhonathon | Trinidad and Tobago | 1456 |
 | 15 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1311 |
 | 16 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj |  |  | Trinidad and Tobago | 1185 |
-| 17 | [aaronbesson](https://github.com/aaronbesson) | AaronB | @aaronbesson | aaronbesson | Trinidad and Tobago | 1083 |
+| 17 | [aaronbesson](https://github.com/aaronbesson) | AaronB | @aaronbesson | aaronbesson | Trinidad and Tobago | 1098 |
 | 18 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | @Heft-IQ |  | Trinidad and Tobago | 1041 |
 | 19 | [adrifranCode](https://github.com/adrifranCode) | Adrien Francois |  |  | Trinidad and Tobago | 1009 |
 | 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Wepala |  | Trinidad and Tobago | 987 |

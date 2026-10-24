@@ -1,6 +1,6 @@
 # Public Contributions - Timor-Leste
 
-Generated: 2026-10-24T05:42:08.197Z
+Generated: 2026-10-24T07:10:33.495Z
 
 Users: 77
 
@@ -9,7 +9,7 @@ Users: 77
 | 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 2089 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1263 |
 | 3 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 1075 |
-| 4 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 840 |
+| 4 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 839 |
 | 5 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 480 |
 | 6 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Catalpa International |  | Dili, East Timor | 301 |
 | 7 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 219 |

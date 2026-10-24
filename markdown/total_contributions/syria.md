@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-24T05:40:26.674Z
+Generated: 2026-10-24T07:08:37.156Z
 
 Users: 1478
 
@@ -20,9 +20,9 @@ Users: 1478
 | 12 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 2238 |
 | 13 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2217 |
 | 14 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2136 |
-| 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2088 |
-| 16 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Nashra |  | Damascus | 2028 |
-| 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 2017 |
-| 18 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 2002 |
-| 19 | [OmarElseyyid](https://github.com/OmarElseyyid) | Mahmud Elseyyidomer | Laqili |  | Syria / Aleppo | 1982 |
-| 20 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1882 |
+| 15 | [M7MMAD-OMAR](https://github.com/M7MMAD-OMAR) | Muhmad | Sbarah |  | Syria | 2134 |
+| 16 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2088 |
+| 17 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Nashra |  | Damascus | 2028 |
+| 18 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 2017 |
+| 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 2002 |
+| 20 | [OmarElseyyid](https://github.com/OmarElseyyid) | Mahmud Elseyyidomer | Laqili |  | Syria / Aleppo | 1982 |
