@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-24T20:01:46.923Z
+Generated: 2026-10-24T22:33:06.458Z
 
 Users: 1352
 
@@ -21,8 +21,8 @@ Users: 1352
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 5243 |
 | 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 5078 |
 | 15 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 4937 |
-| 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Dexchange | Denver_sn | Senegal,Dakar | 4855 |
-| 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Ecole Supérieure Polytechnique |  | Sénégal - Dakar | 4467 |
-| 18 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Dakar, Senegal | 4454 |
-| 19 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 4452 |
-| 20 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 4393 |
+| 16 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 4924 |
+| 17 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Dexchange | Denver_sn | Senegal,Dakar | 4855 |
+| 18 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Ecole Supérieure Polytechnique |  | Sénégal - Dakar | 4467 |
+| 19 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Dakar, Senegal | 4454 |
+| 20 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 4452 |

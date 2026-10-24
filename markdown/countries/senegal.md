@@ -27,18 +27,18 @@ Indexed users: 1,352
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,243 |
 | 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 5,078 |
 | 15 | [crossben](https://github.com/crossben) |  | Dakar | 4,937 |
-| 16 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,855 |
-| 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,467 |
-| 18 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,454 |
-| 19 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,452 |
-| 20 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,393 |
+| 16 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,924 |
+| 17 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,855 |
+| 18 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,467 |
+| 19 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,454 |
+| 20 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,452 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 4,267 |
-| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,270 |
+| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,684 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,136 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,940 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,443 |
@@ -48,8 +48,8 @@ Indexed users: 1,352
 | 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,646 |
 | 10 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 1,621 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,599 |
-| 12 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,482 |
-| 13 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 1,418 |
+| 12 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 1,591 |
+| 13 | [lucien-loua](https://github.com/lucien-loua) | lU | Dakar, Senegal | 1,482 |
 | 14 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,350 |
 | 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,336 |
 | 16 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,245 |
@@ -83,4 +83,4 @@ Indexed users: 1,352
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 146 |
 | 20 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 143 |
 
-Generated: 2026-10-24T20:01:46.923Z
+Generated: 2026-10-24T22:33:06.458Z

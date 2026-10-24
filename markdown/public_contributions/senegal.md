@@ -1,13 +1,13 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-24T20:01:46.923Z
+Generated: 2026-10-24T22:33:06.458Z
 
 Users: 1352
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 4267 |
-| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3270 |
+| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3684 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 3136 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2940 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | 21STUDIO |  | Dakar, Sénégal | 2443 |
@@ -17,8 +17,8 @@ Users: 1352
 | 9 | [crybaby050](https://github.com/crybaby050) | Seydina |  |  | Senegal | 1646 |
 | 10 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | National Agency of Statistic and Demography | IbrahimaTall_SN | Dakar, Senegal | 1621 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Teyliom |  | Dakar,Senegal | 1599 |
-| 12 | [lucien-loua](https://github.com/lucien-loua) | lU | @ouestlabs | luu_loua | Dakar, Senegal | 1482 |
-| 13 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar | khadimmb004 | Dakar, Sn  | 1418 |
+| 12 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar | khadimmb004 | Dakar, Sn  | 1591 |
+| 13 | [lucien-loua](https://github.com/lucien-loua) | lU | @ouestlabs | luu_loua | Dakar, Senegal | 1482 |
 | 14 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 1350 |
 | 15 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1336 |
 | 16 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1245 |

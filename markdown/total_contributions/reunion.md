@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-24T19:57:42.588Z
+Generated: 2026-10-24T22:28:58.414Z
 
 Users: 212
 
@@ -11,15 +11,15 @@ Users: 212
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | DigiKaizen |  | Saint-Denis | 6353 |
 | 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 4190 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3586 |
-| 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 3019 |
+| 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 3103 |
 | 7 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2718 |
 | 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2522 |
 | 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2419 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2075 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2049 |
 | 12 | [John361](https://github.com/John361) | John |  |  | Réunion | 2021 |
-| 13 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 1953 |
-| 14 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1947 |
+| 13 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1971 |
+| 14 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 1953 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1815 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1729 |
 | 17 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1711 |
