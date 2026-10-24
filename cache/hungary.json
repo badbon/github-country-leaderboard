@@ -49580,7 +49580,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 274,
+    "publicContributions": 190,
     "createdAt": "2019-10-14T12:56:02Z"
   },
   {
@@ -49591,7 +49591,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 70,
     "publicContributions": 0,
     "createdAt": "2019-01-07T15:54:08Z"
   },
@@ -49614,21 +49614,21 @@
     "location": "Budapest",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 112,
     "createdAt": "2019-03-27T15:01:16Z"
   },
   {
     "login": "Procisz",
     "name": "Procisz (Zajkás Ágoston)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51319176?s=72&u=cf47e47592fb8999f9e1f6187dbc637026a79630&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51319176?s=72&u=171f2a873e0045d4b76def7a3bd7440251d22b51&v=4",
     "location": "Budapest",
     "company": "GBSolutions",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 111,
     "createdAt": "2019-06-03T09:28:01Z"
   },
   {
@@ -49675,8 +49675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 611,
-    "publicContributions": 136,
+    "privateContributions": 1603,
+    "publicContributions": 88,
     "createdAt": "2019-12-09T19:08:34Z"
   },
   {
@@ -49716,18 +49716,6 @@
     "createdAt": "2019-01-26T14:08:26Z"
   },
   {
-    "login": "dilarakilinc",
-    "name": "Dilara Kılınç",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51543337?s=72&u=ff9331c24feb0f9276c6b22b7b5674532b1f0572&v=4",
-    "location": "Budapest",
-    "company": "Budapest University of Technology and Economics",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-06-09T21:19:45Z"
-  },
-  {
     "login": "demjana",
     "name": "Akos Demjan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/58112290?s=72&u=bf3f0451535fc8aa062c7701b5ef6c23c6a62ab5&v=4",
@@ -49748,7 +49736,7 @@
     "twitterUsername": "atimolnarati",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 139,
     "createdAt": "2019-05-20T19:03:31Z"
   },
   {
@@ -49760,7 +49748,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 83,
     "createdAt": "2019-10-11T07:40:31Z"
   },
   {
@@ -49772,7 +49760,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 10,
     "createdAt": "2019-02-26T12:08:59Z"
   },
   {
@@ -49795,7 +49783,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 126,
+    "privateContributions": 139,
     "publicContributions": 5,
     "createdAt": "2019-04-27T17:58:16Z"
   },
@@ -49807,7 +49795,7 @@
     "company": "Pannon Építőműhely Kft.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2084,
+    "privateContributions": 2155,
     "publicContributions": 0,
     "createdAt": "2019-03-19T14:46:43Z"
   },
