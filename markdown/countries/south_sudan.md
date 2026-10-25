@@ -19,7 +19,7 @@ Indexed users: 131
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 1,005 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 779 |
-| 8 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 688 |
+| 8 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 690 |
 | 9 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
 | 10 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 608 |
 | 11 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 540 |
@@ -41,7 +41,7 @@ Indexed users: 131
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
 | 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,133 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,207 |
-| 5 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 688 |
+| 5 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Juba, South Sudan | 690 |
 | 6 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 581 |
 | 7 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
 | 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
@@ -62,7 +62,7 @@ Indexed users: 131
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 436 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 434 |
 | 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang | Juba, South Sudan | 135 |
 | 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham | Juba,South Sudan | 61 |
 | 4 | [longmaker2](https://github.com/longmaker2) | Long Maker Long Deng | Juba | 45 |
@@ -83,4 +83,4 @@ Indexed users: 131
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-24T22:40:19.495Z
+Generated: 2026-10-25T00:05:28.163Z

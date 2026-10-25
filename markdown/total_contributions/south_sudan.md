@@ -1,6 +1,6 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-24T22:40:19.495Z
+Generated: 2026-10-25T00:05:28.163Z
 
 Users: 131
 
@@ -13,7 +13,7 @@ Users: 131
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  |  | PuochMabor | South Sudan | 1005 |
 | 6 | [felixuxx](https://github.com/felixuxx) | ... |  |  | Juba, South Sudan | 811 |
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 779 |
-| 8 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Nile Hive Concept |  | Juba, South Sudan | 688 |
+| 8 | [kembe699](https://github.com/kembe699) | Levi Mark Kembe | Nile Hive Concept |  | Juba, South Sudan | 690 |
 | 9 | [wellawet](https://github.com/wellawet) | Wella Awet | Kudual Systems | wellawet | South Sudan | 625 |
 | 10 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Pixel Pulse | johnsonachuk | Juba, South Sudan | 608 |
 | 11 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 540 |
