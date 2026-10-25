@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Macau](markdown/countries/macau.md) | 438 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
-| [United Arab Emirates](markdown/countries/united_arab_emirates.md) | 4,202 | [Public](markdown/public_contributions/united_arab_emirates.md) | [Total](markdown/total_contributions/united_arab_emirates.md) | [Followers](markdown/followers/united_arab_emirates.md) |
-| [Poland](markdown/countries/poland.md) | 58,089 | [Public](markdown/public_contributions/poland.md) | [Total](markdown/total_contributions/poland.md) | [Followers](markdown/followers/poland.md) |
-| [Niue](markdown/countries/niue.md) | 4 | [Public](markdown/public_contributions/niue.md) | [Total](markdown/total_contributions/niue.md) | [Followers](markdown/followers/niue.md) |
-| [Ukraine](markdown/countries/ukraine.md) | 47,711 | [Public](markdown/public_contributions/ukraine.md) | [Total](markdown/total_contributions/ukraine.md) | [Followers](markdown/followers/ukraine.md) |
+| [Jordan](markdown/countries/jordan.md) | 3,994 | [Public](markdown/public_contributions/jordan.md) | [Total](markdown/total_contributions/jordan.md) | [Followers](markdown/followers/jordan.md) |
+| [Honduras](markdown/countries/honduras.md) | 1,256 | [Public](markdown/public_contributions/honduras.md) | [Total](markdown/total_contributions/honduras.md) | [Followers](markdown/followers/honduras.md) |
+| [Belgium](markdown/countries/belgium.md) | 18,368 | [Public](markdown/public_contributions/belgium.md) | [Total](markdown/total_contributions/belgium.md) | [Followers](markdown/followers/belgium.md) |
+| [Greece](markdown/countries/greece.md) | 15,525 | [Public](markdown/public_contributions/greece.md) | [Total](markdown/total_contributions/greece.md) | [Followers](markdown/followers/greece.md) |
+| [Latvia](markdown/countries/latvia.md) | 3,244 | [Public](markdown/public_contributions/latvia.md) | [Total](markdown/total_contributions/latvia.md) | [Followers](markdown/followers/latvia.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-24T23:53:55.928Z
+Generated: 2026-10-25T00:00:52.956Z

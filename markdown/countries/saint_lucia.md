@@ -18,11 +18,11 @@ Indexed users: 35
 | 4 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 1,838 |
 | 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,048 |
 | 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 980 |
-| 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 964 |
+| 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 965 |
 | 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 842 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 389 |
-| 10 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 98 |
-| 11 | [fontius](https://github.com/fontius) |  | Saint Lucia | 97 |
+| 10 | [fontius](https://github.com/fontius) |  | Saint Lucia | 98 |
+| 11 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 98 |
 | 12 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
 | 13 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | Saint Lucia | 18 |
 | 14 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo | Castries, Saint Lucia | 16 |
@@ -40,7 +40,7 @@ Indexed users: 35
 | 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 876 |
 | 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 449 |
 | 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 132 |
-| 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 97 |
+| 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 98 |
 | 5 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 67 |
 | 6 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 45 |
 | 7 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-24T22:30:53.965Z
+Generated: 2026-10-24T23:57:33.566Z

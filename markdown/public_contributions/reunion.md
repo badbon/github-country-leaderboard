@@ -1,6 +1,6 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-24T22:28:58.414Z
+Generated: 2026-10-24T23:55:33.620Z
 
 Users: 212
 
@@ -14,9 +14,9 @@ Users: 212
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 766 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 697 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie |  |  | Réunion | 476 |
-| 9 | [John361](https://github.com/John361) | John |  |  | Réunion | 343 |
-| 10 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 335 |
-| 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 308 |
+| 9 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 352 |
+| 10 | [John361](https://github.com/John361) | John |  |  | Réunion | 343 |
+| 11 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 335 |
 | 12 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 288 |
 | 13 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
 | 14 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Nartya | zeleff_ii | Reunion Island | 273 |

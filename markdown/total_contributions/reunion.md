@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-24T22:28:58.414Z
+Generated: 2026-10-24T23:55:33.620Z
 
 Users: 212
 
@@ -12,8 +12,8 @@ Users: 212
 | 4 | [saiht](https://github.com/saiht) | Saiht |  |  | Reunion Island | 4190 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3586 |
 | 6 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 3103 |
-| 7 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2718 |
-| 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2522 |
+| 7 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2730 |
+| 8 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2598 |
 | 9 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2419 |
 | 10 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2075 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2049 |
